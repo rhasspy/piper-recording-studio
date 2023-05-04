@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Contribute your voice to open source">
+        <meta name="author" content="Michael Hansen">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome-all.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container-fluid text-center mt-2">
+            <div class="row-fluid text-center">
+                <p>
+                    Contribute to the <a href="https://www.home-assistant.io/blog/2022/12/20/year-of-voice/">Year of Voice</a> by recording yourself!
+                </p>
+                <p>
+                    All content submitted to this site must be dedicated to the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain (CC0)</a>
+                </p>
+            </div>
+            <hr>
+            {% if multi_user: %}
+            <div class="row-fluid">
+                <label for="userId" class="mr-2">Login code:</label>
+                <input id="userId" type="text" placeholder="login code">
+            </div>
+            {% endif %}
+            <div class="row-fluid mt-3">
+                <select id="language">
+                    <option value="" selected>Choose a language</option>
+                    {% for name, code in languages: %}
+                    <option value="{{ code }}">{{ name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="row mt-5">
+                <div class="col">
+                    <form id="formRecord" method="get" action="record">
+                        <input id="recordLanguage" type="hidden" name="language" value="en-us">
+                        <input id="recordUserId" type="hidden" name="userId" value="">
+                        <button id="recordButton" type="submit" class="btn btn-danger form-control" disabled>
+                            <i class="fas fa-3x fa-microphone"></i>
+                            <h3>Record</h3>
+                        </button>
+                        <p>
+                            Read sentences in your native language
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <script>
+         var verbs = ['record']
+
+         function q(id) {
+             return document.querySelector(id);
+         }
+
+         document.addEventListener('DOMContentLoaded', function() {
+             verbs.forEach(function(verb) {
+                 q('#' + verb + 'Language').value = '{{ language }}';
+             });
+
+             q('#language').addEventListener('change', function() {
+                 let language = q('#language').value;
+                 verbs.forEach(function(verb) {
+                     q('#' + verb + 'Language').value = language;
+
+                     {% if multi_user: %}
+                     let userId = q('#userId').value;
+                     q('#' + verb + 'Button').disabled = (language.length < 1) || (userId.length < 1);
+                     {% else: %}
+                     q('#' + verb + 'Button').disabled = (language.length < 1);
+                     {% endif %}
+                 });
+
+             });
+
+             {% if multi_user: %}
+             q('#userId').addEventListener('keyup', function() {
+                 let language = q('#language').value;
+                 let userId = q('#userId').value;
+                 verbs.forEach(function(verb) {
+                     q('#' + verb + 'UserId').value = userId;
+                     q('#' + verb + 'Button').disabled = (language.length < 1) || (userId.length < 1);
+                 });
+             });
+             {% endif %}
+         });
+        </script>
+    </body>
+</html>

@@ -1,0 +1,300 @@
+4000000001	Wir haben diese Artikel in verschiedenen Farben verfügbar.
+4000000002	Saisonale Artikel sind alle im Endverkauf.
+4000000003	Kostenloser Versand ist mit jedem Kauf verfügbar.
+4000000004	Bitte bitten Sie unsere freundlichen Mitarbeiter um Hilfe.
+4000000005	Möchten Sie Geschenkpapier ohne Aufpreis dazu?
+4000000006	Wir bieten Waren auf Anzahlung an.
+4000000007	Wir haben eine Lieferung am nächsten Tag gegen Aufpreis zur Verfügung.
+4000000008	Wir können im Geschäft Abholung oder Hauszustellung tun.
+4000000009	Sie können Rückgabe nur gegen Guthaben umtauschen.
+4000000010	Verderbliche Artikel sind für Rückgabe nicht geeignet.
+4000000011	Alle Kleidungsstücke haben bis Ende Monat 10% Rabatt.
+4000000012	Mitglieder haben bei ihren Einkäufen auf 1% Rückerstattung Anspruch.
+4000000013	Diesen Artikel verkaufen wir leider nicht mehr.
+4000000014	Rückgaben werden 30 Tage nach Kauf mit Beleg akzeptiert.
+4000000015	Die Öffnungszeiten sind von 10 bis 21.
+4000000016	Warten Sie bitte mal kurz, bis wir das Produkt gefunden haben.
+4000000017	Einkäufe müssen vor 9:00 gemacht werden, um für den Versand in zwei Tagen berechtigt zu sein.
+4000000018	Vergewissere dich, dass du deinen Ausweis für alle Alkohol-Einkäufe dabei hast.
+4000000019	Wir haben eine Spezialangebot, bei dem du, heute und morgen, beim Kauf von zwei Artikeln einen geschenkt bekommst.
+4000000020	Sie können Ihre Geschenkkarte an einem unserer Standorte einlösen.
+4000000021	Alle Käufe über 10€ werden in unsere monatlichen Gewinnspiele eingetragen.
+4000000022	Ich konnte keine Artikel auf Lager an diesem bestimmten Ort finden.
+4000000023	Wir bieten einen Rückkaufplan für alte Geräte an.
+4000000024	Lösen Sie sich von Verspannungen oder Schmerzen vom vielen Sitzen am Computer.
+4000000025	Artikel mit einem roten Tag sind 40% diskontiert.
+4000000026	Möchten Sie die Mini-Version oder die Vollversion?
+4000000027	Die Windeln befinden sich im Regal drei.
+4000000028	Wir verkaufen sowohl organische als auch nicht-organische Gemüse und Früchte.
+4000000029	Welche Grösse soll der Schuh haben?
+4000000030	Kaufbeschränkungen gelten für bestimmte Artikel.
+4000000031	Wir haben bald einen Feiertagsverkauf.
+4000000032	Leider haben wir es nicht mehr auf Lager.
+4000000033	Verlassen Sie sich nicht auf diese Informationen als Ersatz für professionelle medizinische Beratung, Diagnose oder Behandlung.
+4000000034	Sie können sich für unser Treueprogramm anmelden.
+4000000035	Sie können einen Gutschein nicht für Artikel verwenden, die bereits im Angebot sind.
+4000000036	Möchten Sie eine Garantie zu dem Artikel kaufen?
+4000000037	Kundenservice ist unsere Priorität und wir behandeln alle Beschwerden ernst.
+4000000038	Artikel auf Freigabe sind nicht für die Rückkehr berechtigt.
+4000000039	Vielen Dank für Ihr Vertrauen.
+4000000040	Viele Autofahrer kennen die wichtigsten Warnungen und Hinweise im Cockpit ihrer Autos nicht.
+4000000041	Der Mindesteinkauf beträgt 100 Euro.
+4000000042	Wir bieten das Produkt allein oder als Teil eines Pakets an.
+4000000043	Wir haben dieses Produkt in mehreren Grössen und Farben.
+4000000044	Wir bekommen am Dienstag eine neue Lieferung.
+4000000045	Wir haben Zahlungspläne für bestimmte Artikel.
+4000000046	Alle Auslaufartikel sind im Endverkauf.
+4000000047	Wir bieten verschiedene Studenten und Militär Rabatte an.
+4000000048	Der angegebene Preis beinhaltet keine Steuern oder Versandkosten.
+4000000049	Selbstbedienungskassen haben in der Regel kürzere Linien.
+4000000050	Vielen Dank für Ihr Feedback, wir schätzen die Meinungen jedes Kunden!
+4000000051	Bitte erkundigen Sie sich bei Ihrem Händler vor Ort nach individuellen Shop-Richtlinien.
+4000000052	Unsere Geld-zurück-Garantie deckt das ab.
+4000000053	Wir haben das Produkt nicht mehr.
+4000000054	Der Preis für jedes Produkt ist der gleiche in allen Geschäften.
+4000000055	Wir sind vorübergehend ausverkauft, bitte kommen Sie morgen wieder.
+4000000056	Wir haben im Moment keine auf Lager.
+4000000057	Wenn Sie nicht zufrieden sind, rufen Sie uns einfach an und wir erstatten Ihre Bestellung zurück.
+4000000058	Wir haben eine Zufriedenheitsgarantie, so dass, wenn Sie mit Ihrem Kauf unglücklich sind, können Sie es einfach zurückgeben.
+4000000059	Der Laden schliesst am Heiligabend um 19 Uhr.
+4000000060	Möchten Sie Ihrer Bestellung weitere Artikel hinzufügen?
+4000000061	Haben Sie eine Kundenkarte bei uns?
+4000000062	Wir können den Artikel für Sie für einen Werktag aufbewahren.
+4000000063	Wir haben nur kleine und grosse Grössen.
+4000000064	Wir haben morgen einen Schulverkauf.
+4000000065	Wir nehmen Karte oder Bargeld als unsere Zahlungsmethoden an.
+4000000066	Bitte zeigen Sie den Beleg beim Verlassen des Parkhauses dem Parkwächter vor.
+4000000067	Neue Kunden haben Anspruch auf ein kostenloses Geschenk.
+4000000068	Wir führen dieses Produkt nur in unserem Flagship-Store.
+4000000069	Erwarten Sie, dass Ihr Einkauf innerhalb von drei Werktagen eintrifft.
+4000000070	Dieses Produkt ist neu erschienen und sollte schnell ausverkauft werden.
+4000000071	Sie können Ihr Ladenguthaben in jeder unserer Standorte verwenden.
+4000000072	Wir haben diese Produktlinie eingestellt.
+4000000073	Die einzige Grösse auf Lager ist eine Grösse Medium.
+4000000074	Alles, was wir hier verkaufen, ist biologisch zertifiziert.
+4000000075	Unser freundliches Personal steht Ihnen gerne für Fragen zur Verfügung.
+4000000076	Alle unsere Ausbilder sind zertifiziert.
+4000000077	Unser Bewerbungsprozess ist einfach und schnell.
+4000000078	Unsere Schüler kommen aus der ganzen Welt.
+4000000079	Wir bieten eine volle Rückerstattung, falls Sie mit dem Kurs unzufrieden sind.
+4000000080	Wir bieten talentierten Studenten Stipendien an.
+4000000081	Unsere Instruktoren gehen in einem Tempo bequem für Sie.
+4000000082	Erstmalige Schüler haben Anspruch auf eine kostenlose Testklasse.
+4000000083	Wir bieten nur Gruppenkurse an.
+4000000084	Die Schüler sehen den Fortschritt in nur zwei Wochen!
+4000000085	Wir passen unsere Kurse für jeden einzelnen Schüler an.
+4000000086	Wenn Ihre Programmierkenntnisse nicht verbessert werden, dann ist die Klasse auf uns!
+4000000087	Wir haben Tag und Nacht Unterricht.
+4000000088	Jede Klasse ist 45 Minuten lang.
+4000000089	Sie können mit einem Berater sprechen, damit wir Ihren Bedürfnissen am besten entsprechen können.
+4000000090	Die Schüler sind verpflichtet, einen Einstufungstest bei der Zulassung zu nehmen.
+4000000091	Jeder Kurs wurde mit Blick auf die Schüler konzipiert.
+4000000092	Wir haben begrenzte Plätze zur Verfügung.
+4000000093	Unsere Instruktoren sind Experten in ihrem Gebiet.
+4000000094	Wir bieten für jeden etwas, ob es ein Kleinkind oder Jugendlicher ist.
+4000000095	Aufgrund der aktuellen Situation finden alle Kurse online statt.
+4000000096	Interessierte Studenten können mehr erfahren, indem Sie unten klicken.
+4000000097	Die Instruktoren beantworten gerne Ihre Fragen.
+4000000098	Es gibt eine 30 Tage Geld-zurück-Garantie für diesen Kurs.
+4000000099	Wir bieten einen umfassenden Lernansatz an.
+4000000100	Morgen gibt es ein kostenloses Webinar.
+4000000101	Es gibt nur noch drei weitere Plätze im Literaturkurs.
+4000000102	Sie können diese Klasse gegen eine zusätzliche Gebühr zu Ihrem Zeitplan hinzufügen.
+4000000103	Unsere Kurse basieren auf einem praktischen Lernansatz.
+4000000104	Wir haben eine Zufriedenheitsrate von 98% unter früheren Studenten.
+4000000105	Unsere Klassen sind in der Regel in Gruppen von 3 oder 4 Studenten.
+4000000106	Unsere Einweisung beginnt am Montag.
+4000000107	Diese Klasse erteilen wir nicht mehr.
+4000000108	Unsere intensive Englischklasse ist die beliebteste Klasse.
+4000000109	Sie können Kredite von anderen Institutionen überweisen.
+4000000110	Sie können zwischen einer Nachhilfe oder Gruppenunterricht wählen.
+4000000111	Diesen Kurs können wir momentan nicht anbieten.
+4000000112	Wir bieten Kurse in Englisch, Französisch und Spanisch an.
+4000000113	Es gibt mehrere Klassen pro Woche, so dass die Planung kein Problem ist.
+4000000114	Diese Kurse sind für schnelles Lernen konzipiert.
+4000000115	Wir bieten persönliche oder Online-Kurse an.
+4000000116	Unsere Zeitpläne sind flexibel, um den Bedürfnissen der Schüler gerecht zu werden.
+4000000117	Der Unterricht wird nach Stunden berechnet.
+4000000118	Unsere Klassen sind auf die Bedürfnisse jedes Schülers abgestimmt.
+4000000119	Du bist für einen Musikkurs um 9 Uhr angesetzt.
+4000000120	Es gibt eine Warteliste für bestimmte Klassen.
+4000000121	Die Studierenden erhalten nach dem Abschluss eine Abschlussbescheinigung.
+4000000122	Frühere Schüler haben uns fünf Sterne-Bewertungen hinterlassen.
+4000000123	Für bestimmte Kurse bieten wir einen Ratenzahlungsplan an.
+4000000124	Wir werden morgen eine Online-Informationssitzung abhalten.
+4000000125	Sie müssen einen Kaufbeleg vorlegen, um Anspruch auf eine Rückerstattung zu haben.
+4000000126	Das mit dem Produkt tut mir leid, ich erstatte es Ihnen zurück.
+4000000127	Ihr Artikel steht noch unter Garantie.
+4000000128	Das Produkt muss in der Originalverpackung sein.
+4000000129	Wir können es kostenlos ersetzen, wenn Sie möchten.
+4000000130	Sie haben nur Anspruch auf eine vollständige Rückerstattung innerhalb von 30 Tagen nach dem Kauf.
+4000000131	Bitte nehmen Sie den Artikel zusammen mit der Quittung mit in den Laden.
+4000000132	Bringen Sie alle Quittungen mit, wenn Sie kommen, um die Rückkehr zu machen.
+4000000133	Der Verschleiss fällt nicht unter die ursprüngliche Garantie.
+4000000134	Lassen Sie mich Ihre Kaufhistorie überprüfen.
+4000000135	Aufgrund eines Herstellerfehlers können wir den Artikel für Sie kostenlos austauschen.
+4000000136	Alle Rücksendungen benötigen entweder eine physische Quittung oder eine elektronische Quittung.
+4000000137	Jeder Artikel kommt mit Geld-zurück-Garantie, wir werden Ihr in diesem Fall das Geld zurückerstatten.
+4000000138	Dieser Artikel kommt nicht für die Geld-zurück-Garantie infrage.
+4000000139	So konnten 80 Prozent der Befragten den Warnhinweis für einen elektrischen Fehler nicht korrekt zuordnen.
+4000000140	Ich habe es überprüft und dieser Gegenstand ist nicht für Rückkehr geeignet.
+4000000141	Die Ersatzgebühr für dieses Teil beträgt 31 Euro.
+4000000142	Sie können eine Rückkehr am Kundenservice-Schalter vornehmen.
+4000000143	Sie können den Artikel in den Laden bringen oder ihn an uns schicken.
+4000000144	Bei dieser Warnung liegt ein Problem mit der Batterie, dem E-Motor oder dem Kabelstrang vor.
+4000000145	Ich fürchte, das Produkt ist nicht für kostenlose Reparaturen geeignet.
+4000000146	Wir sind nicht in der Lage, Ihnen eine Rückerstattung anzubieten, aber wir können Ihnen Gutschrift geben.
+4000000147	Die Garantie ist ungültig geworden, sobald Sie das Sicherheitssiegel abgenommen haben.
+4000000148	Möchten Sie eine Rückerstattung für den Artikel oder Laden-Guthaben?
+4000000149	Bitte bringen Sie es zu Ihrem Service-Center, damit unser Techniker einen Blick darauf werfen kann.
+4000000150	Die Garantie ist vor drei Tagen abgelaufen.
+4000000151	Möchten Sie einen Ersatz oder eine Rückerstattung?
+4000000152	Wir können es für Sie reparieren.
+4000000153	Sie können es entweder für eine Rückerstattung an uns zurücksenden oder wir können Ihnen einen brandneuen Artikel schicken.
+4000000154	Gute Nachrichten, Sie haben Anspruch auf eine Rückerstattung!
+4000000155	Du sagst, dass das Telefon nicht mehr angeht?
+4000000156	Dieses Produkt wurde vor langer Zeit aus den Regalen genommen.
+4000000157	Sie können keine Artikel im Endverkauf zurückgeben.
+4000000158	Das orangefarbene Symbol fordert den Fahrer auf, eine Werkstatt anzusteuern.
+4000000159	Ihr Produkt wurde nicht in der Rückrufliste des Herstellers erwähnt.
+4000000160	Ihre Ersatzteile sind in der Post.
+4000000161	Gerne erstatten wir Ihnen die Kosten für das Produkt.
+4000000162	Wir können Ihnen keine volle Rückerstattung anbieten, aber wir können Ihnen 40% Bargeld zurückgeben.
+4000000163	Weisst du noch, an welchem Tag du den Artikel gekauft hast?
+4000000164	Stellen Sie sicher, dass Sie die Originalverpackung bei sich haben, wenn Sie die Rücksendung vornehmen.
+4000000165	Tut mir leid, aber der Artikel war im Endverkauf.
+4000000166	Bitte senden Sie den Artikel vor Geschäftsschluss am Donnerstag an uns zurück.
+4000000167	Wir schicken morgen ein paar Techniker, die das Problem dann mal anschauen.
+4000000168	Die Garantie für dieses Produkt deckt keine Wasserschäden ab.
+4000000169	Wir sind für Rost nicht verantwortlich.
+4000000170	Gerne verlängern wir Ihre Garantie.
+4000000171	Haben Sie noch ein Papier oder eine elektronische Quittung?
+4000000172	Ihre Garantie beträgt noch drei Monate.
+4000000173	Sie müssen einen Kaufbeleg vorlegen, bevor wir etwas tun können.
+4000000174	Die Garantie is null und nichtig.
+4000000175	Sie haben die Garantie nie gekauft, als Sie das Produkt gekauft haben.
+4000000176	Wenn Sie wieder auf Probleme stossen, kontaktieren Sie uns bitte so schnell wie möglich.
+4000000177	Eine Rückerstattung wird innerhalb von zwei Werktagen bearbeitet.
+4000000178	Wir sind für die damit verbundenen Versandkosten nicht verantwortlich.
+4000000179	Ein Techniker kann morgen vorbeikommen und sich das ansehen.
+4000000180	Haben Sie Zeit, eine bei einer schnellen Umfrage zur Kundenzufriedenheit teilzunehmen?
+4000000181	Sie sind berechtigt, Ihre Garantie für zusätzliche 10 Euro pro Jahr zu verlängern.
+4000000182	Es tut mir leid, aber wir können die Rücksendung nicht ohne Quittung bearbeiten.
+4000000183	Bitte senden Sie uns eine detaillierte Beschreibung der Schäden am Produkt.
+4000000184	Unsere Produkte sind effizient und sehr skalierbar.
+4000000185	Digitale Beratung ist eines unser mehreren Spezialgebiete.
+4000000186	Unser Expertenteam kann selbst die dringendsten Probleme beim maschinellen Lernen lösen.
+4000000187	Fundiertes Branchenwissen und strenge Analysen sind unsere Stärke.
+4000000188	Ist es rot, könnte das Fahrzeug nur noch mit reduzierter Leistung bewegt werden oder ganz abschalten.
+4000000189	Unsere Kunden haben stark von verbesserten Geschäftsprozessen und höheren Gewinnen profitiert.
+4000000190	Wir bieten Lösungen für eine Vielzahl von internen und externen Kunden.
+4000000191	Wichtige Erkenntnisse für unsere Kunden zu gewinnen, ist unsere Priorität.
+4000000192	Wir bieten massgeschneiderte Lösungen für Ihre Anforderungen an.
+4000000193	Wir sind ein zertifiziertes Platinum Service Mitglied.
+4000000194	Enterprise Resource Planning ist unsere Spezialität.
+4000000195	Wasserfall und agile Methoden werden verwendet, um Ihre Software-Entwicklungsprojekte zu bewältigen.
+4000000196	Unsere Produkte machen Kunden auf dem globalen Markt wettbewerbsfähiger.
+4000000197	Wir unterstützen wachsende Unternehmen bei der Implementierung komplexer Geschäftssysteme.
+4000000198	Wir sind der führende professionelle Datendienstleister im Grossraum New York.
+4000000199	Unsere Erfolgsbilanz spricht für sich selbst.
+4000000200	Wir bieten unseren global integrierten Kunden globale Lösungen.
+4000000201	Wir verfügen über 20 Jahre Erfahrung in der Umsetzung.
+4000000202	Wir helfen Kunden, Herausforderungen in einem sich schnell entwickelnden Markt zu überwinden.
+4000000203	Kundenbindung ist für uns von grösster Bedeutung.
+4000000204	Sie benötigen die neueste Version der App, um fortzufahren.
+4000000205	Hast du versucht, den Computer neu zu starten?
+4000000206	Friert Ihr Bildschirm immer noch ein, wenn Sie das Programm öffnen?
+4000000207	Öffnen Sie zuerst die Eingabeaufforderung.
+4000000208	Wann ist die Softwarelizenz abgelaufen?
+4000000209	Wenn Sie eine rote Ampel sehen, sollten Sie das Programm sofort verlassen.
+4000000210	Deaktivieren Sie jegliche Antiviren-Software, da dies den Download beeinträchtigen könnte.
+4000000211	Halten Sie die Power-Taste für drei Sekunden gedrückt.
+4000000212	Klicken Sie auf das Symbol in der oberen rechten Ecke.
+4000000213	Stellen Sie sicher, dass genügend Speicherplatz auf Ihrer Festplatte vorhanden ist.
+4000000214	Hast du noch einen schwarzen Bildschirm?
+4000000215	Möglicherweise müssen Sie die Software neu installieren.
+4000000216	Trennen Sie zuerst die Verbindung zu Bluetooth.
+4000000217	Wenn es sich nicht in zwei Minuten heruntergeladen hat, dann starten Sie Ihr Gerät neu.
+4000000218	Darf ich fragen, welche Version Sie derzeit verwenden?
+4000000219	Versuchen Sie, unnötigen Tabellenprozesse zu verlassen.
+4000000220	Versuchen Sie, die App zu schliessen und sie neu zu öffnen.
+4000000221	Sie benötigen mehr Speicherplatz auf Ihrer Festplatte.
+4000000222	Aktualisieren Sie Ihr Gerät auf die neueste Version, bevor Sie fortfahren.
+4000000223	Sie müssen viel Speicherplatz für dieses Update freigeben.
+4000000224	Starten Sie zuerst den Computer neu.
+4000000225	68 Prozent war dieses Icon unbekannt.
+4000000226	Bei allen Fragen handelte es sich um Multiple-Choice-Fragen, bei denen die Teilnehmer aus vier Optionen auswählen konnten.
+4000000227	Haben Sie Ihr Gerät vor kurzem aktualisiert?
+4000000228	Wir können um 15 Uhr einen Techniker rüberschicken.
+4000000229	In unserer Fotoshow zeigen wir Ihnen die Detailergebnisse.
+4000000230	Versuchen Sie, die Dateien auf den Desktop herunterzuladen.
+4000000231	Drücken Sie die Power-Taste nicht, bis das Licht grün wird.
+4000000232	Bitte verwenden Sie die Suchfunktion.
+4000000233	Sie müssen das System aktualisieren, bevor Sie Änderungen speichern können.
+4000000234	Ich werde den Zugangscode an Ihre E-Mail-Adresse senen.
+4000000235	Möchten Sie das Paket oder nur die Software kaufen?
+4000000236	Es könnte sein, weil Ihr Gerät keinen Speicherplatz mehr frei hat.
+4000000237	Können Sie mir bitte den Produktschlüssel sagen?
+4000000238	Stellen Sie sicher, dass Sie ein paar Sekunden warten, bevor Sie Ihren Computer wieder einschalten.
+4000000239	Versuchen Sie, die App zu deinstallieren.
+4000000240	Stellen Sie sicher, dass Sie alle anderen Registerkarten schliessen, bevor Sie fortfahren.
+4000000241	Warten Sie bitte ein paar Minuten, bevor Sie das Update herunterladen.
+4000000242	Gleichfalls ein Highlight: das unauffällige Mobiliar in Kombination mit dem üppigsten Normsitzraum.
+4000000243	Leider wird die Software von Ihrem Gerät nicht unterstützt.
+4000000244	Die App unterstützt nicht mehr als zwei Geräte.
+4000000245	Ich glaube, es gibt ein Problem mit dem Server.
+4000000246	Für ordentlich Stauraum ist ebenfalls gesorgt.
+4000000247	Von dem, was ich sehen kann ein anderes Gerät mit dem Netzwerk verbunden.
+4000000248	Ich glaube, Ihre kostenlose Testversion ist gestern abgelaufen.
+4000000249	Was bitte schön hilft eine lange Ladefläche, wenn der Koffer wieder runterrutscht?
+4000000250	Versuchen Sie, die Seite zu aktualisieren.
+4000000251	Ein variabler Ladeboden könnte helfen, den gibt’s aber nicht.
+4000000252	Doch unterschätzen sollte man den Selbstzünder nicht.
+4000000253	Bitte löschen Sie das Download-Paket nach dem Download.
+4000000254	Versuchen Sie, es auf einem anderen Server zu speichern.
+4000000255	Bitte stellen Sie sicher, dass Sie eine starke Verbindung haben, bevor Sie die Datei herunterladen.
+4000000256	Ich glaube, Sie waren das Opfer eines Keylogger-Angriffs.
+4000000257	Einmal in Schwung reißt er sich mächtig am Riemen.
+4000000258	Ich glaube, Ihr Gerät hat Verbindungsprobleme.
+4000000259	Und wie sieht es mit den Kraftstoff- und Unterhaltskosten aus?
+4000000260	Von diesem Wert entfernt er sich im Alltag.
+4000000261	Beträgt die Laufleistung das Doppelte, steigt die Summe auf 619 Euro.
+4000000262	Stellen Sie sicher, dass keine Firewalls eingeschaltet sind, wenn Sie sich mit dem Netzwerk verbinden.
+4000000263	Wie ich sehe, haben Sie die Lite-Version der Software heruntergeladen.
+4000000264	Sie können eine monatliche Abonnementgebühr oder eine einmalige Zahlung zahlen.
+4000000265	Warten Sie eine Sekunde, bevor Sie den Download abbrechen.
+4000000266	Bitte klicken Sie auf das Icon, wenn Sie dazu aufgefordert werden.
+4000000267	Möchten Sie die Premium-Version der Software herunterladen?
+4000000268	Sie dürfen drei Geräte im Netzwerk für keine zusätzlichen Kosten bein Ihnen zu Hause anschliessen.
+4000000269	Lassen Sie mich wissen, wenn Sie vom Download-Assistenten aufgefordert werden.
+4000000270	Den Wertverlust lassen wir in dieser Rechnung außen vor.
+4000000271	Versuchen Sie zu sehen, ob Sie Ihren Cursor jetzt bewegen können.
+4000000272	Füllen Sie einen Unfallbericht aus und unsere Techniker werden sich in Kürze bei Ihnen melden.
+4000000273	Sie können auf die Premium-Version kostenlos aktualisieren
+4000000274	Stellen Sie sicher, dass keine anderen Geräte im Netzwerk verbunden sind.
+4000000275	Schalten Sie den Computer aus, wenn Ihr Bildschirm friert.
+4000000276	Wir unterstützen Ihr Gerät im Moment nicht.
+4000000277	Sie können den Download nicht unterbrechen.
+4000000278	Prüfen Sie Ihr Modem auf Verbindungsprobleme.
+4000000279	Stellen Sie sicher, dass Sie die Unternehmensversion der Software auswählen.
+4000000280	Wählen Sie "debug" aus der Optionsliste.
+4000000281	Der Automotor- und Sporttestverbrauch setzt sich aus drei unterschiedlich gewichteten Verbrauchsfahrten zusammen.
+4000000282	Drücken Sie die Refresh-Taste und schauen Sie, ob das Formular erscheint.
+4000000283	Möglicherweise müssen Sie die Seite aktualisieren, um die neuen Updates zu sehen.
+4000000284	Ihre kostenlose Testversion läuft morgen ab.
+4000000285	Löschen Sie die App von Ihrem Desktop mit der rechten Maustaste löschen.
+4000000286	Warten Sie zwei Minuten, bevor Sie die Seite aktualisieren.
+4000000287	Wenn die Server ausgelastet sind, kann es zu einer leichten Verzögerung kommen.
+4000000288	Versuchen Sie, näher an Ihren Router zu gelangen, um eine bessere Konnektivität zu erreichen.
+4000000289	70 Prozent macht der sogenannte "Pendler-Verbrauch" aus.
+4000000290	Ihre kostenlose Testversion läuft am zweiten April ab.
+4000000291	Dabei handelt es sich um eine Fahrt vom Wohnort zum Arbeitsplatz, die im Schnitt 21 Kilometer misst.
+4000000292	Die übrigen 15 Prozent entfallen auf die Sportfahrer-Runde.
+4000000293	Die Länge gleicht in etwa der Eco-Runde, die Routenführung enthält aber einen größeren Autobahn-Anteil und damit im Schnitt höhere Geschwindigkeiten.
+4000000294	Amber Alert: mehrere Landkreise, beziehen sich auf lokale Medien.
+4000000295	Hochwasseralarm für Napa und Sonoma County.
+4000000296	Sie haben heute einen Termin um 15 Uhr.
+4000000297	Die Berechnungsgrundlage für die Kraftstoffkosten bildet immer die Preisangabe des Portals "mehr Tanken" vom Tag der Artikel-Erstellung.
+4000000298	Es tut mir leid, dass Ihre Zahlung fehlgeschlagen ist, es wurden keine Gebühren erhoben.
+4000000299	Texten Sie 123 an die Nummer 99484 um News zu erhalten.
+4000000300	Wir haben sie auch in einer grösseren Grösse, wenn diese nicht passen.

@@ -1,0 +1,300 @@
+4000000001	Choisis le nombre de recettes que tu souhaites préparer ainsi que le nombre de personnes, puis indique-nous tes préférences.
+4000000002	Après avoir commandé, tu peux choisir parmi 30 recettes qui changent chaque semaine en fonction de tes préférences.
+4000000003	Les ingrédients frais sont livrés dans un emballage réfrigéré.
+4000000004	Cuisiner des plats que tout le monde va adorer en 30 minutes.
+4000000005	Une fois ta commande passée, tu peux sélectionner chaque semaine tes nouveaux plats préférés.
+4000000006	Possibilité de modifier la livraison, de la mettre en pause ou de la résilier à tout moment.
+4000000007	Ingrédients de qualité supérieure provenant de producteurs certifiés.
+4000000008	Emballages recyclables et livraisons climatiquement neutres.
+4000000009	Plus de temps pour cuisiner et se régaler.
+4000000010	Notre site web sera bientôt disponible en anglais et en français.
+4000000011	Cependant, les recettes sont déjà disponibles en plusieurs langues.
+4000000012	Tu peux y accéder via ton compte.
+4000000013	Nous les avons en deux couleurs vert fluo et bleu marine.
+4000000014	Ma société fabrique toutes sortes de fenêtres et est surtout leader sur le marché.
+4000000015	Je vous propose une démonstration du produit, quand êtes-vous disponible ?
+4000000016	Nous avons également cette robe dans une taille plus petite.
+4000000017	Celui-ci est vraiment sympa, il a été fabriqué en Italie.
+4000000018	Les cabines d'essayage se trouvent justes à l'arrière du magasin.
+4000000019	Appelez-moi si vous avez besoin que je vous apporte autre chose.
+4000000020	Aimeriez-vous terminer vos achats ou vous avez d'autres articles en tête ?
+4000000021	Allez-vous le récupérer en magasin ou devons-nous vous l'expédier ?
+4000000022	Si vous êtes joueur, vous aurez certainement besoin d'une meilleure carte graphique.
+4000000023	Il s'agit d'un processeur à six cœurs, donc idéal pour le montage vidéo.
+4000000024	Dites-moi, elle vous va bien la chemise ou elle est trop grande ?
+4000000025	C'est le dernier modèle qui vient de sortir la semaine dernière.
+4000000026	Tous les fruits et légumes de cette section sont biologiques.
+4000000027	Nous avons importé ce bœuf de Nouvelle-Zélande qui est totalement sans hormones.
+4000000028	Les aliments que nous préparons ici sont tous préparés avec des ingrédients sans OGM.
+4000000029	La salade campagnarde, cʼest de la salade avec du pâté et du saucisson.
+4000000030	Le saumon frais est un plat spécial uniquement pour aujourd'hui.
+4000000031	Nous devrions avoir plus de fraises dans les prochains jours.
+4000000032	Elles sont vraiment très solides et vont durer longtemps, car elles sont très confortables.
+4000000033	Si vous faites souvent du surf, il vous faudra une combinaison.
+4000000034	Non, si vous voulez quelque chose de tendre, prenez plutôt un filet mignon.
+4000000035	Nous acceptons toutes les cartes et avons besoin juste d'une petite signature.
+4000000036	Les achats doivent être effectués avant 21 heures pour être éligibles à l'expédition en deux jours.
+4000000037	Nous avons un achat de 2, obtenez 1 spécial gratuit aujourd'hui et demain.
+4000000038	Vous pouvez échanger votre carte-cadeau dans n'importe laquelle de nos succursales.
+4000000039	Je n'ai pas pu trouver d'articles en stock à cet endroit particulier.
+4000000040	Le prix de chaque produit est le même dans tous les magasins.
+4000000041	Si vous n'êtes pas satisfait, appelez-nous et nous vous rembourserons votre commande.
+4000000042	Notre personnel expérimenté se fera un plaisir de répondre à toutes vos questions.
+4000000043	Nous les avons également dans une taille plus grande si ceux-ci ne conviennent pas.
+4000000044	Permettez-moi de consulter notre site Web pour voir si nous avons ce modèle.
+4000000045	Vous pouvez bénéficier d'une remise supplémentaire de quinze pour cent si vous vous inscrivez à notre newsletter.
+4000000046	Je pense que nous sommes tous complets, mais laissez-moi juste vérifier la liste des invités.
+4000000047	Toutes les partitions nécessaires à votre apprentissage vous seront fournies par courrier.
+4000000048	Est-ce que vous pouvez parler un petit peu plus fort s'il vous plaît ?
+4000000049	Merci de rester en ligne monsieur le temps que je vérifie, merci.
+4000000050	L'annulation se fait au minimum 24 heures à l'avance avant la date la réservation.
+4000000051	Veuillez contacter notre professeur principal, disponible tous les jours de 17 heures à 20 heures.
+4000000052	Tous nos cours sont accessibles depuis le catalogue que vous avez reçu.
+4000000053	Je vérifierai auprès de mon chef et vous contacterai dans les plus brefs délais.
+4000000054	Je vais écrire ceci et vous en envoyer une copie par courrier électronique.
+4000000055	Je vous enverrai par e-mail le lien dont nous avons parlé tout de suite.
+4000000056	Nous sommes parfois sollicités pour avoir des noms de bureau d'études faisant ces simulations.
+4000000057	Monsieur Gratel de l'équipe pédagogique s’est absenté momentanément de son bureau.
+4000000058	Puis-je prendre un message ou souhaitez-vous qu’il vous rappelle lorsqu’il aura terminé ?
+4000000059	Notre entreprise s'est développé dès ses débuts une méthodologie propre à ce média.
+4000000060	Basé sur une méthode d’enseignement par visioconférence, l’apprentissage est interactif et dynamique.
+4000000061	Autre avantage pour ces cours, vous n’avez pas besoin de réserver.
+4000000062	Vous pouvez vous joindre à notre cours collectif qui va démarrer dans quelques minutes.
+4000000063	Notre centre de formation possède deux restaurants, une salle audiovisuelle et une bibliothèque.
+4000000064	Les cours durent quarante-cinq minutes avec des pauses de quinze minutes entre les deux.
+4000000065	Vous pouvez suivre un cours gratuit de trente minutes avant de vous décider.
+4000000066	Une performance en direct est l'une des conditions requises pour recevoir le certificat.
+4000000067	Il existe également des cours intensifs que vous pouvez suivre le week-end.
+4000000068	Nous n'offrons pas de bourses, mais les étudiants bénéficient d'une réduction de 10%.
+4000000069	Les enseignants ne permettront pas aux étudiants de parler dans leur langue maternelle.
+4000000070	Vous pouvez parler une autre langue que l'anglais dans la zone anglophone là-bas.
+4000000071	La plupart de nos étudiants viennent d'Asie, mais nous en avons aussi quelques-uns d'Europe.
+4000000072	En raison de la situation mondiale actuelle, nous n'avons que des cours en ligne.
+4000000073	L'école organise des activités qui aident les élèves à mettre en pratique leur enseignement.
+4000000074	Vous pouvez également engager un tuteur, car il est généralement moins coûteux.
+4000000075	Les manuels ne sont pas inclus et ne sont pas facultatifs.
+4000000076	Il y a beaucoup de devoirs, donc le cours n'est pas très accessible.
+4000000077	Le cours de linguistique anglaise est réservé aux étudiants de niveau avancé.
+4000000078	La plupart des cours seront enregistrées et mises à disposition des étudiants.
+4000000079	Les cours ont lieu de huit à onze heures chaque matin.
+4000000080	C’est un exercice différent d’un vrai cours, mais qui est beaucoup moins coûteux.
+4000000081	Pour sélectionner une plateforme en adéquation avec vos besoins, veuillez consulter notre brochure.
+4000000082	L’intérêt de la plateforme est de pouvoir échanger entre étudiants vos propres cours.
+4000000083	Quelle expérience avez-vous des ordinateurs et des logiciels bureautiques ?
+4000000084	Notre agence apporte des solutions de communication à tous les types d’entreprises ou institutions.
+4000000085	Nous pouvons assurer l’intégralité de vos projets, de leur conception à leur réalisation.
+4000000086	Nous accompagnons les entreprises, marques et institutions souhaitant concevoir et déployer leur identité visuelle.
+4000000087	Nous rendrons cohérent votre site avec votre identité visuelle, et optimiserons son ergonomie.
+4000000088	Nous aidons nos clients à améliorer leur efficacité et à innover pour l'avenir.
+4000000089	La durée d'un projet dépend du budget et de la taille de la structure.
+4000000090	Chaque projet est conçu pour répondre aux besoins spécifiques de nos clients.
+4000000091	Nous avons plus de vingt ans d'expérience dans le conseil des liés aux affaires.
+4000000092	La portée est déterminée principalement en fonction des objectifs et des défis de l'entreprise.
+4000000093	Nous recommandons généralement une phase d'évaluation au début de chaque projet.
+4000000094	Nos solutions sont flexibles et conçus pour résoudre d'innombrables défis.
+4000000095	Nous réduisons autant que possible les déplacements pour gagner du temps et de l'argent.
+4000000096	La proposition comprendra un énoncé, la portée des travaux, les prix et les recommandations.
+4000000097	Les remises varient de trente pour cent de nos tarifs de consultation habituels.
+4000000098	La cartographie des processus métier est essentielle à l'amélioration des processus métier.
+4000000099	Notre stratégie réduit les risques en cas de départ ou d'indisponibilité de talents clés.
+4000000100	L'amélioration des processus métier ne peut être réalisée qu'avec une documentation précise des processus.
+4000000101	Les exigences d'acquisition comprennent souvent une documentation détaillée du processus.
+4000000102	Optez pour une communication créative et interactive qui caractérise notre époque.
+4000000103	Nous analysons votre cible afin de rendre votre message vidéo le plus efficace.
+4000000104	Nous nous inscrivons dans une démarche d'écoute, de conseil et d'analyse des besoins.
+4000000105	Mon agence compte de jeunes artistes, dont certains, en réel développement.
+4000000106	Ainsi, on entre très régulièrement en contact avec les promoteurs.
+4000000107	Nous prenons en charge toute la logistique et vous proposons des solutions personnalisées.
+4000000108	Des offres adaptées à vos besoins et votre secteur d’activité vous seront proposés.
+4000000109	Notre société de transport de marchandises vise à satisfaire ses clients à tous les niveaux.
+4000000110	Ces processus définissent la stratégie et le pilotage du groupe.
+4000000111	Notre informatique embarquée nous permet de suivre nos véhicules en temps réel.
+4000000112	Véritables ambassadeurs, nos conducteurs sont notamment formés à la qualité et la sécurité.
+4000000113	La sûreté de nos infrastructures et de nos données occupe également une place importante.
+4000000114	C'est pourquoi nous vous proposons des outils de suivi performants qui seront mis à votre disposition.
+4000000115	Pour toute demande de prise en charge, notre équipe se tient à votre disposition.
+4000000116	La gestion des stocks est également l'une de nos prestations.
+4000000117	Elle vous permet d'optimiser et de gérer vos marchandises en fonction de votre activité.
+4000000118	Pour toute demande relative à notre gestion des stocks, n’hésitez à nous contacter.
+4000000119	Bien entendu, vous pouvez également nous solliciter pour tout service à la demande.
+4000000120	Ce service englobe la réception des marchandises, leur contrôle et leur mise en stock.
+4000000121	Vous n’avez pas besoin de vous soucier de l’organisation, on s'occupe de tout.
+4000000122	Notre équipe d'experts peut s'attaquer aux problèmes les plus urgents grâce aux solutions apportées par l'apprentissage automatique.
+4000000123	La durée d'un projet dépend de divers facteurs, comme le budget et la taille de l'organisation.
+4000000124	La proposition comprendra un énoncé et la portée des travaux, les prix, les échéanciers et des recommandations.
+4000000125	Les remises sur volume varient de dix à trente pour cent de nos tarifs de consultation traditionnelle.
+4000000126	C'est exactement ça monsieur, dites-moi, est-ce que vous avez d'autres demandes ?
+4000000127	Effectivement cher monsieur, c'est un casque mono ou c'est un casque stéréo ?
+4000000128	Veuillez aussi m'envoyer quelques autres informations supplémentaires que je vais vous demander.
+4000000129	C'est en train de charger madame, patienter jusqu'à ce que le remboursement soit validé.
+4000000130	Il y a un code de vérification qui vient de vous être envoyée, madame.
+4000000131	Ne quittez pas s'il vous plaît, je vous reprends tout de suite monsieur.
+4000000132	Veuillez me communiquer s'il te plaît le compte que vous utilisez actuellement.
+4000000133	Alors, y a-t-il autre chose que je puisse vous aider aujourd’hui ?
+4000000134	Je vais devoir chercher plus d’informations à sujet dans notre base de données.
+4000000135	Cela peut me prendre quelques minutes.
+4000000136	Donc, vous voulez que vos colis soient livrés par nos déménageurs demain ? 
+4000000137	Nous apprécions le fait de travailler avec vous et vous remercie d’avoir appelé.
+4000000138	Si vous avez besoin d’autres informations à ce sujet, n’hésitez pas à me rappeler.
+4000000139	J’ai été heureux de pouvoir vous être utile et vous remercie pour votre appel.
+4000000140	Nous allons prendre votre appel dans quelques instants, merci de rester en ligne.
+4000000141	Après avoir validé votre panier, cliquez sur le bouton « Terminer ma commande ».
+4000000142	Corrigez l’adresse e-mail ou le numéro de carte, puis saisissez votre mot de passe.
+4000000143	Si le message persiste, c’est vraisemblablement le mot de passe qui n’est pas bon.
+4000000144	On dirait que la garantie a expiré il y a quelques semaines.
+4000000145	Ce n'est pas un défaut, c'est en fait une fonctionnalité du produit.
+4000000146	Il semble que votre ordinateur portable n'est pas compatible avec la station d'accueil.
+4000000147	Je vous enverrai un lien vers une liste de tous les accessoires compatibles.
+4000000148	Laissez-moi simplement confirmer le modèle du produit et son numéro de série.
+4000000149	Cela prend généralement quelques jours à réparer et pas plus d'une semaine.
+4000000150	Vous êtes déjà client, mais votre appareil ne fonctionne pas correctement ?
+4000000151	Votre problème est complexe et une réclamation par courrier recommandé soit la meilleure solution.
+4000000152	Si vous voulez éviter d'attendre, notre support en ligne est toujours plus rapide.
+4000000153	Puisqu'il s'agit d'un ancien modèle, nous pouvons le remplacer par une version plus récente.
+4000000154	Vous serez en mesure de parler à l’un des experts par téléphone.
+4000000155	L'installation peut être compliquée, mais nous avons des techniciens qui peuvent le faire.
+4000000156	L'appel est gratuit, un professionnel répondra à votre appel durant les horaires de bureau.
+4000000157	Pour ce faire, vous pouvez écrire une lettre puis l’envoyer à notre service après-vente.
+4000000158	Votre robot est en panne et vous devez l'emmener auprès du service après-vente.
+4000000159	Quelle que soit votre situation, sachez que vous pouvez porter une réclamation.
+4000000160	Ce professionnel spécialisé traitera votre demande gratuitement dans un délai de 2 mois.
+4000000161	Si rien ne se passe ou si la décision est abusive, contactez un médiateur.
+4000000162	Pour trouver le bon médiateur, allez sur la plateforme des litiges de la commission.
+4000000163	Nos équipes effectuent un premier diagnostic et si possible résolvent votre panne à distance.
+4000000164	Dans le cas contraire, pour les petits produits, cela facilitera la dépose en magasin.
+4000000165	Pour les appareils les plus encombrants, nos équipes pourront planifier une intervention à domicile.
+4000000166	Je voulais juste m'assurer que votre demande a bien été prise en charge.
+4000000167	Il n'y a pas de souci, je prends votre demande en charge.
+4000000168	Vous devez juste être connecté à vos autres comptes pour jouer au jeu.
+4000000169	Est-ce que c'est variable ou vous avez tout le temps un souci ?
+4000000170	Vous n'avez pas essayé de la réinitialiser en gardant la même connexion ?
+4000000171	D'accord un petit instant, communiquez-moi s'il vous plaît votre adresse e-mail du compte.
+4000000172	Donnez-moi s'il vous plaît lettre par lettre pour que je puisse noter.
+4000000173	Donnez-moi déjà l'adresse exacte pour que je puisse vérifier pour vous, monsieur.
+4000000174	Ça bloque toujours, je vous prie de patienter avec moi s'il vous plaît, merci.
+4000000175	Si vous l'avez, veuillez me le communiquer pour que j'accède à votre dossier.
+4000000176	Je vais même vous communiquer, monsieur, le lien complet pour accéder directement au site.
+4000000177	Oui bonjour, c'est monsieur Garcia, on vous a appelé ce matin concernant votre console.
+4000000178	Il s'agissait d'une demande sur la console, c'est bien cela donc, monsieur Bauer ?
+4000000179	Un instant s'il vous plaît et je reprends possession de votre appareil.
+4000000180	Oui, je suis toujours là madame, patientez un petit instant s'il vous plaît.
+4000000181	Vous pourrez me dire quand l'avez-vous acheté s'il vous plaît ?
+4000000182	Oui tout à fait, mettez le mot de passe s'il vous plaît.
+4000000183	Pas de souci madame, donnez-moi votre nom de famille s'il vous plaît.
+4000000184	J'espère que je vous ai bien expliqué comment fonctionne le système, monsieur.
+4000000185	Veuillez noter votre mot de passe, car vous devez vous en rappeler.
+4000000186	Vous devez garder le mot de passe que vous avez créé, monsieur.
+4000000187	Vérifiez l'un des deux e-mails et communiquez-moi le code s'il vous plaît.
+4000000188	Merci beaucoup, monsieur, pour votre appel et passez une excellente soirée, au revoir.
+4000000189	Je vous propose dans ce cas-là, monsieur, de remplir la première case.
+4000000190	Bonjour, monsieur, quel est le coût de l'abonnement pour le compte ?
+4000000191	On va juste régler le problème de connexion et vous allez allumer la console.
+4000000192	Veuillez vérifier que vous avez reçu un code de vérification par SMS.
+4000000193	Veuillez me répondre et m'envoyer le ticket de caisse de la manette en question.
+4000000194	Vous pourrez me communiquer s'il vous plaît le numéro de série de votre console.
+4000000195	Je suis là en même temps, en train de vérifier votre compte, madame.
+4000000196	Quelle que soit la panne que vous rencontrez, je suis là pour vous aider.
+4000000197	Nous vous remercions d'avoir pris le temps de laisser vos commentaires.
+4000000198	Si vous n'avez rien reçu 30 jours après la notification, faites un courrier recommandé.
+4000000199	Si vous n'êtes pas à l'origine de cette demande, veuillez en informer votre caisse.
+4000000200	Si la page dédiée à cette promotion affiche une erreur, contactez-nous.
+4000000201	Nous vous adressons votre nouveau code confidentiel provisoire pour vous connecter à votre compte.
+4000000202	Nous vous remercions de nouveau pour votre commande numéro 795.
+4000000203	Vous avez reçu cet e-mail, car vous êtes membre du groupe Société Suisse d'Orchidophilie.
+4000000204	L'utilisateur Peter vous a donné un avis sur le Forum Médical Suisse.
+4000000205	Pour la sécurité de vos données personnelles, ne jamais communiquer vos codes confidentiels.
+4000000206	Pour l'activer, veuillez nous recontacter pour qu'on puisse faire les changements dans votre compte.
+4000000207	Vous pouvez également refuser ou modifier l'endroit où vous recevez des notifications de sécurité.
+4000000208	En cas d'absence, votre colis sera déposé dans le point le plus proche.
+4000000209	Si c’était vous, vous pouvez alors ignorer ce message électronique.
+4000000210	Nous sommes ravis de vous accueillir dans l’ensemble de nos magasins.
+4000000211	Tous nos produits sont disponibles y compris sur notre site.
+4000000212	Pour être au plus près de vos attentes, nous avons adapté nos services.
+4000000213	Vous retrouverez en magasin d’autres services sur mesure pour assurer vos produits.
+4000000214	Nous enverrons un e-mail de vérification à votre nouvelle adresse.
+4000000215	Terminez votre achat maintenant et recevez une réduction de dix pour cent.
+4000000216	Vous avez dépassé votre limite de données pour ce mois.
+4000000217	Cet e-mail n'est peut-être pas sûr, êtes-vous sûr de vouloir l'ouvrir ?
+4000000218	Nous avons bien reçu votre paiement et votre commande est finalisée.
+4000000219	Vous pouvez rencontrer des interruptions dues à un signal faible.
+4000000220	Lorsque vous modifiez vos coordonnées, nous vous envoyons un code de vérification.
+4000000221	Renvoyez le code si vous n'avez reçu aucun message après quelques minutes.
+4000000222	Vérifiez que la zone dans laquelle vous vous trouvez bénéficie d'une bonne couverture réseau.
+4000000223	À découvrir sans plus attendre en boutiques et sur notre e-shop.
+4000000224	On attend impatiemment vos avis et photos, qu'on se fera un plaisir de repartager.
+4000000225	Toute l'équipe vous remercie sincèrement pour votre confiance tout au long de cette année.
+4000000226	C’est le moment de faire un petit retour en chiffres sur cette année 2020.
+4000000227	L'ambassade de Chine en Suisse a annoncé l'assouplissement des conditions d'entrée en Chine.
+4000000228	Nous avons le regret de vous informer que la compagnie a modifié votre vol.
+4000000229	Notre service client doit actuellement traiter un nombre considérable de demandes.
+4000000230	Pour facilement annuler ou modifier un billet, nous recommandons d'utiliser l'application.
+4000000231	Téléchargez l'application pour suivre l'état de votre vol et les détails de votre réservation.
+4000000232	Votre déclaration de revenus en ligne a bien été enregistrée.
+4000000233	Vous pouvez corriger votre déclaration jusqu'à la date limite prévue pour votre département.
+4000000234	Ne répondez jamais à un courriel vous demandant votre numéro de carte bancaire.
+4000000235	Nos services restent à votre disposition pour toute information complémentaire.
+4000000236	Ceci est un message automatique, merci de ne pas y répondre.
+4000000237	Oui, alors il y a un train à 9 heures trente-sept, arrivée 19 heures.
+4000000238	Voulez-vous que je regarde s’il y a une place en deuxième classe ?
+4000000239	Vous trouverez ici les questions qu'on se pose avant de chercher un consultant freelance.
+4000000240	Puis-je vous demander votre carte de crédit pour faire une empreinte ?
+4000000241	Je vous propose un bagagiste pour apporter vos bagages dans votre chambre.
+4000000242	Vous prendrez l’ascenseur, deuxième étage et ce sera en face de vous.
+4000000243	Si vous avez le moindre problème, n’hésitez pas à contacter la réception.
+4000000244	Il y a une piscine, des cinémas, une école de voile et des musées.
+4000000245	Nous avons des excursions tous les jours à dix heures et à quatorze heures.
+4000000246	Je ne sais pas, il faut téléphoner, cʼest écrit sur le dépliant.
+4000000247	Cʼest un parc sur les volcans, il y a beaucoup de choses à voir.
+4000000248	Je vous conseille le Musée du Cervin qui possède une riche collection de peintures.
+4000000249	Vous avez choisi un très bon vin blanc qui ira bien avec votre poisson.
+4000000250	Oh, vous savez, je ne suis pas connaisseur, mais je connais bien la carte.
+4000000251	Oui, il faut apporter un justificatif de domicile ou une facture d’électricité par exemple.
+4000000252	Non, il faut une pièce d’identité, carte d’identité ou passeport si vous êtes étranger.
+4000000253	Bien, alors, tout d'abord, est-ce que vous avez les documents nécessaires ?
+4000000254	Alors, nous allons ouvrir un compte courant pour les opérations de tous les jours.
+4000000255	Vous pouvez déposer, retirer des espèces, faire virer votre salaire ou verser des chèques.
+4000000256	Vous recevrez un relevé de compte tous les mois ou tous les 15 jours.
+4000000257	Monsieur, vous devez alors adresser votre demande de résiliation anticipée au Service des Abonnés, accompagnée des justificatifs.
+4000000258	Bon, vous pouvez la laisser, je vais m’en occuper dans la semaine.
+4000000259	Là, je ne sais pas, je m’en occuperai dès que je pourrai.
+4000000260	Allez, vous l’aurez au plus tard, vendredi dans la soirée, ça ira ?
+4000000261	Vous pouvez déposer une plainte, mais vous ne savez pas comment procéder ?
+4000000262	Une fois votre plainte déposée, deux cas de figure peuvent se présenter.
+4000000263	Oui, en deuxième classe, il y a encore une place.
+4000000264	Pour combien de personnes s’il vous plaît ?
+4000000265	Tenez Monsieur, je vous remets la carte de votre chambre.
+4000000266	Puis-je vous proposer une table au restaurant pour ce soir ?
+4000000267	Très bien, vous êtes dans une chambre individuelle, numéro 204.
+4000000268	Les hôtels et les campings sont aussi sur ce catalogue.
+4000000269	Pour les nouvelles constructions, une bonne isolation entre les pièces de séjour et le sol et une bonne ventilation sont les principales solutions.
+4000000270	Merci, on va tʼenvoyer ton portable si on le retrouve.
+4000000271	Je connais un peu l’anglais, mais je le parle très mal.
+4000000272	Bien, alors vous devez prendre rendez-vous avec un conseiller clientèle.
+4000000273	Avez-vous déjà vécu cela ?
+4000000274	Parfait, je les photocopie et ensuite je vous explique tout.
+4000000275	Puis-je mettre l’appel en attente ?
+4000000276	Votre clé est coincée dans la serrure.
+4000000277	La transmission automatique à six vitesses a été retravaillée au niveau de son système de refroidissement, tandis que la loi des passages de rapports fut modifiée.
+4000000278	Que devriez-vous faire ensuite ?
+4000000279	Vous pourriez appeler un serrurier, mais ceux-ci sont souvent très chers et pas toujours nécessaires.
+4000000280	Comment se créer un coin repas dans le salon ?
+4000000281	Vous avez peut-être déjà entendu parler des "toutes saisons".
+4000000282	Ils apparaissent comme le compromis idéal pour rouler en sécurité, et ce, avec un minimum de contraintes.
+4000000283	Ces types de gommes ont été conçus pour les nouvelles obligations d'équipement des véhicules en période hivernale dans les zones montagneuses.
+4000000284	Quels avantages pour les pneus 4 saisons ?
+4000000285	Dans les faits, les pneus 4 saisons bénéficient d'une meilleure accroche en hiver comparé aux pneus d'été.
+4000000286	À contrario, ils offrent aussi de meilleures performances sur des routes sèches comparées aux pneus hiver.
+4000000287	Ainsi, ces gommes allient deux qualités antinomiques et s'avèrent être d'excellents compromis pour ceux ne souhaitant pas passer par la case "garage" à chaque entrée et sortie d'hiver.
+4000000288	Cependant, précisons qu’un pneu hiver en hiver.
+4000000289	En cas de fort épisode neigeux, un pneu 4 saisons ne sera pas aussi performant qu'un pneu hiver.
+4000000290	Cependant, certaines gommes toutes saisons se débrouillent mieux que d'autres dans certaines conditions.
+4000000291	Il existe plusieurs types de pneus 4 saisons.
+4000000292	Habituellement, ce type de gomme possède une sculpture assez similaire à celle d’un pneu hiver.
+4000000293	Il présente ainsi plusieurs rainures qui sont plus prononcées au niveau de sa partie centrale, permettant de mieux évacuer l'eau et d'avoir plus d'accroche sur des surfaces à l'adhérence précaire.
+4000000294	Néanmoins, un pneu 4 saisons, pour être aussi efficace en été, est composé de moins de silice.
+4000000295	Ainsi, le pneu est moins tendre et l'adhérence est aussi moins bonne par rapport à un vrai pneu hiver.
+4000000296	Pour les distinguer, il suffira simplement de lire le marquage au niveau du flanc du pneu.
+4000000297	Le pneu peut rouler dans des conditions difficiles avec peu de neige.
+4000000298	Cela indique que le pneu a été certifié et testé efficace sur route enneigée.
+4000000299	Celui-ci sera beaucoup plus à l'aise sur route enneigée, même s'il ne sera pas aussi efficace qu'un vrai pneu hiver.
+4000000300	Mais des gommes toutes saisons, ce sera celui qui s'en rapprochera le plus.

@@ -1,0 +1,300 @@
+4000000001	Több szín is rendelkezésre áll ebből a termékből, kérjük válasszon.
+4000000002	A szezonális termékeket kiárusítjuk, ezért nagy árengedményt adunk ezekből a termékekből.
+4000000003	Ingyenes szállítás minden vásárlás esetén lehetséges, kérjük adja meg a szállítási címet.
+4000000004	Kérjük, kérjen segítséget bármelyik munkatársunktól amennyiben problémája van a regisztrációval.
+4000000005	Szeretné a terméket becsomagoltatni, vagy a csomagolással kapcsolatban nincsen egyéb igénye?
+4000000006	Ezt a terméket holnaptól féláron forgalmazzuk, ezért kérjük véglegesítse rendelését még a mai napon.
+4000000007	Személyes átvételt vagy házhozszállítást is vállalunk, kérem adja meg telefonszámát és a kiszállítási címet.
+4000000008	Az ajándékpontokat csak adott termékek vásárlása esetén válthatja be holnap.
+4000000009	A romlandó termékeket nem váltjuk vissza, minőségi panasz esetén kérjük keresse az ügyfélszolgálatot.
+4000000010	Minden további termék vásárlása 10% kedvezményt biztosít minden második termék árából.
+4000000011	A törzsvásárlók jogosultak az 1%-os pénzvisszatérítésre, melyet a folyószámláján fogunk jóváírni.
+4000000012	Már nem forgalmazzuk ezt a terméket, de hasonló jellegű terméket munkatársunk készségesen megmutat.
+4000000013	A terméket a vásárlást követő 30 napon belül cseréljük vissza, nyugta ellenében.
+4000000014	Az üzletek nyitvatartási ideje nem változik, belvárosi üzletünket este tíz óráig felkeresheti.
+4000000015	Válasszon egy ajándék terméket vásárlása mellé, melyet ingyenesen kipostázunk önnek.
+4000000016	Kétnapos határidővel  vállaljuk a kiszállítást, kérjük adja meg telefonszámát és címét.
+4000000017	Kérjük alaposan ellenőrizze, hogy a termék csomagolása sértetlen, majd töltse ki a jótállást.
+4000000018	A mai napon egyet fizet kettőt kap akciót tartunk, kérjük vegye igénybe akcióinkat.
+4000000019	Az ajándékutalványt bármelyik üzletünkben beválthatja, ezért az önhöz legközelebb eső üzletet keresse fel.
+4000000020	A lap alján található „Beállítások kezelése” lehetőséget választva módosíthatja a kiválasztott beállításokat.
+4000000021	Ebből a termékből átmenetileg kifogytunk, sajnos egyik üzletünkben sincsen készleten.
+4000000022	Ezt a terméket áruhitel igénybevételével is megvásárolhatja, munkatársunk szívesen tájékoztatja.
+4000000023	Kérjük, adjon meg nekünk egy cikkszámot és munkatársunk segít önnek megkeresni a terméket.
+4000000024	A piros címkével ellátott termékek árából 40% kedvezményt adunk a hétvégén.
+4000000025	Szeretné a teljes futamidejű áruhitelt igénybe venni, vagy könnyített konstrukciót venne igénybe?
+4000000026	A pelenkák a hármas szektor legvégén találhatók, kérjük keresse munkatársunkat és segít megkeresni.
+4000000027	A termék alapanyaga nem tartalmaz szintetikus terméket, fenntartható gazdálkodásból származik.
+4000000028	Ez az utcai cipő minden méretben és színben rendelkezésre áll.
+4000000029	A vásárlási korlátozások csak bizonyos cikkekre vonatkoznak, kérjük honlapunkon tájékozódjon.
+4000000030	Közeleg az ünnepi akció, amikor minden második terméket féláron vásárolhat meg.
+4000000031	Sajnos átmenetileg kifogytunk a készletből, de figyelje honlapunkat és azonnal tájékoztatjuk.
+4000000032	Házhozszállítást a belvárosi kerületekben vállalunk ingyen, a külső kerületebe ötezer forint a szállítási költség.
+4000000033	Minden vásárlásával hűségpontot írunk jóvá a hitelkártyáján és a honlapunkon.
+4000000034	Az akciós termékekhez vásárlásakor a hűségpontok nem mindig válthatóak be.
+4000000035	Szeretne garanciát is a termékhez, vagy nem kíván élni a garanciális lehetőséggel?
+4000000036	Az vásárlók elégedettsége a legfontosabb számunkra, és minden panaszt komolyan veszünk.
+4000000037	A vámkezelésben szereplő tételeket nem küldjük vissza, hanem raktározzuk és később értékesítjük.
+4000000038	Köszönjük a regisztrációt, hamarosan egy visszaigazoló emailt küldünk a címére.
+4000000039	Ön minden vásárláskor ajándékpontokra jogosult, melyeket a honlapunkon figyelemmel kísérhet.
+4000000040	A minimális vásárlás összeg tízezer forint, kérjük a csomag összeállításakor jelölje be a szállítási módot.
+4000000041	A terméket önmagában, vagy egy nagyobb csomag részeként értékesítjük és forgalmazzuk.
+4000000042	Ezt a terméket többféle méretben forgalmazzuk, kérjük válassza ki az ön méretét.
+4000000043	Kedden kapunk egy új szállítmányt.
+4000000044	Minden termék vásárlásakor visszaigazoló emailt küldünk.
+4000000045	Diák és nagycsaládos kedvezményeket kínálunk.
+4000000046	A feltüntetett ár nem tartalmazza az adót vagy a szállítási költséget.
+4000000047	A belvárosi üzlet technikai okok miatt ma délután kettőkor zár.
+4000000048	Köszönjük visszajelzését, nagyra értékeljük minden ügyfelünk véleményét!
+4000000049	Kérjük, vegye fel a kapcsolatot az üzletvezetővel.
+4000000050	A pénzvisszafizetési garanciánk minden termék vásárlásakor érvényes.
+4000000051	Már nem forgalmazzuk ezt a terméket, de munkatársunk tud ajánlani hasonló terméket.
+4000000052	A termékek ára az összes üzletben azonos, ezért bármelyiket felkeresheti.
+4000000053	Ön elérte azt az értékhatárt, hogy kosárába egy tetszőleges ajándék terméket tegyen.
+4000000054	Átmenetileg kifogytunk a termékből, emailben értesítjük ha a termék újra elérhető.
+4000000055	Jelenleg nincs raktárkészletünk a kiválasztott termékből, de munkatársunk hasonló terméket tud ajánlani.
+4000000056	Ha nem elégedett vásárlásával, két héten belül visszatérítjük a termék árát.
+4000000057	Ha a termék minőségével kapcsolatban van panasza, kérem fáradjon be az ügyfélszolgálatra.
+4000000058	Szeretne további elemeket hozzáadni a megrendeléséhez, vagy ezen a pontos befejezi a vásárlást?
+4000000059	Van önöknél olyan törzsvásárlói program, melynek keretében hűségpontokat lehet gyűjteni?
+4000000060	A terméket foglalás esetén egy munkanapig  tartjuk fenn az Ön számára.
+4000000061	Csak nagy méretű termékek kiszállítását vállaljuk, kisebb termékekért kérjük fáradjon be üzletünkbe.
+4000000062	Hitelkártyát, bankkártyát és készpénzt is elfogadunk, valamint lehetőséget biztosítunk utánvétnek.
+4000000063	Fizetési módként bankkártyát vagy készpénzes fizetési módot választhat, kérjük jelölje be melyiket választja.
+4000000064	Kérjük, távozáskor mutassa meg a nyugtát a parkolóőrnek és őrizze meg továbbra is.
+4000000065	Ezt a terméket csak a kiemelt üzleteinkben forgalmazzuk.
+4000000066	A szállítási határidő a vásárlást követő harmadik munkanapon jár le.
+4000000067	Ez a termék piacvezető jelenleg, hamarosan már nem lesz raktáron.
+4000000068	A terméket térítés ellenében még aznap kiszállítjuk, vagy ingyenesen átveheti üzletünkben.
+4000000069	Ennek a termékcsaládnak a forgalmazását tavaly felfüggesztettük minőségi problémák miatt.
+4000000070	Földrajzi helyre vonatkozó precíz adatok felhasználása, valamint az eszköz karakterisztikáinak aktív vizsgálata azonosítás érdekében.
+4000000071	Üzleteinkben kizárólag újrahasznosított termékeket forgalmazunk, és támogatjuk a fenntartható gazdaságokat.
+4000000072	Munkatársaink örömmel válaszolnak kérdéseire, kérjük küldjön levelet vagy hívjon telefonon bennünket.
+4000000073	Belvárosi üzletünkben folyamatos akciókkal várjuk önöket, forduljanak munkatársainkhoz bizalommal!.
+4000000074	Jelentkezési folyamatunk egyszerű és gyors, csak egy online kérdőív kitöltésére lesz szükség.
+4000000075	Diákjaink a világ minden tájáról regisztrálnak a honlapunkon, és általában pozitív visszajelzést adnak.
+4000000076	A tanfolyam teljes összegét visszatérítjük aznap, ha elégedetlen a szolgáltatással.
+4000000077	Oktatóink igazodnak a tanfolyam résztvevőinek igényeihez, melyet kérdőív segítségével mérünk fel.
+4000000078	Először a diákok jogosultak egy ingyenes próbaórára, majd a nevelők következnek.
+4000000079	Csak csoportos órákat kínálunk, de a következő félévtől egyéni órákra is lehet regisztrálni.
+4000000080	A diákok már két hét alatt tapasztalni fogják a fejlődést!
+4000000081	Tanfolyamainkat a hallgatók igényeihez szabjuk, kérdőív segítségével folyamatosan visszajelzést kérünk.
+4000000082	Ha a programozási készségei a tanfolyam végeztével nem javulnak, visszatérítjük annak teljes összegét.
+4000000083	Nappali és esti időpontokat kínálunk, tekintetbe véve hallgatóink változatos igényeit.
+4000000084	Minden óra 45 perces, hétfőn és csütörtökön délután kettő órakor kezdődnek.
+4000000085	A tanfolyam kezdete előtt személyesen egyeztethet a csoportvezetővel és az intézményvezetővel.
+4000000086	A hallgatóknak a beiratkozáskor és az első órán egy gyakorlati felmérést kell tenniük.
+4000000087	A tanfolyamon való részvétel nem kötött felsőfokú végzettséghez, csak érettségihez.
+4000000088	Délutáni óráinkra már csak korlátozottan állnak rendelkezésre szabad helyek és regisztráció.
+4000000089	Csoportvezetőink minden esetben az adott szakterület szakértői és több éves oktatási tapasztalattal rendelkeznek.
+4000000090	Minden alkalmazott számára kínálunk tanfolyamot.
+4000000091	A pandémia miatt minden tanfolyamot online tartanak bizonytalan ideig.
+4000000092	Az érdeklődő diákok az alábbi linkre kattintva tudhatnak meg többet.
+4000000093	Oktatóink az adott szakterületen legalább tíz éves tapasztalattal rendelkeznek .
+4000000094	Az oktatók örömmel válaszolnak bármilyen kérdésére, kérjük keressék őket személyesen.
+4000000095	30 napos pénz visszafizetési garanciát biztosítunk erre és a következő a tanfolyamra.
+4000000096	Minden kurzushoz ingyenes oktatási anyagot és internetes hozzáférést biztosítunk a teljes időtartamig.
+4000000097	Az ingyenes próbaórán holnap délután négytől és hattól lehet részt venni.
+4000000098	Már csak három szabad hely van a kreatív írás tanfolyamon.
+4000000099	Ezt a kurzust most féláron rendelheti hozzá az oktatási tervéhez.
+4000000100	Kurzusainkat július végéig féláron kínáljuk, ezt követően már csak teljes áron lesznek elérhetőek.
+4000000101	Kurzusaink általában három vagy négy fős csoportokban indulnak.
+4000000102	A kreatív írás kurzus hétfőn kezdődik, a többi kurzus ezt követően naponta indul.
+4000000103	Már nem kínáljuk ezt a képzést, kérjük válasszon a honlapunkon lévő kurzusok közül.
+4000000104	Intenzív angol nyelvi csoportunk a legnépszerűbb tanfolyamunk, kérjük érdeklődjön oktatónknál.
+4000000105	Más intézménytől is beszámítunk krediteket, kérjük hozzák magukkal az igazolásokat.
+4000000106	Választhat egyéni, vagy csoportos korrepetálást is nyelvtudásától és céljaitól függően.
+4000000107	Jelenleg betelt a létszám, kérjük figyelje a következő csoportokat, melyet folyamatosan publikálunk honlapunkon.
+4000000108	Angol, francia és spanyol, japán, német és kínai nyelvtanfolyamokat kínálunk.
+4000000109	Hetente több kurzust is indítunk ebben a témakörben, kérjük tájékozódjon.
+4000000110	Ezeket az órákat úgy terveztük, hogy gyors és látványos haladást érhessenek el hallgatóink.
+4000000111	Egyéni vagy csoportos kurzust is kínálunk ebben és sok más témakörben.
+4000000112	Időbeosztásunk rugalmas, figyelembe veszi és megfelel a diákok különböző igényeinek.
+4000000113	A kurzus díját szeptember 15-ig kérjük átutalni, ezt követően késedelmi kamatot számítunk.
+4000000114	A kurzusok beosztását úgy tervezzük, hogy azok a legjobban megfeleljenek minden tanuló igényeinek.
+4000000115	A tervek szerint ma intenzív üzleti angol képzésen veszek részt.
+4000000116	Ez a kurzus annyira népszerű, hogy jelenleg csak várólistára tud fel iratkozni.
+4000000117	A kurzus sikeres elvégzéséről tanúsítványt állítunk ki, melyet letölthet honlapunkról.
+4000000118	A tanúsítvány elektronikusan is elérhető honlapunkon, kérje munkatársunk segítségét a letöltéshez.
+4000000119	Bizonyos tanfolyamokra részletfizetési lehetőséget is biztosítunk, kérjük munkatársunk segítségét ennek igénybevételéhez.
+4000000120	Holnap online tájékoztatót tartunk a következő félévben induló tanfolyamainkkal kapcsolatban.
+4000000121	A tanfolyamunkra egész hétvégén és jövő héten kedvezményes áron iratkozhat fel.
+4000000122	A holnapi órák betegség miatt sajnos elmaradnak, az új időpontról hamarosan értesítjük önöket.
+4000000123	Kérem mutassa be a vásárlást igazoló dokumentumot és a jótállási jegyet.
+4000000124	Jövő hét keddig visszautaljuk a termék árát, kérem adja meg a bankszámlaszámát.
+4000000125	A termékre még mindig van garancia, melyet a jövő hónap végéig érvényesíthet.
+4000000126	A terméknek eredeti csomagolásban kell lennie, és hozza magával a vásárlást igazoló nyugtát is.
+4000000127	Ha szeretné, ingyenesen kicserélhetjük a színhibás terméket a belvárosi üzletünkben.
+4000000128	Ön csak a vásárlástól számított 30 napon belül jogosult a teljes visszatérítésre.
+4000000129	Kérjük, vigye vissza a terméket a boltba a nyugtával együtt.
+4000000130	Hozza magával a sérült terméket is az eredeti csomagolásban, és a vásárlást igazoló nyugtát is.
+4000000131	A használatból eredő meghibásodásra az eredeti garancia nem vonatkozik, kérjük szíves megértését.
+4000000132	A vásárlók könyve minden üzletünkben jól átható helyen lesz kifüggesztve.
+4000000133	A gyártó hibája miatt a terméket ingyenesen kicseréljük a belvárosi üzletünkben.
+4000000134	Minden cseréhez  nyugtára vagy e-nyugtára van szükség, kérjük minden esetben hozza magával.
+4000000135	Örömmel visszatérítjük önnek a termék árát, és hűségpontokat írunk jóvá önnek.
+4000000136	Ez a terméket sajnos az egészségügyi előírások miatt nem tudjuk kicserélni.
+4000000137	A belvárosi boltban vásárolta a terméket, vagy online rendeléssel jutott hozzá?
+4000000138	Utánanézek, de ez a termék az egészségügyi előírások szerint nem cserélhető.
+4000000139	A csere díja ezer forint, melyet átutalással is fizethet holnapig.
+4000000140	Kérem, az ügyfélszolgálatnál jelezze ezt a szándékát telefonon vagy levélben.
+4000000141	A terméket visszaviheti a boltba, vagy az ügyfélszolgálatunkra és nyugta ellenében kicseréljük.
+4000000142	Meg tudná mondani a rendelési azonosítóját vagy a termék azonosítóját?
+4000000143	Attól tartok, hogy ön nem jogosult a termék ingyenes javításra.
+4000000144	Nem tudunk részletfizetési lehetőséget nyújtani, ezt csak a törzsvásárlóink számára biztosítjuk.
+4000000145	A garancia sajnos érvénytelen, mivel lejárt a rendelkezésre álló jótállási idő.
+4000000146	Szeretné a jótállást egy évvel hosszabbítani, vagy megfelel az eredeti időtartam?
+4000000147	Kérjük, vigye el üzletünk belvárosi szervizközpontjába, azért hogy technikusunk megtekinthesse.
+4000000148	A garancia valójában három napja járt le, ezért nem fogadta be a terméket a szerviz.
+4000000149	Szeretne cserét vagy visszatérítést, amennyiben a termék nem bizonyul javíthatónak?
+4000000150	Egy hetes határidővel tudjuk vállalni a termék javítását, mivel sok kollégánk szabadságon van.
+4000000151	Elküldheti nekünk cserére, vagy szállíthatunk önnek holnap egy új terméket.
+4000000152	Jó hír, hogy még két hétig jogosult a termék cseréjére!
+4000000153	Azt mondja, hogy a telefon napok óta nem kapcsol be?
+4000000154	Ezt a terméket már tavaly óta nem forgalmazzuk ebben a régióban.
+4000000155	A szezonvégi leárazáson értékesített termékeket nem áll módunkban később visszacserélni.
+4000000156	Ez a termék nem garanciális, így sajnos nem tudjuk kicserélni.
+4000000157	Az adott termék múlt hónapban nem szerepelt a gyártó visszahívási listáján.
+4000000158	A cserealkatrészeket már megrendeltük, és hamarosan megérkezik a belvárosi üzletünkbe.
+4000000159	Örömmel visszatérítjük önnek a termék árát, kérjük fáradjon be legközelebbi üzletünkbe.
+4000000160	Nem tudunk teljes visszatérítést nyújtani, de 40% készpénzt tudunk adni.
+4000000161	Emlékszik arra, hogy mikor és melyik üzletünkben vásárolta a terméket?
+4000000162	Kérjük győződjön meg arról, hogy az eredeti csomagolás van önnél, amikor visszahozza.
+4000000163	Sajnálom, de ezt a terméket kiárusítottuk, hasonló terméket munkatársunk tud ajánlani önnek.
+4000000164	Kérjük, hogy a terméket még az üzlet csütörtöki zárása előtt szállítsa vissza nekünk.
+4000000165	Holnap átküldünk néhány technikust, hogy végrehajtsák a szükséges javításokat vagy cserét.
+4000000166	A termékre vonatkozó garancia sajnos nem terjed ki a vízkárra.
+4000000167	Nem vagyunk felelősek a rozsdáért, mely valószínűleg a nem rendeltetésszerű használat miatt keletkezett.
+4000000168	Örömmel meghosszabbítjuk a garanciát, ehhez kérjük fáradjon be legközelebbi üzletünkbe.
+4000000169	Szeretném megkérdezni, hogy a vásárlásról megőrizte a nyugtát vagy számlát?
+4000000170	A garanciából még három hónap van hátra, kérjük vegye fel a kapcsolatot munkatársunkkal.
+4000000171	Meg kell mutatnia a vásárlás visszaigazolását, mielőtt bármit is tehetünk.
+4000000172	A garancia sajnos már nem érvényes, mivel a terméket öt évvel ezelőtt vásárolta.
+4000000173	A termék megvásárlásakor nem kért hosszabbított garanciát, ezért már nem tudja azt érvényesíteni.
+4000000174	Probléma esetén  kérjük, vegye fel velünk a kapcsolatot a lehető leghamarabb.
+4000000175	A termék rendelése két munkanapon belül feldolgozásra kerül és kipostázzuk.
+4000000176	Nem vállalunk felelősséget a kapcsolódó szállítási költségek árváltozásáért, ez a vásárlót terheli.
+4000000177	Holnap kiküldünk egy technikust, hogy megnézze a probléma okát és kijavítsa azt.
+4000000178	Van ideje egy ügyfél-elégedettségi kérdőív kitöltésére és annak gyors kiértékelésére?
+4000000179	Ön jogosult meghosszabbítani a garanciát további ötezer forint ellenében, kérjük nyilatkozzon a szándékáról.
+4000000180	Sajnálom, de nem tudjuk feldolgozni a kérését a nyugta nélkül.
+4000000181	Kérjük, küldjön nekünk egy részletes leírást és bejelentést a termék sérüléséről.
+4000000182	Termékeink hatékonyan és gyorsan forgalomba helyezhetőek, és az engedélyeztetési eljárás sem hosszabb egy hétnél.
+4000000183	Az online tanácsadás a specialitásunk.
+4000000184	Szakértői csapatunk a távmunka legégetőbb problémáit is hatékonyan tudja kezelni.
+4000000185	Csapatunk ügyfél-orientált és a nap 24 órájában online rendelkezésükre áll.
+4000000186	Három egymást követő évben is megnyertük a régió ügyfél-elégedettségi felmérését.
+4000000187	Ügyfeleink sokat profitáltak a kidolgozott és profi üzleti folyamatainkból és javaslatainkból.
+4000000188	Különböző megoldási javaslatokat kínálunk a különböző problémákkal érkező ügyfelek részére.
+4000000189	Ügyfeleink számára a lehető legjobb és könnyen adaptálható szolgáltatásra törekszünk.
+4000000190	Személyre szabott megoldásokat kínálunk az ön igényeihez és személyes problémáihoz igazítva.
+4000000191	Bejegyzett, engedéllyel rendelkező és regisztrált vállalkozói szakmai szervezetek tagja vagyunk.
+4000000192	A vállalati erőforrás-tervezés a specialitásunk, de ezen kívül számtalan szolgáltatást kínálunk kedves ügyfeleink részére.
+4000000193	A legújabb módszereket külföldön tanulmányozzuk és azonnal elkezdjük használni a szoftverfejlesztési projektekben.
+4000000194	Termékeink használatával versenyképesebbé tesszük az ügyfeleket a globális és lokális piacon.
+4000000195	Segítünk a növekvő és feltörekvő vállalkozásoknak a komplex üzleti rendszerek alkalmazásában.
+4000000196	A vezető professzionális adatszolgáltatók közé tartozunk Budapesten, és természetesen az egész országban.
+4000000197	A sikerünk önmagáért beszél, levelünkhöz csatolt bemutatkozó anyagunkban megtalálhatja referenciáinkat is.
+4000000198	Gyors és hatékony megoldásokat kínálunk a finanszírozási problémákkal küzdő ügyfeleink részére.
+4000000199	20 éves tapasztalattal rendelkezünk a vállalati menedzsment és válságkezelés területén.
+4000000200	Segítünk az ügyfeleknek leküzdeni a konkurenciát a gyorsan fejlődő piacon.
+4000000201	Az ügyfelek elégedettsége és a számunkra nyújtott hatékony segítség a legfontosabb.
+4000000202	A folytatáshoz és telepítéshez az alkalmazás legújabb verziójára lesz szüksége.
+4000000203	Megpróbálta a tegnapi napon újraindítani és frissíteni a laptopot és mobilját?
+4000000204	A program megnyitásakor a gépem még mindig lefagy, és nem tudom kikapcsolni.
+4000000205	Először nyissa meg a programot, futtassa és kövesse a telepítés utasításait.
+4000000206	Kérem nézzen utána, hogy mikor járt le a szoftver engedélye?
+4000000207	Ez a program sajnos az ön gépén nem futtatható, mert elavult a géppark.
+4000000208	Ha piros jelzést lát, akkor azonnal ki kell lépnie a programból.
+4000000209	Húzza ki a készüléket, mert elképzelhető hogy a hőség miatt túlmelegedett.
+4000000210	Kapcsolja ki a víruskereső szoftvereket, mivel ez befolyásolhatja a letöltést.
+4000000211	Tartsa lenyomva a bekapcsológombot három másodpercig majd engedje el és indítsa újra a gépet.
+4000000212	Kattintson kétszer a jobb felső sarokban található ikonra és indítsa el a programot.
+4000000213	Győződjön meg arról, hogy elegendő hely van a merev lemezen.
+4000000214	A program újra telepítését követően is elsötétül a képernyő a bekapcsolás után?
+4000000215	Előfordulhat, hogy újra kell telepítenie a szoftvert, ehhez kérem kövesse az utasításainkat.
+4000000216	Először húzza ki a készüléket, áramtalanítsa azt, majd egy száraz törlővel itassa fel a vizet.
+4000000217	Ha két percen belül nem töltötte le, indítsa újra a készüléket.
+4000000218	Megkérdezhetem, hogy jelenleg melyik verziót használja a mobilján és a laptopon?
+4000000219	Próbáljon meg kilépni a felesleges alkalmazásokból, és zárja be az összes alkalmazást.
+4000000220	Próbálja meg bezárni az alkalmazásokat, amennyiben nem sikerül akkor kapcsolja ki a gépet.
+4000000221	Mielőtt tovább lépne, kérjük előbb frissítse az eszközt a legújabb verzióra.
+4000000222	Sok lemezterületet kell felszabadítania a frissítéshez, ehhez kérjük kövesse utasításainkat.
+4000000223	Próbáljon meg az "eszköz" ikonra kattintani a beállítások lapon, majd keresse meg a hangszórót.
+4000000224	Először próbálja meg újraindítani a számítógépet, majd újraindítás utám megnyitni a programot.
+4000000225	Kérjük, olvassa el az adatvédelmi nyilatkozat termékspecifikus szakaszait, amelyek további releváns információkat nyújtanak.
+4000000226	A fiatalkorú felhasználók valószínűleg szívesebben kezdik az Adatvédelem fiatal felhasználóknak lappal.
+4000000227	Válaszoljon arra a kérdésre, hogy frissítette a készüléket a közelmúltban?
+4000000228	Ez az oldal olyan információkat emel ki, amelyek hasznosak lehetnek a fiatal felhasználóknak.
+4000000229	Jelenleg a program melyik verziója fut a gépén, és mikor frissítette utoljára?
+4000000230	Próbálja meg letölteni a fájlokat, majd átnevezve mentse őket az asztalra.
+4000000231	Ne nyomja meg a bekapcsológombot, amíg a kijelző zöldre nem vált.
+4000000232	Kérjük a telepítés befejezéséig ne használja a keresési funkciót és ne zárolja a képernyőt.
+4000000233	Frissítenie kell a rendszert, még mielőtt bármilyen módosítást szeretne végrehajtani.
+4000000234	Kollégám hamarosan, a délután folyamán elküldi a hozzáférési kódot az e-mailjére.
+4000000235	Szeretné megvásárolni a csomagot vagy a szoftvert a nyári akció keretében?
+4000000236	Az informatikus kolléga holnap tudja elhárítani a problémát, mert a készülék jelenleg nincs raktáron.
+4000000237	A telepítés végeztével a program kérni fogja öntől a termékkulcsot.
+4000000238	Kérjük várjon néhány másodpercet, mielőtt visszakapcsolja és elindítja a számítógépet.
+4000000239	Sajnos a szoftver legújabb változatát nem támogatja a készüléke, kérjük törölje.
+4000000240	Ez az alkalmazás nem támogat kettőnél több eszközt, kérjük ennek megfelelően járjon el.
+4000000241	Azt hiszem, találtam egy problémát a szerveren, amit egyedül nem tudok megoldani.
+4000000242	Harmadik felektől is szerzünk be adatokat Önről.
+4000000243	Abból, amit látok megállapítható, hogy egy másik eszköz csatlakozik a hálózathoz.
+4000000244	A próbaverzió és az ingyenes használat lehetősége tegnap sajnos lejárt.
+4000000245	A folytatáshoz a program legújabb verziójára lesz szüksége, kérem töltse le.
+4000000246	Próbálja meg frissíteni az oldalt majd utána telepítse a programot.
+4000000247	Kérem ellenőrizte, hogy gépe csatlakozik-e a hálózathoz és a kapcsolat erősségét.
+4000000248	Ez a probléma csak akkor történhet meg, ha kikapcsolta a tűzfalat.
+4000000249	Kérjük, törölje a letöltési csomagot a letöltés befejezése után azonnal.
+4000000250	Próbálja meg a dokumentumokat és letöltéseket menteni egy másik szerverre.
+4000000251	Kérjük, győződjön meg róla, hogy stabil internetes kapcsolattal rendelkezik a letöltés előtt.
+4000000252	Azt hiszem, hogy az ön gépét egy terheléses támadás érte.
+4000000253	Annak érdekében, hogy stabilan működjön az eszköz, frissítse lejátszóját a legújabb verzióra.
+4000000254	A készüléknek jelenleg kapcsolódási problémái vannak, kérjük ellenőrizze a kábeleket.
+4000000255	Letöltött víruskereső szoftvert a közelmúltban, melyet telepített is az eszközre?
+4000000256	Ez a termék jelenleg csak az általunk üzemeltetett böngészőt támogatja.
+4000000257	Önnek jogában áll dönteni az Ön által használt technológiával, illetve az Ön által megosztott adatokkal kapcsolatban.
+4000000258	Győződjön meg arról, hogy nincsenek bekapcsolva tűzfalak, amikor csatlakozik a hálózathoz.
+4000000259	Látom, hogy letöltötte a szoftver legújabb verzióját, de a telepítés még nem történt meg.
+4000000260	Havi előfizetési díjat vagy egyszeri befizetést is választhat az ajánlataink közül.
+4000000261	Letöltés után kérjük indítsa újra számítógépét, és telepítse a programot az utasításoknak megfelelően.
+4000000262	Kérjük, kattintson az ikonra, nyissa meg a programot és futtassa.
+4000000263	Szeretné letölteni a szoftver prémium verzióját ezen a hétvégén kedvezményes áron?
+4000000264	További költségek nélkül három további eszköz is engedélyezett a hálózaton.
+4000000265	Kérjük jelentse be a hibát, ha újra előfordulna a következő hetekben.
+4000000266	Ha nem tudja frissíteni, akkor nem fogja tudni használni a programot.
+4000000267	Próbálja meg megnézni, hogy most el tudja-e mozdítani a kurzort.
+4000000268	Töltsön ki egy nyomtatványt, és a technikusaink hamarosan visszatérnek Önhöz.
+4000000269	Ingyenesen frissíthet a prémium verzióra, kérjük töltse le a telepítő csomagot és futtassa.
+4000000270	Győződjön meg arról, hogy nincs más eszköz csatlakoztatva a hálózathoz.
+4000000271	Húzza ki a számítógépet, ha a képernyő lefagy és indítsa újra.
+4000000272	Ha a személyes adatai megadását kérjük Öntől, azt megtagadhatja.
+4000000273	A letöltést nem lehet szüneteltetni, kérjük várja meg annak befejezését.
+4000000274	Nyomja meg a frissítés gombot, és nézze meg, hogy megjelenik-e az űrlap.
+4000000275	Előfordulhat, hogy frissítenie kell az oldalt az új hírek megtekintéséhez.
+4000000276	Az ingyenes próbaverzió holnap lejár, kérjük nyilatkozzon hogy igénybe kívánja venni a szolgáltatást.
+4000000277	Kérjük törölje az alkalmazást az asztalról a törlés gombra kattintva.
+4000000278	Kérjük várjon két percet, mielőtt frissíti és betölti az oldalt.
+4000000279	Ha a szerverek elfoglaltak, akkor előfordulhat, hogy a lap nem töltődik be.
+4000000280	Próbáljon meg keresni egy megfelelő alkalmazást, töltse le és alkalmazza az eszközön.
+4000000281	Ezt sajnos nem hallottam tisztán, kérem ismételje meg a problémát lassabban.
+4000000282	Kérem három havonta változtasson jelszót biztonsága és adatainak védelme érdekében.
+4000000283	A jelszó nem tartalmazhat számokat, különleges karaktereket, nagybetűket és írásjeleket.
+4000000284	Kérjük ellenőrizze, hogy működik-e az internet és a kábelek megfelelően csatlakoznak-e.
+4000000285	Kérem kapcsolja ki a gépet és várja meg, amíg újra jelentkezünk.
+4000000286	Tehát jelenleg a képernyőn nem látja az utasításainkat és a program futtatását?
+4000000287	Kérem olvassa fel a képernyőn látható üzenetet, és kövesse annak utasításait.
+4000000288	Keresse meg a frissítés ikont és kattintson rá, válassza ki az önnek megfelelő nyelvet.
+4000000289	Sajnos nem tudok segíteni, ezért továbbítom a problémáját felettesem számára.
+4000000290	Kihez tartozik ez a profil és a jelszó valamint felhasználó név?
+4000000291	Folyószámlájára kétszázezer forint jóváírás érkezett.
+4000000292	Az ingyenes próbaverzió holnap jár le.
+4000000293	Katalin és Béla kedvelte a posztodat.
+4000000294	Rendelése elkészült, és átadtuk a futárnak!
+4000000295	Az országos tisztifőorvos vörös riasztást adott ki a hőség miatt.
+4000000296	Árvízriadót rendeltek el Pest és Nógrád megyében.
+4000000297	Számos termékünk bizonyos személyes adatokat igényel ahhoz, hogy szolgáltatást nyújthassunk Önnek.
+4000000298	A fizetés sikertelen, kérjük ismételje meg.
+4000000299	A pizzád már úton van!
+4000000300	Ezt a kódot használja az áru átvételekor.

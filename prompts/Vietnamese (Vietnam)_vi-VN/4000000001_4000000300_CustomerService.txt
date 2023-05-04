@@ -1,0 +1,300 @@
+4000000001	Khách hàng mới sẽ được nhận quà tặng miễn phí.
+4000000002	Chúng tôi hiện chỉ mở các lớp học theo nhóm.
+4000000003	Chúng tôi hiện nay không tiếp tục đào tạo chương trình học đó nữa.
+4000000004	Mặt hàng của bạn hiện nay vẫn còn được bảo hành.
+4000000005	Bạn đã thử khởi động lại máy tính chưa ạ?
+4000000006	Trước tiên, bạn hãy thử khởi động lại máy tính.
+4000000007	Bạn có thể thử tải bản cập nhật về máy tính của bạn.
+4000000008	Quý khách muốn mua theo gói hay mua riêng lẻ?
+4000000009	Chúng tôi có thể cải thiện như thế nào?
+4000000010	Quý khách vui lòng kiểm tra lại kết nối mạng.
+4000000011	Bạn có thể thử lưu lại tệp ở máy chủ khác.
+4000000012	Quý khách cần cập nhật lên phiên bản mới nhất.
+4000000013	Vui lòng chờ một vài giây trước khi bạn hủy tải xuống.
+4000000014	Bạn hãy nhấp vào nút đồng ý khi hộp thoại mới xuất hiện.
+4000000015	Bạn có cần hỗ trợ vấn đề nào khác nữa không?
+4000000016	Kích cỡ của sản phẩm này dựa theo tiêu chuẩn châu Âu.
+4000000017	Cảm ơn bạn đã mua sắm với công ty chúng tôi!
+4000000018	Bạn có cân nhắc mua thêm màn hình nữa không?
+4000000019	Bạn có xem xét nâng cấp ổ cứng của máy không?
+4000000020	Cá hồi tươi chỉ có bán trong ngày hôm nay.
+4000000021	Em rất vui được hỗ trợ quý khách ngày hôm nay.
+4000000022	Điểm khác biệt của nó chính là nội thất bọc da.
+4000000023	Sản phẩm này không nằm trong danh mục cho phép hoàn trả.
+4000000024	Bạn muốn đăng ký học lĩnh vực nghiên cứu nào?
+4000000025	Hầu hết các khóa học của chúng tôi là vào buổi sáng.
+4000000026	Công ty chúng tôi đã thành lập hơn sáu mươi năm.
+4000000027	Bạn đã mua sản phẩm này ở địa điểm nào?
+4000000028	Tất cả hàng trả lại đều yêu cầu có biên lai.
+4000000029	Xin vui lòng chờ trong giây lát, em sẽ kiểm tra và quay lại ngay sau ít phút.
+4000000030	Máy tính của bạn có kết nối internet ổn định không?
+4000000031	Vui lòng đưa ra xếp hạng trang tổng thể.
+4000000032	Tai nghe không phát âm thanh phải không?
+4000000033	Xin hỏi bạn có nhận được mã xác minh không?
+4000000034	Vui lòng cung cấp mã xác minh vừa được gửi tới cho bạn.
+4000000035	Vui lòng mở tin nhắn để nhận mã xác minh của bạn.
+4000000036	Đơn đặt hàng của bạn đã được xác nhận thành công.
+4000000037	Chúng tôi đã nhận được khoản thanh toán của bạn!
+4000000038	Một số sản phẩm đang được giảm giá trong thời gian có hạn.
+4000000039	Các sản phẩm giảm giá đang hết hàng rất nhanh.
+4000000040	Chúng tôi cung cấp dịch vụ giao hàng tận nhà.
+4000000041	Chúng tôi có sản phẩm này với nhiều kích cỡ.
+4000000042	Chúng tôi giảm giá cho sinh viên và quân nhân.
+4000000043	Chúng tôi đang tạm thời hết hàng, mời bạn quay lại vào ngày mai.
+4000000044	Bạn đã làm thẻ khách hàng với siêu thị chưa ạ?
+4000000045	Chúng tôi hiện chỉ còn cỡ nhỏ và lớn cho sản phẩm này.
+4000000046	Sản phẩm này mới ra mắt nên bán hết khá nhanh.
+4000000047	Chúng tôi đã ngừng cung cấp dòng sản phẩm đó.
+4000000048	Chúng tôi mở cửa từ thứ Hai đến thứ Sáu.
+4000000049	Các lớp học này được thiết kế để học nhanh.
+4000000050	Bạn mua hàng ở cửa hàng trực tuyến phải không?
+4000000051	Sắp xếp khoa học các ghi chú và cuộc sống của bạn.
+4000000052	Bạn vẫn còn giữ giấy mua hàng hay biên lai điện tử chứ?
+4000000053	Bạn hãy nhấp vào biểu tượng ở góc trên cùng bên phải.
+4000000054	Hãy đảm bảo bạn có đủ dung lượng trên ổ đĩa của bạn.
+4000000055	Bạn có thể cần phải cài đặt lại phần mềm.
+4000000056	Tôi đã gửi mã truy cập đến email của bạn.
+4000000057	Ứng dụng không hỗ trợ sử dụng nhiều hơn hai thiết bị.
+4000000058	Hoàn thành mọi việc.
+4000000059	Đi trước một bước với các ứng dụng mạnh mẽ giúp tăng năng suất, kết nối và bảo mật.
+4000000060	Các phòng thử đồ nằm ngay phía sau cửa hàng.
+4000000061	Đây là mẫu mới nhất vừa ra mắt tuần trước.
+4000000062	Bạn đã mua sắm ở cửa hàng chúng tôi trước đây chưa?
+4000000063	Sản phẩm bạn đang hỏi chỉ được bán trực tuyến.
+4000000064	Quý khách vui lòng chờ em kiểm tra đơn hàng.
+4000000065	Bạn muốn thanh toán bằng thẻ ngân hàng hay tiền mặt?
+4000000066	Hầu hết các học bổng được trao dựa trên thành tích.
+4000000067	Giao thông xung quanh khuôn viên trường rất thuận tiện.
+4000000068	Khóa học đó chỉ được cung cấp vào ban ngày.
+4000000069	Với các trò chơi được thêm vào mọi lúc, bạn sẽ luôn có một cái gì đó mới.
+4000000070	Hãy để tôi giới thiệu cho bạn xung quanh tòa nhà.
+4000000071	Chúng tôi hiện nay không mở lớp học karate nào.
+4000000072	Xin vui lòng chờ máy trong giây lát, em sẽ quay lại ngay.
+4000000073	Chúng tôi có thể cung cấp đào tạo tại chỗ.
+4000000074	Bạn có thể vui lòng đánh vần tên của bạn?
+4000000075	Vui lòng kiểm tra xem Internet có hoạt động không.
+4000000076	Xin lỗi, bạn muốn thay đổi chính xác những thông tin gì?
+4000000077	Vui lòng cung cấp mã số đơn hàng và địa chỉ giao hàng.
+4000000078	Vì lý do bảo mật vui lòng cung cấp email đã đặt hàng.
+4000000079	Xin cám ơn và chúc quý khách một ngày mới tốt lành.
+4000000080	Cám ơn quý khách đã liên lạc với bộ phận chăm sóc khách hàng.
+4000000081	Đây là tất cả thông tin tôi có, xin lỗi vì không thể hỗ trợ bạn nhiều hơn.
+4000000082	Đây là những gì họ có thể làm cho bạn.
+4000000083	Chúng tôi sẽ phải làm một biểu mẫu báo cáo.
+4000000084	Vâng, quý khách có thể mô tả sự cố gặp phải rõ hơn không?
+4000000085	Vâng, đó có thể là một trong những lý do.
+4000000086	Chúng ta không thể làm gì khác vào lúc này.
+4000000087	Chúng tôi sẽ giải quyết nó càng sớm càng tốt.
+4000000088	Quý khách thấy chương trình báo lỗi như thế nào?
+4000000089	Tải xuống ứng dụng để có trải nghiệm tốt hơn!
+4000000090	Đường truyền của bạn có thể bị gián đoạn do tín hiệu yếu.
+4000000091	Tất cả các mặt hàng quần áo được giảm giá 10%.
+4000000092	Các mặt hàng có thẻ màu đỏ được giảm giá 40%.
+4000000093	Giá niêm yết không bao gồm thuế hoặc phí vận chuyển.
+4000000094	Chúng tôi không còn hàng trong kho vào lúc này.
+4000000095	Kích thước duy nhất còn trong kho là kích thước lớn.
+4000000096	Học sinh có thể thấy sự tiến bộ trong vòng hai tuần!
+4000000097	Có một hội thảo trên web miễn phí vào ngày mai.
+4000000098	Trước tiên hãy để tôi kiểm tra lịch sử mua hàng của bạn.
+4000000099	Bạn sẽ được thông báo trước khi có bất kỳ thay đổi nào về giá.
+4000000100	Đăng nhập vào các ưu đãi có sẵn của bạn.
+4000000101	Bạn đủ điều kiện để được hoàn lại tiền cho sản phẩm này.
+4000000102	Sản phẩm đó không còn kế hoạch nhập lại hàng.
+4000000103	Chúng tôi sẽ sẵn lòng gia hạn bảo hành cho bạn.
+4000000104	Bạn đã mua sản phẩm không có gói bảo hành.
+4000000105	Chúng tôi cung cấp dịch vụ miễn phí nhận hàng tại cửa hàng.
+4000000106	Chúng tôi có 20 năm kinh nghiệm trong việc giảng dạy.
+4000000107	Quý khách có thể nhận hàng miễn phí tại cửa hàng.
+4000000108	Bạn sẽ cần thêm dung lượng trên ổ cứng của mình.
+4000000109	Hãy thử nhấp vào biểu tượng "công cụ" trong tab cài đặt.
+4000000110	Bạn đã cập nhật thiết bị của mình gần đây chưa?
+4000000111	Vui lòng đợi vài phút để tải xuống bản cập nhật.
+4000000112	Ưu đãi khuyến mại có thể không hợp lệ cho tất cả thành viên và chỉ có sẵn trong một thời gian giới hạn.
+4000000113	Vui lòng xóa gói tải xuống sau khi bạn tải xong.
+4000000114	Nếu đơn hàng có giá trị trên một triệu, quý khách sẽ được miễn phí vận chuyển.
+4000000115	Dưới đây là các loại mỹ phẩm có thể dùng được cho cả da và tóc một cách hiệu quả mà bạn không nên bỏ qua.
+4000000116	Bạn có thể trả góp trong sáu hoặc mười hai tháng.
+4000000117	Nếu gặp sự cố về thanh toán, xin vui lòng liên hệ với chúng tôi càng sớm càng tốt.
+4000000118	Bạn có kinh nghiệm sử dụng máy tính như thế nào?
+4000000119	Các lớp học kéo dài từ tám đến mười một giờ mỗi sáng.
+4000000120	Lớp học đấm bốc của chúng tôi là phổ biến nhất.
+4000000121	Tôi có thể nhờ người khác đưa bạn đi tham quan xung quanh.
+4000000122	Quý khách hiện đang gặp lỗi ở bước nào ạ?
+4000000123	Quý khách gặp khó khăn ở bước thanh toán phải không ạ?
+4000000124	Chúng tôi cần xác minh thông tin của bạn trước.
+4000000125	Quý khách có cần hỗ trợ về vấn đề khác nữa không ạ?
+4000000126	Xin cám ơn quý khách đã liên lạc với bộ phận chăm sóc khách hàng.
+4000000127	Đây là một sản phẩm giúp loại bỏ bụi bẩn, dầu một cách hiệu quả cho cả da và tóc.
+4000000128	Xin quý khách vui lòng đánh giá mức độ hài lòng của quý khách.
+4000000129	Vì lý do bảo mật vui lòng cung cấp địa chỉ và số điện thoại đặt hàng.
+4000000130	Sau đó, tôi sẽ chỉ cho bạn liên kết tải xuống.
+4000000131	Khoản tiền hoàn lại đã được chúng tôi chuyển cho bạn.
+4000000132	Vui lòng đợi vài phút để chúng tôi kiểm tra thông tin cho quý khách.
+4000000133	Chúng tôi cung cấp gói mua lại cho các thiết bị cũ.
+4000000134	Bạn muốn phiên bản mini hay phiên bản kích thước đầy đủ?
+4000000135	Chúng tôi sẽ có một đợt giảm giá cho kỳ nghỉ sắp tới.
+4000000136	Chúng tôi sẽ nhận được một lô hàng mới vào thứ Ba.
+4000000137	Quý khách có thể trả hàng miễn phí tại nhà.
+4000000138	Cửa hàng sẽ đóng cửa lúc 7 giờ tối vào đêm giao thừa.
+4000000139	Chúng tôi áp dụng phương thức thanh toán bằng thẻ hoặc tiền mặt.
+4000000140	Tất cả các giảng viên của chúng tôi đều có chứng nhận.
+4000000141	Sinh viên của chúng tôi đến từ khắp nơi trên thế giới.
+4000000142	Chúng tôi cung cấp học bổng cho các sinh viên tài năng.
+4000000143	Chúng tôi cung cấp các lớp học ban ngày và ban đêm.
+4000000144	Học sinh phải làm bài kiểm tra trình độ khi nhập học.
+4000000145	Mỗi khóa học được thiết kế phù hợp với năng lực của sinh viên.
+4000000146	Chúng tôi cung cấp các lớp học trực tiếp hoặc trực tuyến.
+4000000147	Chúng tôi có thể thay thế nó miễn phí nếu bạn muốn.
+4000000148	Bạn có thể đổi trả hàng tại quầy dịch vụ khách hàng.
+4000000149	Bạn không thể trả lại các mặt hàng được giảm giá khuyến mãi.
+4000000150	Bạn có nhớ bạn đã mua món hàng vào ngày nào không?
+4000000151	Tôi xin lỗi nhưng mặt hàng cuối cùng đã được bán.
+4000000152	Rất tiếc, phần mềm không được thiết bị của bạn hỗ trợ.
+4000000153	Chúng giúp chống lão hóa, cải thiện kết cấu cho da và đem lại lợi ích tương tự đối với mái tóc.
+4000000154	Bạn có thể nâng cấp lên phiên bản cao cấp miễn phí.
+4000000155	Chúng tôi không hỗ trợ thiết bị của bạn vào lúc này.
+4000000156	Hãy kiểm tra mô-đem của bạn để khắc phục các sự cố kết nối.
+4000000157	Chúng tôi cũng có chiếc váy đó với kích thước nhỏ hơn.
+4000000158	Cái này thực sự rất đẹp, nó được sản xuất tại Ý.
+4000000159	Chúng tôi cũng có thể giao hàng cho bạn nếu bạn muốn.
+4000000160	Giá sẽ thấp hơn một chút nếu bạn mua tại cửa hàng.
+4000000161	Sau khi hoàn thành chương trình, bạn sẽ nhận được chứng chỉ.
+4000000162	Các giảng viên của chúng tôi đều đã học tại nhạc viện.
+4000000163	Chúng tôi đảm bảo thực hiện việc hoàn tiền trong ba mươi ngày.
+4000000164	Bạn có thể tắt chức năng đó nếu nó làm phiền bạn.
+4000000165	Cảm ơn bạn đã gọi cho chúng tôi, chúc bạn một ngày tốt lành.
+4000000166	Các mặt hàng dễ hư hỏng không nằm trong danh sách hàng được trả lại.
+4000000167	Chúng tôi có thể giữ hàng cho bạn trong một ngày làm việc.
+4000000168	Mọi thứ chúng tôi bán ở đây đều có chứng nhận hữu cơ.
+4000000169	Quá trình đăng ký của chúng tôi rất dễ dàng và nhanh chóng.
+4000000170	Học viên mới được tham gia lớp học thử miễn phí.
+4000000171	Bảo hành cho sản phẩm này không bao gồm thiệt hại do nước.
+4000000172	Bạn sẽ cần cài đặt phiên bản mới nhất của ứng dụng để tiếp tục.
+4000000173	Chúng tôi có thể cử kỹ thuật viên đến hỗ trợ bạn lúc 3 giờ chiều.
+4000000174	Tôi tin rằng thiết bị của bạn có vấn đề về kết nối mạng.
+4000000175	Bạn có thể trả phí đăng ký hàng tháng hoặc trả một lần.
+4000000176	Bạn có muốn tải xuống phiên bản cao cấp của phần mềm không?
+4000000177	Bản dùng thử miễn phí của bạn sẽ hết hạn vào ngày mai.
+4000000178	Chúng ta sẽ nhận được nhiều dâu tây hơn trong vài ngày tới.
+4000000179	Nếu bạn gặp bất kỳ vấn đề nào về sản phẩm, hãy gọi cho chúng tôi.
+4000000180	Bạn có thể nhấp vào "tiếp theo" để kích hoạt phần mềm của bạn.
+4000000181	Bạn vừa nhận được một khoản tiền gửi trong tài khoản của mình.
+4000000182	Bạn đã vượt quá giới hạn dữ liệu của mình cho tháng này.
+4000000183	Chúng tôi cho phép nhận hàng tại cửa hàng hoặc giao hàng tận nhà.
+4000000184	Bạn chỉ có thể đổi trả hàng trực tiếp tại cửa hàng.
+4000000185	Giá của mỗi sản phẩm là giống nhau ở tất cả các cửa hàng.
+4000000186	Các lớp học của chúng tôi thường theo nhóm có 3 hoặc 4 học sinh.
+4000000187	Sinh viên sẽ nhận được chứng chỉ hoàn thành khóa học khi tốt nghiệp.
+4000000188	Chúng tôi sẽ tổ chức một buổi thông tin trực tuyến vào ngày mai.
+4000000189	Tôi e rằng sản phẩm không đủ điều kiện để sửa chữa miễn phí.
+4000000190	Rỉ sét không được bảo hành nên chúng tôi không thể thay thế cho bạn miễn phí.
+4000000191	Khoản tiền hoàn lại sẽ được xử lý trong vòng hai ngày làm việc.
+4000000192	Bạn đủ điều kiện để gia hạn bảo hành thêm một năm.
+4000000193	Bạn muốn nhận hàng tại cửa hàng hay muốn chúng tôi giao hàng tại nhà cho bạn?
+4000000194	Chúng tôi có nhiều lựa chọn cho những người muốn học bán thời gian.
+4000000195	Các lớp học kéo dài 45 phút với 15 phút giải lao giữa các lớp.
+4000000196	Tất cả các nhân viên của chúng tôi đã được đào tạo bài bản.
+4000000197	Chúng tôi khuyên bạn nên mang máy đi bảo trì ba năm một lần.
+4000000198	Một năm lưu trữ đám mây miễn phí được tặng kèm trong đăng ký của bạn.
+4000000199	Bạn không thể sử dụng phiếu giảm giá cho các mặt hàng có giá khuyến mãi.
+4000000200	Chúng tôi hoàn lại tiền đầy đủ nếu bạn không hài lòng với khóa học.
+4000000201	Chúng tôi cung cấp chương trình trả góp cho một số khóa học nhất định.
+4000000202	Đừng quên mang theo tất cả các biên lai khi bạn đến làm thủ tục khai thuế.
+4000000203	Chúng tôi sẽ cử một kỹ thuật viên qua nhà bạn trong ngày mai.
+4000000204	Chúng tôi không chịu trách nhiệm cho bất kỳ chi phí vận chuyển liên quan.
+4000000205	Bạn cần cập nhật thiết bị của bạn lên phiên bản mới nhất trước khi tiếp tục.
+4000000206	Bạn có thể cần phải làm mới trang để xem các bản cập nhật mới.
+4000000207	Xóa ứng dụng khỏi màn hình của bạn bằng cách nhấp chuột phải vào và chọn xóa.
+4000000208	Bạn đã tham gia bất kỳ khóa học nào với chúng tôi trước đây chưa?
+4000000209	Biểu diễn trực tiếp là một trong những yêu cầu để nhận được chứng chỉ.
+4000000210	Chúng tôi không cung cấp học bổng, nhưng sinh viên được giảm mười phần trăm.
+4000000211	Khóa học ngôn ngữ tiếng Anh chỉ dành cho những người học nâng cao.
+4000000212	Chúng tôi có một giải đấu cấp trường cho học sinh sáu tháng một lần.
+4000000213	Bạn nên sạc máy tính xách tay của mình trong 24 giờ cho lần sạc đầu tiên.
+4000000214	Chúng tôi chỉ muốn hỏi bạn một vài câu hỏi về sản phẩm của bạn.
+4000000215	Bạn có muốn tham gia chương trình khách hàng thân thiết của chúng tôi không?
+4000000216	Đó là lý do tại sao đơn đặt hàng của bạn bị giao hàng chậm một chút.
+4000000217	Email này có thể không an toàn, bạn có chắc chắn muốn mở nó không?
+4000000218	Chúng tôi có tùy chọn giao hàng ngay vào ngày hôm sau với một khoản phụ phí.
+4000000219	Chúng tôi có chương trình đặc biệt mua 2 tặng 1 trong hôm nay và ngày mai.
+4000000220	Chúng tôi có nhiều lớp một tuần nên việc sắp xếp lịch học không phải là vấn đề.
+4000000221	Lịch trình của chúng tôi rất linh hoạt, giúp đáp ứng nhu cầu của sinh viên.
+4000000222	Bạn phải xuất trình bằng chứng mua hàng để đủ điều kiện được hoàn lại tiền.
+4000000223	Vui lòng gửi cho chúng tôi mô tả chi tiết về hư hỏng của sản phẩm.
+4000000224	Bạn cần nâng cấp hệ thống trước khi có thể lưu bất kỳ thay đổi nào.
+4000000225	Ngoài dùng để tẩy trang cho da, chất này cũng có trong thành phần của dầu gội micellar water để chăm sóc tóc.
+4000000226	Hãy thử di chuyển đến gần bộ định tuyến của bạn để kết nối tốt hơn.
+4000000227	Vì vậy sử dụng nước tẩy trang là một bước không thể thiếu trong quá trình chăm sóc da.
+4000000228	Bạn đã nghĩ đến việc sử dụng một chiếc xe chạy hoàn toàn bằng điện chưa?
+4000000229	Đây là sản phẩm bán chạy nhất của chúng tôi.
+4000000230	Bạn chưa thực hiện bất kỳ cập nhật nào trên máy tính của mình phải không?
+4000000231	Cảm ơn phản hồi của bạn, chúng tôi đánh giá cao ý kiến ​​của mọi khách hàng!
+4000000232	Bạn có thể thêm lớp học này vào lịch trình của mình và tốn một khoản phụ phí.
+4000000233	Chúng tôi cung cấp các khóa học bằng tiếng Anh, tiếng Pháp và tiếng Tây Ban Nha.
+4000000234	Do lỗi của nhà sản xuất, chúng tôi có thể thay thế hàng miễn phí cho bạn.
+4000000235	Bạn có thể mang hàng đến cửa hàng hoặc gửi qua đường bưu điện cho chúng tôi.
+4000000236	Sản phẩm của bạn không nằm trong danh sách thu hồi của nhà sản xuất.
+4000000237	Vui lòng chuyển hàng lại cho chúng tôi trước thứ Năm.
+4000000238	Nếu bản cập nhật chưa được tải xuống sau hai phút, hãy khởi động lại thiết bị của bạn.
+4000000239	Bản dùng thử miễn phí của bạn đã hết hạn vào ngày hôm qua.
+4000000240	Xin lỗi, thanh toán của bạn không thành công, không có khoản phí nào được thực hiện.
+4000000241	Nước tẩy trang là sản phẩm giúp loại bỏ lớp trang điểm.
+4000000242	Nếu bạn mua ngay bây giờ, bạn sẽ không phải trả lãi suất cho năm tiếp theo.
+4000000243	Các loại mứt này đều được sản xuất tại địa phương nên hương vị rất tươi ngon.
+4000000244	Bạn có thể kiểm tra trang web để xem những học bổng mà chúng tôi cung cấp.
+4000000245	Chúng tôi phân chia các lớp học của mình theo độ tuổi và trình độ ngôn ngữ.
+4000000246	Chúng tôi có thể sắp xếp cho bạn một giáo viên hướng dẫn riêng nếu bạn muốn.
+4000000247	Nếu máy tính của bạn quá nóng, bạn nên làm mát nó trước.
+4000000248	Chúng tôi chỉ bán sản phẩm cho những khách hàng có giấy chứng nhận phù hợp.
+4000000249	Nếu bạn muốn tìm hiểu thêm về sản phẩm mới, hãy gọi cho chúng tôi!
+4000000250	Chúng tôi vận chuyển trên toàn thế giới, nhưng thời gian vận chuyển thường là một vài tuần.
+4000000251	Bạn có sẵn sàng tham gia cuộc khảo sát nhanh về việc mua hàng của mình không?
+4000000252	Mỗi dự án được thiết kế để đáp ứng các nhu cầu cụ thể của khách hàng.
+4000000253	Bạn có thể đổi thẻ quà tặng của mình ở bất kỳ địa điểm nào của chúng tôi.
+4000000254	Tôi không thể tìm thấy bất kỳ mặt hàng nào trong kho phù hợp với nhu cầu của bạn.
+4000000255	Bạn có muốn thêm bất kỳ mặt hàng bổ sung nào vào đơn đặt hàng của bạn không?
+4000000256	Tất cả các khoản trả lại đều cần có hóa đơn mua hàng hoặc biên nhận điện tử.
+4000000257	Tôi xin lỗi nhưng chúng tôi không thể xử lý việc trả lại mà không có biên lai mua hàng.
+4000000258	Chúng tôi cung cấp các giải pháp tùy chỉnh để phù hợp nhất với nhu cầu của bạn.
+4000000259	Chúng tôi giúp các công ty đang phát triển triển khai các hệ thống kinh doanh phức tạp.
+4000000260	Chúng tôi là nhà cung cấp dịch vụ dữ liệu chuyên nghiệp hàng đầu ở Mỹ.
+4000000261	Chúng tôi giúp khách hàng vượt qua những thách thức trong một thị trường phát triển nhanh chóng.
+4000000262	Người đoạt giải chịu trách nhiệm đóng thuế thu nhập cá nhân theo quy định của pháp luật.
+4000000263	Hãy để tôi kiểm tra trang web của chúng tôi xem chúng tôi có mô hình nào phù hợp với bạn.
+4000000264	Thực phẩm chúng tôi chế biến ở đây đều được làm bằng nguyên liệu không biến đổi gen.
+4000000265	Ngoài ra chúng tôi còn có một số khóa học chuyên sâu, bạn có thể tham gia vào cuối tuần.
+4000000266	Giáo viên trong các khóa học nâng cao sẽ không cho phép học sinh nói tiếng mẹ đẻ.
+4000000267	Chúng tôi có thể gửi cho bạn một sản phẩm thay thế hoặc hoàn lại tiền cho bạn.
+4000000268	Tôi sẽ gửi cho bạn một liên kết đến danh sách tất cả các phụ kiện tương thích.
+4000000269	Pin chỉ sử dụng được vài năm, có vẻ như bạn cần thay pin.
+4000000270	Tôi gọi để thông báo cho bạn biết đơn đặt hàng của bạn đã bị hoãn.
+4000000271	Bạn có thể nhập mã này để nhận thêm mười lăm phần trăm giảm giá.
+4000000272	Để được hỗ trợ cài đặt, vui lòng gọi điện hoặc truy cập trang web của chúng tôi.
+4000000273	Hoàn tất giao dịch mua của bạn hôm nay và nhận ngay chiết khấu mười phần trăm!
+4000000274	Việc mua hàng phải được thực hiện trước 9 giờ tối mới đủ điều kiện để vận chuyển nhanh.
+4000000275	Vui lòng kiểm tra với nhà bán lẻ địa phương của bạn về chính sách cửa hàng cá nhân.
+4000000276	Nếu kỹ năng lập trình của bạn không được cải thiện thì bạn không phải trả học phí!
+4000000277	Bạn chỉ đủ điều kiện để được hoàn tiền đầy đủ trong vòng 30 ngày kể từ ngày mua.
+4000000278	Bạn phải cung cấp bằng chứng mua hàng trước khi chúng tôi có thể hỗ trợ bạn.
+4000000279	Nếu bạn gặp sự cố này lần nữa, vui lòng liên hệ với chúng tôi sớm nhất có thể.
+4000000280	Chỉ trong hôm nay, nếu bạn mua hai chiếc, bạn sẽ được tặng một chiếc miễn phí.
+4000000281	Trường tổ chức các hoạt động vào mỗi cuối tuần giúp sinh viên thực hành những gì đã học.
+4000000282	Trong khi xe đang được sửa chữa, bạn có thể thuê một trong những chiếc xe của chúng tôi.
+4000000283	Vui lòng mang nó đến một trong những trung tâm bảo hành của chúng tôi để được sửa chữa.
+4000000284	Việc cải tiến quy trình kinh doanh chỉ có thể được thực hiện với tài liệu quy trình chính xác.
+4000000285	Các lớp học của chúng tôi được điều chỉnh để phù hợp nhất với nhu cầu của từng học viên.
+4000000286	Bạn có thể tham gia một lớp học thử ba mươi phút miễn phí.
+4000000287	Tôi rất tiếc khi biết điều đó, chúng tôi sẽ gửi cho bạn thiết bị thay thế ngay lập tức.
+4000000288	Các giải pháp của chúng tôi rất linh hoạt và có thể giúp bạn giải quyết các khó khăn.
+4000000289	Đội ngũ nhân viên của chúng tôi sẽ sẵn lòng trả lời bất kỳ câu hỏi nào của bạn.
+4000000290	Bạn có thời gian để thực hiện khảo sát về mức độ hài lòng của khách hàng bây giờ không?
+4000000291	Ban tổ chức sẽ liên hệ với người thắng giải của mỗi bài thi và người thắng giải chung cuộc để xác nhận và trao giải.
+4000000292	Chúng tôi gọi điện để thông báo cho bạn biết rằng sản phẩm bạn đã mua sẽ bị thu hồi.
+4000000293	Chúng tôi gọi điện để đảm bảo rằng các thiết bị của bạn vẫn đang hoạt động bình thường.
+4000000294	Tất cả các giao dịch mua trên một triệu đồng đều được tham gia rút thăm trúng thưởng hàng tháng của chúng tôi.
+4000000295	Dịch vụ khách hàng là ưu tiên của chúng tôi và chúng tôi sẽ xử lý mọi khiếu nại một cách nghiêm túc.
+4000000296	Chúng tôi không thể hoàn lại tiền cho bạn nhưng chúng tôi có thể cung cấp cho bạn thẻ giảm giá mua sắm.
+4000000297	Vui lòng mang máy đến trung tâm bảo hành để kỹ thuật viên của chúng tôi có thể kiểm tra.
+4000000298	Chúng tôi không thể hoàn lại đầy đủ cho bạn nhưng chúng tôi có thể hoàn lại 40% tiền mặt cho bạn.
+4000000299	Đội ngũ chuyên gia của chúng tôi có thể giải quyết những vấn đề khó khăn nhất.
+4000000300	Chúng tôi đảm bảo hoàn lại tiền nếu bạn không vừa ý.

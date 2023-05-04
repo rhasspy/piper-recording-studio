@@ -1,0 +1,300 @@
+3000000001	Hast du heute Zeit für einen Spaziergang?
+3000000002	Heute ist ein wunderschöner Tag um spazieren zu gehen.
+3000000003	Er ist heute morgen mit Fieber, ein wenig Schnupfen, Kopfweh und Husten aufgewacht.
+3000000004	Das klingt nach einer Grippe.
+3000000005	Wenn es ihm morgen gleich geht, werde ich mit ihm zum Kinderarzt gehen.
+3000000006	Ich mag das Gefühl nicht, ein krankes Kind zu haben.
+3000000007	Aber als Kind war ich eigentlich ganz gerne krank, erinnere ich mich.
+3000000008	Doch, da habe ich zwei Tage nicht in die Arbeit gehen können.
+3000000009	Ich bin auch froh, wenn ich nicht zum Arzt muss.
+3000000010	Sag mal, ich wollte dich mal was fragen.
+3000000011	Was hat dir an deinem alten Job am liebsten gefallen?
+3000000012	Eine Abfindung ist Geld, damit ich nicht von heute auf morgen ohne Einkommen dastehe.
+3000000013	Und möchtest du Vollzeit arbeiten?
+3000000014	Hast du sonst noch Einschränkungen?
+3000000015	Zacki, so früh schon auf den Beinen?
+3000000016	Ja, ich habe mir extra den Wecker gestellt, um zu dir zu kommen.
+3000000017	Das ist nett von dir.
+3000000018	Finde ich ja auch.
+3000000019	Und warum musste es heute so früh sein?
+3000000020	Also die meisten Deutschen lassen sich von ihrem Wecker wecken und dann stehen sie auf.
+3000000021	Was frühstücken die Deutschen denn?
+3000000022	Nachher verlassen viele Leute das Haus und gehen in die Schule oder in die Arbeit.
+3000000023	Feierabend nennt man einfach das Ende der Arbeitszeit.
+3000000024	Ich wollte dich besuchen.
+3000000025	Das freut mich sehr.
+3000000026	Wieso sagt man das so?
+3000000027	Darf jeder Mensch in der Schweiz studieren?
+3000000028	So nennt man die kleine Wohnung, in der ein Student lebt.
+3000000029	Kein Problem, dann lass uns in die Mensa gehen.
+3000000030	Was machst du jetzt noch?
+3000000031	Ich gehe in die Bibliothek, wo mann Bücher ausleihen kann oder die dort vorhandenen lesen.
+3000000032	Ich möchte die Schweiz verstehen.
+3000000033	Man nennt das auch Bürgersteig.
+3000000034	Und was ist dass da?
+3000000035	Und das mit den Rillen am Boden?
+3000000036	Du musst dafür eine Fahrkarte kaufen, vor deiner Fahrt am Schalter oder auch an Automaten.
+3000000037	Manchmal gehen wir auch einfach nur spazieren.
+3000000038	Und was ist das Ziel?
+3000000039	Das Ziel ist am Sonntag meistens Kaffee und Kuchen.
+3000000040	Ja, das weiss ich.
+3000000041	Es ist schön gewesen.
+3000000042	Das weiss ich nicht.
+3000000043	Ja, wir haben Fangen gespielt.
+3000000044	Ist sonst noch irgendwas gewesen?
+3000000045	Er hat ganz gut ein Tor verhindern können.
+3000000046	Die Lehrerin hat ihm ein Pflaster gegeben.
+3000000047	Dann ist ja gut.
+3000000048	Bald gibt es Zeugnisse.
+3000000049	Noten sind wichtig, damit man weiss, wie gut oder schlecht man in einem Fach ist.
+3000000050	Aber weisst du, was das Beste am Zeugnis ist?
+3000000051	Was ist das Beste daran?
+3000000052	Was hat er denn genau gehabt?
+3000000053	Er mag es sehr, wenn man ihm am Rücken kratzt.
+3000000054	Das war bei meiner Katze damals auch so. 
+3000000055	Ach stimmt ja, du hast eine Katze.
+3000000056	Warum ist dass denn so?
+3000000057	Na, weil man dauernd Gassi gehen müsste.
+3000000058	Daran gewöhnt man sich sehr schnell.
+3000000059	Ich wünsche dir viel Spass draussen, während ich drinnen gemütlich mit einer Tasse Tee sitze.
+3000000060	Hallo, dich habe ich ja schon lange nicht mehr gesehen!
+3000000061	Das siehst du ja, ich jogge.
+3000000062	Seit wann joggst du denn?
+3000000063	Ich habe mich letztes Jahr sogar für einen Halbmarathon angemeldet und es hat gut geklappt!
+3000000064	Ich bin glücklich, wenn ich zwei Runden um den See schaffe.
+3000000065	Wo nimmst du nur die Zeit dafür her?
+3000000066	Also ich versuche eher, mich im Alltag zu bewegen. 
+3000000067	Was für ein Sauwetter!
+3000000068	Es hat erst angefangen zu regnen, als ich vom Einkaufen zurückgekommen bin.
+3000000069	Die Olympiahalle ist toll, aber viel schöner sind doch Konzerte gleich auf dem Königsplatz!
+3000000070	Aber das geht nur im Sommer.
+3000000071	Und was machst du heute Abend?
+3000000072	Mein Onkel wohnt in der Nähe, und mein Cousin arbeitet auch im gleichen Ort.
+3000000073	Komm, lass uns gleich etwas essen gehen und in Ruhe weiterreden!
+3000000074	Entschuldigung, wo sind denn hier die Tomaten?
+3000000075	Da vorne, in der Gemüseabteilung.
+3000000076	Da habe ich schon nachgeschaut, aber ich habe sie nicht gesehen.
+3000000077	Doch, sie sind vorne links, gleich am Eingang.
+3000000078	Sie haben wohl Hunger?
+3000000079	Zum Spargel bräuchte ich noch Kartoffeln.
+3000000080	Wie sieht’s mit einer Nachspeise dazu aus?
+3000000081	Was passt denn zu Spargel?
+3000000082	Sonst noch einen Wunsch?
+3000000083	Das ist ja mal wieder typisches Aprilwetter!
+3000000084	Wieso, was meinst du?
+3000000085	Gestern bin ich gefroren, obwohl ich einen dicken Pulli angehabt habe, und heute schwitze ich.
+3000000086	Dieses Wetter ist sehr vielfältig.
+3000000087	Ich freue mich über alle kleine Details.
+3000000088	Das Wetter in Kalifornien allgemein ist sehr schön.
+3000000089	Schnee ist schon was schönes, oder?
+3000000090	Oh, schau mal, jetzt regnet es wieder.
+3000000091	Vielleicht sehen wir ja noch einen Regenbogen, das wär doch super!
+3000000092	Ich hab schon lange keinen Regenbogen mehr gesehen.
+3000000093	Angeblich steigen die Temperaturen die nächsten Tage über und es wird wieder schöner.
+3000000094	Was hast du dir angeschaut?
+3000000095	Von dem hab ich noch gar nichts gehört.
+3000000096	Kenn ich den Autor?
+3000000097	Und wie bist du auf das Buch gekommen?
+3000000098	Das hat mir eine Kollegin empfohlen.
+3000000099	Sollen wir mal was bestellen?
+3000000100	Doch, das hat erst vor ein paar Wochen aufgemacht.
+3000000101	Wir möchten den Flug für in zwei Wochen buchen.
+3000000102	Wieso sollte ich alles buchen?
+3000000103	Es ist einfacher, wenn nur eine Person für alle bucht.
+3000000104	Das würde ich auch toll finden.
+3000000105	Wir könnten aber auch zusammen in die Ferien gehen, aber jeder bucht seine eigene Flüge.
+3000000106	Wann wirst du deinen Koffer packen?
+3000000107	Da wir in zwei Wochen fliegen, fange ich mit dem packen in einer Woche an.
+3000000108	Ja, ich glaube, ich werde das auch so machen.
+3000000109	Ich habe ihn in der Schule entschuldigt.
+3000000110	Würde ich auch so machen.
+3000000111	Du kannst ihm gegen das Kopfweh ein Schmerzmittel geben.
+3000000112	Das werde ich tun.
+3000000113	Ich habe einen Saft, der gegen Fieber und Schmerzen hilft.
+3000000114	Ich werde es ihm ausrichten.
+3000000115	Ich gebe mir Mühe.
+3000000116	Ich bin erst vor zwei Wochen krank gewesen.
+3000000117	Manchmal geht es eben nicht anders.
+3000000118	Vor allem wenn man ein Rezept braucht für Medikamente.
+3000000119	Ich melde mich übermorgen nochmal bei dir.
+3000000120	Vielleicht hast du dann Zeit für einen Spaziergang.
+3000000121	Nein, ganz so ist es auch nicht gewesen.
+3000000122	Ich habe eine gute Abfindung bekommen.
+3000000123	Aber Teilzeit wäre super.
+3000000124	Das Geld ist mir nicht so wichtig. 
+3000000125	Ich habe da eine Idee.
+3000000126	Ein Bekannter von mir arbeitet in einer recht grossen Firma.
+3000000127	Viele Deutsche trinken Kaffee.
+3000000128	Mittags gibt es eine Pause.
+3000000129	Nach acht Arbeitsstunden haben die meisten Menschen dann Feierabend.
+3000000130	Ich kenne niemanden, der abends Marmelade isst.
+3000000131	Abends essen viele Deutsche das sogenannte Abendbrot.
+3000000132	Das ist eine Uni.
+3000000133	Ich studiere hier, ich bin eine Studierende.
+3000000134	Damit man am Wort selber nicht das Geschlecht erkennt.
+3000000135	Früher war es Student und Studentin.
+3000000136	Studieren bedeutet, dass ich hier etwas lerne.
+3000000137	Es ist wie eine Schule für Erwachsene.
+3000000138	Erst geht man neun Jahre lang in die Schule.
+3000000139	Danach gibt es eine Prüfung.
+3000000140	Ich habe manchmal auch Semesterferien.
+3000000141	Ich muss Geld verdienen, um mir meine Studentenbude leisten zu können.
+3000000142	Der Ort, wo die Studierende billig essen gehen können.
+3000000143	Es schmeckt ab und zu gut.
+3000000144	Ich bin nicht von hier.
+3000000145	Wir stehen auf dem Gehweg.
+3000000146	Hier dürfen die Fussgänger sich aufhalten.
+3000000147	Hier passiert uns nichts.
+3000000148	Das grössere, lange Auto da nennen wir Bus, wo mehr Menschen reinpassen.
+3000000149	Es ist eine Strassenbahn.
+3000000150	Sie holt sich an den Leitungen Strom und fährt auf Schienen.
+3000000151	Das hat viele Gründe.
+3000000152	Wir fahren in die Arbeit, zum Einkaufen oder wir treffen Freunde.
+3000000153	Um uns zu bewegen.
+3000000154	Wir gehen dann langsam.
+3000000155	Am liebsten mit Freunden oder der Familie.
+3000000156	Und in Sport haben wir Fussball gespielt.
+3000000157	Mein Freund Carlo hat als Verteidiger sehr gut gespielt.
+3000000158	Ich bin gespannt, welche Noten du bekommst.
+3000000159	Danke, dass du fragst.
+3000000160	Es war zum Glück halb so schlimm.
+3000000161	Die Wunde ist schnell verheilt.
+3000000162	Ja, man sieht sie sehr gut.
+3000000163	Aber das Fell wächst schnell wieder nach.
+3000000164	Ja, sie ist schon fast 20 Jahre alt.
+3000000165	Aber sie ist zum Glück nur ein bisschen schwerhörig.
+3000000166	Na mit 20 Jahren darf man ruhig schwerhörig sein.
+3000000167	Der Tierarzt ist jedenfalls ganz erstaunt gewesen, dass sie so fit ist.
+3000000168	Mag ich auch nicht.
+3000000169	Aber mein Arzt hat gesagt, ich soll mehr Sport machen.
+3000000170	Es tut mir gut.
+3000000171	Was machst du so?
+3000000172	Das war echt eine Überwindung, aber danach war ich wirklich glücklich.
+3000000173	Vielleicht ist ja Laufen nichts für dich.
+3000000174	Ich gehe jeden Mittwoch schwimmen und ins Fitnessstudio.
+3000000175	Ach, das geht schon.
+3000000176	Dafür sehe ich so gut wie nie fern.
+3000000177	Das kann man wohl sagen.
+3000000178	Es regnet seit Stunden.
+3000000179	Wenn es ein paar Grad kälter wäre, würde es schneien.
+3000000180	Das wäre gleich viel schöner.
+3000000181	Aber dann wären auch die Strassen glatt.
+3000000182	Ich fahre heute Abend noch zu einem Konzert.
+3000000183	Ich gehe erstmal in die Badewanne.
+3000000184	Meine Zehen sind ganz kalt.
+3000000185	Dann mal viel Spass.
+3000000186	Ich erzähl dir nächstes Mal, wie das Konzert gewesen ist.
+3000000187	Ja, sie hat mir davon erzählt.
+3000000188	Sie hat dich erst gar nicht erkannt.
+3000000189	Also, dass sie mich nicht erkannt hat.
+3000000190	Am ersten Weihnachtsfeiertag haben wir dann noch meine Grosseltern im Altersheim besucht.
+3000000191	Dann ist es ja gut.
+3000000192	Ich muss weiter, wir sehen uns sicher bald wieder.
+3000000193	Ich bin gerade zu Besuch.
+3000000194	Ich mache hier eine Weiterbildung.
+3000000195	Wir müssen unbedingt Essen gehen!
+3000000196	Selbst wenn sie sich streiten, ist es ein ernstes Thema.
+3000000197	Die Leute sind nett.
+3000000198	Nein, habe ich nicht.
+3000000199	Ich verbringe ich viel Zeit mit meinen Eltern.
+3000000200	Das ist schweizer Spargel.
+3000000201	Solothurner um genau zu sein.
+3000000202	Oder besser gleich zwei.
+3000000203	Die sind dort neben den Zwiebeln.
+3000000204	Wir haben zarte Kartoffeln, die muss man nicht schälen.
+3000000205	Gut, dann ist der Abend also gerettet.
+3000000206	Mit etwas Vanilleeis vielleicht.
+3000000207	Ich könnte es ändern.
+3000000208	Ich könnte nach Kalifornien ziehen.
+3000000209	Ist aber irgendwie ganz gemütlich.
+3000000210	Zum Glück sind wir hier drin.
+3000000211	Unsere Chancen stehen nicht schlecht.
+3000000212	Da hinten reisst die Wolkendecke auf.
+3000000213	Und dann kaufe ich mir noch schnell bei der Drogerie einen Regenschirm.
+3000000214	Na das klingt doch gut.
+3000000215	Dann essen wir ein Eis, wenn es wärmer wird.
+3000000216	Hoffentlich werde ich nicht krank.
+3000000217	Oh, das tut mir leid.
+3000000218	Setz dich doch erstmal.
+3000000219	Nein, eben erst gekommen.
+3000000220	Hab zum Glück gleich einen Parkplatz gefunden.
+3000000221	Aber ich war im Kino.
+3000000222	Jeder geht alleine in die Ferien.
+3000000223	Das ist ein guter Kompromiss.
+3000000224	Ich freue mich, dass wir uns einigen können.
+3000000225	Er muss jetzt viel trinken.
+3000000226	Na dann gute Besserung.
+3000000227	Mein Sohn darf fernsehen, und ich bringe ihm Essen und Getränke.
+3000000228	Na dann wünsche ich deinem Sohn gute Besserung.
+3000000229	Seit einigen Jahren darf sie auch nach draussen.
+3000000230	Ich mag, dass Katzen so selbständig sind!
+3000000231	War nicht so gemeint.
+3000000232	Ich freu mich jedenfalls, wenn wir uns manchmal hier beim Joggen sehen.
+3000000233	Würde mich auch freuen.
+3000000234	Wenn es wenigstens nur ein leichter Nieselregen wäre.
+3000000235	Aber es schüttet ja regelrecht!
+3000000236	Ich habe letzte Woche deine Schwester getroffen.
+3000000237	Sie hat gut ausgesehen!
+3000000238	Ich erinnere mich noch, dass du schwer in eine Studentin verliebt warst.
+3000000239	Ich weiss, man sollte nicht hungrig einkaufen gehen.
+3000000240	Na da sag ich nicht nein.
+3000000241	Du hast ja auch eine Winterjacke an!
+3000000242	Zieh sie doch einfach aus.
+3000000243	Solltest du dir anschauen!
+3000000244	Ich muss aber erst noch mein Buch zu Ende lesen.
+3000000245	Was hat er denn?
+3000000246	Ich bin gerade auf der Suche nach einer neuen Arbeitsstelle.
+3000000247	Vielleicht weisst du was?
+3000000248	In welchem Bereich suchst du denn?
+3000000249	Gibt es da auch Marmelade?
+3000000250	Und was bedeutet Studieren?
+3000000251	Das ist ganz interesant.
+3000000252	Studierst du jeden Tag?
+3000000253	Und was suchst du hier in der Schweiz?
+3000000254	Das möchten viele Menschen auch.
+3000000255	Kann ich dir helfen?
+3000000256	Kannst du mir alles zeigen?
+3000000257	Wo fangen wir an?
+3000000258	Wo sind wir hier?
+3000000259	Darf ich da einfach einsteigen?
+3000000260	Hast du in der Pause mit deinen Freunden gespielt?
+3000000261	Hey, schön dich zu sehen.
+3000000262	Sag mal, wie geht es deinem Hund?
+3000000263	Das kann ich mir vorstellen.
+3000000264	Sieht man eine Narbe?
+3000000265	Stimmt, ich dich auch nicht.
+3000000266	Da hat er natürlich recht.
+3000000267	Erst waren wir bei meinen Eltern zu Besuch, und dann bei den Schwiegereltern.
+3000000268	Ja, wir sind drei Jahren zusammengewesen.
+3000000269	Ich habe mittlerweile drei Kinder, bin aber allein erziehend.
+3000000270	Danke, ich geh nochmal nachsehen.
+3000000271	Ist denn momentan irgendwas im Angebot?
+3000000272	Ist der Spargel denn aus der Schweiz oder ist er importiert worden?
+3000000273	Tja, mich würde es freuen.
+3000000274	Kann ich Ihnen noch etwas anbieten?
+3000000275	Ich hab ehrlich gesagt gar keine Lust, alleine zu essen.
+3000000276	Haben Sie nicht Lust, mitzuessen?
+3000000277	Wenn das so weitergeht auf jeden Fall.
+3000000278	Hast du den Wetterbericht gehört?
+3000000279	Bist du schon lange hier?
+3000000280	Hast du schon bestellt?
+3000000281	Und, was gibt’s Neues?
+3000000282	Praktisch, wenn man solche Kolleginnen hat.
+3000000283	Wie ist es bei dir gerade in der Arbeit?
+3000000284	Ist mir gar nicht aufgefallen.
+3000000285	Kann ich mit euch mitreisen?
+3000000286	Klar, das wäre super.
+3000000287	Wann bist du frei?
+3000000288	Ich wollte dich gerade selber fragen.
+3000000289	Für wann wollt ihr buchen?
+3000000290	Ok, das passt mir, weil ich da gerade auch Ferien habe.
+3000000291	Habt ihr schon gebucht?
+3000000292	Nein, haben wir nicht.
+3000000293	Möchtest du alles buchen?
+3000000294	Das habe ich gar nicht gemerkt.
+3000000295	Ich arbeite immer noch in der gleichen Firma wie damals.
+3000000296	Wie ist das mit dem Abendessen?
+3000000297	Könntest du ihn mal fragen, ob ich mich vorstellen kann?
+3000000298	Und was machst du?
+3000000299	Wie geht es dir?
+3000000300	Was machst Du denn hier?

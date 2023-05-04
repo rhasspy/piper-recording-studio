@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>Record</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Contribute to open source voice">
+        <meta name="author" content="Michael Hansen">
+
+        <link rel="icon" href="img/favico.png">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome-all.min.css" rel="stylesheet">
+
+        <script src="js/wavesurfer.js"></script>
+        <script src="js/wavesurfer.microphone.min.js"></script>
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-md bg-dark text-light">
+                <a class="btn btn-info" href="/">
+                    <i class="fas fa-home mr-1"></i>
+                    Home
+                </a>
+            </nav>
+        </header>
+        {% if multi_user and (not user_id): %}
+        <div class="container-fluid mt-3">
+            <div class="row-fluid">
+                <div id="alert" class="alert alert-danger">Invalid login code</div>
+            </div>
+        </div>
+        {% else: %}
+        <form id="form" method="POST" onsubmit="submitAudio()">
+            <input type="hidden" name="language" value="{{ language }}">
+            <input type="hidden" name="userId" value="{{ user_id }}">
+            <input id="promptGroup" type="hidden" name="promptGroup" value="{{ prompt_group }}">
+            <input id="promptId" type="hidden" name="promptId" value="{{ prompt_id }}">
+            <input id="promptText" type="hidden" name="text" value="{{ text }}">
+
+            <div class="container-fluid mt-3">
+                <div class="row-fluid">
+                    <div id="alert" class="alert alert-info">Waiting for microphone to be enabled</div>
+                </div>
+                <div class="row-fluid text-center">
+                    <p>
+                        Record yourself speaking the text below. You can play it back or re-record before submitting.
+                    </p>
+                </div>
+                <div class="row-fluid">
+                    <div id="waveform"></div>
+                </div>
+                <div class="control-group mt-3">
+                    <div class="controls row-fluid">
+                        <button type="button" id="record" class="btn btn-lg btn-warning" data-action="record" hidden>
+                            <i id="recordIcon" class="fas fa-microphone mr-1"></i>
+                            <span id="recordText">Record [r]</span>
+                        </button>
+                        <button type="button" id="enable" class="btn btn-lg btn-primary" data-action="enable">
+                            <i class="fas fa-power-off mr-1"></i>
+                            Enable Microphone
+                        </button>
+                    </div>
+                </div>
+                <div class="control-group mt-3">
+                    <div class="controls row-fluid">
+                        <textarea id="text" rows="3" class="form-control" readonly>{{ text }}</textarea>
+                    </div>
+                </div>
+                <div class="control-group mt-5">
+                    <div class="controls row">
+                        <div class="col-auto">
+                            <button id="submit" type="submit" class="btn btn-lg btn-success" data-action="submit">
+                                <i class="fas fa-upload mr-1"></i>
+                                Submit [s]
+                            </button>
+                            <i id="submittedIcon" class="fas fa-thumbs-up ml-2" title="Submitted" hidden></i>
+                        </div>
+                        <div class="col">
+                          <div id="clipDiv" hidden>
+                            <audio id="clip" controls></audio>
+                            <span>(press "p" to play)</span>
+                          </div>
+                        </div>
+                        <div class="col-auto pull-right" hidden>
+                            <button id="skip" type="submit" class="btn btn-lg btn-warning" data-action="skip">
+                                <i class="fas fa-arrow-right mr-1"></i>
+                                Skip [k]
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group mt-2">
+                    <div class="controls row">
+                        <div class="col-auto">
+                            <p>
+                                By clicking <strong>Submit</strong>, you agree to dedicate your recorded audio to the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain (CC0)</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="control-group mt-5">
+                    <div class="row-fluid">
+                        <label for="complete_percent">Progress: <span id="numComplete">{{ num_complete }}</span> / <span id="numItems">{{ num_items }}</span></label>
+                        <div id="complete_percent" class="progress" style="height: 2rem;">
+                            <div id="progressComplete" class="progress-bar" role="progressbar" aria-valuenow="{{ complete_percent }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ complete_percent }}%;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <!-- FOOTER -->
+        <hr>
+        <footer class="container mt-5">
+            <p>
+                &copy; 2023 <a href="https://synesthesiam.com" alt="Link to author home page">Michael Hansen</a> &middot; <a href="https://raw.githubusercontent.com/rhasspy/rhasspy/master/LICENSE">License</a>
+            </p>
+        </footer>
+
+        <script>
+         var wavesurfer = {};
+         var recording = false;
+         var recorder = null;
+         var chunks = [];
+         var blob = null;
+         var audioFormat = null;
+
+         function q(id) {
+             return document.querySelector(id);
+         }
+
+         function setAlert(text, className) {
+             q('#alert').classList.remove('alert-info');
+             q('#alert').classList.remove('alert-danger');
+             q('#alert').classList.remove('alert-success');
+             q('#alert').classList.remove('alert-warning');
+
+             q('#alert').classList.add(className);
+             q('#alert').textContent = text;
+         }
+
+         function stopRecording() {
+             recording = false;
+             recorder.stop();
+
+             blob = new Blob(chunks, { 'type' : 'audio/webm' });
+
+             // Audio preview
+             q('#clip').src = window.URL.createObjectURL(blob);
+             q('#clipDiv').hidden = false;
+
+             q('#recordIcon').classList.remove('fa-stop');
+             q('#recordIcon').classList.add('fa-microphone');
+             q('#recordText').textContent = 'Record [r]';
+             q('#record').classList.remove('btn-danger');
+             q('#record').classList.add('btn-warning');
+
+             q('#record').disabled = false;
+             q('#skip').disabled = false;
+             q('#submit').disabled = false;
+
+             setAlert('Done recording', 'alert-success');
+         }
+
+         async function submitAudio() {
+             event.preventDefault();
+             const formData = new FormData(q('#form'));
+             var formPage = 'submit';
+
+             if (event.submitter.id == 'skip') {
+                 setAlert('Skipping...', 'alert-warning');
+                 var formPage = 'skip';
+             } else {
+                 setAlert('Submitting data...', 'alert-warning');
+
+                 formData.set('audio', blob, 'audio');
+                 formData.set('duration', q('#clip').duration);
+                 formData.set('format', audioFormat);
+             }
+
+             let response = await fetch(formPage, {
+                 method: 'POST',
+                 body: formData
+             })
+                 .then(response => {
+                     if (!response.ok) {
+                         throw Error(response.statusText);
+                     }
+
+                     return response.json();
+                 })
+                 .then(result => {
+                     if (result.done) {
+                         window.location.pathname = "/done.html";
+                         return;
+                     }
+                     
+                     // Update page
+                     q('#promptGroup').value = result.promptGroup;
+                     q('#promptId').value = result.promptId;
+                     q('#promptText').value = result.promptText;
+                     q('#text').textContent = result.promptText;
+
+                     q('#numComplete').textContent = result.numComplete;
+                     q('#numItems').textContent = result.numItems;
+                     q('#progressComplete').setAttribute('aria-valuenow', result.completePercent);
+                     q('#progressComplete').style.width = result.completePercent + '%';
+
+                     setAlert('Microphone ready!', 'alert-success');
+
+                     q('#submit').disabled = true;
+                     q('#skip').disabled = false;
+                     q('#clipDiv').hidden = true;
+                     q('#submittedIcon').hidden = false;
+                 })
+                 .catch((error) => {
+                     setAlert('Failed to submit: ' + error, 'alert-danger');
+                 });
+         };
+
+          document.addEventListener('keyup', function(e){
+              if(e.which == 82) {
+                  // "r"
+                  if (!recording) {
+                      q("#record").click();
+                  }
+              } else if(e.which == 83) {
+                  // "s"
+                  q("#submit").click();
+              } else if(e.which == 70) {
+                  // "f"
+                  if (recording) {
+                      q("#record").click();
+                  }
+              } else if(e.which == 80) {
+                  // "p"
+                  if (!recording) {
+                      q("#clip").play();
+                  }
+              } else if(e.which == 75) {
+                  // "k"
+                  // q("#skip").click();
+              }
+          });
+
+          document.addEventListener('DOMContentLoaded', function() {
+              q('#record').disabled = true;
+              q('#submit').disabled = true;
+              q('#skip').disabled = true;
+
+              const preferredFormat = 'audio/ogg; codecs=opus';
+              const audio = document.createElement('audio');
+              audioFormat = audio.canPlayType(preferredFormat)
+                  ? preferredFormat
+                  : 'audio/wav';
+
+              wavesurfer = WaveSurfer.create({
+                  container: q('#waveform'),
+                  interact: false,
+                  waveColor: '#000',
+                  cursorWidth: 0,
+                  plugins: [
+                      WaveSurfer.microphone.create()
+                  ]
+              });
+
+              wavesurfer.microphone.on('deviceReady', function(stream) {
+                  if (MediaRecorder === undefined) {
+                      recorder = new window.MediaRecorder(stream);
+                  } else {
+                      recorder = new MediaRecorder(stream);
+                  }
+
+                  q('#record').disabled = false;
+                  q('#skip').disabled = false;
+                  setAlert('Microphone ready!', 'alert-success');
+              });
+
+              wavesurfer.microphone.on('deviceError', function(code) {
+                  recorder = null;
+                  q('#record').disabled = true;
+                  setAlert('Device error: ' + code, 'alert-danger');
+              });
+
+              q('[data-action="record"]')
+                  .addEventListener('click', function() {
+                      if (recording) {
+                          q('#record').disabled = true;
+                          setAlert('Finishing recording...', 'alert-info');
+                          setTimeout(stopRecording, 1000);
+                      }
+                      else {
+                          recording = true;
+                          chunks = [];
+
+                          recorder.start(500);
+                          recorder.ondataavailable = function(e) {
+                              chunks.push(e.data);
+                          };
+
+                          q('#recordIcon').classList.remove('fa-microphone');
+                          q('#recordIcon').classList.add('fa-stop');
+                          q('#recordText').textContent = 'Finish [f]';
+                          q('#record').classList.remove('btn-warning');
+                          q('#record').classList.add('btn-danger');
+
+                          q('#submit').disabled = true;
+                          q('#skip').disabled = true;
+                          q('#clipDiv').hidden = true;
+                          q('#submittedIcon').hidden = true;
+
+                          setAlert('Recording...', 'alert-warning');
+                      }
+                  });
+
+              q('[data-action="enable"]')
+                  .addEventListener('click', function() {
+                      wavesurfer.microphone.start();
+                      q('#record').hidden = false;
+                      q('#enable').hidden = true;
+                  });
+          });
+        </script>
+        {% endif %}
+    </body>
+</html>

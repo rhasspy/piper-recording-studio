@@ -1,0 +1,300 @@
+3000000001	Našla som si novú prácu.
+3000000002	Budem sa musieť kvôli nej sťahovať.
+3000000003	Budeš ma musieť pozvať, keď sa presťahuješ.
+3000000004	Teším sa už na zmenu prostredia.
+3000000005	Snažím sa študovať každý deň, aby som si to stihla.
+3000000006	Tebe sa vždy darilo v škole.
+3000000007	O dva mesiace uvidíme, či to zvládnem.
+3000000008	Chcela by som ísť niekde na dovolenku.
+3000000009	Nebola som už dávno nikde.
+3000000010	Mali by sme si ale zarezervovať všetko čím skôr.
+3000000011	Keď všetko rezervujem, napíšem ti koľko je tvoja časť ceny.
+3000000012	Už som dávno nebola na žiadnom koncerte.
+3000000013	Bude to ako za starých čias.
+3000000014	Tie sú aj moje najobľúbenejšie.
+3000000015	Ľahko sa pri nich relaxuje.
+3000000016	Ale občas čítame aj biografie alebo náučné knihy.
+3000000017	Rada čítam o životoch známych ľudí.
+3000000018	Možno keď sa usadím v práci.
+3000000019	Neviem, či by som mala teraz na to čas.
+3000000020	Chcú sa venovať rekonštrukcii našej chaty.
+3000000021	Áno, žije ešte stále tam.
+3000000022	Bola som ju navštíviť pred pár mesiacmi.
+3000000023	Vždy som tam chcela ísť.
+3000000024	Snažila som sa navštíviť všetky turistické miesta, ale aj menej známe miesta.
+3000000025	Mamu pred mesiacom povýšili v práci.
+3000000026	Otec uvažuje nad adoptovaním psa.
+3000000027	To je jeho najobľúbenejšie plemeno.
+3000000028	To som mu navrhovala aj ja.
+3000000029	Budem mu musieť ešte dohovoriť.
+3000000030	Keby som nebola alergická, mala by som už asi päť.
+3000000031	Ty si vždy mala rada všetky zvieratá.
+3000000032	Nevedia sa jej už dočkať.
+3000000033	Bola som na zopár rande, ale nič z toho nevzišlo.
+3000000034	Áno, práve taký byt som hľadala.
+3000000035	Nemám momentálne čas ani financie rekonštruovať byt.
+3000000036	Prenajala som si trojizbový byt.
+3000000037	Druhú spálňu chcem skombinovať s pracovňou.
+3000000038	Stôl je zo skla a kovu.
+3000000039	Stoličky sú z kože a kovu.
+3000000040	V mojej spálni je aj šatník, za čo som veľmi vďačná.
+3000000041	Konferenčný stolík a obývacia skriňa sú viac industriálne.
+3000000042	Toto všetko znie veľmi dobre.
+3000000043	Neviem sa dočkať, keď ťa prídem navštíviť.
+3000000044	Výborne sa pri tom relaxuje.
+3000000045	Pamätám sa, že si veľmi pekne kreslila na strednej škole.
+3000000046	Myslím si, že elektronicky postačí.
+3000000047	Predsa len to je len rodinná oslava.
+3000000048	V tom prípade by som odporučila kultúrny dom.
+3000000049	Viem o jednej veľmi dobrej cateringovej spoločnosti.
+3000000050	Áno, môj známy hrá väčšinou na takýchto oslavách.
+3000000051	Určite sa s ním budete vedieť dohodnúť.
+3000000052	Organizácia nie je mojou silnou stránkou.
+3000000053	Mrzí ma, že sa tomu nemôžem venovať častejšie.
+3000000054	Bohužiaľ, nie je pre takúto prácu veľký market.
+3000000055	Robím to už len rodinu a priateľov.
+3000000056	Ja potrebujem v živote stabilitu.
+3000000057	Bude tam nová divadelná sála, obchody aj kancelárske priestory.
+3000000058	Konečne sa do toho niekto pustil.
+3000000059	Bolo by škoda nechať takú budovu schátrať.
+3000000060	Ja sa teším hlavne na tú novú divadelnú sálu.
+3000000061	Na to sa teším aj ja.
+3000000062	Nie vždy mám čas za divadlom cestovať.
+3000000063	Voľakedy tu nebolo čo robiť.
+3000000064	Nemusí im byť zima pri tých starých oknách, čo tam boli.
+3000000065	Aj profesori si to určite pamätajú.
+3000000066	Na vysokej škole tiež nie je zle.
+3000000067	Majú kvalitné a štýlové oblečenie za skvelé ceny.
+3000000068	Seriál má len jednu sériu, ktorá má 8 epizód.
+3000000069	Každe epizóda má približne štyridsaťpäť minút.
+3000000070	Mne sa to veľmi páčilo.
+3000000071	Dúfam, že aj druhá séria bude taká dobrá.
+3000000072	Nechcela by si prísť ku mne cez víkend?
+3000000073	Pozreli by sme si ho.
+3000000074	Už dávno sme nemali babský večer.
+3000000075	Mali by sme ich plánovať častejšie.
+3000000076	Ja si myslím, že sa tam oplatí ísť.
+3000000077	Jedlo aj servis boli vynikajúce.
+3000000078	Objednala som si špeciál toho večera.
+3000000079	Napíšem mu správu nech nám zarezervuje stôl.
+3000000080	Teším sa na všetky plány, ktoré sme si dohodli.
+3000000081	Dúfajme, že nám počasie nič nepokazí.
+3000000082	V to dúfam aj ja.
+3000000083	Vôbec sa už nedá predvídať.
+3000000084	Pred mesiacom som bola na túre s rodinou a zmokli sme ako myši.
+3000000085	Aspoň, že ste sa k prístrešku dostali.
+3000000086	Ja by som bála byť vonku počas búrky.
+3000000087	Ja sa mám tiež dobre.
+3000000088	Našla si si už nové bývanie?
+3000000089	Ďakujem, to je od teba milé.
+3000000090	Koľko učenia máš ešte pred sebou?
+3000000091	Budeš aj oslavovať ukončenie štúdia?
+3000000092	Máš už aj naplánované, že kam?
+3000000093	Ja by som veľmi rada s tebou išla.
+3000000094	Máš už nejaký na mysli?
+3000000095	Tých by som veľmi rada videla naživo.
+3000000096	Ako dlho trvá ten festival?
+3000000097	Ja sa o to môžem postarať, keď prídem domov.
+3000000098	O pár rokov by sme mali mať desaťročnú stretávku.
+3000000099	Myslíš, že to niekto zorganizuje?
+3000000100	Ako často sa stretávate?
+3000000101	Chcela by si sa pridať do klubu?
+3000000102	Ako sa má tvoja rodina?
+3000000103	Odkáž mame, že gratulujem.
+3000000104	Akého psa by si chcel tvoj otec adoptovať?
+3000000105	To máš ako naschvál.
+3000000106	A bratia sa majú ako?
+3000000107	Ešte sme mladé, ešte máme čas.
+3000000108	Máš niečo zaujímavé naplánované na tento týždeň?
+3000000109	Aj ja sa neviem dočkať.
+3000000110	Ty máš niečo zaujímave na pláne v blízkej budúcnosti?
+3000000111	Áno, ale len príležitostne.
+3000000112	Čo by si potrebovala naplánovať?
+3000000113	To by nemal byť problém.
+3000000114	Koľko ľudí plánuješ pozvať?
+3000000115	Uvažovala som buď nad nejakou reštauráciou alebo kultúrnym domom.
+3000000116	Čo by si mi odporučila?
+3000000117	Chcela by som servírovanú večer, nie bufet.
+3000000118	OK, podrobnosti dohodneme s cateringovou spoločnosťou neskôr.
+3000000119	Akú máš predstavu o výzdobe?
+3000000120	Vravela si, že tvoja sesternica by chcela vystúpiť.
+3000000121	Potrvá to celý večer?
+3000000122	Z čoho je vyrobený?
+3000000123	Nevieš mi odporučiť dobrý seriál?
+3000000124	Ty máš vždy prehľad o nových seriáloch.
+3000000125	To znie veľmi zaujímavo.
+3000000126	Poznám nejakého herca alebo herečku z tohto seriálu?
+3000000127	Máš nejakú obľúbenú tému?
+3000000128	Koľko dielov má tento seriál?
+3000000129	To by som mohla zvládnuť.
+3000000130	Vedela by si mi povedať stručný opis tohto seriálu?
+3000000131	Nechcela by si ísť niekedy do kina?
+3000000132	Pozrela by som si nejaký dobrý film.
+3000000133	Rada by som išla s tebou do kina.
+3000000134	Máš na myslím nejaký konkrétny film?
+3000000135	Práve ma napadlo, že bude v meste jarmok.
+3000000136	Chcela by si sa ísť naň pozrieť?
+3000000137	Mohli by sme tam ísť pred tým ako pôjdeme k tebe pozerať film.
+3000000138	Boli ste aspoň blízko k nejakému prístrešku?
+3000000139	Áno, našla som si byt v dobrej oblasti a mám to aj blízko do práce.
+3000000140	V novej práci začínam o tri týždne, dovtedy by som chcela byť už úplne presťahovaná.
+3000000141	Ak potrebuješ s niečím pomôcť pri sťahovaní, daj mi vedieť.
+3000000142	Pravdepodobne len do Chorvátska, nakoľko nechcem ďaleko cestovať.
+3000000143	Áno, prečo sa pýtaš?
+3000000144	Chcela by som toto leto ísť na nejaký festival, ale nemám s kým.
+3000000145	Aké kapely tam budú vystupovať?
+3000000146	Festival trvá tri dni, od piatka do nedele.
+3000000147	Najradšej by som odlietala z Bratislavy a bývanie by som chcela čo najbližšie k festivalu.
+3000000148	Neviem, ale rada by som stretla zasa s každým.
+3000000149	Aj ja, pospomínať trocha na našu stredoškolskú kariéru.
+3000000150	Dúfam, že sa to podarí.
+3000000151	Máš na dnešný večer nejaké plány?
+3000000152	Áno, s Lenkou idem na stretnutie knižného klubu.
+3000000153	Stretávame sa raz do mesiaca.
+3000000154	Aký žáner kníh čítate?
+3000000155	Všetky žánre, ale najobľúbenejšie sú romantické novely.
+3000000156	Tento knižný klub ma často motivuje čítať knihy, o ktoré by som možno nemala záujem.
+3000000157	A čo robíte na stretnutiach?
+3000000158	Snažíme sa začať rozoberaním obsahu knihy, ale väčšinou sa len rozprávame o našich životoch.
+3000000159	Trocha klebetenia nikomu neuškodí.
+3000000160	Nevedela som, že už sú na dôchodku.
+3000000161	Boli ste už príliš ďaleko?
+3000000162	Robili ste ešte niečo zaujímavé?
+3000000163	Váu, tak tento výlet ti závidím.
+3000000164	Možno sa nám v budúcnosti podarí odísť tam spolu.
+3000000165	O hokeji veľa neviem, ale rada ti budem robiť spoločnosť.
+3000000166	Tá atmosféra by určite stála za to.
+3000000167	A tvoja rodina sa má ako?
+3000000168	Nemeckí ovčiaci potrebujú veľa práce a starostlivosti.
+3000000169	Aj ja som mu to hovorila a on už tiež nie je najmladší.
+3000000170	Mohol by si adoptovať nejaké staršieho, kľudnejšieho ovčiaka.
+3000000171	Ja som rozmýšľala nad adoptovaním mačky, keď sa usadím v novom byte.
+3000000172	Škoda, že jediné na čo nie som alergická sú rybky.
+3000000173	Kde sa s ňou Marek spoznal?
+3000000174	Spoznali sa na internete, sú spolu už jeden rok.
+3000000175	Erik už vie či je to chlapček alebo dievčatko?
+3000000176	Tipujem, že rodičia sa tešia na to, že z nich budú starí rodičia.
+3000000177	My si zatiaľ môžeme užívať bezdetný, slobodný život.
+3000000178	Jednoznačne, aj keď vzťahu by som sa nebránila.
+3000000179	V dnešnej dobe je strašne ťažké nájsť niekoho na vážny vzťah.
+3000000180	Ja momentálne nemám ani čas randiť a vôbec mi to nevadí.
+3000000181	Momentálne mi najviac času zaberá vyberanie nábytku do môjho nového bytu.
+3000000182	V akom štýle si ho budeš zariaďovať?
+3000000183	Prikláňam sa k modernému a industriálnemu štýlu.
+3000000184	Vždy sa mi ten štýl páčil, dokáže perfektne vyzdvihnúť architektúru bytu.
+3000000185	Byt má vysoké stropy, biele steny, obnažené tehly a kuchyňa sa zhoduje s mojim štýlom.
+3000000186	Tak to bude o to jednoduchšie, že nemusíš nič prerábať.
+3000000187	Koľko izbový je tvoj byt?
+3000000188	Budeš robiť prácu aj z domu?
+3000000189	Áno, veľa mojej práce bude na laptope a firma nám umožňuje pracovať z domu.
+3000000190	Aj ja robím väčšinu práce na laptope, ale musím aj tak chodiť do kancelárie.
+3000000191	Budeš to mať dobré, že budeš mať vydelený priestor na prácu doma.
+3000000192	Áno, keď pracujem v obývačke alebo v spálni, ľahko sa rozptýlim.
+3000000193	A aký nábytok si si už kúpila?
+3000000194	Kuchyňa bola vstavaná, tak tam som potrebovala už len stôl a stoličky.
+3000000195	Z akého materiálu si si kúpila tento nábytok?
+3000000196	Áno, vstavaná kuchyňa je industriálna a chcela som, aby sa hodili k sebe.
+3000000197	A spálňu si ako zariadila?
+3000000198	Spálňu som zariadila viac v modernom štýle.
+3000000199	Chcela si aby bola útulnejšia?
+3000000200	Áno, chcem sa v mojej spálni cítiť útulne a pohodlne.
+3000000201	Chlpaté koberce vedia zútulniť izbu.
+3000000202	A obývaciu izbu si ako zariadila?
+3000000203	Prečo si si to práve takto zariadila?
+3000000204	Chcela som hlavne pohodlnú sedačku a moderné sú viac pohodlné.
+3000000205	Ja som sa prihlásila na maratón, ktorý bude v našom meste.
+3000000206	Kedy sa bude ten maratón konať?
+3000000207	Maratón sa bude konať o šesť týždňov.
+3000000208	A to sa stihneš aj pripraviť naň?
+3000000209	Ak pôjde všetko podľa plánu, tak áno.
+3000000210	Pred dvoma mesiacmi som začala trénovať s trénerom v posilovni.
+3000000211	Trénovanie v posilovni stačí na prípravu na maratón?
+3000000212	Nie, pred dvoma týždňami som začala osemtýždňový program na prípravu na maratón.
+3000000213	Aké sú etapy tohto programu?
+3000000214	Program spočíva v tom, že v určitých dňoch musíš odbehnúť určitú diaľku.
+3000000215	Čiže ťa to postupne pripraví na celý maratón?
+3000000216	Áno, dôležité je si vytrénovať kondíciu.
+3000000217	Prečo si sa prihlásila na tento maratón?
+3000000218	Už dlhšiu dobu som chcela začať cvičiť, ale nemala som motiváciu.
+3000000219	Ahá, čiže tak máš nejaký gól, ku ktorému sa snažíš dopracovať.
+3000000220	Áno, ale zvykám si už aj na to, že sa musím každý deň hýbať.
+3000000221	To je super, že takto pracuješ na sebe a svojom zdraví.
+3000000222	Snažím sa robiť, čo môžem.
+3000000223	Na čom pracuješ momentálne?
+3000000224	Včera som doštrikovala modrý šál.
+3000000225	Budeš pre niekoho štrikovať vianočný darček?
+3000000226	Áno, rozhodla som sa, že uštrikujem susedkinej dcére sveter.
+3000000227	To je od teba veľmi milé.
+3000000228	Povedala som jej, že si môže vybrať akej farby bude jej sveter.
+3000000229	Určite sa už nevie naň dočkať.
+3000000230	Ty sa venuješ nejakej záľube?
+3000000231	Nedávno som sa vrátila ku kresleniu.
+3000000232	Najradšej kreslím portréty, plánujem začať kresliť autoportrét.
+3000000233	Kto je tvojou najväčšou inšpiráciou?
+3000000234	Mojou inšpiráciou je Frida Kahlo.
+3000000235	Chcela som s tebou ešte niečo prebrať.
+3000000236	Venuješ sa ešte organizácii eventov?
+3000000237	Moja krstná mama bude oslavovať päťdesiate narodeniny a chcela by som jej naplánovať veľkú oslavu.
+3000000238	Chcela by som pozvať štyridsať ľudí.
+3000000239	Pozvánky by si chcela posielať poštou alebo elektronicky?
+3000000240	OK, budem potrebovať zoznam ľudí s e-mailovým kontaktom, aby som to zariadila.
+3000000241	To nie je problém, pošlem ti ho na e-mail.
+3000000242	Máš nejakú predstavu o mieste konania?
+3000000243	Moja sesternica chce vystúpiť so svojou kapelou.
+3000000244	Ako dlho si myslíš, že oslava potrvá?
+3000000245	Moja rodina sa rada zabáva, čiže pravdepodobne do neskorých hodín.
+3000000246	Čo všetko zabezpečuje tá cateringová spoločnosť?
+3000000247	Zabezpečujú trojchodovú večeru a pohostenie pred aj po večeri vrátane drinkov.
+3000000248	Čiže by bolo možné mať aj otvorený bar?
+3000000249	Určite, pošlem ti ich aj so zoznamom ľudí na pozvanie.
+3000000250	Nie, chcem aby sa aj ona zabavila.
+3000000251	Musím sa pozrieť v mojom zozname kontaktov, či ešte mám číslo na môjho známeho.
+3000000252	Budú sa dať aj vyžiadať pesničky na želanie?
+3000000253	Prečo sa to už tak často nevenuješ?
+3000000254	Ahá, čiže finančne to nie je veľmi výhodné?
+3000000255	Myslela som, že ten plán zrušili.
+3000000256	Ten starý áno, pretože im to nevyšlo finančne, ale toto je nový investor.
+3000000257	Budú budovu búrať alebo len prerábať?
+3000000258	Neskutočne sa mení toto mesto odkedy sme dokončili strednú školu.
+3000000259	To ako naschvál všetko obnovujú už keď sme odišli.
+3000000260	Áno a teraz je tu nové nákupné stredisko a ešte aj školu nám prerobili.
+3000000261	A v lete im nemusí byť teplo lebo sa okná nedajú poriadne otvoriť.
+3000000262	Mali sme na tej škole všelijaké zábavné zážitky.
+3000000263	Pamätáš sa, keď sme guľovali v zime v triede?
+3000000264	Oni z toho možno neboli nadšení, ale my sme sa zabavili.
+3000000265	Čo by sme nespravili pre trocha zábavy?
+3000000266	Aj vysoká škola môže byť zábavná, ak stretneš tých správnych ľudí.
+3000000267	Súhlasím, ja som mala veľké šťastie a moja skupina si rozumie veľmi dobre.
+3000000268	Áno, s dobrými priateľmi sa dajú prežiť aj skoré ranné prednášky.
+3000000269	Má ťa kto zobudiť, keď náhodou zaspíš.
+3000000270	Áno, poznáš niekoho, kto by ich potreboval?
+3000000271	Moja známa bola prijatá na tvoj odbor a chcela by si kúpiť všetky podklady naraz.
+3000000272	To nie je problém, ja som si odkladala všetko.
+3000000273	Prepošlem ti jej číslo, aby ste sa vedeli skontaktovať.
+3000000274	Áno, kúpila som si ho v butiku neďaleko odtiaľto.
+3000000275	Tento kabát je vyrobený z vlny.
+3000000276	Musím niekedy navštíviť ten butik.
+3000000277	Na aký štýl oblečenia sa zameriavajú?
+3000000278	Povedala by som, že predávajú oblečenie, ktoré sa hodí do práce do kancelárie.
+3000000279	Už viem, kde miniem najbližšiu výplatu.
+3000000280	Máš na mysli nejaký konkrétny žáner?
+3000000281	Mám rada všetky žánre seriálov, od sci-fi po komédie.
+3000000282	Myslím si, že by ťa zaujal seriál s menom Letuška.
+3000000283	Kde by som si ho mohla pozrieť?
+3000000284	Tento seriál by som kategorizovala ako komediálny thriller.
+3000000285	Letuška sa zobudí po zábavnej noci, nič si nepamätá, ale vie, že má veľký problém.
+3000000286	Toto si určite budem musieť pozrieť.
+3000000287	Myslím si, že áno.
+3000000288	Áno, tie pozerám v kine najradšej.
+3000000289	Vyšiel teraz nejaký nový hororový film?
+3000000290	To znie ako skvelý začiatok nášho babského večera.
+3000000291	Na jarmoku budú vystupovať aj rôzne kapely.
+3000000292	Pozriem na stránke mesta, kto bude vystupovať.
+3000000293	Už keď budeme v centre mesta, mohli by sme zájsť niekde na večeru.
+3000000294	Myslela som, že si dáme niečo na jarmoku, ale môžeme ísť aj do reštaurácie.
+3000000295	Hej, bola som tam pred pár dňami.
+3000000296	Veľmi by som tam chcela ísť, ale je strašne ťažké dostať rezerváciu.
+3000000297	Môj známy tam pracuje, vybavenie rezervácie nie je problém.
+3000000298	Počasie mi už prekazilo nejeden plán.
+3000000299	Našťastie áno, ale zvyšok túry sme museli prejsť úplne premoknutý.
+3000000300	Hej, už sa nám to neoplatilo.

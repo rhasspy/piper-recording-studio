@@ -1,0 +1,300 @@
+3000000001	Hayır, henüz bir rezervasyon yapmadık.
+3000000002	Evet bu çok iyi olur.
+3000000003	Ben de gelsem olur mu?
+3000000004	O zaman ben de tatil yapacağım.
+3000000005	Hayır, elbette yer ayırtmak istemiyorum.
+3000000006	O zaman kesinlikle benimle geliyorsun.
+3000000007	Önemli değil, herkes kendisi için plan yapıyor.
+3000000008	Hayır, hiçbir şey ödemek zorunda değilsin.
+3000000009	Artık tatillerimi seninle geçirmek istemiyorum.
+3000000010	Sonra, herkes birlikte tatile gitmek istiyor ama her biri tek başına plan yapıyor.
+3000000011	Bu iyi bir uzlaşma olurdu.
+3000000012	Bavulunu ne zaman hazırlayacaksın?
+3000000013	Sadece iki hafta sonra uçacağımız için, muhtemelen bir hafta sonra yapacağım.
+3000000014	Bavulumu bir hafta sonra hazırlayacağım.
+3000000015	Sorunu doğru anlamadım sanırım.
+3000000016	Evet, valizimi hazırlamadan önce bir şeyler satın almış olmalıyım.
+3000000017	Dün bir şiir kitabı okumaya başladım, ne kadar güzel şiirler varmış!
+3000000018	Neler yapacağımızı zaten açıkladık.
+3000000019	Orası sıcak mı soğuk mu?
+3000000020	Dubai'de ortalama sıcaklığın 37 derece olduğunu duydum.
+3000000021	Bir güneş kremi satın almalıyım.
+3000000022	Evet, üstat şiir konusunda hayli marifetlidir.
+3000000023	Orada bir araba kiralayacağımızı düşündüm.
+3000000024	Ben de olmadığı için nasıl yaparız bilmiyorum.
+3000000025	Hayır, pantolon için çok sıcak.
+3000000026	Kısa pantolon giymeyi düşünüyorum çünkü bacaklarım hava alır bu sayede.
+3000000027	Daha önce böyle bir şey ayırtmak zorunda mısın?
+3000000028	Tabii bunu ciddi anlamda söylemiyorum.
+3000000029	Deveyle çölde gezebiliriz zamanımız olursa.
+3000000030	Bu güzel bir deneyim olur, bence kesinlikle denemeliyiz.
+3000000031	Hava çok sıcaktır bu mevsimde, bu yüzden suyumuzu unutmamalıyız.
+3000000032	Evet, elbette bunu düşünmek zorundayız.
+3000000033	O zaman önceden planladığınız hiçbir şey yok.
+3000000034	Sahile de gitmek istiyor muyuz?
+3000000035	Evet, tabii ki sahile de gidebiliriz.
+3000000036	Kemal, bugün kütüphaneye uğrayacak mıyız?
+3000000037	Bu coğrafyanın kültürüyle de çok ilgileniyorum.
+3000000038	Evet, bence fikir harika.
+3000000039	Bir kültür gezisi üç gün sürer.
+3000000040	Ayrıca gece kuzeninizle Abu Dabi'de de kalabiliriz.
+3000000041	Evet, ama onu açıklığa kavuşturayım.
+3000000042	Bir arkadaşım yapmıştı bir kere.
+3000000043	Hayır, bu çok fazla değil.
+3000000044	Burada kimsenin kalbini kırmak istemeyiz.
+3000000045	O zaman ikinizi dışlamak yerine daha makul bir çözüm bulabiliriz.
+3000000046	Neden hepimiz birlikte oraya gidemiyormuşuz?
+3000000047	Kuzenimin oldukça küçük bir dairesi olmasına rağmen çok misafirperverdir.
+3000000048	O zaman oraya da gitmeyeceksin.
+3000000049	O zaman bir otele gitmemiz gerekiyor, hem daha rahat ederiz.
+3000000050	Tamam, o zaman ucuz bir otele gideriz.
+3000000051	O zaman lütfen ucuz otelleri arayın.
+3000000052	Çünkü o benim en iyi arkadaşım.
+3000000053	Hayır, onunla bir sorunum yok.
+3000000054	Ben de Antalya'da yaşıyorum.
+3000000055	Tabii ki, elimizdeki kitap bitmek üzere, yenisini almak gerekiyor.
+3000000056	Biri müzeleri ve ören yerlerini ziyaret ediyor.
+3000000057	Ya hepimiz gideceğiz ya da hiçbirimiz.
+3000000058	Onunla bir sorunun mu var?
+3000000059	Yaylaya çıktım ve bir sürü yıldız gördüm ve çok soğuktu.
+3000000060	Şimdi konumuz bu değil.
+3000000061	Biliyor musun, kitap okumayı çok seviyorum.
+3000000062	Yemek masasını mutfağa mı yerleştirmek istiyoruz?
+3000000063	Semiha ne almak istiyor?
+3000000064	Bu ciddi bir soru değil, değil mi?
+3000000065	Ama ben senin Isparta'da yaşadığını sanıyordum.
+3000000066	Evet, bu sadece kısa bir süre içindi.
+3000000067	Gerçekten mi, ne zamandır oradasın?
+3000000068	Mükemmel bir zamandı, sakin ve huzurlu bi yerdi.
+3000000069	İki ay sonra yeniden tatildeyiz.
+3000000070	İşlerden düzenli tatil yapmaya zamanın kalıyor mu?
+3000000071	Evet, her zaman tatil yaparım.
+3000000072	Patron olduğum için tatilimi kendim planlayabilirim.
+3000000073	Kışın ne zaman tatil yaparsın?
+3000000074	Ne zaman ve nerede harcamak istediğimi bilmiyorum.
+3000000075	Bursa'ya geri gidecek misin?
+3000000076	Evet, dürüst olmak gerekirse, hâlâ düşünüyorum.
+3000000077	Ayrıca ilkbaharda Bursa'ya gidebilirsiniz.
+3000000078	Kitaplar sayesinde yepyeni hayatlar tanıyor, yepyeni maceralara atılıyorsun.
+3000000079	Ankara Kalesi'nin tarihi dokusunu yeniden keşfettim.
+3000000080	Bu harika ve Ayvalık'ta teyzemlerle beraber vakit geçirdim.
+3000000081	Ben de iki yıl önce oraya gitmek istiyordum.
+3000000082	Bunun için özel bir davetiyeye ihtiyacınız var.
+3000000083	Hafif giysiler ve diz boyu pantolonlar düşünüyorum ben.
+3000000084	Hayır, teyzem bu sene de ısrarla yazlığa çağırıyor.
+3000000085	Ankara Kalesi'nin etrafındaki tüm evleri restore etmişler ve harika olmuş.
+3000000086	Teyzemi tanımıyorsunuz ve tanıyınca keşke daha önce tanısaydım diyeceksiniz.
+3000000087	Teyzenle tanışmayı dört gözle bekliyorum.
+3000000088	En fazla iki kişinin benimle gelebileceğini şimdiden söylüyorum.
+3000000089	Yanıma kıyafet ve plaj malzemeleri alacağım.
+3000000090	Yanına ne tarz kıyafetler almak istersin?
+3000000091	Bir şey ödemek zorunda değilim.
+3000000092	O zaman uçak biletleri için ödeme yapmak zorunda kalmayız.
+3000000093	Helikopterin parasını kim ödüyor?
+3000000094	Babam pilot ve bizi oraya çabucak ulaştırabilir.
+3000000095	Okuduğum kitaplar bende büyük etkiler bıraktı, hayata bakış açım bile değişti.
+3000000096	Hayır, son çalışmamı yazıyorum.
+3000000097	Rahatlamak için bir tatile çıkmak istiyorum.
+3000000098	O zaman hâlâ 18 yaşın altındasın ve ailene bizimle gelmene izin verilip verilmediğini sorman gerekecek.
+3000000099	Peki canım sen hiç üniversite diye bir şey duydun mu?
+3000000100	O zaman muhtemelen sorun yoktur.
+3000000101	Babam akşam 6 gibi uçacağımızı söylüyor.
+3000000102	Yemek masası, kanepe ve koltuk, sehpa ve televizyona ihtiyacımız var.
+3000000103	Sadece seni yanımda götürdüğüm için mutlu ol.
+3000000104	Şimdi dikkat çekmek ister misin?
+3000000105	Zengin olduğunu söylüyorsun ve sonra dikkatleri kendine çekmek istemediğini söylüyorsun.
+3000000106	Geçen yıl da bu şekilde yaptık.
+3000000107	Her şeyi sen ödersen, ben orada çok şey yapmak istiyorum.
+3000000108	Ama aynı zamanda Semiha da bizimle gelsin istiyorum.
+3000000109	Tamam, bunu tekrar planlayabiliriz.
+3000000110	Evet, yazın birlikte sörf yapabiliriz.
+3000000111	Sana söz veriyorum seninle geleceğim, asıl mesele beni orada yalnız bırakman.
+3000000112	Semiha ve ben büyük odayı alırız ve sen kalacak başka yer bulursun.
+3000000113	Ama eğer ciddiysen buna evet diyemem.
+3000000114	Kabul etmiyorsanız, yalnız uçabilirsiniz.
+3000000115	Ama sen hep yanımda kal.
+3000000116	Ama her gün yanımızda kalmıyorsun.
+3000000117	Evet, her gün yanında kalacağım, yoksa benimle gelmezsin.
+3000000118	Bu ne hoş bir fikir.
+3000000119	Orada da her şey mümkün.
+3000000120	İyi yapmışsın, şiir ezberlemenin birçok faydası var.
+3000000121	Ben de Opera Binası'ndaydım.
+3000000122	Nereden bu kadar iyi biliyorsun?
+3000000123	Çok araştırma yaptım ve babam da orada çalıştı.
+3000000124	Ayağına rahat bir yürüyüş ayakkabısı almanı tavsiye ederim.
+3000000125	Bunu sana zaten en başında söylemiştim.
+3000000126	O yüzden alternatifleri gözden geçirmeliyiz.
+3000000127	Başka bir ülkeyi de düşünebiliriz belki.
+3000000128	Ama turistlere karşı iyi davranıyorlar.
+3000000129	Haklısın, hele de bir Sakarya Türküsü adlı şiiri var, okudukça okuyası geliyor insanın.
+3000000130	Haftasonu için otel rezervasyonu yaptırmak istiyordum.
+3000000131	Size ben yardımcı olayım isterseniz,  burada çalışıyorum.
+3000000132	Türkiye'de keşfetmediğimiz bir yere gidebiliriz.
+3000000133	Mesela İstanbul'u biliyoruz ama tarihi sokaklarını keşfedebiliriz.
+3000000134	Tam bir kültür turu olur bu.
+3000000135	Özel bir davette giymek için bir elbise bakıyorum.
+3000000136	Yeni filmler gelmiş, akşam sinemaya gidelim mi?
+3000000137	İyi fikir, beni de götürür müsün?
+3000000138	Akşam yemeği için sana harika bir börek yaptım.
+3000000139	Bizim ülkemizde kış yaşanırken bir orada yazın keyfini çıkarırız.
+3000000140	Muhtemelen gülmek zorunda kaldın.
+3000000141	Bunun doğru olduğunu düşündüm.
+3000000142	Karşılaşmamız ne güzel bir tesadüf oldu.
+3000000143	Sana nerede olduğumu söylemeli miyim?
+3000000144	Evet, nerede olduğunu bilmek isterdim.
+3000000145	Evet, o zaman uzaklarda çalışıyordu.
+3000000146	Sonra muhtemelen önemli bir konuşma yaptı.
+3000000147	Çeşme'de sörf yapmayı öğrendim.
+3000000148	Bunu bana anlatmak zorundasın.
+3000000149	Bana bunu öğreten bir öğretmenim vardı.
+3000000150	Hemen bu yaz öğrenmek istiyorum.
+3000000151	İlk fırsatta tekrar gitmeyi düşünüyorum.
+3000000152	Evet, buna çok mutlu olurum.
+3000000153	Harika bir deneyim, denizin üstünde uçar gibi.
+3000000154	Evet, ama sadece iki gün.
+3000000155	Ben de oraya gitmek istiyorum.
+3000000156	Uçurtma uçarabileceğimiz yerler de var orada.
+3000000157	Hangi ülkeye seyahat etmek istersiniz?
+3000000158	Doğum günü mesajları şimdiden gelmeye başladı bile.
+3000000159	Nevresin takımlarının desenleri gerçekten çok güzel.
+3000000160	İlayda şimdi orada yaşıyor, değil mi?
+3000000161	Evet, önümüzdeki yaz oraya gidebiliriz.
+3000000162	Yolculuğa çıkmadan önce seni tekrar ziyaret etmek istedim.
+3000000163	Hayır, babam akşamları uçamaz.
+3000000164	Uçuş için yanınıza ne alırsınız?
+3000000165	Hiçbir şey, çünkü kısa bir yolculuk.
+3000000166	Artık hiçbir şey planlamanıza gerek yok.
+3000000167	Yanıma yastık almamı ister misin?
+3000000168	Yanımızda yeteri kadar yastık var.
+3000000169	Helikopterde 4 yer var.
+3000000170	Uçuş tahmini ne kadar sürüyor?
+3000000171	Trenle yurt dışına çıkma fikri harika olurdu.
+3000000172	Dürüst olmak gerekirse sen geliyorsun diye bu tatil işini kabul ettim.
+3000000173	Ama bir maskeye ihtiyacım var.
+3000000174	Ben zaten her şeyi planlıyorum.
+3000000175	Buraya gelip beni tekrar görmek istemen beni çok mutlu etti, teşekkür ederim.
+3000000176	Ben hiç orada bulunmadım.
+3000000177	Ben de seni mutlaka ziyaret edeceğim.
+3000000178	Evet ben de öyle düşünüyorum.
+3000000179	Daha önce Türkiye'ye gittim.
+3000000180	Bence bunu her sene tekrarlamalıyız, çok güzel vakit geçiriyoruz.
+3000000181	Merhaba, bizimle bir daireye taşınmak ister misiniz?
+3000000182	Semiha için sorun değil.
+3000000183	Semiha ile bir daireye taşınacağım.
+3000000184	Ben de Amasra'da yaşıyorum.
+3000000185	Dairenin üç odası var, bize yeter.
+3000000186	Daire üniversitemize yakın mı?
+3000000187	Hayır, 20 dakika uzaklıkta ama trenle gidebiliriz.
+3000000188	Aman Allah'ım, yoksa taşındınız mı?
+3000000189	Birlikte yaşayan üç kızımız olursa harika olur.
+3000000190	Peki ne zaman taşınmak istiyoruz?
+3000000191	Üç gün sonra taşınmak istiyoruz.
+3000000192	İlayda'nın senin yanına taşınması uygun mu?
+3000000193	Ama buzdolabını almalısın çünkü ikimizde de buzdolabı yok.
+3000000194	Kimin ne alması gerektiğiyle ilgili bir plan yapalım.
+3000000195	Ben bir kanepe ve çamaşır makinesi getirebilirim.
+3000000196	Herkes kendi yatak odasını alır.
+3000000197	Tamam, herkes yatak odası için kendi mobilyasını alır.
+3000000198	Ev fiyatları ne kadar yüksek?
+3000000199	Yanımızda çok şey götürüyoruz.
+3000000200	Yani hâlâ beş tencerem ve bir su ısıtıcısım var.
+3000000201	Üç oda bir salon ve mutfak mı?
+3000000202	Evet, tabii ki bir mutfağımız var.
+3000000203	Kaç yatak odamız var?
+3000000204	Yer değişikliği iyi gelir diye düşünmüştüm.
+3000000205	Mutfak temiz durumda mı?
+3000000206	Bir ara mutfağı temizlemek için oraya gitmeliyiz.
+3000000207	Evet, ama bütün evi temizlediğimiz başka bir gün olsun.
+3000000208	Evet, Semiha bunun da iyi olduğunu düşünüyor.
+3000000209	Mutfak için önce buzdolabı, fırın, mikrodalga fırın ve tost makinesine ihtiyacımız var.
+3000000210	Bence mikrodalgaya ihtiyacımız yok.
+3000000211	Tamam, şimdilik bunu bırakalım.
+3000000212	Hâlâ bir su ısıtıcısı ve tost makinesi var.
+3000000213	Bulaşık makinesini ve fırını getireceğim.
+3000000214	Sanırım dairede bulaşık makinesi var.
+3000000215	Bunu sistematik olarak yapacağız.
+3000000216	Semiha, az önce bana televizyon da getirebileceğini söyledi.
+3000000217	Sana kaç kere söylemem gerekiyor?
+3000000218	Mutfak eski ve rengi kahverengi.
+3000000219	Her hafta değişim yapabiliriz.
+3000000220	Ayrıca, Semiha ve benim paramız yok.
+3000000221	O zaman ben yaptırırım ve bedelini öderim.
+3000000222	Duvarların hepsi sarı, onları birlikte renklendirebiliriz.
+3000000223	Önümüzdeki yaz birlikte bir yerlere gidebiliriz, belki başka bir ülkeye.
+3000000224	Bu harika olur, önceden her şeyi planlarız.
+3000000225	Lütfen bir önceki soruma cevap verir misiniz?
+3000000226	Semiha çatal bıçak takımı ve tabaklar dahil her şeyi satın alır.
+3000000227	Bunu mutfak için yanımda götürüyorum.
+3000000228	Banyomuz çok küçük ve pencere yok.
+3000000229	Henüz mutfakla işimiz bitmedi.
+3000000230	Ama yazın balkonda, kışın oturma odasında yiyebiliriz.
+3000000231	Bunu daha sonra tartışacağız.
+3000000232	Evet, annesi bizim için dikecek.
+3000000233	Anlaştık o zaman, bu birlikte tatil fikrini gerçekten çok sevdim.
+3000000234	Bununla ilgili bir sorunum yok.
+3000000235	Tuvaletin kaç metrekare olduğunu bilmiyorum.
+3000000236	Ayakkabılarımız için küçük bir dolap sığar mı?
+3000000237	Evet, ama daha fazlası değil.
+3000000238	Evet, lütfen bir dolap satın alın.
+3000000239	Dairede hâlâ çok küçük bir oda var ve oraya çamaşır makinesini yerleştirebiliriz.
+3000000240	Banyo için halı, perde, duş perdesi ve aynaya ihtiyacımız var.
+3000000241	Sanırım eski dairemden duş perdesi ve ayna var.
+3000000242	Sonra bir halı alacağım.
+3000000243	Ayrıca diş macunu ve diş fırçası için bir kabı var.
+3000000244	Tuvaletle de işimiz bitti.
+3000000245	Oturma odası aslında çok büyük.
+3000000246	20 metrekare zaten çok fazla.
+3000000247	Televizyona ne için ihtiyacımız var?
+3000000248	Şu anda daha fazla düşünemiyorum.
+3000000249	Tarayıcınızın ayarlarını aşağıdaki tablodan ilgili link'e tıklayarak değiştirebilirsiniz.
+3000000250	Yemek masasını sandalyelerle getiriyorum.
+3000000251	Önemli olan büyük odayı almam.
+3000000252	Ayrıca bir kitaplık, halı ve perde alıyorum.
+3000000253	Mutfak için neye ihtiyacımız var?
+3000000254	Süpersin, senin zevkine bayılıyorum ben.
+3000000255	Ev sahibi duvara bir şey asmamızı istemiyor.
+3000000256	Ev sahibimiz harika bir insan, şimdiden çok iyi anlaşacağımızı düşünüyorum.
+3000000257	Daha sonra duvarda delik olmasını istemiyor.
+3000000258	Zaten orada çok az zaman geçireceğiz.
+3000000259	Sanırım sadece bir gardırop ve bir aynaya ihtiyacımız var.
+3000000260	Ben sadece üç günlüğüne yemek yapabilirim.
+3000000261	Bu ciddi değil, değil mi?
+3000000262	Fiyatı çok pahalı bulduğunuzu söylemeyin.
+3000000263	Hâlâ öğrenciyim ve çalışmıyorum bile.
+3000000264	Ama sadece 1200 lira ödemeniz gerekiyor.
+3000000265	Lütfen soruma cevap verir misin?
+3000000266	İki küçük oda ve bir büyük oda var.
+3000000267	Büyük odaya sahip olmak istiyorum.
+3000000268	Çok giysin ve çok mobilyan var mı?
+3000000269	Evet, bir sürü mobilyam ve bir sürü kitabım var.
+3000000270	Semiha'nın senden daha fazla mobilyası var.
+3000000271	Bununla ilgili herhangi bir problemim olmaz.
+3000000272	Herkes bir anahtarı alır ve kiler için ortak anahtar kullanırız.
+3000000273	Bu senin için bir problem mi?
+3000000274	Herkese kendi odasını temizlemesini öneririm.
+3000000275	Peki ya ortak alanlar nasıl olacak?
+3000000276	Yürüyerek gidilemeyecek kadar uzakta maalesef.
+3000000277	Bir kısmını senin odana koysa nasıl olur?
+3000000278	Evet, bence mutfak, oturma odası ve banyo her zaman temiz olmalı.
+3000000279	Bence önce yemek işini nasıl halledeceğiz onu konuşalım.
+3000000280	İsterseniz her Cuma, Cumartesi ve Pazar günleri de yemek yapabilirim.
+3000000281	Biri kahvaltıyı, diğeri öğle yemeğini, sonuncusu da akşam yemeğini hazırlar.
+3000000282	Semiha süpürmek ve silmek istiyor.
+3000000283	Az önce söylediklerime katılıyor musun?
+3000000284	Hayır, çünkü her zaman evde olmayabilirim.
+3000000285	O zaman evde olmayı tercih ederiz.
+3000000286	Pazartesi ve Salı yemek yapacaksınız.
+3000000287	Yoksa Çarşamba, Cuma ve Pazar mı olsa diyorum.
+3000000288	Semiha Çarşamba ve Perşembe yemek yapabilir.
+3000000289	Şimdi oturma odası ile başlayabiliriz.
+3000000290	Mavi bir şey de kullanabiliriz.
+3000000291	Bir kültür turu en fazla ne kadar sürer?
+3000000292	Ayrıca bulaşık makinesine de ihtiyacımız var.
+3000000293	Ama bir an önce başlamamız gerekiyor.
+3000000294	Ayrıca ilgilenenler için kültür turları da mevcut.
+3000000295	Belki kışın tekrar orada kalırım.
+3000000296	Senin için iyi olur mu?
+3000000297	Çamaşır makinesini kim nereden getiriyor?
+3000000298	Semiha lütfen perdeleri getirir mi?
+3000000299	Tabak ve bardak var mı?
+3000000300	Üniversite üç hafta sonra başlayacak.

@@ -1,0 +1,300 @@
+3000000001	Nein, du brauchst nichts zu zahlen, das übernehme diesmal alles ich.
+3000000002	Vielen Dank, dann können wir mal wieder etwas zusammen unternehmen.
+3000000003	Das nächste Mal zahle ich dann aber selber.
+3000000004	Wo fahren wir danach hin?
+3000000005	Wann geht es los, und was müssen wir mitnehmen?
+3000000006	Dann sehe ich die mal wieder alle, die ganzen Freunde.
+3000000007	Wird es denn wieder so heiß, wenn wir da sind?
+3000000008	Das ist ja dann gut.
+3000000009	Sind denn schon alle bereit, um uns zu empfangen?
+3000000010	Ich hoffe, er kommt ohne Problem da durch.
+3000000011	So, was muss heute noch erledigt werden?
+3000000012	Wir müssen aufpassen, dass wir die Zertifikate nicht vergessen.
+3000000013	Dann fahr ich da gleich mal hin, und schau ob die fertig sind.
+3000000014	Die liegt dort drüben auf der Kommode.
+3000000015	In meiner Jacke, die ist im Wohnzimmer.
+3000000016	Jetzt muß ich aber los, sonst schaffe ich das nicht mehr.
+3000000017	Kommst du mit, oder soll ich allein gehen?
+3000000018	Sonst noch etwas zu erledigen?
+3000000019	Nee, denke nicht, sonst schick ich eine Nachricht.
+3000000020	Warte, ich komm doch mit.
+3000000021	Das macht gar nichts, denn jeder kann sich mal irren.
+3000000022	Dann aber mal beeilen, es ist wirklich schon spät.
+3000000023	Nachher muss noch aufgeräumt werden.
+3000000024	Hast du das verstanden?
+3000000025	Wo ist die Adresse?
+3000000026	Ich geh schon mal zum Auto, warte dann.
+3000000027	Heute geht alles wieder etwas mit Stress.
+3000000028	Es gibt noch einiges zu tun, bevor wir losfahren.
+3000000029	Könnten wir hier kurz auf eine Kaffeepause halten?
+3000000030	Aber wir sollten doch lieber erst die Zertifikate holen, sonst machen die zu.
+3000000031	Das geht schon mit der Zeit, es ist genug Spielraum.
+3000000032	Jetzt erstmal einen Parkplatz suchen.
+3000000033	Da ist einer, gleich vor der Tür.
+3000000034	Damals in den Bergen hatte es mir sehr gut gefallen.
+3000000035	Halt mal fest, ich muss das erst einmal umladen.
+3000000036	Der Kofferraum ist jetzt voll, der Rest muss hinten auf den Sitz.
+3000000037	So, jetzt eine kurze Kaffeepause, und mal einen kleinen Plan machen.
+3000000038	Nächste Woche ist wieder Langlauftag, hat sich jemand angemeldet?
+3000000039	Ich nicht, aber vielleicht unsere Bekannten.
+3000000040	Langlauf ist nicht mein Ding, ich geh lieber Radfahren.
+3000000041	Am Wochenende grillen wir wieder, was brauchen wir noch dazu?
+3000000042	Kommt darauf an wieviel Leute kommen?
+3000000043	Dann brauchen wir einiges an Fleisch und Gemüse zum Grillen.
+3000000044	Hier war ich schon lange nicht mehr, beim Einkaufen.
+3000000045	Hat eigentlich schon jemand den Tisch für den Geburtstag reserviert?
+3000000046	Nicht dass ich wüßte, aber ich kann ja mal fragen.
+3000000047	Muss ich später mal anrufen, jetzt ist noch keiner da.
+3000000048	So, jetzt hier mal erst hinsetzen und ein bisschen quatschen.
+3000000049	Ich nehm nur einen Kaffee und ein Butterhörnchen.
+3000000050	Hörst du das Gedonner?
+3000000051	Bei diesem starken Regen geh ich nicht raus.
+3000000052	So, jetzt erstmal der Kaffee.
+3000000053	Jetzt sind wir erst einmal im Trockenen.
+3000000054	Der Kaffee und das Hörnchen kommen.
+3000000055	Wann ist eigentlich wieder Elternabend?
+3000000056	Das weiß ich im Moment gerade nicht, muss ich erst schauen.
+3000000057	Dann kann man noch einigermaßen in Ruhe durchlaufen.
+3000000058	Was brauchen wir denn so alles?
+3000000059	Dann vielleicht auch noch einige Sachen für die Salate.
+3000000060	Drei oder vier Salate sollten reichen, oder?
+3000000061	Und die anderen werden auch noch was mitbringen, denk ich.
+3000000062	Wenn du was siehst, was wir brauchen, dann sag Bescheid.
+3000000063	Noch einen Kaffee bevor es losgeht?
+3000000064	Ok, dann warte ich eben, aber wir müssen uns beeilen.
+3000000065	Wer fährt bei mir mit und wer fährt bei Papa mit?
+3000000066	Jetzt mal alle mit anpacken, los geht’s, nicht einschlafen.
+3000000067	Hier, guck mal, ist das so alles richtig?
+3000000068	Haben wir genug zum Essen eingkauft?
+3000000069	Ich glaube, das ist ausreichend.
+3000000070	So, jetzt nur noch zur Kasse und dann die Zertifikate holen.
+3000000071	Oh, fällt mir gerade so ein, Ende Monat ist Elternabend.
+3000000072	Die Kasse ist ziemlich voll, sieht wohl so aus, dass alle auf einmal kommen.
+3000000073	Wer hilft mir beim Einpacken?
+3000000074	Steh mir hier nicht im Wege rum, geh mal da vor.
+3000000075	Zahlst du oder ich mit meiner Karte?
+3000000076	Habt ihr Gutscheine mit dabei, zum Einlösen?
+3000000077	Wer bleibt mit Papa hier, zum Kaffee trinken?
+3000000078	Ich fahr da schnell alleine hin und hole die ab.
+3000000079	Ich hole euch dann ab, wartet auf mich.
+3000000080	Ja, dann eben nicht, bis später.
+3000000081	Papa, ich hab Hunger, ich will was essen.
+3000000082	Lass und da mal hinsetzen, da kannste was essen.
+3000000083	Könnt ihr ein paar Salate mitbringen?
+3000000084	Vergiss es, das wird nichts.
+3000000085	Ich muss ganz schnell los, das wird zeitlich zu knapp.
+3000000086	Interessante Geschichte, aber ist sie wirklich wahr?
+3000000087	Das weiß ich nicht, ob diese Geschichte wahr ist.
+3000000088	Da müsste ich nachrecherchieren, ob das alles so stimmt.
+3000000089	Mit dem was im Kino und den Medien kommt, kann man auch nichts mehr anfangen.
+3000000090	So, wie machen wir das jetzt?
+3000000091	Ich sollte mir etwas Neues, zum Anziehen besorgen, was meinst du?
+3000000092	Also, eigentlich sieht das alles noch gut aus, ist im Moment nicht notwending.
+3000000093	Macht ihr das heute für mich?
+3000000094	Das hat aber wirklich nicht geklappt!
+3000000095	Bringt ihr mir was mit?
+3000000096	Schalte sofort den Fernseher aus, sonst gibt’s Krach.
+3000000097	Das Wetter sieht heute nicht so gut aus, da bleiben wir besser daheim.
+3000000098	Also ich würde doch schon gerne rausgehen, wenn möglich.
+3000000099	Herr Ober, noch zwei Halbe.
+3000000100	Gestern musste ich das auch schon machen!
+3000000101	Nee, ich habe keine Ahnung.
+3000000102	Unsere Verwandten leben alle hoch im Norden.
+3000000103	Auf Helgoland war ich noch nie.
+3000000104	Ich klettere auch sehr gerne, darum komme ich mit.
+3000000105	Warum darf ich nicht mit?
+3000000106	Du darfst schon, aber wie du aussiehst, schlage ich vor, dass du im Bett bleibst.
+3000000107	Na gut, aber pass auf dich auf.
+3000000108	Vorher musst du aber noch was für mich tun.
+3000000109	Was soll denn das wohl sein?
+3000000110	Dann muss ich aber los, sonst komme ich zu spät.
+3000000111	Ok, dann hab viel Spaß beim Klettern.
+3000000112	Ich bleib im Kontakt via SMS und Nachrichten.
+3000000113	Wenn es etwas wichtiges gibt, dann schick mir eine Nachricht.
+3000000114	Mach ich, aber es sollte eigentlich alles gut sein,wenn ich meine Medizin habe.
+3000000115	Ok, ich bin dann mal weg.
+3000000116	Hallo Robert, ich bin jetzt auf dem Weg.
+3000000117	Schick mir nochmal die genaue Adresse.
+3000000118	Ich brauche ungefähr eine dreiviertel Stunde bis ich da bin.
+3000000119	Servus Heinz, die Adresse habe ich dir gerade geschickt.
+3000000120	Alles klar, dann warte ich vor dem Eingang.
+3000000121	Ich fahre jetzt gerade auf den Parkplatz.
+3000000122	Ja, ich seh dich schon.
+3000000123	Servus, wie geht’s, lang nicht mehr gesehen.
+3000000124	Bei mir ist alles gut.
+3000000125	So, lass uns am besten gleich beginnen.
+3000000126	Genau, sonst verlieren wir zu viel Zeit.
+3000000127	Hast du die gesamte Ausrüstung mit dabei?
+3000000128	Jo, hab ich alles mit dabei, es kann losgehen.
+3000000129	Bin schon lange nicht mehr geklettert.
+3000000130	Dann könnte es sein, dass es Muskelkater gibt.
+3000000131	Erstmal ein bisschen dehnen und aufwärmen.
+3000000132	Richtig, und das ist wichtig.
+3000000133	Etwas Erfrischendes zum Trinken, bevor es losgeht?
+3000000134	Nee, das hab ich alles mit dabei.
+3000000135	Hier hinten ist der neue Dehnraum, hier wird man in Ruhe gelassen.
+3000000136	Die Musik ist auch beruhigend, das ist gut gegen den Stress.
+3000000137	Warst du mal wieder in Kambodia in den letzten paar Jahren?
+3000000138	Nein, leider nicht, hatte überhaupt keine Zeit.
+3000000139	Ich bin auch voll eingespannt in letzter Zeit.
+3000000140	Man findet immer weniger Zeit, um sein Leben zu gestalten.
+3000000141	Ich würde gerne mal wieder in den Fernen Osten reisen.
+3000000142	Dasselbe hier, und nicht nur für eine kurze Zeit.
+3000000143	Vielleicht gibt es Möglichkeiten über die Firma?
+3000000144	Es gibt ja immer wieder interessante Positionen, die im Ausland besetzt werden müssen.
+3000000145	Ja hatte ich mitbekommen und musste auch Schnee schippen.
+3000000146	Auch für die nächsten Tage ist viel Schnee gemeldet.
+3000000147	Muss man sich wieder warm anziehen.
+3000000148	Ich merke, dass mein Muskulatur ziemlich eingerostet ist.
+3000000149	Wenn man den Sport nicht regelmäßig macht, dann kommt das vor.
+3000000150	Sollte mich vielleicht etwas länger dehnen.
+3000000151	Das kann gar nicht schaden.
+3000000152	Wie läuft es denn im Geschäft?
+3000000153	Ziemlich gut, geht wirklich was ab.
+3000000154	Eigentlich sollte ich viel mehr Stunden haben am Tag.
+3000000155	Im Moment gibt es aber nicht mehr Personal.
+3000000156	Wenn das Geschäft so gut läuft, sollte dafür aber ein Budget vorhanden sein.
+3000000157	Ist es, aber es gibt eine gewisse Unsicherheit, wie sich das entwickelt.
+3000000158	Die globale Lage ist nicht unbedingt hilfreich.
+3000000159	Das stimmt, und dieses Risiko darf man nicht herausnehmen.
+3000000160	Und bei dir, auch viel zu tun?
+3000000161	Sehr viel, und es gibt bei uns auch nicht mehr Personal.
+3000000162	Aber die Firma plant sich im Ausland miteinzubringen.
+3000000163	Wir beide sind zwei Personen und Familie Müller sind 18 Personen.
+3000000164	Unser Management ist ein wenig rückständig und lebt noch in einer anderen Zeit.
+3000000165	Wenn die überleben wollen, dann müssen die sich anpassen.
+3000000166	Genau, sonst sind die weg vom Fenster.
+3000000167	Die Welt hat keine Geduld mehr für die Firmen in der Vergangenheit.
+3000000168	Es wird interessant werden in den nächsten paar Jahren.
+3000000169	Genau, die wirtschaftliche Lage wird sich dramatisch verändern.
+3000000170	Ich hoffe, das ist bald vorbei, denn die zerstören alles.
+3000000171	So, jetzt geht’s noch ein bisschen Klettern, und dann muss ich auch schon wieder weiter.
+3000000172	Das hört gar nicht auf, die haben sich schon wieder gemeldet.
+3000000173	Irgendwie sollte man sich aber auch nicht beschweren.
+3000000174	Denn solange wir noch einigermaßen was zu tun haben, sollte es gut sein.
+3000000175	Wie es aussieht biste noch ziemlich fit und kommst ganz gut da rauf.
+3000000176	Das ist gut zu hören, dann kann ich mich beruhigen.
+3000000177	Hatte schon so meine Bedenken mit meiner Fitness.
+3000000178	Schlechte Diät und schlechter Lebenswandel.
+3000000179	Speziell in den letzten paar Jahren, in denen es soviel zu tun gibt.
+3000000180	Ja, irgendwie schade, aber das kommt mit der Entscheidung.
+3000000181	Dazu hat man ja noch die Familie, die ein wenig unterstützt.
+3000000182	So, jetzt ist leider schon wieder genug, ich muss mich fertig machen.
+3000000183	Die Arbeit ruft, und ich muss los
+3000000184	Ich hoffe, dass wir uns demnächst mal wieder sehen.
+3000000185	Vielleicht auf ein Abendessen.
+3000000186	Ich muss mal schauen, wie sich das alles planen lässt.
+3000000187	Ok, vielen Dank für heute, war mal wieder gut.
+3000000188	Jo, gleichfalls danke, bis neulich denn, ne.
+3000000189	Hallo zusammen, bin wieder zuhause.
+3000000190	Alles in Ordnung hier, und die Medizin hat gewirkt.
+3000000191	Jetzt müssen wir nur noch alles klar Schiff machen für morgen.
+3000000192	Es kommen wohl zirka zwanzig Leute.
+3000000193	Ich hoffe, wir haben genug zu Essen.
+3000000194	Wenn nicht, dann bestellen wir halt noch was nach.
+3000000195	Wann sollen die ersten kommen?
+3000000196	Ich glaube, die ersten wollen schon zu Nachmittag kommen.
+3000000197	Mal schaun, die wissen die Zeiten und können kommen.
+3000000198	Kannste mal die Pflanzen gießen, die sind ziemlich trocken.
+3000000199	Dann muss noch einiges aufgeräumt werden, bevor die kommen.
+3000000200	Heute wollte ich eigentlich nicht mehr so viel machen.
+3000000201	Heute will ich auch kein Fernseh mehr schauen.
+3000000202	Ich habe jetzt plötzlich auch ein wenig Kopfweh.
+3000000203	Keine Lust mehr, irgendwas zu tun.
+3000000204	Nee, geht schon in Ordnung, muss mich nur hinlegen.
+3000000205	Ich hoffe, es ist nicht nur die Medizin.
+3000000206	Ach ja, haben wir eigentlich auch die neue Fernsehzeitung mitgenommen?
+3000000207	Was gibt es denn heute im Dritten?
+3000000208	Keine Ahnung, da musste mal selber schauen.
+3000000209	Ich muss noch was am Computer arbeiten.
+3000000210	Es gibt wirklich viel zu tun in letzter Zeit.
+3000000211	Der Chef redet schon über eventuelle Auslandsstandorte.
+3000000212	Echt, will die Firma sich erweitern?
+3000000213	Das Risikio ist im Moment noch viel zu hoch.
+3000000214	Ich, und auch andere, haben ihm geraten, dass er noch warten sollte.
+3000000215	Aber da das Geschäft ziemlich gut wächst, wird wohl was passieren.
+3000000216	Wir wissen aber noch nicht wann und wo.
+3000000217	Aber er denkt im Moment an Südostasien.
+3000000218	Es müssen aber noch einige Besprechungen stattfinden.
+3000000219	Er muss Entscheidungen mit seinem Team treffen.
+3000000220	Wenn er das alleine macht, dann verliert er einige gute Leute.
+3000000221	Was musst du denn noch arbeiten?
+3000000222	Ein paar Dokumente erstellen und Preise für Material suchen.
+3000000223	Das ist ziemlich aufwendig, oder?
+3000000224	Ja, es kostet hauptsächlich viel Zeit.
+3000000225	Es kann aber auch Stress verursachen.
+3000000226	Wenn man das zu lange macht, dann kann die Gesundheit leiden.
+3000000227	Das ist möglich, aber es wird jedem geraten Sport zu tun.
+3000000228	Man sollte unbedingt einen guten Ausgleich finden, jeden Tag.
+3000000229	Ich finde auch, dass es wichtig ist fit zu bleiben, sonst ist man weg.
+3000000230	Allgemein muss jeder an seine Gesundheit denken, neben der Arbeit.
+3000000231	Ich denke, dass viele noch lernen müssen, wie man das am besten tut.
+3000000232	Nicht jedem ist das bewusst.
+3000000233	Das ist mir auch bekannt und habe es erkannt.
+3000000234	Manchmal geht es mir auch so, keine große Lust.
+3000000235	Aber es kommt jeder an einen, Punkt wo es demjenigen bewusst wird.
+3000000236	Das heißt die Leute müssen lernen, viel selbstbewusster zu werden.
+3000000237	Finde ich irgendwie auch, aber viel mehr Info ist nötig.
+3000000238	Jeder muss in der Zukunft die eigene Info finden.
+3000000239	Es werden immer wieder kleine Hinweise gegeben.
+3000000240	Die meisten Kunden erwarten  sich exzellenten Service.
+3000000241	Vielleicht können die aber auch gar nicht.
+3000000242	Kann schon sein, aber ich habe gesehen, dass die meisten nur faul sind.
+3000000243	Viele sind total verwöhnt und noch zu arrogant, um etwas selbst zu tun.
+3000000244	Diese Zeit ist dazu bestimmt, etwas zu tun.
+3000000245	Wenn die Leute überleben wollen, müssen die Gas geben.
+3000000246	Du meinst die müssen aufwachen und eigene Taten tun?
+3000000247	Richtig, das wird das Wichtigste sein.
+3000000248	In der Zukunft gibt es keine Befütterung mehr.
+3000000249	Ich meine, dass die Leute nicht mehr auf andere sich verlassen können.
+3000000250	Die Menschen müssen unbedingt kapieren, dass sie es selber machen müssen.
+3000000251	Aus diesem Grund gibt es kein Erbarmen mehr.
+3000000252	So, jetzt muss ich wirklich was tun.
+3000000253	Ja, das schafft er.
+3000000254	Er hat ja auch genügend gelernt.
+3000000255	Das nehm ich auch.
+3000000256	Fleisch, Wurst, etwas Käse
+3000000257	Es gibt ja genug Fleisch und Brot.
+3000000258	Den darf ich auch nicht vergessen.
+3000000259	Muss ich mir noch aufschreiben.
+3000000260	Sollte nicht so super lange dauern.
+3000000261	Bin später wieder hier.
+3000000262	Die Zeitung hab ich noch nicht gelesen.
+3000000263	Neulich bei Oma hatten wir viel Spaß.
+3000000264	Ja, da stimme ich dir zu.
+3000000265	Da mach ich mir keine großen Gedanken darüber.
+3000000266	Kann ich mir denken.
+3000000267	Meine Aufgabe ist es die Eltern zu informieren.
+3000000268	Dann mach das mal.
+3000000269	Ich finde es an der Ostküste bei Rostock am schönsten.
+3000000270	In der Frittenbude ackern mach ich nicht mehr mit.
+3000000271	Ich nehm heute mal die Klopse mit Soße.
+3000000272	Das Gleiche für mich.
+3000000273	Ich habe auch etwas dagegen.
+3000000274	Bis heute Abend wieder.
+3000000275	Genau, und irgendwann sollte doch mal Ruhe sein.
+3000000276	Aber ich habe auch keine Lust.
+3000000277	Brauchen wir noch was zum Trinken?
+3000000278	Das kann ich gleich mitbringen.
+3000000279	Kinder, schafft ihr das alleine?
+3000000280	Wir müssen jetzt los.
+3000000281	Du kannst ja schon mal vorgehen?
+3000000282	Nee, ich warte dann auf dich.
+3000000283	Wer mag noch mehr Pommes?
+3000000284	Ich nehme noch welche, danke.
+3000000285	Es ist wichtiger als die andere Sache.
+3000000286	Als welche andere Sache?
+3000000287	Hört mir jemand zu?
+3000000288	Nein, ehrlich gesagt, sind wir alle beschäftigt.
+3000000289	Holst du die Kinder heute von der Schule ab?
+3000000290	Natürlich mache ich das.
+3000000291	Bestellst du mir einen Kaffee mit?
+3000000292	Mach ich doch sicherlich.
+3000000293	Nö, nix gehört und gesehn.
+3000000294	Etwas schwindelig ist mir schon.
+3000000295	Warum denn so früh?
+3000000296	Wie fahre ich am besten?
+3000000297	Was willst du denn?
+3000000298	Kommt ihr alle mit oder bleibt ihr hier?
+3000000299	Es wird wohl Gewitter geben?
+3000000300	Hast du jemanden eingeladen?

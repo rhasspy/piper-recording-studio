@@ -1,0 +1,300 @@
+4000000001	Es gibt verschiedene Farben zur Auswahl.
+4000000002	Sie können sich gerne orientieren.
+4000000003	Unsere Verkaufsabteilung macht erst um neun Uhr auf.
+4000000004	Dort drüben finden Sie die Damenabteilung.
+4000000005	Hier auf der rechten Seite ist die Kinderabteilung.
+4000000006	Im dritten Stock befindet sich die Herrenabteilung.
+4000000007	Bei uns können Sie sich gerne einen Anzug maßschneidern lassen.
+4000000008	Heute gibt es interessante Angebote in unserem Luxus Cafe.
+4000000009	Wir haben das für Sie bereitgestellt.
+4000000010	Haben Sie dieselbe Hose auch eine Nummer größer?
+4000000011	Dort drüben gibt es Jeans in großer Auswahl.
+4000000012	Der Gutscheincode wurde erfolgreich hinzugefügt.
+4000000013	Unser Ziel ist es, das Essverhalten der Menschen zu ändern und sie bei einem ausgewogenen Lebensstil zu unterstützen.
+4000000014	Für diese Fälle berechnen wir die Differenz.
+4000000015	Das Essen schmeckt lecker.
+4000000016	Die Zutaten sind super in der Qualität und auch im Geschmack.
+4000000017	Übrigens, jetzt essen wir wieder alle zusammen am Esstisch und nicht mehr vor dem Fernseher.
+4000000018	Oma ist auch mit von der Partie.
+4000000019	Wir senden dem Empfänger Dein Geschenk per E-Mail zu und Dir eine entsprechende Geschenkkarte zum Ausdrucken.
+4000000020	Verschenke stressfreies Kochen mit vorportionierten Zutaten und Schritt-für-Schritt Rezeptkarten - direkt nach Hause geliefert.
+4000000021	Wir bringen frische Zutaten von ausgewählten Erzeugern direkt vom Feld auf die Gabel.
+4000000022	Deine beschenkte Person kann aus über 30 Gerichten jede Woche wählen und frei entscheiden, wann und wohin die Box geliefert wird.
+4000000023	Ich habe einen Geschenkgutschein eingelöst und habe noch Guthaben auf meinem Konto.
+4000000024	Nein, der Kauf eines Geschenkgutscheins ist eine einmalige Transaktion.
+4000000025	Damit erfolgt weder für den Absender noch für den Empfänger eine Anmeldung für den wöchentlichen Service und es fallen keine weiteren Gebühren an, es sei denn, Du entscheidest Dich für zusätzliche Einkäufe oder meldest Dich aktiv für den wöchentlichen Service bei uns an.
+4000000026	In bestimmten Fällen können Versandkosten anfallen, die länderspezifisch sind.
+4000000027	Der Kauf mehrerer Karten für dieselbe Bestellung wird noch nicht unterstützt.
+4000000028	Du kannst den Kaufvorgang jedoch mehrmals durchführen, ohne ein neues Konto erstellen zu müssen.
+4000000029	Wir bitten Dich nur, Dich anzumelden oder ein Konto zu erstellen, damit wir Dir eine Bestellbestätigung zusenden können.
+4000000030	Solange der Wert durch Deinen Geschenkgutschein gedeckt ist, wird Dir nichts berechnet.
+4000000031	Wenn Du Rezepte auswählst, die den Gutscheinwert überschreiten, wird Dir die Differenz in Rechnung gestellt.
+4000000032	Der Wert der Rezepte ist auf der Seite der Gerichteauswahl angezeigt.
+4000000033	Wenn noch Guthaben auf Deinem Konto übrig ist, wird es automatisch auf Deine nächste/ Lieferung/en angerechnet, wenn Du Dich für unseren wöchentlichen Service anmeldest.
+4000000034	Aber keine Sorge, Du kannst Deine Lieferung jederzeit pausieren oder kündigen.
+4000000035	Gehe zu "Kochboxen" auf unserer Homepage und bestelle die Kochbox Deiner Wahl.
+4000000036	Dein restliches Guthaben wird automatisch angerechnet.
+4000000037	Ja, Du erhältst nach dem Kauf eine Bestätigung per E-Mail.
+4000000038	Wenn Du die Option "Zum Ausdrucken" ausgewählt hast, enthält diese E-Mail auch eine druckbare Karte, die Du herunterladen und an den Empfänger weitergeben kannst.
+4000000039	Wenn die Empfänger die E-Mail-Bestätigung nicht erhalten, empfehlen wir ihnen, ihre Spam-Ordner zu überprüfen.
+4000000040	Dein Empfänger erhält an dem von Dir angegebenen Tag eine E-Mail.
+4000000041	Diese E-Mail enthält schrittweise Anweisungen zum Einlösen des Geschenkgutscheins.
+4000000042	Wenn Du den Geschenkgutschein zu Hause ausdrucken möchten, liegt es an Dir, diesen dem glücklichen Empfänger zu überreichen.
+4000000043	Leider ist das momentan noch nicht möglich.
+4000000044	Wenn Du den Bestellvorgang abschließt, wirst Du aufgefordert, einen Liefertermin auszuwählen.
+4000000045	Du kannst diesen aber bis zu einem bestimmten Stichtag unter "Meine Lieferungen" ändern.
+4000000046	Viele Kunden fügen zusätzliche Gerichte oder andere Produkte hinzu.
+4000000047	In diesem Fall erhalten Sie den Kaufpreis umgehend zurückerstattet.
+4000000048	Wir belasten Dein Konto aber nicht, solange Du nur Deinen Gutscheinwert einlöst.
+4000000049	Bitte rufen Sie den Abteilungsmanager dazu an, der kann Ihnen weiterhelfen.
+4000000050	Büroartikel jetzt im Angebot im Erdgeschoss.
+4000000051	Reisebekleidung für den schnellen Urlaub, jetzt im ersten Obergeschoss.
+4000000052	Taschen und Geldbörsen gleich neben der Kofferabteilung.
+4000000053	Dieser Artikel ist momentan nicht verfügbar.
+4000000054	Eine Heimzustellung ist innerhalb achtundvierzig Stunden möglich.
+4000000055	Exklusive Kundenkarte mit interessanten Angeboten jetzt verfügbar.
+4000000056	Mittagsangebot im Restaurant im obersten Stock, kommen Sie vorbei.
+4000000057	Fünfundzwanzig Prozent Rabatt zum Sommerschlussverkauf.
+4000000058	Sie können keinen Coupon für bereits im Angebot befindliche Artikel verwenden.
+4000000059	Möchten Sie eine Garantie mit dem Artikel bestellen?
+4000000060	Kundenservice ist unsere Priorität und wir nehmen alle Beschwerden entgegen und ernst.
+4000000061	Artikel im Ausverkauf sind von der Rückgabe grundsätzlich ausgeschlossen.
+4000000062	Vielen Dank für Ihren Einkauf.
+4000000063	Sie haben bei jedem Kauf eines Produktes einen Anspruch auf eine mögliche Finanzierung.
+4000000064	Der Mindestbetrag eines Einkaufes beträgt zweihundert Euro.
+4000000065	Wir bieten diese Produkt als Einzelteil oder als Teil eines Paketes an.
+4000000066	Wir haben dieses Kleid auch in mehreren Größen, Sie können wählen.
+4000000067	Am Dienstag bekommen Sie ihre Lieferung.
+4000000068	Für bestimmte und ausgewählte Artikel stehen Ihnen Zahlungsoptionen zur Verfügung.
+4000000069	Alle Räumungsartikel sind jetzt im Sommerschlussverkauf.
+4000000070	Wir bieten Studenten und Schülern besondere Rabatte an.
+4000000071	Vielen Dank für Ihre Rücksprache, wir schätzen die Meinung jedes Kunden!
+4000000072	Bitte erkundigen Sie sich bei Ihrem Händler nach den Richtlinien für die einzelnen Geschäfte.
+4000000073	Unsere Geld-zurück-Garantie wird es abdecken.
+4000000074	Leider wird dieses Produkt nicht mehr hergestellt.
+4000000075	Der Preis für jedes der Produkte ist in allen Geschäften gleich.
+4000000076	Dieser Artikel ist vorübergehend ausverkauft, bitte kommen Sie morgen wieder.
+4000000077	Leider sind diese Artikel momentan nicht auf Lager.
+4000000078	Sie können uns jederzeit bei Beschwerden anrufen und eine Bestellung wird erstattet.
+4000000079	Wir haben eine Zufriedenheitsgarantie, bei begründeter Unzufriedenheit mit dem Service.
+4000000080	Heute am Heiligen Abend schließt unser Geschäft um dreizehn Uhr.
+4000000081	Möchten Sie Ihrer neuen Bestellung noch weitere Artikel hinzufügen?
+4000000082	Haben Sie eine Kundenbonuskarte bei uns?
+4000000083	Heute haben wir einen sogenannten Zurück Zur Schule Verkaufstag.
+4000000084	Wir nehmen gerne Kreditkarte und/oder Bargeld als Zahlungsmittel.
+4000000085	Beim Verlassen des Parkdecks können Sie ihre Quittung im Kartenautomaten einlösen.
+4000000086	Als Neukunde haben Sie einen Anspruch auf ein kostenloses Geschenk.
+4000000087	Dieses Produkt wird nur in unserem Hauptverkaufshaus geführt.
+4000000088	Ihr Einkauf wird innerhalb von drei Werktagen bei Ihnen zu Hause ankommen.
+4000000089	Dieses Produkt ist brandneu und ein Verkaufsschlager.
+4000000090	Sie können ihr Guthaben in jedem unserer Standorte verwenden.
+4000000091	Diese Produktlinie wurde von uns eingestellt.
+4000000092	Wir bieten unseren Kunden leicht umsetzbare Inspiration, indem wir Ihnen Woche für Woche kreative Abwechslung mit Zutaten ausgewählter Lieferanten in die Küche bringen.
+4000000093	Unsere Produkte sind alle mit Bio zertifiziert.
+4000000094	Alle Ihre Fragen werden von unseren Mitarbeitern gerne beantwortet.
+4000000095	Alle unsere Mitarbeiter haben professionelle Zertifizierungen für die entsprechenden Aufgaben.
+4000000096	Unser Bewerbungsprozess ist einfach, aber wird nach einem System durchgeführt.
+4000000097	Unsere Schulungsmitarbeiter kommen aus aller Welt, also international.
+4000000098	Wenn Sie mit dem Kurs nicht zufrieden sind, bieten wir eine Rückerstattung an.
+4000000099	Talentierten Studenten werden Stipendien angeboten.
+4000000100	Unsere Instruktoren gehen mit einem für Sie angepassten Tempo an Sie heran.
+4000000101	Die Erstsemester haben einen Anspruch auf eine kostenlose Probestunde.
+4000000102	Leider bieten wir nur Gruppenunterricht an, keinen Einzelunterricht.
+4000000103	Die Schüler sehen Fortschritte erst in zwei Wochen.
+4000000104	Wir passen für jeden Schüler unsere Kurse individuell an.
+4000000105	Der Kurs geht auf unsere Kosten, wenn Ihre Programmierkenntnisse nicht verbessert wurden.
+4000000106	Wir bieten Tages- und Abendkurse an.
+4000000107	Jede Unterrichtsstunde dauert fünfundvierzig Minuten.
+4000000108	Jeder Studierende muss bei der Aufnahme einen Einstufungstest ablegen.
+4000000109	Jeder Kurs wurde mit Blick auf die Studierenden konzipiert.
+4000000110	Zur Verfügung stehen leider nur begrenzte Plätze.
+4000000111	Wir haben erfahrende Experten für jedes Gebiet und Fach.
+4000000112	Wir bieten für jeden etwas Interessantes, egal ob Jugendlicher oder Erwachsener.
+4000000113	Aufgrund der aktuellen Situation finden alle Kurse nur online statt.
+4000000114	Wenn Sie unten klicken, können Interessierte mehr über das Thema erfahren.
+4000000115	Viele unserer Ausbilder und auch einige Studenten sind von der oberen Liga.
+4000000116	Die Dozenten stehen Ihnen bei Fragen gerne zur Verfügung.
+4000000117	Für diesen Kurs bekommen Sie eine dreißig Tage Geld-Zurück-Garantie.
+4000000118	Der Lernansatz und der Kurs allgemein ist ganzheitlich angeboten.
+4000000119	Leider ist unser kostenloses Webinar für morgen storniert worden.
+4000000120	Es sind nur noch drei Plätze frei im Literaturstudiengang.
+4000000121	Jede zusätzliche Klasse können Sie gegen eine Gebühr jederzeit hinzufügen.
+4000000122	Alle unsere Kurse basieren auf einem praxisorientierten Lernansatz.
+4000000123	Wir haben eine gleichmäßige Zufriedenheitsrate von rund achtundneunzig Prozent.
+4000000124	Ehemalige Studenten würden gerne wieder zurückkommen und weitere Kurse mitmachen.
+4000000125	In jedem unserer Kurse sind in der Regel drei bis sechs Schüler.
+4000000126	Am Montag gibt es einen Orientierungstag.
+4000000127	Leider wird dieser Kurs nicht mehr bei uns angeboten.
+4000000128	Unser Deutsch Intensivkurs ist der Beliebteste.
+4000000129	Sie können bei den anderen Instituten unserer Schule Ihren Kredit auch einlösen.
+4000000130	Wir bieten Kurse in den am meisten gesprochenen Sprachen an.
+4000000131	Am Wochenende wird wieder das Seminar angeboten, das sich so schnell rumgesprochen hat.
+4000000132	Unsere Terminplanung ist ausgewogen, darum bieten wir mehrere Kurse an.
+4000000133	Jeder Teil der Kurse ist für ein schnelles Lernen konzipiert.
+4000000134	Bitte sichern Sie sich Ihren Platz in dem von Ihnen ausgewählten Kurs schnell.
+4000000135	Eine Restbezahlung kann nach drei Monaten erfolgen, vorausgesetzt Sie haben eine Gebühr hinterlegt.
+4000000136	Die meisten Kurse beginnen regelmäßig um neun Uhr morgens.
+4000000137	Eine Verlängerung eines Kurses muss eigentlich genehmigt werden.
+4000000138	Momentan gibt es keine Warteliste.
+4000000139	Für bestimmte ausgewählte Kurse bieten wir eine Ratenzahlung an.
+4000000140	Anspruch auf eine Rückerstattung haben Sie nur mit einem Kaufbeleg.
+4000000141	Die bekommen ihr Geld zurück, das Produkt hatte einen Mangel.
+4000000142	Dieser Artikel unterliegt noch der vorgegebenen Garantie.
+4000000143	Das Produkt muss bei der Rückgabe in der Originalpackung sein.
+4000000144	Eine Rückerstattung gibt es bei diesem Produkt innerhalb von dreißig Tagen.
+4000000145	Der Artikel muss zusammen mit der Quittung in die Filiale zurückgebracht werden.
+4000000146	Da es einen Herstellerfehler gibt, können wir Ihnen diesen Artikel kostenlos ersetzen.
+4000000147	Für alle Rücksendungen brauchen wir eine Quittung.
+4000000148	Jeder Artikel wird mit einer Geld Zurück Garantie geliefert.
+4000000149	Haben Sie in unserem Kaufhausparkhaus geparkt?
+4000000150	Die Rückerstattung für diesen Artikel beträgt einunddreißig Euro.
+4000000151	Könnten Sie mir bitte die Produktidentifizierungsnummer durchgeben?
+4000000152	Dieses Produkt kann leider nicht mehr kostenlos repariert werden.
+4000000153	Sie müssen bei Erstattung einen glaubwürdigen Grund angeben.
+4000000154	Das Sicherheitssiegel ist auf der Rückseite des Produktes.
+4000000155	Dieses Ticket ist leider nicht mehr gültig.
+4000000156	Das Theaterticket können Sie jederzeit zurückerstattet bekommen.
+4000000157	Möchten Sie eine Rückerstattung oder einen Ersatz?
+4000000158	Die Reparatur können wir für Sie jederzeit durchführen.
+4000000159	Diese Lebensmittel sind nicht länger haltbar, und es gibt keinen Ersatz.
+4000000160	Diese Produkte wurden vor einigen Tagen aus den Regalen genommen.
+4000000161	Wir stehen für einen bewussten und nachhaltigen Umgang mit Lebensmitteln, Inspiration und Genuss sowie Flexibilität im Alltag.
+4000000162	Für dieses Flugticket bekommen Sie einen Zugersatz in der Ersten Klasse.
+4000000163	Blumen und Pflanzen sind vom Ersatz ausgenommen.
+4000000164	Frische Ware kann nicht zurückgenommen werden.
+4000000165	Kleidungsstücke können Sie gerne hier abgeben und einen Ersatz bekommen.
+4000000166	Die Kosten für den Ausfall erstatten wir Ihnen gerne.
+4000000167	Nach einem Monat bekommen Sie immerhin noch dreißig Prozent zurückerstattet.
+4000000168	Es kommen morgen bei Ihnen Techniker vorbei, die danach schauen.
+4000000169	Für eine Reparatur entfallen etwaige zusätzliche Kosten.
+4000000170	Für selbstverursachte Wasserschäden gibt es keine Garantie.
+4000000171	Für Rost übernehmen wir keine Haftung.
+4000000172	Die Garantie kann durch einen kleinen Aufpreis verlängert werden.
+4000000173	Für Bekleidung gibt es von uns keine Garantie.
+4000000174	Sollte es weiterhin Probleme geben mit diesem Produkt, kontaktieren Sie uns.
+4000000175	Das Datum kann nicht nach oben geschoben werden.
+4000000176	Danach öffnet sich eine kleines Fenster.
+4000000177	Normalerweise wird alles automatisch synchronisiert.
+4000000178	Bitte buchstabieren Sie ihren Namen.
+4000000179	Diesen Code jetzt hier eingeben.
+4000000180	Überprüfen Sie bitte Ihre Internetverbindung.
+4000000181	Dafür gibt es ein Symbol das Sie eingeben müssen.
+4000000182	Leider ist danach der Bildschirm schwarz geworden.
+4000000183	Die kleinere Taste drücken und dann warten.
+4000000184	Sie müssen sich nochmals hier anmelden.
+4000000185	Die Eingabezeit ist leider abgelaufen.
+4000000186	Sie haben einen Schritt übersprungen.
+4000000187	Leider haben Sie keinen Zugriff mehr zu diesem Produkt.
+4000000188	Diese Nummer müssen Sie neu erwerben.
+4000000189	Fragen Sie nach dem Produktschlüssel?
+4000000190	Bewahren Sie bitte die folgende Produktnummer sorgfältig auf.
+4000000191	Bitte überprüfen Sie Ihre Email.
+4000000192	Klicken Sie auf Weiter, um in den nächsten Schritt zu kommen.
+4000000193	Bitte bestätigen Sie dieses Produkt auf dieser Seite.
+4000000194	Leider können wir keine Garantie vergeben.
+4000000195	Auf welches Konto möchten Sie zugreifen?
+4000000196	Haben Sie ihr Passwort vergessen?
+4000000197	Möchten Sie Ihr Konto wiederherstellen?
+4000000198	Drücken Sie den Netzschalter, um den Rechner wieder hochzufahren.
+4000000199	Sie bekommen von uns eine Bestätigungsemail.
+4000000200	Bitte drücken Sie auf diesen Link.
+4000000201	Jetzt bitte die Bestellnummer eingeben.
+4000000202	Ist ihr Computer mit dem lokalen Internet verbunden?
+4000000203	Dieser Zusatz kostet Ihnen zirka dreißig Euro.
+4000000204	Dieses Konto ist mit einem anderen Konto verbunden.
+4000000205	Alle Informationen sind korrekt, bitte weiter.
+4000000206	Sie müssen ein zusätzliches Formular ausfüllen, um dieses Produkt zu erwerben.
+4000000207	Ihre Bezahldaten sind nicht vollständig.
+4000000208	Das sind alle Informationen, die ich bekommen habe.
+4000000209	Das können wir für Sie leider nicht tun.
+4000000210	Jetzt hier bitte den Produktschlüssel eingeben.
+4000000211	Ihr Netzwerk ist nicht sicher für diese Verbindung.
+4000000212	Bitte erneut versuchen, die Verbindung wurde unterbrochen.
+4000000213	Einen Moment warten, Sie werden weitergeleitet.
+4000000214	Eine kostenlose Überarbeitung ist jetzt verfügbar.
+4000000215	Die Nummer zur Identifizierung hier eingeben.
+4000000216	Jetzt nochmals die Email eingeben.
+4000000217	Diese Daten stimmen leider nicht überein.
+4000000218	Ihr Bluetooth ist ausgeschaltet oder nicht verfügbar.
+4000000219	Bitte die Geräteeinstellungen nochmals überprüfen.
+4000000220	Dann werden die Kollegen genau wissen, worum es sich handelt.
+4000000221	Bitte bei der Aktivierung das Gerät nicht abschalten.
+4000000222	Vor der Neuinstallierung das Gerät an das Festnetz binden.
+4000000223	Diese Uhr geht nur über Ihr Telefon.
+4000000224	Eine Aktualisierung für dieses Gerät ist leider nicht mehr verfügbar.
+4000000225	Kontaktieren Sie uns bitte, um dieses Problem zu lösen.
+4000000226	Hinterlegen Sie eine Email Adresse.
+4000000227	Der Bildschirm ist für dieses Gerät nicht kompatibel.
+4000000228	Das Abonnement muss in drei Tagen erneuert werden.
+4000000229	Ihre Lizenz ist abgelaufen, bitte rufen Sie uns an.
+4000000230	Diese Software ist zu alt und muss ersetzt werden.
+4000000231	Das Produkt ist nur für einen Rechner erhältlich.
+4000000232	Die Lieferung verzögert sich um ein paar Tage.
+4000000233	Haben Sie zufällig eine andere Telefonnummer zur Hand?
+4000000234	Ihre Zahlungsbestätigung wurde Ihnen zugesendet.
+4000000235	Bitte drucken Sie diese Rechnung aus.
+4000000236	Wir können derzeit nichts weiteres für Sie tun.
+4000000237	Leider kann ich Sie nicht so gut verstehen, bitte überprüfen Sie ihre Verbindung.
+4000000238	Geben Sie noch ein zusätzliches Konto an.
+4000000239	Wählen Sie zwischen diesen Konten aus.
+4000000240	Sie können per Banküberweisung oder Kreditkarte bezahlen.
+4000000241	Jederzeit ist ein Rückruf möglich.
+4000000242	Es dauert nur noch ein paar Minuten.
+4000000243	Es ist gleich ein Kundenberater für Sie da.
+4000000244	Sind Sie bei uns schon Kunde gewesen?
+4000000245	Was können wir für Sie tun?
+4000000246	Einen größeren Speicher können Sie jederzeit installieren lassen.
+4000000247	Der neue Bildschirm kostet etwa fünfhundert Euro.
+4000000248	Als Teil dieses Service sind wir stets auf der Suche nach Partnerschaften mit Unternehmen, die ähnliche Werte verkörpern und zu unserer Marke passen.
+4000000249	Für diese Software müssen Sie zusätzlich etwas installieren.
+4000000250	Ein Verbindungskabel ist nicht notwendig, nur kompatibles Bluetooth.
+4000000251	Nach der Installierung müssen Sie den Rechner herunterfahren und neu starten.
+4000000252	Wenn Sie noch weitere zusätzliche Komponenten bei uns erwerben.
+4000000253	Diese Lizenz können Sie auch von uns erwerben.
+4000000254	Es ist möglich dass Sie diesen Rechner nicht mehr verwenden können.
+4000000255	Leider ist dieses Teil nicht mehr verfügbar.
+4000000256	Sie können diese Benachrichtigungen jederzeit abbestellen.
+4000000257	Bitte geben Sie die Ihnen zugesandte Nummer unten ein.
+4000000258	Schließen Sie Ihren Einkauf jetzt ab und erhalten Sie zehn Prozent Rabatt!
+4000000259	Ihre Abrechnung ist jetzt auf Ihrem Konto sichtbar.
+4000000260	Sie können diese Rechnung jetzt ausdrucken.
+4000000261	Diese Sitzung ist jetzt beendet.
+4000000262	Sie haben soeben eine Rückzahlung auf Ihrem Konto erhalten.
+4000000263	Zusätzlich bekommst Du ein ausführliches Abschlussreporting.
+4000000264	Sie haben das Datenlimit für diesen Monat überschritten.
+4000000265	Bitte überprüfen Sie ihre Nachrichten auf dem Anrufbeantworter.
+4000000266	Bei einer Umfrage bekommen Sie einen zehn Prozent Rabatt beim nächsten Kauf.
+4000000267	Wir haben gerade Ihre Zahlung erhalten.
+4000000268	Laden Sie Ihr Telefon via App auf.
+4000000269	Sie können keine Unterbrechungen bemerken?
+4000000270	Nach der Bestellung bekommen Sie eine Nachricht mit einem Link.
+4000000271	Erreichen Sie kommerzielle Exzellenz durch Preisoptimierung und Verkaufsabwicklung.
+4000000272	Wir helfen unseren Kunden, ihre Effektivität zu verbessern.
+4000000273	Die Zukunft eines Betriebs ist vom Personal und dem Produkt abhängig.
+4000000274	Jedes Projekt ist auf die spezifischen Bedürfnisse unserer Kunden ausgerichtet.
+4000000275	Wir haben über dreißig Jahre Auslandserfahrung und sind jederzeit verfügbar.
+4000000276	Die Geschäftslösungen sind den Kunden angepasst.
+4000000277	Wir konzentrieren uns auf den Erfolg und die Unterstützung unserer Kunden.
+4000000278	Der Umfang richtet sich hauptsächlich nach den Geschäftszielen und Herausforderungen.
+4000000279	Wir empfehlen in der Regel eine Bewertungsphase zu Beginn jedes Projekts.
+4000000280	Unsere Lösungen sind flexibel und sollen unzählige Herausforderungen lösen.
+4000000281	Wir sind davon überzeugt, dass eine vor Ort orientierte Beratung wichtig ist.
+4000000282	Der Vorschlag enthält den Arbeitsumfang, das Budget, die Zeitpläne und Empfehlungen.
+4000000283	Einen Mengenrabatt können wir bei bestimmten Produkten anbieten.
+4000000284	Die Designphase dient dazu, ein Trainingsprogramm von Anfang bis Ende zu entwerfen.
+4000000285	Die Abbildung von Geschäftsprozessen ist für die Verbesserung von Geschäftsprozessen unerlässlich.
+4000000286	Der Rückgang der Verkäufe ist generell zu verbessern.
+4000000287	Die Aussicht auf eine bessere und effektivere Verarbeitung ist möglich.
+4000000288	Die Verbesserung von Geschäftsprozessen kann nur mit einer genauen Prozessdokumentation erreicht werden.
+4000000289	Zu den Akquisitionsanforderungen gehört oft eine detaillierte Prozessdokumentation.
+4000000290	Ihre Strategie ist entscheidend für die Definition der Funktionsweise Ihres Unternehmens.
+4000000291	Wir können einen umfassenden Bericht für Sie erstellen, wenn danach gefragt wird.
+4000000292	Eine finanzielle Beteiligung ist durchaus möglich, muß aber noch genau geprüft werden.
+4000000293	Nach der Beratungsphase kommt die Planungsphase.
+4000000294	Die Beratungsphase ist normalerweise eine erste Entdeckungsreise.
+4000000295	Die Planungsphase ist eine der wichtigsten Teile eines Projektes.
+4000000296	Wir sind ein Unternehmen mit qualitativer Erfahrung auf vielen Gebieten.
+4000000297	Es gibt eine Umsetzungsphase, die mit in das Budget einberechnet werden sollte.
+4000000298	Nach der Planungsphase sollte man sich genau über das Projekt klar sein.
+4000000299	Eine Begutachtung kann von einem Drittanbieter übernommen werden.
+4000000300	Wir sind für Sie da, wenn Sie weitere Informationen benötigen.

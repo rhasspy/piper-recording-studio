@@ -1,0 +1,300 @@
+4000000001	Na voljo imamo več barv.
+4000000002	Sezonski izdelki so vsi na voljo ob naši končni prodaji.
+4000000003	Ob vsakem nakupu je na voljo brezplačna dostava.
+4000000004	Za pomoč vprašajte katerega koli od naših prijaznih sodelavcev.
+4000000005	Želite darilno embalažo brez dodatnega plačila?
+4000000006	Za doplačilo imamo na voljo možnost dostave na naslednji dan.
+4000000007	Lahko opravite prevzem v trgovini ali dostavo na dom.
+4000000008	Izdelki označeni z rdečo oznako so znižani za štirideset odstotkov.
+4000000009	Na tej lokaciji nisem našel nobenega izdelka na zalogi.
+4000000010	Za vsa oblačila velja 10-odstotni popust.
+4000000011	Tega izdelka ne prodajamo več.
+4000000012	Vračila so dovoljena 30 dni po nakupu s potrdilom o prejemu.
+4000000013	Delovni čas trgovine je od desete do devete ure.
+4000000014	Počakajte trenutek, da poiščemo izdelek.
+4000000015	Za vse nakupe alkohola se prepričajte, da imate veljaven osebni dokument.
+4000000016	Danes in jutri imamo posebno akcijo: kupite dva in dobite enega brezplačno.
+4000000017	Darilno kartico lahko unovčite v kateri koli trgovini.
+4000000018	Vsi nakupi nad 10 evrov so vključeni v našo mesečno nagradno igro.
+4000000019	Želite mini različico ali različico v polni velikosti?
+4000000020	Plenice se nahajajo na tretji polici.
+4000000021	Imamo ekološke in neekološke plenice.
+4000000022	V kakšni velikosti želite čevelj?
+4000000023	Za nekatere izdelke veljajo omejitve pri nakupu.
+4000000024	Naslednji teden se prične praznična razprodaja.
+4000000025	Na žalost smo že razprodali vse zaloge.
+4000000026	Ponujamo storitev dostave na dom.
+4000000027	Vključite se lahko v naš program nagrajevanja zvestobe.
+4000000028	Kupona ne morete uporabiti za izdelke, ki so že znižani.
+4000000029	Želite kupiti garancijo za izdelek?
+4000000030	Storitve za stranke so naša prioriteta in vse pritožbe obravnavamo resno.
+4000000031	Izdelki v razprodajah niso upravičeni do vračila.
+4000000032	Zahvaljujemo se vam za vaše poslovanje.
+4000000033	Pri vsakem nakupu ste upravičeni do financiranja z 10-odstotno obrestno mero.
+4000000034	Najmanjši znesek nakupa je 100 evrov.
+4000000035	Izdelek ponujamo samostojno ali kot del paketa.
+4000000036	Ta izdelek imamo na voljo v več velikostih.
+4000000037	Novo pošiljko bomo dobili v torek.
+4000000038	Za nekatere predmete imamo na voljo plačilne načrte.
+4000000039	Vsi predmeti v prosti prodaji so dokončno prodani.
+4000000040	Ponujamo študentske in vojaške popuste.
+4000000041	Navedena cena ne vključuje davka ali dostave.
+4000000042	Pri samoplačniški blagajni so običajno krajše vrste.
+4000000043	Zahvaljujemo se za vaše mnenje, saj cenimo mnenja vseh strank!
+4000000044	Glede pravil posamezne trgovine se posvetujte z lokalnim prodajalcem.
+4000000045	Naše jamstvo za vračilo to pokriva.
+4000000046	Tega izdelka ne ponujamo več.
+4000000047	Cena posameznega izdelka je v vseh trgovinah enaka.
+4000000048	Če pošljete 50 evrov ali več, ste upravičeni do 20 evrov popusta.
+4000000049	Začasno nimamo zaloge, vrnite se jutri.
+4000000050	Trenutno nimamo nobenega izdelka na zalogi.
+4000000051	Če niste zadovoljni, nas preprosto pokličite in vaše naročilo vam bomo vrnili.
+4000000052	Ali želite svojemu naročilu dodati dodatne predmete?
+4000000053	Trgovina se na božični večer zapre ob 19.uri.
+4000000054	Ali imate pri nas kartico nagrad za stranke?
+4000000055	Željeni izdelek vam lahko zadržimo za en delovni dan.
+4000000056	Imamo samo majhno in veliko velikost.
+4000000057	Jutri pričnemo z predbožično razprodajo.
+4000000058	Kot način plačila sprejemamo kartice ali gotovino.
+4000000059	Ob izhodu iz parkirišča pokažite potrdilo o plačilu parkirnemu uslužbencu.
+4000000060	Nove stranke so upravičene do brezplačnega darila.
+4000000061	Ta izdelek je na voljo samo v naši glavni trgovini.
+4000000062	Pričakujte, da bo vaš nakup prispel v treh delovnih dneh.
+4000000063	Ta izdelek je na novo izdan in bi se moral hitro razprodati.
+4000000064	Dobropis lahko uporabite na vseh naših lokacijah.
+4000000065	To linijo izdelkov smo že ukinili.
+4000000066	Edina velikost na zalogi je srednja.
+4000000067	Vse, kar prodajamo pri nas, je ekološko certificirano.
+4000000068	Naše prijazno osebje vam bo z veseljem odgovorilo na vsa vaša vprašanja.
+4000000069	Vsi naši inštruktorji so certificirani.
+4000000070	Naš postopek prijave je enostaven in hiter.
+4000000071	Naši učenci prihajajo z vsega sveta.
+4000000072	Če s tečajem niste zadovoljni, vam nudimo celotno povračilo stroškov.
+4000000073	Nadarjenim študentom seveda nudimo štipendije.
+4000000074	Naši inštruktorji izvajajo tečaj v tempu, ki vam ustreza.
+4000000075	Učenci, ki se prvič udeležijo tečaja, so upravičeni do brezplačne poskusne ure.
+4000000076	Zaenkrat ponujamo samo skupinske tečaje.
+4000000077	Učenci vidijo napredek že v dveh tednih!
+4000000078	Naše tečaje prilagajamo vsakemu posameznemu učencu.
+4000000079	Če se vaše znanje programiranja ne izboljša, potem je rešitev naš tečaj.
+4000000080	Ponujamo dnevne in večerne tečaje.
+4000000081	Vsak tečaj traja 45 minut.
+4000000082	Pogovorite se lahko s svetovalcem, da se bomo kar najbolje prilagodili vašim potrebam.
+4000000083	Učenci morajo ob vpisu opraviti preizkusni test.
+4000000084	Vsak tečaj je bil zasnovan z mislijo na dobrobit učencev.
+4000000085	Na voljo imamo omejeno število mest.
+4000000086	Naši instruktorji so strokovnjaki na svojih področjih.
+4000000087	Zaradi trenutnih razmer vsi tečaji potekajo prek spleta.
+4000000088	Zainteresirani kandidati lahko več informacij pridobijo s klikom na spodnjo povezavo.
+4000000089	Inštruktorji z veseljem odgovorijo na vsa vaša vprašanja.
+4000000090	Za ta tečaj velja 30-dnevno jamstvo za vračilo denarja.
+4000000091	Ponujamo celovit pristop k učenju.
+4000000092	Jutri bo na voljo brezplačni spletni seminar.
+4000000093	V tečaju književnosti so na voljo le še tri mesta.
+4000000094	Ta tečaj lahko dodate na svoj urnik za dodatno plačilo.
+4000000095	Naši tečaji temeljijo na praktičnem učnem pristopu.
+4000000096	Naši pretekli učenci so z nami zadovoljni v 98 % primerov.
+4000000097	Naši tečaji so običajno v skupinah po 3 ali pa za 4 učence.
+4000000098	Naša tečaj filozofije se prične v ponedeljek.
+4000000099	Tega tečaja ne ponujamo več.
+4000000100	Naš intenzivni tečaj angleščine je najbolj priljubljen tečaj.
+4000000101	Kreditne točke lahko prenesete iz drugih tečajev.
+4000000102	Izbirate lahko med individualnim poučevanjem in skupinskim poukom.
+4000000103	Trenutno tega razreda ne moremo ponuditi.
+4000000104	Ponujamo tečaje angleščine, francoščine in španščine.
+4000000105	Pouk poteka večkrat na teden, zato je načrtovanje urnika enostavno.
+4000000106	Ti tečaji so zasnovani za hitro učenje.
+4000000107	Ponujamo osebne ali spletne tečaje.
+4000000108	Naši urniki so prilagodljivi za potrebe študentov.
+4000000109	Tečaji se zaračunavajo po urah.
+4000000110	Naše ure so prilagojene tako, da najbolje ustrezajo potrebam vsakega učenca.
+4000000111	Za pouk glasbe ste predvideni ob 9.uri zjutraj.
+4000000112	Za nekatere razrede je na voljo čakalna lista.
+4000000113	Učenci ob zaključku tečaja prejmejo potrdilo o opravljenem tečaju.
+4000000114	Prejšnji učenci so nam pustili odlične ocene s petimi zvezdicami.
+4000000115	Za nekatere tečaje ponujamo obročno plačilo.
+4000000116	Jutri bomo organizirali spletno informativno srečanje.
+4000000117	Če želite biti upravičeni do povračila, morate predložiti dokazilo o nakupu.
+4000000118	Žal mi je za pokvarjen izdelek, naj vam povrnem denar.
+4000000119	Vaš izdelek je še vedno v garanciji.
+4000000120	Izdelek mora biti v originalni embalaži.
+4000000121	Če želite, vam ga lahko brezplačno zamenjamo.
+4000000122	Do celotnega vračila denarja ste upravičeni le v 30 dneh od nakupa.
+4000000123	Prosimo, da izdelek skupaj z računom odnesete s seboj v trgovino.
+4000000124	Vse račune prinesite s seboj, ko pridete vračat izdelek.
+4000000125	Obraba in raztrganost nista zajeti v okviru prvotne garancije.
+4000000126	Dovolite mi, da preverim vašo zgodovino nakupov.
+4000000127	Zaradi napake proizvajalca vam lahko izdelek brezplačno zamenjamo.
+4000000128	Pri vseh vračilih je treba predložiti fizični račun ali e-račun.
+4000000129	Ta izdelek ni upravičen do garancije za vračilo denarja.
+4000000130	Z vašim dovoljenjem lahko mi in naši partnerji uporabljamo natančne geolokacijske podatke in identifikacijo z iskanjem naprave.
+4000000131	Preveril sem, in ta izdelek ni upravičen do vračila.
+4000000132	Nadomestilo za ta del bo znašalo 31 evrov.
+4000000133	Vračilo lahko opravite na okencu za pomoč strankam.
+4000000134	Izdelek lahko odnesete v trgovino ali nam ga pošljete po pošti.
+4000000135	Ali mi lahko poveste šifro izdelka?
+4000000136	Bojim se, da izdelek ni upravičen do brezplačnega popravila.
+4000000137	Ne moremo vam ponuditi povračila, lahko pa vam podarimo dobropis za trgovino.
+4000000138	Garancija je bila razveljavljena v trenutku, ko ste odstranili varnostni pečat.
+4000000139	Ali želite povrniti denar za izdelek ali sprejmete dobropis za naslednji nakup?
+4000000140	Odnesite ga v servisni center, da ga bo naš tehnik lahko pregledal.
+4000000141	Garancija je dejansko potekla pred tremi dnevi.
+4000000142	Ali želite zamenjavo ali vračilo denarja?
+4000000143	Popravilo za vas bo tokrat brezplačno.
+4000000144	Dobra novica, upravičeni ste do povračila!
+4000000145	Ali ste rekli, da se telefon ne vklopi več?
+4000000146	Ta izdelek je bil že zdavnaj umaknjen s prodajnih polic.
+4000000147	Izdelkov iz končne prodaje ne morete vrniti.
+4000000148	Lahko kliknete, da se strinjate z obdelavo, ki jo mi in naši partnerji izvajamo, kot je opisano zgoraj.
+4000000149	Vaš izdelek ni bil omenjen na proizvajalčevem seznamu odpoklicev.
+4000000150	Nadomestne dele ste prejeli po pošti.
+4000000151	Z veseljem vam bomo povrnili stroške popravila izdelka.
+4000000152	Ne moremo vam ponuditi celotnega povračila, lahko pa vam vrnemo 40% denarja.
+4000000153	Ali se spomnite, na kateri dan ste kupili izdelek?
+4000000154	Prepričajte se, da imate s seboj originalno embalažo, ko boste šli vračat izdelek.
+4000000155	Žal mi je, vendar je bil ta izdelek v končni razprodaji.
+4000000156	Prosimo, da nam izdelek pošljete nazaj pred koncem delovnega časa, v četrtek.
+4000000157	Jutri bomo poslali nekaj tehnikov, ki bodo pregledali izdelek.
+4000000158	Garancija za ta izdelek ne krije poškodb zaradi vode.
+4000000159	Za morebitno rjo ne odgovarjamo.
+4000000160	Z veseljem vam bomo podaljšali garancijo.
+4000000161	Ali imate še vedno papirnato ali elektronsko potrdilo?
+4000000162	Do konca garancije so še trije meseci.
+4000000163	Preden lahko kar koli storimo, morate predložiti dokazilo o nakupu.
+4000000164	Garancija je nična in zato neveljavna.
+4000000165	Ob nakupu izdelka niste kupili garancije.
+4000000166	Če boste ponovno naleteli na težave, se čim prej obrnite na nas.
+4000000167	Povračilo bo obdelano v dveh delovnih dneh.
+4000000168	Jutri lahko pride tehnik in si težavo ogleda.
+4000000169	Ali imate čas za hitro anketo?
+4000000170	Garancijo lahko podaljšate za dodatnih 10 evrov na leto.
+4000000171	Žal mi je, vendar vračila brez potrdila o prejemu ne moremo sprejeti.
+4000000172	Prosimo, da nam pošljete podroben opis poškodb na izdelku.
+4000000173	Naši izdelki so učinkoviti in priljubljeni po celi državi.
+4000000174	Digitalno svetovanje je naša posebnost.
+4000000175	Naša ekipa strokovnjakov se lahko s strojnim učenjem spopade tudi z najbolj perečimi težavami.
+4000000176	Poglobljeno poznavanje panoge in natančna analiza sta naši posebnosti.
+4000000177	Naše stranke so imele veliko koristi od izboljšanih poslovnih procesov in večjega dobička.
+4000000178	Rešitve zagotavljamo različnim lokalnim in tujim strankam.
+4000000179	Pridobivanje ključnih informacij za naše stranke je naša prednostna naloga.
+4000000180	Ponujamo prilagojene rešitve, ki najbolje ustrezajo vašim potrebam.
+4000000181	Smo certificirani član bonus kluba.
+4000000182	Načrtovanje virov podjetja je naša posebnost.
+4000000183	Naši izdelki omogočajo strankam večjo konkurenčnost na svetovnem trgu.
+4000000184	Rastočim podjetjem pomagamo pri uvajanju kompleksnih poslovnih sistemov.
+4000000185	Naši dosežki govorijo sami zase.
+4000000186	Našim globalno povezanim strankam ponujamo hitre rešitve.
+4000000187	Imamo 20 let izkušenj na področju izvajanja storitev.
+4000000188	Strankam pomagamo premagovati izzive na hitro razvijajočem se trgu.
+4000000189	Sodelovanje s strankami je za nas najpomembnejše.
+4000000190	Za nadaljevanje postopka potrebujete najnovejšo različico aplikacije.
+4000000191	Ali ste poskusili znova zagnati računalnik?
+4000000192	Ali zaslon še vedno zamrzne, ko odprete program.
+4000000193	Prosim, najprej odprite ukazno vrstico.
+4000000194	Kdaj je potekla licenca za programsko opremo?
+4000000195	Lahko tudi kliknete, da privolitve ne želite podati, ali dostopate do podrobnejših informacij in spremenite prednostne nastavitve, preden podate privolitev.
+4000000196	Če se prikaže rdeča lučka, morate takoj zapustiti program.
+4000000197	Odklopite napravo iz električnega omrežja, saj se je morda pregrela.
+4000000198	Izklopite vse protivirusne programe, saj lahko vplivajo na prenos.
+4000000199	Za tri sekunde pridržite gumb za vklop.
+4000000200	Kliknite ikono v zgornjem desnem kotu.
+4000000201	Prepričajte se, da je na disku dovolj prostora.
+4000000202	Ali imate še vedno črn zaslon?
+4000000203	Morda boste morali ponovno namestiti programsko opremo.
+4000000204	Prosim, najprej odklopite povezavo Bluetooth.
+4000000205	Če se v dveh minutah ne prenese, znova zaženite napravo.
+4000000206	Ali lahko vprašam, katero različico trenutno uporabljate?
+4000000207	Poskusite zapreti vse nepotrebne zavihke.
+4000000208	Poskusite odpraviti težave z aplikacijo.
+4000000209	Potrebovali boste več prostora na trdem disku.
+4000000210	Preden nadaljujete, posodobite napravo na najnovejšo različico.
+4000000211	Za to posodobitev boste morali sprostiti veliko prostora na disku.
+4000000212	Poskusite klikniti ikono "orodje" v zavihku z nastavitvami.
+4000000213	Najprej poskusite znova zagnati računalnik.
+4000000214	Vaša privolitev v določeno obdelavo vaših osebnih podatkov morda ne bo potrebna, vendar imate pravico do ugovora taki obdelavi.
+4000000215	Preden nadaljujete, prosim zaprite vse programe.
+4000000216	Ali ste pred kratkim posodobili svojo napravo?
+4000000217	Tehnika vam lahko pošljemo ob 15.00 uri.
+4000000218	Vaše prednostne nastavitve bodo uporabljene samo za to spletno mesto.
+4000000219	Poskusite prenesti datoteke na namizje.
+4000000220	Ne pritiskajte na gumb za vklop, dokler se lučka ne obarva zeleno.
+4000000221	Prosim, da najprej uporabite funkcijo iskanja.
+4000000222	Preden lahko shranite kakršne koli spremembe, morate nadgraditi sistem.
+4000000223	Na vaš e-poštni naslov bom poslal kodo za dostop.
+4000000224	Ali želite kupiti paket ali samo programsko opremo?
+4000000225	Morda zato, ker v vaši napravi ni več prostora za shranjevanje.
+4000000226	Ali mi lahko sporočite serijsko številko izdelka?
+4000000227	Prepričajte se, da ste počakali nekaj sekund, preden ponovno vklopite računalnik.
+4000000228	Pred začetkom postopka poskusite odstraniti aplikacijo.
+4000000229	Preden nadaljujete, se prepričajte, da ste zaprli vse druge zavihke.
+4000000230	Počakajte nekaj minut, da se posodobitev prenese.
+4000000231	Program verjetno uporablja preveč procesorja.
+4000000232	Žal programska oprema ni podprta v vaši napravi.
+4000000233	Aplikacija ne podpira več kot dveh naprav.
+4000000234	Menim, da je prišlo do težave s strežnikom.
+4000000235	Prednostne nastavitve lahko kadar koli spremenite, če se vrnete na to stran ali preverite našo politiko zasebnosti.
+4000000236	Po videnem je v omrežje priključena še ena naprava.
+4000000237	Menim, da se je vaše brezplačno poskusno obdobje izteklo včeraj.
+4000000238	Uporabite lahko natančno geolokacijo in informacije o lastnostih naprave.
+4000000239	Prosim, poskusite najprej osvežiti stran.
+4000000240	Vaši natančni geolokacijski podatki se lahko uporabljajo za podporo enemu ali več namenom.
+4000000241	Po končanem prenosu izbrišite paket za prenos.
+4000000242	Poskusite ga shraniti na drug strežnik.
+4000000243	Pred prenosom se prepričajte, da imate stabilno povezavo.
+4000000244	Menim, da ste bili žrtev napada s programom za beleženje tipk.
+4000000245	Prosimo, da najprej posodobite svoj predvajalnik.
+4000000246	Menim, da ima vaša naprava težave s povezljivostjo.
+4000000247	To pomeni, da je vaša lokacija lahko natančna na nekaj metrov.
+4000000248	Vaša naprava je lahko identificirana na podlagi skeniranja edinstvene kombinacije značilnosti vaše naprave.
+4000000249	Tovrsten identifikator uporabijo za ponovno identifikacijo naprave.
+4000000250	Prepričajte se, da pri vzpostavljanju povezave z omrežjem niso vklopljeni požarni zidovi.
+4000000251	Vidim, da ste prenesli novo različico programske opreme.
+4000000252	Plačate lahko mesečno naročnino ali pa opravite enkratno letno plačilo.
+4000000253	Preden prekličete prenos, ji dajte nekaj časa.
+4000000254	Ob pozivu kliknite na ikono.
+4000000255	Želite prenesti to različico programske opreme?
+4000000256	V omrežju lahko brez dodatnih stroškov uporabljate tri naprave.
+4000000257	Obvestite me, ko se prikaže poziv čarovnika za prenos.
+4000000258	Oglase in vsebino lahko personalizirate na podlagi profila.
+4000000259	Poskusite preveriti, ali lahko zdaj premaknete kazalec.
+4000000260	Izpolnite poročilo o okvari in naši tehniki vam bodo kmalu odgovorili.
+4000000261	Brezplačno lahko nadgradite na najnovejšo različico.
+4000000262	Prepričajte se, da v omrežju niso priključene nobene druge naprave.
+4000000263	Če zaslon zamrzne, izklopite računalnik iz električnega omrežja.
+4000000264	Trenutno ne podpiramo vaše naprave.
+4000000265	Tega prenosa ne morete prekiniti.
+4000000266	Preverite, ali ima vaš modem težave s povezljivostjo.
+4000000267	Prepričajte se, da ste izbrali različico programske opreme za podjetja.
+4000000268	Za boljšo personalizacijo oglasov in vsebine lahko dodate več podatkov.
+4000000269	Uspešnost oglasov in vsebine lahko merite.
+4000000270	Pritisnite gumb za osvežitev in preverite, ali se prikaže obrazec.
+4000000271	Morda boste morali osvežiti stran, da se prikažejo nove posodobitve.
+4000000272	Brezplačno poskusno obdobje se izteče jutri.
+4000000273	Izbrišite aplikacijo z namizja z desnim klikom na gumb za brisanje.
+4000000274	Pred osvežitvijo strani počakajte dve minuti.
+4000000275	Če so strežniki zasedeni, lahko pride do manjše zamude.
+4000000276	Poskusite se približati usmerjevalniku za boljšo povezljivost.
+4000000277	Brezplačni preizkus se izteče drugega maja.
+4000000278	Pridobivate lahko vpoglede v ciljne skupine, ki so videle oglase in vsebino.
+4000000279	Zaželi Janezu in 3 drugim vse najboljše za rojstni dan!
+4000000280	Podatki se lahko uporabljajo za izgradnjo ali izboljšanje uporabniške izkušnje, sistemov in programske opreme.
+4000000281	Vaše naročilo je bilo dostavljeno!
+4000000282	Vaša varnostna koda je 92192.
+4000000283	Oglasi se vam lahko prikazujejo na podlagi vsebine, ki si jo ogledujete, aplikacije, ki jo uporabljate, vaše približne lokacije ali vrste vaše naprave.
+4000000284	Profil je mogoče izdelati o vas in vaših interesih, da se vam prikaže personalizirane oglase, ki so relevantni za vas.
+4000000285	Personalizirani oglasi se vam lahko prikazujejo na podlagi profila o vas.
+4000000286	Meri se lahko učinkovitost in uspešnost oglasov, ki so vidni in na katere se je mogoče odzvati.
+4000000287	Žal vaše plačilo ni bilo uspešno, stroški niso bili zaračunani.
+4000000288	Vaša pica je na poti!
+4000000289	Bi jih radi najprej preizkusili?
+4000000290	Imamo jih tudi v večji velikosti, če vam ne ustrezajo.
+4000000291	Žal jih v skladišču ni več na zalogi.
+4000000292	Bi raje rdeče ali rjave?
+4000000293	Ali lahko vprašam, kakšne čevlje iščete?
+4000000294	Potipajte kako mehek je material.
+4000000295	Je to za vas ali za koga drugega?
+4000000296	Prosim kar sedite in jih pomerite.
+4000000297	Sporočite mi, če potrebujete še kaj drugega.
+4000000298	Kako se prilega ta par?
+4000000299	To obleko imamo tudi v manjši velikosti.
+4000000300	Naj preverim na naši spletni strani, ali imamo ta model.

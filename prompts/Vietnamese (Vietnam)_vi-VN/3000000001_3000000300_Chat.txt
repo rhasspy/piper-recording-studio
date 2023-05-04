@@ -1,0 +1,300 @@
+3000000001	Bạn có muốn đi cùng không?
+3000000002	Mình muốn tham gia với được không?
+3000000003	Khi nào bạn có thời gian?
+3000000004	Mình đang định hỏi bạn đây.
+3000000005	Lúc nào các bạn định đi?
+3000000006	Chúng mình định sẽ đi sau hai tuần nữa, đầu tháng 10.
+3000000007	Thời gian đó cũng phù hợp với mình.
+3000000008	Không, chúng mình vẫn chưa đặt gì hết.
+3000000009	Bạn có muốn đặt tất cả mọi thứ cùng bọn mình luôn không?
+3000000010	Ồ, mình không muốn tự đặt trước mọi thứ.
+3000000011	Đặt trước tiện lợi hơn nhiều chứ.
+3000000012	Nếu không thì bạn không thể đi với bọn mình được.
+3000000013	Vậy thì bạn cứ đặt chỗ cho bạn và Liên, còn mình sẽ đi cùng gia đình.
+3000000014	Ừ, vậy thôi bọn mình sẽ đi chung vào lúc khác.
+3000000015	Nhớ chụp thật nhiều ảnh đẹp gửi cho mình xem nhé.
+3000000016	Đương nhiên rồi, nếu có duyên bọn mình sẽ gặp nhau ở Nha Trang.
+3000000017	Mình đã đặt xong vé máy bay và khách sạn rồi.
+3000000018	Khi nào bạn định chuẩn bị?
+3000000019	Mình thường xếp vali của mình trước một tuần.
+3000000020	Khi nào bạn đi mua sắm?
+3000000021	Mình không cần mua gì cả.
+3000000022	Thế bạn có thể đi cùng với mình để mua đồ được không?
+3000000023	Trước khi sắp xếp hành lý, mình cần mua một vài thứ.
+3000000024	Bạn thích đi du lịch đến thành phố nào nhất?
+3000000025	Mình chưa từng đến Nha Trang trước đây.
+3000000026	Mình cũng mong chờ kỳ nghỉ này.
+3000000027	Ở đó bây giờ thời tiết nóng hay lạnh?
+3000000028	Mình cũng đang háo hức lắm.
+3000000029	Đánh cá gỏi này tôi mua lưới thịt về rồi tự vô chì, vô phao.
+3000000030	Bạn phải mua kem chống nắng.
+3000000031	Mình có thể giới thiệu cho bạn một loại kem chống nắng tốt.
+3000000032	Mình định thuê một chiếc xe ô tô nữa.
+3000000033	Nhưng bạn đã có bằng lái xe chưa?
+3000000034	Mình không biết liệu chúng mình có thể lái xe dễ dàng hay không.
+3000000035	Mình chắc chỉ mang quần ngắn và váy.
+3000000036	Không, quần dài thì quá nóng.
+3000000037	Mình đang nghĩ đến việc mặc quần đến đầu gối.
+3000000038	Cát trắng và biển xanh thật đẹp.
+3000000039	Mọi người đều thích đi biển du lịch.
+3000000040	Phong cảnh xung quanh thật đẹp, con người cũng rất hiếu khách.
+3000000041	Khi mình ở đó, mình đã từng leo lên núi thử rồi.
+3000000042	Đó là một kinh nghiệm tuyệt đấy.
+3000000043	Chúng mình cũng có thể cùng đi.
+3000000044	Bạn không được quên đem theo nước nhé.
+3000000045	Tất nhiên chúng ta phải chuẩn bị rồi.
+3000000046	Bạn có phải đặt trước xe đón ở sân bay khi tới không?
+3000000047	Không, mình có thể đến đó rồi thuê.
+3000000048	Chúng mình cũng đã làm như thế vào năm ngoái.
+3000000049	Bạn có vẻ không thích lên kế hoạch trước.
+3000000050	Mình thấy tuyệt hơn khi mọi thứ diễn ra một cách tự nhiên.
+3000000051	Chúng ta cũng sẽ ra bãi biển nhỉ?
+3000000052	Bạncó thể bơi cùng cá heo.
+3000000053	Tất nhiên chúng mình phải đi đến bãi biển chứ.
+3000000054	Mình thích khám phá văn hóa và ẩm thực nữa.
+3000000055	Nhưng mình cũng rất quan tâm đến các tour du lịch văn hóa.
+3000000056	Chúng mình có thể cân nhắc chứ?
+3000000057	Được, mình nghĩ ý tưởng này rất tuyệt.
+3000000058	Một chuyến đi mất bao lâu?
+3000000059	Một chuyến đi khám phá văn hóa kéo dài hai ngày.
+3000000060	Chúng ta sẽ đến thăm các viện bảo tàng và ngắm cảnh.
+3000000061	Chúng mình cũng có thể ở lại qua đêm ở gần viện bảo tàng.
+3000000062	Chị họ mình có một căn hộ ở gần đó.
+3000000063	Chắc chúng ta có thể ở chung hai người một phòng.
+3000000064	Nhưng Liên cũng sẽ đến, vậy là có ba người.
+3000000065	Nhưng Liên sẽ đi cùng gia đình mà, phải không?
+3000000066	Đúng rồi để mình suy nghĩ xem có cách nào không.
+3000000067	Ôi, mình vừa nhận được một tin xấu.
+3000000068	Chúng ta không thể ở đó.
+3000000069	Tại sao tất cả chúng ta không thể đến đó?
+3000000070	Nếu vậy bạn cũng không nên đến đó.
+3000000071	Hoặc chúng mình đều đi hoặc không ai đi cả.
+3000000072	Hay là mình đi đến khách sạn, sẽ thoải mái hơn nhiều.
+3000000073	Được, vậy chúng ta tìm một khách sạn rẻ tiền.
+3000000074	Vậy chúng ta hãy tìm các khách sạn giá rẻ thử xem.
+3000000075	Vì cậu ấy là bạn thân nhất của mình.
+3000000076	Bạn có vấn đề với cậu ấy sao?
+3000000077	Không, mình không có vấn đề gì cả.
+3000000078	Mình cũng rất hoan nghênh cậu ấy đi cùng với chúng mình.
+3000000079	Bạn đã đi những thành phố biển nào rồi?
+3000000080	Mình rất thích đi du lịch.
+3000000081	Thời tiết ở đó cũng rất tuyệt.
+3000000082	Vậy ư, hãy kể cho mình biết.
+3000000083	Mọi thứ ở đó thế nào?
+3000000084	Bạn đã ở đâu mùa hè năm ngoái?
+3000000085	Ừ, mình ở đó một thời gian ngắn thôi.
+3000000086	Mình muốn thử một cái gì đó mới.
+3000000087	Mình chưa đến đó nhưng chị mình thì đi nhiều rồi.
+3000000088	Chị mình kể là hải sản ở đó rất tươi ngon mà giá lại rẻ.
+3000000089	Thế hả, lần sau mình đi sẽ hỏi thêm chị của bạn kinh nghiệm đi Phú Quốc.
+3000000090	Chuyện nhỏ, chị của mình biết rất nhiều quán ăn ngon.
+3000000091	Thế chị của bạn có biết những địa điểm nổi tiếng ở Nha Trang không?
+3000000092	Có chứ, mình đã hỏi chị của mình về Nha Trang rồi.
+3000000093	Bọn mình có thể đi tắm bùn khoáng ở đảo Hòn Tằm.
+3000000094	Hay quá, mình chưa được tắm bùn bao giờ.
+3000000095	Tắm bùn khoáng giúp cho da mịn màng và trắng hơn.
+3000000096	Mình rất mong chờ chuyến đi này.
+3000000097	Bạn dự định mang theo những gì khi đến Nha Trang?
+3000000098	Mình sẽ mang theo váy, quần áo và đồ trang điểm.
+3000000099	Bạn muốn mang theo quần áo gì?
+3000000100	Mình đang nghĩ đến quần áo nhẹ và quần dài đến đầu gối.
+3000000101	Mình không thích mặc quần dài đến đầu gối.
+3000000102	Nghe có vẻ thú vị nhỉ.
+3000000103	Nếu mình nói cho bạn biết mình đã ở đâu bạn sẽ không tin được.
+3000000104	Ở đó bọn mình đã gặp anh trai của Trung.
+3000000105	Có thể là anh ấy đã không nhìn thấy bạn.
+3000000106	Hoặc là anh ấy có thể đang bận.
+3000000107	Ừ, hình như anh ấy đang sử dụng điện thoại nói chuyện với đối tác?
+3000000108	Sau đó, anh ấy đã có một cuộc trò chuyện quan trọng.
+3000000109	Chắc hẳn là như vậy rồi.
+3000000110	Đó là một đất nước xinh đẹp.
+3000000111	Mình không tin điều đó bây giờ.
+3000000112	Bạn phải giải thích cho mình.
+3000000113	Mình đã nhờ một giáo viên dạy mình lướt sóng.
+3000000114	Bạn sẽ kể cho mình nghe chứ?
+3000000115	Bạn thường ăn gì ở Úc?
+3000000116	Bữa tối mình ăn mình ống.
+3000000117	Mình có thể nấu cho bạn ăn vào mùa hè.
+3000000118	Món ăn đó mình không biết nấu.
+3000000119	Chúng ta cũng có thể đến đó.
+3000000120	Bạn muốn đi du lịch ở đâu?
+3000000121	Được, chúng ta có thể đến đó với bố mình vào mùa hè năm sau.
+3000000122	Tuyệt, nhưng bọn mình có thể bay vào buổi tối không?
+3000000123	Không được, bố mình không thể bay vào tối muộn.
+3000000124	Bạn định sẽ mang theo gì cho chuyến đi?
+3000000125	Không nhiều lắm, bởi vì nó là một chuyến đi ngắn.
+3000000126	Mình có nên ăn gì đó trước chuyến bay không?
+3000000127	Chuyến bay kéo dài 12 giờ.
+3000000128	Mình mắc chứng sợ độ cao.
+3000000129	Không thể đi bằng tàu hỏa sao?
+3000000130	Hay là bọn mình đi chỗ khác nhỉ?
+3000000131	Được rồi, mình sẽ bay cùng bạn.
+3000000132	Nhưng mình cần một chiếc mặt nạ.
+3000000133	Bạn muốn thứ gì cũng có.
+3000000134	Nơi đó có rất nhiều điểm tham quan đẹp.
+3000000135	Mình đã từng đến Thổ Nhĩ Kỳ trước đây.
+3000000136	Mình cũng không rõ lắm, mình rất muốn đến đó thử xem.
+3000000137	Xin chào, bạn có muốn chuyển đến căn hộ chung cư với chúng mình không?
+3000000138	Bạn sống ở thành phố nào vậy?
+3000000139	Mình sẽ chuyển đến căn hộ với Liên.
+3000000140	Mình cũng sống ở Hà Nội.
+3000000141	Ngôi nhà rộng bao nhiêu mét vuông?
+3000000142	Căn hộ có ba phòng, sẽ đủ chỗ cho ba người chúng mình.
+3000000143	Mình muốn chuyển đến với bạn.
+3000000144	Căn hộ có gần trường đại học của chúng mình không?
+3000000145	Không, nó ở cách đó 20 phút, nhưng chúng ta có thể đi bằng xe buýt.
+3000000146	Khi nào chúng ta có thể chuyển nhà?
+3000000147	Trường đại học sẽ bắt đầu khai giảng vào ba tuần sau.
+3000000148	Chúng mình định chuyển đến sau ba ngày nữa.
+3000000149	Mình cũng không có tủ lạnh.
+3000000150	Chúng mình hãy lập kế hoạch để mua sắm thêm đồ cần thiết.
+3000000151	Mình có thể mang theo một chiếc ghế dài và một chiếc máy giặt.
+3000000152	Để mình nghĩ xem chúng ta có bao nhiêu phòng ngủ?
+3000000153	Chúng mình có ba phòng ngủ
+3000000154	Mỗi người đều có phòng ngủ riêng.
+3000000155	Được rồi, vậy mọi người có thể mua đồ đạc riêng cho phòng ngủ của mình.
+3000000156	Ừ, ổn đó, mình đồng ý, để mình nói với Liên.
+3000000157	Bây giờ chúng ta có thể bắt đầu từ nhà bếp.
+3000000158	Chúng ta cần mua những gì cho nhà bếp?
+3000000159	Mình vẫn còn năm cái nồi và một cái ấm đun.
+3000000160	Chúng mình có sẵn một căn bếp với bếp từ rồi phải không?
+3000000161	Nhà bếp có diện tích bao nhiêu mét vuông vậy?
+3000000162	Nhà bếp là 15 mét vuông.
+3000000163	Không sao đâu, diện tích khá lớn.
+3000000164	Bếp có mới và sạch sẽ không?
+3000000165	Chúng ta có cần đến lau chùi không?
+3000000166	Hôm nay chúng ta phải đến đó để dọn dẹp nhà bếp.
+3000000167	Có, nhưng hãy hẹn ngày khác để chúng ta cùng dọn dẹp toàn bộ ngôi nhà nhé.
+3000000168	Nhưng chúng ta phải bắt đầu càng sớm càng tốt.
+3000000169	Mình nghĩ chúng ta không cần lò vi sóng đâu.
+3000000170	Được rồi, chúng ta hãy hỏi Liên sau.
+3000000171	Chúng mình cũng cần một máy rửa chén chứ?
+3000000172	Mình sẽ mua máy rửa bát và lò nướng.
+3000000173	Liên sẽ mua các thứ khác như dao kéo và đĩa.
+3000000174	Mình nghĩ rằng cần có một máy rửa bát trong căn hộ.
+3000000175	Ánh sáng từ cửa sổ cầu thang chan hòa, cho nhà thêm trong lành.
+3000000176	Các bức tường đều màu vàng, chúng ta có thể sơn màu khác.
+3000000177	Mình không thể tiếp xúc với các loại thảo mộc.
+3000000178	Nhưng bạn có thể trồng ở ban công.
+3000000179	Đó cũng sẽ là một lựa chọn hay, để mình suy nghĩ đã.
+3000000180	Chúng mình cũng có thể trồng thêm cây để có màu xanh.
+3000000181	À, mình vẫn còn một tấm thảm màu vàng.
+3000000182	Phòng tắm của chúng mình rất nhỏ và không có cửa sổ.
+3000000183	Nó có phải là một vấn đề dành cho bạn?
+3000000184	Chúng mình vẫn chưa xong với nhà bếp.
+3000000185	Chúng ta có muốn đặt bàn ăn trong bếp không?
+3000000186	Nhưng chúng ta có thể ăn vào mùa hè trên ban công và vào mùa đông trong phòng khách.
+3000000187	Chúng ta sẽ thảo luận về điều đó sau.
+3000000188	Liên có thể mua rèm được không?
+3000000189	Được, mẹ cậu ấy sẽ may nó cho chúng mình.
+3000000190	Chúng mình muốn có một tấm rèm màu xám.
+3000000191	Ý mình là một màu xám lông chuột.
+3000000192	Mình không biết nhà vệ sinh có diện tích bao nhiêu mét vuông.
+3000000193	Một tủ nhỏ đựng đồ dùng của chúng ta có vừa trong đó không?
+3000000194	Có, nhưng không thể kê tủ to hơn.
+3000000195	Chúng ta có nên mua tủ không?
+3000000196	Được, bạn hãy mua một cái tủ.
+3000000197	Chúng ta có một vấn đề nữa.
+3000000198	Máy giặt sẽ để ở đâu?
+3000000199	Vẫn còn một phòng rất nhỏ trong căn hộ, ở đó chúng mình có thể đặt máy giặt.
+3000000200	Đối với nhà vệ sinh chúng ta cần mua thảm, rèm cửa, rèm tắm và gương.
+3000000201	Mình nghĩ rằng mình còn một bức màn tắm và một chiếc gương trong căn hộ cũ của mình.
+3000000202	Sau đó, mình định mua một tấm thảm.
+3000000203	Liên muốn mua một tấm rèm.
+3000000204	Cô ấy cũng có một hộp đựng kem đánh răng và bàn chải đánh răng.
+3000000205	Bây giờ chúng ta có thể bắt đầu với phòng khách rồi.
+3000000206	Bạn định mua thêm những gì?
+3000000207	Mình sẽ mua bàn ăn với ghế.
+3000000208	Mình sẽ mua ghế sofa và bàn cà phê.
+3000000209	Mình cũng có một giá sách, thảm và rèm cửa.
+3000000210	Nếu bạn muốn, mình có thể mua thêm một bộ rèm.
+3000000211	Chủ nhà không muốn chúng mình treo đồ lên tường.
+3000000212	Anh ấy không muốn khoan vào tường.
+3000000213	Mình sẽ không làm điều đó.
+3000000214	Chúng ta vẫn phải suy nghĩ thêm về hành lang.
+3000000215	Mình nghĩ chúng ta chỉ cần một tủ quần áo và một chiếc gương.
+3000000216	Bây giờ chúng mình đã lên kế hoạch cho mọi thứ.
+3000000217	Mình thấy giá thuê rất rẻ.
+3000000218	Ôi tại sao bạn không nói giá tiền sớm ngay từ đầu?
+3000000219	Đừng nói với mình rằng bạn thấy giá quá đắt.
+3000000220	Mình vẫn còn là một sinh viên và mình thậm chí không đi làm.
+3000000221	Nhưng bạn chỉ phải trả một triệu thôi mà.
+3000000222	Mình thấy thế là hợp lý quá rồi.
+3000000223	Căn hộ này có hai phòng nhỏ và một phòng lớn.
+3000000224	Làm thế nào để chúng mình phân chia các phòng?
+3000000225	Mình thích có một căn phòng lớn.
+3000000226	Bạn có nhiều quần áo và nhiều đồ đạc không?
+3000000227	Ừ, mình có rất nhiều đồ đạc và rất nhiều sách.
+3000000228	Liên có nhiều đồ đạc hơn bạn.
+3000000229	Bạn có ổn không khi đặt áp phích của cô ấy trong phòng của bạn?
+3000000230	Mình sẽ không có bất kỳ vấn đề với điều đó.
+3000000231	Miễn là mình được ở phòng lớn.
+3000000232	Mọi người đều có chìa khóa nhà.
+3000000233	Mình sẽ lấy một cái chìa nữa cho căn hầm.
+3000000234	Giờ chúng mình vẫn cần lập một kế hoạch dọn dẹp.
+3000000235	Đúng thế, chúng ta muốn làm điều đó như thế nào?
+3000000236	Mình đề nghị mỗi người dọn dẹp phòng riêng của mình.
+3000000237	Bạn có thể dọn khi bạn muốn.
+3000000238	Chúng ta sẽ dọn dẹp không gian chung như thế nào?
+3000000239	Chúng mình có thể luân phiên mỗi tuần.
+3000000240	Hai ngày một lần chúng mình sẽ lau và hút bụi phòng khách.
+3000000241	Mình sẽ chú ý dọn dẹp nhà cửa ngăn nắp.
+3000000242	Ừ, mình thích nhà bếp, phòng khách và phòng tắm phải luôn sạch sẽ.
+3000000243	Mình cũng sẽ phụ trách công việc bếp núc và nấu những bữa ăn ngon.
+3000000244	Được, vậy mình sẽ dọn nhà vệ sinh.
+3000000245	Bạn muốn nấu vào những ngày nào?
+3000000246	Nếu bạn muốn, mình có thể nấu vào mỗi thứ sáu, thứ bảy và chủ nhật.
+3000000247	Bạn có đồng ý với những gì mình vừa đề xuất không?
+3000000248	Không, mình không thích điều đó, vì đôi khi mình không ở nhà.
+3000000249	Bạn có thể nấu ăn vào thứ hai và thứ ba được không?
+3000000250	Liên có thể nấu ăn thứ Tư và thứ Năm.
+3000000251	Mình chỉ nấu ăn trong ba ngày.
+3000000252	Mình còn một vài câu hỏi nữa.
+3000000253	Bạn muốn đặt đàn piano ở đâu?
+3000000254	Mình muốn đặt nó trong phòng khách.
+3000000255	Mình đang là sinh viên y khoa và sắp tới sẽ có kỳ thi đầu tiên.
+3000000256	Mình sẽ dạy học sinh bốn giờ mỗi ngày, mình có thể dạy đàn ở phòng khách không?
+3000000257	Bạn có thể làm điều đó ở ban công?
+3000000258	Mình sẽ biết ơn vì điều đó.
+3000000259	Không được đâu, hàng xóm của chúng mình sẽ không đồng ý với điều đó.
+3000000260	Bạn có thể học trong thư viện.
+3000000261	Mình hy vọng bạn giúp mình.
+3000000262	Được rồi, mình sẽ cân nhắc.
+3000000263	Liên có ổn với điều đó không?
+3000000264	Mình đã nói chuyện với cậu ấy ngày hôm qua và cậu ấy đồng ý.
+3000000265	Chúng mình phân chia mua sắm hàng tuần thế nào bây giờ nhỉ?
+3000000266	Mình nghĩ chúng ta nên chia tổng cho ba và sau đó mỗi người có thể trả một phần.
+3000000267	Đó là một ý tưởng tốt.
+3000000268	Ai sẽ là người lo mua sắm?
+3000000269	Mỗi người có thể đi mua sắm trong một tuần.
+3000000270	Nó có thể ở với mình không?
+3000000271	Nhưng mình có thể nói chuyện với cậu ấy nếu bạn muốn.
+3000000272	Bạn hãy giữ con mèo tránh xa cô ấy nhé.
+3000000273	Bạn có bao nhiêu con mèo?
+3000000274	Sẽ không phải một đàn mèo chứ?
+3000000275	Mình có một con mèo giống Ba Tư.
+3000000276	Mình chưa từng nuôi mèo bao giờ.
+3000000277	Không, mình thường mang nó khám bác sĩ định kỳ.
+3000000278	Sau này chúng mình sẽ trả tiền thuê nhà như thế nào?
+3000000279	Mình hỏi chủ nhà và anh ấy nói chúng mình luôn phải trả vào đầu tháng.
+3000000280	Thế còn tiền điện và tiền nước thì chúng ta thanh toán như thế nào?
+3000000281	Mình nghĩ rằng đề xuất của bạn rất tuyệt vời.
+3000000282	À nhưng nếu bọn mình quên chìa khóa thì phải làm sao?
+3000000283	Chúng ta cần một nơi để giấu chìa khóa đúng không?
+3000000284	Bọn mình giấu dưới tấm thảm trước cửa có được không?
+3000000285	Được đấy, mình nghĩ đó là một chỗ kín đáo.
+3000000286	Mình không muốn con mèo làm cho căn hộ trở nên loạn đâu.
+3000000287	Đừng lo, nó thậm chí còn sạch sẽ và vệ sinh hơn cả mình.
+3000000288	Con mèo của mình rất ngoan và không cắn người đâu.
+3000000289	Nó có hay kêu đòi ăn không?
+3000000290	Nó có bị rụng lông không?
+3000000291	Mình sẽ giữ nó ở trong phòng của mình.
+3000000292	Mình thích chơi với mèo nhưng mình sợ hít phải lông mèo.
+3000000293	Bạn có địa chỉ nhà không?
+3000000294	Mình chưa có địa chỉ chính xác của căn hộ này.
+3000000295	Mình có, để mình gửi cho bạn.
+3000000296	Bạn có số điện thoại của mình chưa?
+3000000297	Bạn có thể nhắn tin cho mình.
+3000000298	Chúng ta có thể chuyển nhà sau hai tuần nữa.
+3000000299	Bây giờ chúng ta đã lên kế hoạch cho mọi thứ.
+3000000300	Vấn đề kế tiếp là chuyển đồ như thế nào?

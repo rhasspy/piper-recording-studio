@@ -1,0 +1,300 @@
+3000000001	Mă gândesc că a fost o experiență plăcută.
+3000000002	Am făcut la fel și anul trecut.
+3000000003	Da, bineînțeles că putem merge și la plajă.
+3000000004	Un prieten de-al meu făcuse asta odată.
+3000000005	Și pe mine mă interesează cultura.
+3000000006	Vrem să facem un asemenea tur?
+3000000007	O călătorie culturală durează trei zile.
+3000000008	Se vizitează muzeele și peisajul.
+3000000009	Vremea este foarte caldă și acolo.
+3000000010	Vrei să îți spun cum a fost?
+3000000011	Am fost în deșert și am văzut o mulțime de stele.
+3000000012	Am făcut multe lucruri interesante.
+3000000013	Asta a fost doar pentru scurt timp.
+3000000014	Am vrut să încerc ceva nou.
+3000000015	Patru luni am fost acolo.
+3000000016	A fost o perioadă grozavă.
+3000000017	Sincer, încă mă mai gândesc.
+3000000018	Poate voi zbura acolo iarna.
+3000000019	Nu trebuie să mai planifici nimic acum.
+3000000020	Nici eu nu am frigiderul pe care îl știi tu.
+3000000021	Facem un plan ce să cumpărăm.
+3000000022	Avem trei dormitoare, și suntem trei persoane.
+3000000023	Trebuie să mergem acolo pentru a o curăța.
+3000000024	Iar Elena cumpără toate lucrurile mici necesare în bucătărie.
+3000000025	Vreau să o zugrăvim în alb.
+3000000026	Am o alergie, nu pot intra în contact cu ierburi.
+3000000027	Dar putem face asta în balcon.
+3000000028	Mai am un covor galben.
+3000000029	Îl iau cu mine pentru bucătărie.
+3000000030	Da, dar nu mai mult.
+3000000031	Ar trebui să cumpăr eu dulapul?
+3000000032	Proprietarul nu vrea să atârnăm ceva pe perete.
+3000000033	Nu vrea ca găurile să fie vizibile.
+3000000034	Nu facem asta, nu îți face griji.
+3000000035	Mai trebuie să ne gândim la hol.
+3000000036	Cred că avem nevoie doar de un dulap și o oglindă.
+3000000037	Elena vrea să le aducă.
+3000000038	Sunt încă studentă și nici nu lucrez.
+3000000039	Fiecare primește o cheie de la apartament.
+3000000040	Voi lua încă una pentru pivniță.
+3000000041	Elena vrea să aspire și să șteargă pe jos.
+3000000042	Aceasta este o mare problemă pentru mine.
+3000000043	Pentru asta trebuie să găsim un compromis.
+3000000044	Sper că ești de acord cu asta.
+3000000045	Elena este de acord cu asta?
+3000000046	Fiecare poate merge la cumpărături timp de o săptămână.
+3000000047	Merg eu în prima săptămână.
+3000000048	Acest lucru este foarte important pentru mine.
+3000000049	Elenei îi este frică de pisici.
+3000000050	Dar pot vorbi cu ea dacă vrei asta.
+3000000051	Pot ține pisica departe de ea.
+3000000052	Am una singură, o pisică persană.
+3000000053	O duc de multe ori la medic.
+3000000054	Nu trebuie să îți faci griji.
+3000000055	Aș spune să împărțim totul egal.
+3000000056	Dar trebuie să consumăm puțină energie electrică și apă.
+3000000057	Chefuim doar o dată pe lună.
+3000000058	Dacă cineva vrea să petreacă mai des, trebuie să gătească toată săptămâna.
+3000000059	Cred că sugestia ta este grozavă.
+3000000060	Da, ar fi o sugestie.
+3000000061	E mai bine decât nimic.
+3000000062	Nici eu nu am mașină.
+3000000063	O întreb pe Elena, poate are ea.
+3000000064	Problema este cum vom transporta totul.
+3000000065	Mi-am amintit că tatăl unei prietene are o companie pentru mutări.
+3000000066	Am uitat că el ne poate da și cutiile.
+3000000067	Nu vreau să zugrăvim toți pereții.
+3000000068	Camera mea nu trebuie zugrăvită.
+3000000069	Aștept cu nerăbdare să ne mutăm.
+3000000070	Ai dreptate, trebuie să o planificăm foarte bine.
+3000000071	Știi că Elena este un fan rock.
+3000000072	Oamenii vin să sărbătorească, nu să mănânce.
+3000000073	Mi se pare inutil ca oaspeții să aducă mâncare sau să cumpărăm noi.
+3000000074	Pentru chefuri trebuie să găsim o regulă.
+3000000075	Aș putea veni și eu?
+3000000076	Ar fi trebuit să te întreb asta.
+3000000077	Când vă duceți în călătorie?
+3000000078	Tot atunci am și eu vacanță.
+3000000079	Nu, nu am rezervat încă nimic.
+3000000080	Din moment ce zburăm în două săptămâni, probabil că într-o săptămână.
+3000000081	Cu două zile înainte de zbor.
+3000000082	Tu ai permis de conducere?
+3000000083	Desigur, trebuie să ne gândim la asta.
+3000000084	Trebuie să rezervăm așa ceva înainte?
+3000000085	De asemenea, puteți înota cu delfinii.
+3000000086	Da, cred că ideea este grozavă.
+3000000087	Dacă bugetul îmi permite, vreau să merg acolo.
+3000000088	Din moment ce sunt șef, îmi pot planifica cum vreau vacanța.
+3000000089	De asemenea, poți zbura în Australia primăvara.
+3000000090	În ce oraș ai fost?
+3000000091	Ce vei lua cu tine pentru Dubai?
+3000000092	Am uitat ce ai zis că vrei să iei.
+3000000093	Când vrei să te muți?
+3000000094	Eu am un set de oale și un ceainic electric.
+3000000095	Asta e bine, avem loc în ea.
+3000000096	Nu avem nevoie de cuptor cu microunde.
+3000000097	Ce poți aduce tu din toate acestea?
+3000000098	Baia este foarte mică și nu există fereastră.
+3000000099	Este o problemă pentru tine?
+3000000100	Da, dar avem deja o altă problemă.
+3000000101	Unde intră mașina de spălat?
+3000000102	Atunci voi cumpăra un covor.
+3000000103	Ce vrea să cumpere Elena?
+3000000104	Nu-mi spune că ți se pare prea scump.
+3000000105	Cum vrem să facem asta?
+3000000106	Cum facem cu celelalte încăperi?
+3000000107	Putem alterna în fiecare săptămână.
+3000000108	Acesta este un argument bun.
+3000000109	Tu vei găti luni și marți.
+3000000110	Unde vrei să pui pianul?
+3000000111	Ai putea să o faci în balcon?
+3000000112	Aș fi recunoscătoare pentru asta.
+3000000113	Da, e o idee buna.
+3000000114	Nu, bineînțeles că nu am o bicicletă.
+3000000115	Nu m-am gândit la asta.
+3000000116	Cum trebuie să plătim chiria?
+3000000117	Pentru mine este mereu diferit.
+3000000118	Este important când vin de la universitate?
+3000000119	Avem nevoie de o ascunzătoare.
+3000000120	Trebuie să facem schimbarea de domiciliu.
+3000000121	Strada se numește strada Lupton.
+3000000122	Ar fi bună pentru cumpărături.
+3000000123	Când vrem să ne întâlnim pentru curățenie?
+3000000124	Trebuie să îi spui și Elenei.
+3000000125	În total vor fi 15 invitați.
+3000000126	Câți oameni încap în barurile pe care le știi?
+3000000127	Elena va fi foarte fericită.
+3000000128	Putem amenaja barul cum vrem noi?
+3000000129	Ar trebui ca toată lumea să se îmbrace la fel?
+3000000130	Cred că este o idee bună.
+3000000131	Machiajul negru nu trebuie să lipsească.
+3000000132	Cum ar trebui să arate decorațiunile?
+3000000133	Universitatea va începe în trei săptămâni.
+3000000134	Vom zbura peste două săptămâni.
+3000000135	Când îți vei face bagajele?
+3000000136	Înainte de a-mi face bagajul voi merge, mai trebuie să cumpăr unele lucruri.
+3000000137	Este cald sau frig acolo?
+3000000138	Trebuie să cumpăr o cremă de protecție solară.
+3000000139	Am cu mine o cremă de protecție solară bună, ți-o recomand și ție.
+3000000140	Am înțeles că vom închiria o mașină acolo.
+3000000141	Deșerturile cu peisajele lor variate mă fascinează.
+3000000142	Peisajele sunt uluitoare și vom merge să le vedem.
+3000000143	Când am fost acolo, am călătorit pe o cămilă.
+3000000144	Era foarte cald, așa că nu trebuie să uităm să avem apa noastră.
+3000000145	Îmi place așa, ca totul să fie spontan.
+3000000146	Iubesc cultura și bucătaria acestei țări.
+3000000147	Da, dar trebuie să stabilesc anumite detalii cu ea.
+3000000148	Dacă nu putem sta la ea, mergem la un hotel ieftin.
+3000000149	Nu am fost niciodată în Turcia, în unele zone este foarte cald.
+3000000150	Unde ai fost vara trecută?
+3000000151	Cât timp ai stat acolo?
+3000000152	După două luni avem din nou sărbători.
+3000000153	Nu știu unde vreau să petrec vacanța de iarnă.
+3000000154	Trebuie să-mi povestești cum a fost.
+3000000155	Am avut un profesor bun care m-a învățat asta.
+3000000156	Da, însă doar două zile, distracție cât cuprinde.
+3000000157	Voi lua haine ușoare și vaporoase care să mă protejeze de soare și căldură.
+3000000158	Cum de cunoști atât de bine țara asta?
+3000000159	Am făcut multe cercetări și tatăl meu a lucrat și acolo.
+3000000160	Da, poți înota în apele ce scaldă plajele amenajate.
+3000000161	Pentru siguranță, am să iau cu mine medicamente în avion.
+3000000162	Întreabă farmacista ce medicamente îți recomandă pentru rău de avion.
+3000000163	În avion se oferă mască pentru dormit?
+3000000164	Primești tot ce vrei, nu îți face griji.
+3000000165	În Germania, în ce oraș locuiești?
+3000000166	Într-un apartament într-un oraș mic de lângă Hamburg.
+3000000167	Apartamentul are trei camere mici, dar înalte.
+3000000168	Pot să mă mut la tine?
+3000000169	Ești bine-venită, dar trebuie să stabilim anumite detalii.
+3000000170	Apartamentul este aproape de universitatea noastră?
+3000000171	Nu, e la 30 de minute distanță, trebuie să mergem cu trenul.
+3000000172	Va fi minunat dacă vom fi trei fete care locuiesc împreună.
+3000000173	Trebuie să-ți aduci frigiderul, pentru că nu am frigider.
+3000000174	Eu pot aduce o canapea și o mașină de spălat.
+3000000175	Fiecare își cumpără sau aduce propriul mobilier pentru dormitorul său.
+3000000176	De ce avem nevoie pentru bucătărie?
+3000000177	Oalele și ceainicul nu sunt un început sistematic.
+3000000178	Câți metri pătrați are bucătăria?
+3000000179	Bucătăria are 15 metri pătrați, mai mare decât camerele.
+3000000180	Deci o zi întreagă este pentru făcut curat în bucătărie.
+3000000181	Trebuie să începem cât mai curând posibil.
+3000000182	Pentru bucătărie avem nevoie de frigider, cuptor, cuptor cu microunde și prăjitor de pâine.
+3000000183	Am ceainicul electric de care ți-am zis și un prăjitor de pâine.
+3000000184	Mai avem nevoie și de o mașină de spălat vase.
+3000000185	Am mașină de spălat vase, am uitat complet de ea!
+3000000186	Atunci eu cumpăr un frigider mare, iar tu un cuptor cu plită.
+3000000187	E un plan bun până acum.
+3000000188	Bucătăria are culoarea maro și zugrăveala este veche.
+3000000189	E prea multă muncă, iar eu și Elena nu avem dorința de a face asta.
+3000000190	Atunci o voi face eu din banii mei.
+3000000191	Chiar vrei să o zugrăvești în alb complet?
+3000000192	Da, o bucătărie maro mă aruncă în depresie.
+3000000193	Am putea planta flori în bucătărie.
+3000000194	Aceasta ar fi o opțiune bună.
+3000000195	Asta e cu adevărat grozav.
+3000000196	Vrem să amplasăm masa în bucătărie?
+3000000197	O masă mică putem pune în bucătărie.
+3000000198	Iar vara putem mânca pe balcon și iarna în sufragerie.
+3000000199	Suntem gata cu bucătăria, putem trece la altceva.
+3000000200	Cum este baia în apartamentul tău?
+3000000201	S-ar potrivi un dulap mic pentru obiectele noastre?
+3000000202	Există încă o cameră foarte mică în apartament și acolo putem amplasa mașina de spălat.
+3000000203	Este o soluție foarte bună.
+3000000204	Pentru toaletă avem nevoie de covor, perdea de duș și oglindă.
+3000000205	Cred că am o perdea de duș și o oglindă foarte mică din vechiul meu apartament.
+3000000206	Elena vrea să cumpere obiectele mici pentru baie.
+3000000207	Am terminat și cu toaleta, putem trece la altă cameră.
+3000000208	Cât de mare este camera de zi?
+3000000209	Livingul este mare, cred că are 20 de metri pătrați.
+3000000210	20 de metri pătrați sunt deja foarte mulți.
+3000000211	Oricum cred vom petrece foarte puțin timp acolo.
+3000000212	Avem nevoie de masă cu scaune, canapea și fotolii, măsuță de cafea și televizor.
+3000000213	Elena mi-a spus că poate aduce ea un televizor.
+3000000214	Eu aduc masa cu scaune.
+3000000215	Iar eu aduc canapeaua și o măsuță de cafea.
+3000000216	Crezi că avem nevoie de fotolii?
+3000000217	Putem trăi și fără fotolii.
+3000000218	De asemenea, pot să mai aduc un raft de cărți și un covor.
+3000000219	Poate Elena să aducă perdelele?
+3000000220	Eu cred că perdelele rețin praful.
+3000000221	De ce, ar trebui să ne urmărească toată lumea sau ce?
+3000000222	Nu are cum să ne urmărească.
+3000000223	Mi se pare foarte ieftin.
+3000000224	De ce nu ai spus de la început?
+3000000225	Eu sunt mulțumită de preț.
+3000000226	În cazul asta, 300 de euro este ieftin.
+3000000227	Cum împărțim cele trei camere?
+3000000228	Există două camere mici și o cameră mare.
+3000000229	Eu vreau să am camera mare.
+3000000230	Ai multe haine și mult mobilier?
+3000000231	Da, am mobilier și foarte, foarte multe cărți.
+3000000232	Elena are mai mult mobilier decât tine.
+3000000233	Dacă nu are nevoie de tot, o piesă de mobilier poate sta în camera mea.
+3000000234	Ar fi bine așa, nu mai cheltuim atât de mulți bani.
+3000000235	Trebuie să creăm un plan pentru curățenie.
+3000000236	Vă sugerez ca fiecare să își curețe propria cameră, fiecare când vrea.
+3000000237	Una din noi este, de exemplu, de serviciu la bucătărie, una la baie și așa mai departe.
+3000000238	Sunt de acord, și alternăm în fiecare săptămână.
+3000000239	La fiecare două zile ștergem pe jos și aspirăm.
+3000000240	Sunt de acord, e minunat să ai o casă mereu curată.
+3000000241	Aș vrea să încep eu serviciul la bucătărie.
+3000000242	Bine, atunci voi prelua eu toaleta.
+3000000243	Pot să gătesc în fiecare vineri, sâmbătă și duminică.
+3000000244	Sunt în favoarea acestei împărțiri: unul pregătește micul dejun, celălalt prânzul și ultimul cina.
+3000000245	Nu-mi place asta, pentru că uneori nu sunt acasă.
+3000000246	Da, iar Elena poate găti miercuri și joi.
+3000000247	Mai este ceva de discutat?
+3000000248	Voi da lecții de pian în fiecare joi, ar fi o problemă pentru voi?
+3000000249	Aș vrea să-l pun în sufragerie.
+3000000250	Voi preda elevului patru ore, am nevoie de banii ăștia.
+3000000251	Nu pot muta pianul pe balcon și vecinii nu ar fi de acord cu asta.
+3000000252	Da, am vorbit cu ea ieri și ea este de acord.
+3000000253	Cum facem cu cumpărăturile săptămânale?
+3000000254	Cred că ar trebui să împărțim suma la trei, în mod egal.
+3000000255	Mie îmi plac mult pisicile persane.
+3000000256	Este bine, altfel ar trebui să plătim pentru suportul pentru biciclete.
+3000000257	L-am întrebat pe proprietar și mi-a spus să transferăm suma la începutul fiecărei luni.
+3000000258	Cum plătim pentru apă și electricitate?
+3000000259	Nu trebuie să facem risipă, dar nici să fim zgârcite.
+3000000260	Eu fac chefuri doar de cinci ori pe săptămână.
+3000000261	Să studiezi și să faci cinci chefuri pe săptămână este o performanță.
+3000000262	Studiul la facultatea de farmacie îmi ocupă tot timpul.
+3000000263	La ce oră te întorci de la universitate?
+3000000264	Nu, dar dacă îți uiți cheia, ce se întâmplă?
+3000000265	Sub preșul din fața ușii?
+3000000266	Nu vreau ca Tom să murdărească apartamentul.
+3000000267	Nu, este chiar mai curat și mai igienic decât mine.
+3000000268	Nu, dar mă voi uita pe hartă.
+3000000269	Ce ați stabilit la biroul de înregistrare?
+3000000270	Da, am vorbit cu ei și apoi am rezolvat totul foarte ușor.
+3000000271	Atunci voi face și eu exact ca tine.
+3000000272	Și o putem folosi pentru cumpărături?
+3000000273	Nu vrea să ne lase să o folosim, trebuie să plătim benzina dacă merge ea la cumpărături.
+3000000274	Tatăl prietenei tale are o companie pentru mutări!
+3000000275	Sunt mândră de tine că poți face față uitării tale.
+3000000276	Apartamentul are încălzire prin pardoseală?
+3000000277	Suntem studenți, nu avem bani pentru un apartament cu încălzirea prin pardoseală.
+3000000278	Cum este încăzit apartamentul iarna?
+3000000279	Fiecare va avea un radiator electric.
+3000000280	Vom curăța apartamentul săptămâna viitoare.
+3000000281	Ar trebui să cumpăr produsele de curățare?
+3000000282	Elena nu face aproape nimic, deci propun ca ea să le cumpere.
+3000000283	Cred că ne vom înțelege foarte bine.
+3000000284	Elena are luni ziua de naștere.
+3000000285	Da, am organizat deja petrecerea.
+3000000286	Ai făcut rezervare pentru petrecere?
+3000000287	Nu încă, dar m-am gândit la un bar la o jumătate de oră distanță de noi.
+3000000288	Câți oameni vrem să invităm?
+3000000289	Nu este nicio problemă pentru mine.
+3000000290	Tocmai am primit un telefon, chiria pentru bar costă 900 de euro pe noapte.
+3000000291	Știu alte baruri în care chiria este mai ieftină.
+3000000292	Cel puțin 20 de persoane.
+3000000293	S-ar putea să fie o afacere bună.
+3000000294	De asemenea, putem invita formația Închisoare de 5 stele să cânte pentru noi.
+3000000295	Toată lumea ar trebui să poarte haine care să arate că este o petrecere rock.
+3000000296	Ar trebui să ne machiem negru?
+3000000297	Cumpărăm baloane negre, tacâmuri negre, servețele negre.
+3000000298	Ar trebui să cumpărăm și mâncare?
+3000000299	Știu o firmă care poate face un tort negru și gri, foarte gustos.
+3000000300	Atunci comanzi tu și împărțim banii.

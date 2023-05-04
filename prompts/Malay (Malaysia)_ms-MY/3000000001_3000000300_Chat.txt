@@ -1,0 +1,300 @@
+3000000001	Saya akan pergi ke Shanghai pada minggu depan.
+3000000002	Betul, saya ingin balik ke sekolah.
+3000000003	Kita harus menepati janji kita.
+3000000004	Terima kasih, saya telah menerima.
+3000000005	Hai, saya tidak sedar akan kedatangan awak.
+3000000006	Eh, tiba-tiba sahaja awak muncul.
+3000000007	Tahniah atas kejayaan kamu!
+3000000008	Saya pun tidak menyangka saya akan memenangi pertandingan ini.
+3000000009	Betul, ini kali pertama saya.
+3000000010	Bag ini bukan kepunyaan saya.
+3000000011	Saya ingin membeli pen itu.
+3000000012	Bolehkah saya tau nama muzik ini?
+3000000013	Wah, besarnya televisyen ini!
+3000000014	Yalah, saya sudah tinggal di sini selama sepuluh tahun.
+3000000015	Nampaknya hobi awak ini memberikan perngetahun yang berguna.
+3000000016	Tidaklah, ini bukan buku saya.
+3000000017	Saya bercita-cita hendak menjadi peguam.
+3000000018	Berapakah harga kereta ini?
+3000000019	Semua sedara mara dia dalam tu.
+3000000020	Seronok berbual dengan awak.
+3000000021	Saya tidak sedar hari sudah lewat.
+3000000022	Nanti air rebus ikan ni buang tau.
+3000000023	Ya, Najath bercakap di sini.
+3000000024	Bolehkah saya bertanya kenapa kamu tidak datang ke sekolah?
+3000000025	Bilakah tarikh peperiksaan kita?
+3000000026	Kalau begitu, saya ingin balik sekarang.
+3000000027	Tentulah banyak orang akan datang.
+3000000028	Memang betul, saya berasa sangat gembira.
+3000000029	Saya sokong pendapat awak.
+3000000030	Sama-sama, selamat menjalan Siti.
+3000000031	Berapakah umur kanak-kanak itu?
+3000000032	Terima kasih atas ingatan awak.
+3000000033	Eh, tentulah dia kawan saya!
+3000000034	Betul tu, emak saya.
+3000000035	Sampaikan salam saya kepada kawan-kawan.
+3000000036	Beransur baik sekarang, terima kasih.
+3000000037	Apa khabar kawan-kawan kita?
+3000000038	Bila hendak bertolak ke Genting?
+3000000039	Sibuk nampaknyna kamu, Afiq.
+3000000040	Oh, saya sedang mandi.
+3000000041	Berjaya jika berusaha dan rajin belajar.
+3000000042	Di manakah anda tinggal?
+3000000043	Awak menghadiri kelas tuisyen?
+3000000044	Bagaimanakah kamu pergi ke Perlis?
+3000000045	Dia ialah abang saya.
+3000000046	Abang saya ialah seorang doktor.
+3000000047	Saya akan mendapat gaji besok.
+3000000048	Selamat pagi, jemput duduk.
+3000000049	Saya sedang membersihkan kamera saya.
+3000000050	Siapakah perempuan yang menjerit itu?
+3000000051	Ada apa-apa yang boleh saya bantu?
+3000000052	Apakah yang kamu makan petang ini?
+3000000053	Saya telah membeli kuih donat di tepi jalan.
+3000000054	Oh, kemungkinan kamu mengalami keracunan makanan!
+3000000055	Adakah ini bahaya, doktor?
+3000000056	Gigi besi oh gigi besi, hancurkan saja semua kepala dan tulang sekali.
+3000000057	Kamu hanya perlu makan ubat.
+3000000058	Saya akan mengikut arahan kamu.
+3000000059	Lain kali, bersihkan tangan awak.
+3000000060	Mari kita pergi ke tapak perhimpunan.
+3000000061	Tunggu saya sekejap, Ali.
+3000000062	Eh, di manakah tali leher kamu?
+3000000063	Saya akan memakainya sekejap lagi.
+3000000064	Lihatlah, pakaian saya sudah kemas.
+3000000065	Siapkah yang mengajar kamu Bahasa Cina?
+3000000066	Ayah sayalah yang mengajar saya.
+3000000067	Apakah buku kegemaran kamu?
+3000000068	Saya suka bermain bola.
+3000000069	Marilah pergi ke pasar.
+3000000070	Baguslah, lukisan ini sangat cantik.
+3000000071	Awak mesti makan sayur ini.
+3000000072	Makanan di sini berkhasiat.
+3000000073	Kalau tak makan, bagaimana nak sihat?
+3000000074	Baiklah, saya minta diri dulu.
+3000000075	Saya dah berjanji dengan ibu saya untuk pulung awal.
+3000000076	Apakah strategi untuk mendapat keputusan cemerlang?
+3000000077	Saya selalu mengulang kaji pelajaran.
+3000000078	Saya hendak menjadi seorang doktor.
+3000000079	Berhati-hati semasa pulang nanti.
+3000000080	Apakah yang awak lakukan ketika di rumah?
+3000000081	Saya membaca semula nota pelajaran.
+3000000082	Apakah cita-cita kamu dan adik kamu?
+3000000083	Emak saya seorang guru.
+3000000084	Saya ingin mengucapkan terima kasih atas sumbangan kamu.
+3000000085	Ya, saya telah mendapat lesen saya.
+3000000086	Saya hendak menyewa kereta ini.
+3000000087	Pakai air paip saja.
+3000000088	Saya berasa sangat sedih melihat keadaan ini.
+3000000089	Saya tidak pernah pergi ke Australia.
+3000000090	Adik berharap satu hari nanti boleh pergi ke Australia.
+3000000091	Sally perlu membeli makanan dulu.
+3000000092	Baiklah, saya cuba mencari dia.
+3000000093	Terdapat tiga orang di situ.
+3000000094	Sila duduk selepas berlari.
+3000000095	Saya tidak faham perbuatan kamu.
+3000000096	Cuaca pada hari ini sangar panas.
+3000000097	Tunggu sekejap, saya nak pergi ke tandas.
+3000000098	Betullah, saya tinggal di Kuala Lumpur.
+3000000099	Saya tidak pernah makan daging ayam.
+3000000100	Saya ingin makan mi goreng.
+3000000101	Bantulah dia untuk berdiri.
+3000000102	Bilakah kamu hendak balik?
+3000000103	Inilah bapa saya yang bekerja di Shanghai.
+3000000104	Dia bukanlah seorang yang jujur.
+3000000105	Anjing itu tidur dengan lena.
+3000000106	Saya sudah faham, terima kasih.
+3000000107	Cikgu, saya tidak akan datang ke sekolah esok.
+3000000108	Sammy, inilah kawan saya.
+3000000109	Saya ingin menjawab soalan ini.
+3000000110	Adik sedang sibuk membuat soalan itu.
+3000000111	Kucing Ali sangat comel.
+3000000112	Keluarganya sangat bahagia dan gembira.
+3000000113	Bolehkah saya bertanya soalan ini?
+3000000114	Apakah jawapan anda untuk soalan ini?
+3000000115	Macam biasalah, pengisar serba boleh setakat ini sahaja.
+3000000116	Izinkan saya pergi ke tandas.
+3000000117	Sejuknya cuaca di negara ini!
+3000000118	Saya nak pergi ke universiti nanti.
+3000000119	Oh, saya sudah lupa jadual saya!
+3000000120	Sedapnya kek coklat ini!
+3000000121	Bagaimanakah dia mendapat johan?
+3000000122	Jemputlah makan masakan ibu saya.
+3000000123	Bapa saya bekerja di tempat itu.
+3000000124	Tapis di sini, tulang segala selamat di raga, tak masuk dalam kuah laksa kita.
+3000000125	Marilah menyertai pertandingan ini.
+3000000126	Saya akan pergi ke gereja petang ini.
+3000000127	Nanti tambah air sikit.
+3000000128	Dia berlari ke arah itu.
+3000000129	Saya telah menghubungi polis.
+3000000130	Bolehkah memberi saya satu peluang lagi.
+3000000131	Ke manakah kamu pergi?
+3000000132	Bolehkah membantu saya hari ini?
+3000000133	Janganlah bimbang, saya akan menyelesaikan masalah ini.
+3000000134	Betulah, saya pengerusi kelab ini.
+3000000135	Siapakah orang tua itu?
+3000000136	Saya berasa sangat gembira.
+3000000137	Anda semua boleh letak lebih cili padi itu jika mahu pedas.
+3000000138	Dia berharap untuk mendapat tempat pertama.
+3000000139	Cantiknya anak perempuan itu!
+3000000140	Saya kagum melihat kereta besar itu.
+3000000141	Ini sukatan yang kanak-kanak pon boleh makan.
+3000000142	Saya berasa sangat malu.
+3000000143	Rupa-rupanya orang itu ialah nenek saya.
+3000000144	Ya, baiklah, saya akan balik sekarang.
+3000000145	Mengapa kamu menangis kelmarin?
+3000000146	Macam mana boleh hilang?
+3000000147	Saya berasa bangga mendapat kawan ini.
+3000000148	Encik, apakah nama kamu?
+3000000149	Di manakah mereka bersekolah?
+3000000150	Terima kasih kembali, Suzie.
+3000000151	Apakah perasaan kamu sekarang?
+3000000152	Dia belajar di Universiti Malaya.
+3000000153	Sekarang dia sudah lulus.
+3000000154	Aku sudah cakap, ini ialah pengisar serba boleh.
+3000000155	Inilah kawan saya, Selena.
+3000000156	Dia mudah dipengaruhi oleh orang lain.
+3000000157	Saya dah makan, Ali.
+3000000158	Sue gagal mendapat gajinya.
+3000000159	Baunya sungguh wangi.
+3000000160	Sebenarnya dia kawan karib saya.
+3000000161	Saya tak tahu bagaimana hendak menceritakannya.
+3000000162	Hanya kamu yang tidak tahu.
+3000000163	Hampir satu hari saya tidak tidur.
+3000000164	Sudah tentu gembira sekali.
+3000000165	Selamat jalan, sila datang lagi.
+3000000166	Sheela ialah seorang penyanyi.
+3000000167	Adik saya bernama Ahmad.
+3000000168	Ikuti langkah di bawah.
+3000000169	Sila bagi saya dua keping kek itu.
+3000000170	Berapakah harga kek itu?
+3000000171	Aduhai, mahalnya kek ini.
+3000000172	Bolehkah saya membayar selepas itu.
+3000000173	Saya lupa membawa beg saya.
+3000000174	Wah, cantiknya perempuan itu.
+3000000175	Jika kamu tidak suka boleh beritahu saya.
+3000000176	Berkilat dapur ibu.Petuanya ialah lepas masak perlulah terus mengemas.
+3000000177	Sudah masak apabila ia sudah mendidih.
+3000000178	Boleh makan bersama anak-anak.
+3000000179	Kamus tersebut sangat tebal.
+3000000180	Anak saya bernama Suzie.
+3000000181	Tumis semua bahan dan kisar sekali cili boh sampai pecah minyak.
+3000000182	Saya mendapat seratus dalam peperiksaan.
+3000000183	Ibu bapa saya memuji saya.
+3000000184	Kek itu sangat nipis dan tidak sedap.
+3000000185	Bukanlah, saya tidak makan kek coklat.
+3000000186	Jemput datang ke rumah saya.
+3000000187	Ini bukan tanggungjawab saya.
+3000000188	Masukkan ayam dan tumis sekali sekejap, barulah masukkan santan dengan air.
+3000000189	Ulam-ulam tu banyak lagi sebenarnya boleh letak.
+3000000190	Memang cukup pedasnya dan rasanya juga sangat sedap.
+3000000191	Apakah rahsia kejayaan pasukan kita?
+3000000192	Apakah harapan saudari pada masa kelak?
+3000000193	Saya setuju dengan pandangan anda.
+3000000194	Saya gembira dan bangga atas kejayaan kamu.
+3000000195	Segala usaha kamu tidak sia-sia.
+3000000196	Rancanglah jadual waktu itu.
+3000000197	Saya selalu bertanya kepada guru dan keluarga.
+3000000198	Jumpa lagi esok, Siti.
+3000000199	Ayah, mengapa kita mesti tinggal di sini?
+3000000200	Ayah, cuba lihat itu.
+3000000201	Kenapa penyu itu menangis?
+3000000202	Sudah dapat melihat bagaimana kek dibuat?
+3000000203	Hai, saya khabar baik.
+3000000204	Oh, seronoknya, kamu tentu gembira!
+3000000205	Ya, mereka memanglah rajin.
+3000000206	Harap kamu pun sihat-sihat belaka.
+3000000207	Ada apa-apa berita menarik?
+3000000208	Saya ingin melanjutkan pelajaran saya ke negara itu pada suatu hari nanti.
+3000000209	Bolehkah saya tahu siapa yang bercakap ini?
+3000000210	Sally, awak tak sihatkah?
+3000000211	Sudah lama kita tidak berjumpa.
+3000000212	Bagus, awak pasti dapat tempat pertama!
+3000000213	Nak resepi kejap lagi saya muat naik balik.
+3000000214	Kelmarin, kereta baharu saya baru dicuri.
+3000000215	Letakkan yee mi dalam kuali kecil.
+3000000216	Pasti ada cara untuk mengatasi masalah ini.
+3000000217	Wah, bersih dan kemasnya rambut kamu!
+3000000218	Saya mencuci rambut dengan minyak rambut.
+3000000219	Bilakah kamu mencuci rambut?
+3000000220	Apakah warna kegemaran awak?
+3000000221	Hobi saya ialah melukis.
+3000000222	Warna kegemaran saya ialah merah.
+3000000223	Saya pergi ke sekolah pada pukul enam pagi.
+3000000224	Saya pergi ke sekolah dengan menaiki bas sekolah.
+3000000225	Pekerjaan ayah saya ialah pegawai bank.
+3000000226	Saya berpindah dari Pulau Pinang ke Kuala Lumpur.
+3000000227	Salam sejahtera, harap kamu berada dalam keadaan yang baik.
+3000000228	Sayur-sayur mentah ini baik untuk kesihatan.
+3000000229	Saya boleh membantu ibu memerah lemon ini.
+3000000230	Tolong basuh salad dan timun ini.
+3000000231	Adik menolong ibu di dapur.
+3000000232	Ambil lemon dan perah di dalam bekas.
+3000000233	Tolong gaul bahan ini.
+3000000234	Nadia, ambil daun salad dan timun di peti sejuk.
+3000000235	Apakah faedah berkebun sayur?
+3000000236	Malangnya, saya sudah balik ke rumah.
+3000000237	Bukan itu sahaja, saya suka makan juga.
+3000000238	Tidak mahulah, saya tidak suka baju ini.
+3000000239	Baiklah, suka hati kamu.
+3000000240	Ya, cuba menjawab soalan yang sukar ini.
+3000000241	Saya sedia menghadapi kajian.
+3000000242	Kalau begitu, sila balik ke rumah sekarang.
+3000000243	Saya sudah lupa mana rumahnya.
+3000000244	Dalam situasi ini, saya harap pihak berkuasa bertindak.
+3000000245	Saya sokong apa-apa yang kamu buat.
+3000000246	Saya cinta pada kamu.
+3000000247	Inilah apa yang saya hendak memberitahu kamu.
+3000000248	Sila menerima kad ini.
+3000000249	Sedapkah makanan restoran itu?
+3000000250	Saya yakin bahawa dia ialah adik saya.
+3000000251	Kuali tu buka api siap-siap.
+3000000252	Kemudian, kuah yang kita masak tadi tu kita curah dekat yee mi tu dalam kuali kecil.
+3000000253	Saya menangis dan berasa sangat sedih.
+3000000254	Saya tidak dapat menerima berita tersebut.
+3000000255	Amalan menabung harus dipupuk sejak kecil.
+3000000256	Nanti kuah tu masak sekali dengan mi.
+3000000257	Sila hantar kerja rumah kamu.
+3000000258	Ini bukanlah cara untuk menyelesaikan masalah.
+3000000259	Hentikan apa yang kamu sedang buat.
+3000000260	Minumlah sup ini yang berkhasiat.
+3000000261	Muzik itu sangat merdu.
+3000000262	Hari jadi saya sudah lepas.
+3000000263	Kasih sayang ibu bapa sering diingati oleh adik.
+3000000264	Ini ialah contoh karangan terbaik.
+3000000265	Anne tidak membuat kerjanya.
+3000000266	Saya perlu satu kawan yang bertanggungjawab.
+3000000267	Orang itu sangat baik hati.
+3000000268	Dermawan yang murah hati itu menderma banyak wang.
+3000000269	Anak yatim tersebut sungguh berdikari.
+3000000270	Di mana kamu berjumpa dengan Tosh?
+3000000271	Rakyat Malaysia haruslah mementingkan perpaduan.
+3000000272	Saya hendak menghadiri majlis perkahwinannya.
+3000000273	Pecahkan telur dekat tepi dan letak sayur sekali.
+3000000274	Ulang dan curah kuah yang ada dalam kuali tu sampai mi tu dah masak.
+3000000275	Bapa kamu akan berasa amat sedih mendengarnya.
+3000000276	Ibu telah memarahi dia setiap hari.
+3000000277	Burung itu sangat cantik.
+3000000278	Jomlah pergi ke restoran itu.
+3000000279	Saya tidak pernah bercakap dengan cikgu itu.
+3000000280	Saya bangga dengan kejayaan anak saya.
+3000000281	Suaminya berjaya mendapat perkerjaan yang baik.
+3000000282	Tiada orang tahu namanya.
+3000000283	Dia selalu berjalan ke hospital.
+3000000284	Banyak orang beratur untuk mendapatkan baucar.
+3000000285	Jomlah, mengunjungi zoo tersebut.
+3000000286	Pernahkah kamu melihat harimau?
+3000000287	Tanggungjawab seorang doktor sangat besar.
+3000000288	Meja yang saya beli dari kedai perabot itu sangat berkualiti.
+3000000289	Kerusi ini sudah patah.
+3000000290	Buanglah kerusi itu ke dalam tong sampah.
+3000000291	Marilah mengayuh basikal ke sekolah.
+3000000292	Di mana kamu beli buku ini?
+3000000293	Almari tersebut dibeli oleh ibu.
+3000000294	Ibu lupa membawa payungnya.
+3000000295	Hujan lebat berlaku di tempat itu.
+3000000296	Kedai itu sudah hampir tutup.
+3000000297	Kita suka orang yang berakhlak.
+3000000298	Kanak-kanak harus belajar nilai murni.
+3000000299	Sila memanggil abang itu.
+3000000300	Ambil kuali kecil letak yee mi yang keras itu.

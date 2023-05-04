@@ -1,0 +1,300 @@
+3000000001	Hei, minä ja Leena lennämme Pariisiin lomien aikana.
+3000000002	Olisiko ok, jos voisin tulla myös?
+3000000003	Lennämme kahden viikon kuluttua sinne.
+3000000004	Tuolloin minulla on myös vapaapäiviä.
+3000000005	Ei, emme ole vielä varanneet mitään.
+3000000006	Ei, en halua varata kaikkea itse.
+3000000007	Kaipaisin apuasi jos haluat auttaa?
+3000000008	Minulla on kuitenkin kallis maku, haittaako se?
+3000000009	Sitten teemme niin, että varaat itse ja menen tyttöystäväni luokse, joka asuu Pariisissa.
+3000000010	Ei, sinun ei tarvitse maksaa mitään, minä tarjoan!
+3000000011	Mutta haluan käydä eri paikoissa kuin sinä.
+3000000012	Sitten teemme niin, että menemme kaikki lomalle yhdessä, mutta jokaisen tulisi suunnitella matkansa itsenäisesti.
+3000000013	Olen iloinen, että olemme samaa mieltä.
+3000000014	Milloin olet ajatellut pakata matkalaukkusi?
+3000000015	Koska lennämme vasta kahden viikon päästä, teen sen todennäköisesti viikon kuluttua.
+3000000016	Pakkaan matkalaukkuni jopa viikon kuluttua.
+3000000017	Kyllä, ennen kuin pakkaan matkalaukkuni, olen jo ostanut jotain.
+3000000018	Ei, en ole koskaan ennen käynyt Pariisissa.
+3000000019	Onko siellä lämmin vai kylmä?
+3000000020	Kuulin, että Dubain keskilämpötila on 37 astetta.
+3000000021	Minun on ostettava lisäksi aurinkovoidetta.
+3000000022	Voin suositella sinulle hyvää aurinkovoidetta.
+3000000023	Ei, housuissa siellä on aivan liian kuuma.
+3000000024	Meidän on myös käytävä siellä.
+3000000025	Siellä oli erittäin lämmin, joten emme saa unohtaa vettä.
+3000000026	Kyllä, tietysti meidän on ajateltava sitäkin.
+3000000027	Pitäisikö sinun varata se ennakkoon?
+3000000028	Ei, voit mennä sinne spontaanisti.
+3000000029	Varasimme sen myös viime vuonna.
+3000000030	Silloin sinulla ei ole mitään suunniteltuna etukäteen.
+3000000031	Minusta se on spontaanisti parempi.
+3000000032	Voit myös uida delfiinien kanssa.
+3000000033	Kyllä, tietysti voimme mennä myös rannalle.
+3000000034	Ystäväni oli tehnyt sen kerran.
+3000000035	Rakastan myös kulttuuria ja ruokaa.
+3000000036	Mutta olen myös hyvin kiinnostunut kulttuurista.
+3000000037	Kulttuurimatka kestää yhteensä kolme päivää.
+3000000038	Voimme myös yöpyä serkkusi luona Pariisissa.
+3000000039	Sanon, että korkeintaan kaksi ihmistä on tulossa.
+3000000040	Mutta myös Leena on tulossa.
+3000000041	Kerron hänelle, että meitä onkin kolme.
+3000000042	Hieno juttu, Leena on todella innoissaan lomastamme kun kerroin hänelle.
+3000000043	Tämä taitaa olla Leenan ensimmäinen lomamatka aikoihin?
+3000000044	En ole kysynyt häneltä asiasta, mutta muistelisin niin.
+3000000045	Ottaako Leena koiransa mukaan matkalle?
+3000000046	Kyllä, hän ottaa koiransa mukaan.
+3000000047	Pitäisikö meidän sittenkin mennä hotelliin?
+3000000048	Mennään hotelliin, niin kaikilla on paljon mukavampaa.
+3000000049	Okei, sitten menemme halpaan hotelliin.
+3000000050	Onko ranta myös hotellin lähellä vai onko se kauempana?
+3000000051	En ole aivan varma, minne olimmekaan menossa lomalle?
+3000000052	Ei, en ole koskaan käynyt Turkissa.
+3000000053	Siellä on aivan liian kuuma.
+3000000054	Oi että, millaista siellä oli?
+3000000055	Kävin aavikolla ja näin paljon tähtiä, ja se oli hyvin kylmä.
+3000000056	Missä olit muuten viime kesänä?
+3000000057	Siellä oli paljon hienoa vuoristoa.
+3000000058	Hetkinen, etkö sinä asukaan Saksassa?
+3000000059	Luulin, että asut Japanissa, siksi kysyin.
+3000000060	Ai, asuitko sitten kauankin siellä?
+3000000061	Kahden kuukauden kuluttua meillä on taas loma.
+3000000062	Saatteko te töistä säännöllisesti vapaata?
+3000000063	Koska olen pomo, voin suunnitella lomani itse.
+3000000064	Milloin sinulla on loma talvella?
+3000000065	En tiedä milloin ja missä haluan käyttää sen.
+3000000066	Aiotko lentää takaisin Australiaan silloin?
+3000000067	Voit myös lentää Australiaan keväällä.
+3000000068	Ei, en pidä Australiasta keväällä.
+3000000069	Olin myös talossa, jossa Huussia ja Huvilaa kuvattiin.
+3000000070	Halusin myös mennä sinne kaksi vuotta sitten.
+3000000071	Ihanko totta, voin pyytää kutsun sinulle jos haluat?
+3000000072	En tiennytkään, mutta kiitos jos voit kutsua minut.
+3000000073	Kyllä, tarvitset sinne kutsun talon omistajalta.
+3000000074	Voin kysyä puolestasi, jos haluat?
+3000000075	No, jos siitä ei ole liikaa vaivaa?
+3000000076	Kävisin siellä todella mielelläni kanssasi!
+3000000077	Ei tietenkään, mitä vain sinulle!
+3000000078	Odotan innolla vierailuamme, mutta minulla on lomaa vasta tammikuussa.
+3000000079	Voin järjestää sinulle kutsun tammikuulle, se ei ole mikään ongelma.
+3000000080	Mitä aiot ottaa mukaasi Pariisiin?
+3000000081	Otan ainakin vaatteita ja hammasharjan mukaani.
+3000000082	Unohdin, mitä halusit ottaa mukaasi.
+3000000083	Ajattelen kevyitä vaatteita ja polvipituisia housuja.
+3000000084	En ottanut polvipituisia housuja vaan hameen.
+3000000085	Silloin meidän ei tarvitse maksaa lentolippuja.
+3000000086	Minun ei tarvitse maksaa siitä mitään.
+3000000087	Voin kysyä pilotilta mihin aikaan voisimme lähteä.
+3000000088	Voinko ottaa kuvia lennolla puhelimellani?
+3000000089	Uskoisin, että kuvien ottaminen on sallittua.
+3000000090	Olen ainakin itse aina ottanut paljon kuvia.
+3000000091	Hienoa, saan paljon hienoja kuvia matkamuistoalbumiini.
+3000000092	Niin saat ja voit esitellä kuvia perheellesi sitten kotona tai kehystää ne seinälle.
+3000000093	Oliko hotelli tai muu majoitus jo varattu vai katsonko kohteita netistä?
+3000000094	Minulla on siellä asunto, jos se vain sopii sinulle?
+3000000095	Sopii minulle, saanko isoimman makuuhuoneen?
+3000000096	Kyllä, kaikissa huoneissa on oma kylpyhuone.
+3000000097	Mitä muuta haluat tehdä Pariisissa?
+3000000098	Haluaisin käydä muutamassa turistikohteessa, mutta ne ovat kalliita.
+3000000099	Mutta haluan olla myös Leenan kanssa.
+3000000100	Okei, lupaan järjestää teille hieman kahdenkeskeistä aikaa.
+3000000101	Olen ajatellut kosia häntä matkalla!
+3000000102	Satutko tietämään jotain romanttista ravintolaa Pariisista?
+3000000103	Tiedän ainakin yhden ravintolan, jossa on myös hyvä viulisti.
+3000000104	Viulisti kuulostaa loistavalta, Leena ansaitsee vain parasta.
+3000000105	Olen samaa mieltä, Leena on upea nainen!
+3000000106	Kiitos, mutta toivotaan nyt ensin, että hän vastaa myöntävästi kysymykseeni.
+3000000107	Olen melko varma, että hän vastaa kyllä.
+3000000108	Toivottavasti kosintani on ikimuistoinen.
+3000000109	Eiköhän, mitä muuta haluat nähdä Pariisissa?
+3000000110	Meillä on paljon aikaa.
+3000000111	Haluaisin mennä Eiffelin tornille ja torikahville.
+3000000112	Tunnen Pariisin erittäin hyvin, vaikka en ole koskaan käynyt siellä.
+3000000113	Miksi tiedät siitä niin paljon?
+3000000114	Tein paljon taustatutkimusta ja myös isäni työskenteli siellä.
+3000000115	Voinko pukea shortsit sinne, onko se ok?
+3000000116	Voit tietysti jos haluat?
+3000000117	Päätät itse mitä puet.
+3000000118	En vain tunne paikallista säätä kovin hyvin, niin en ollut varma.
+3000000119	Shortsit sopivat oikein hyvin Pariisin säähän tähän aikaan vuodesta.
+3000000120	Pakkaan sitten mukaan kahdet shortsit sinne.
+3000000121	On tylsää lomailla yksin, tule mukaani!
+3000000122	Voi kiitos, tulen mielelläni!
+3000000123	Kuulin, että siellä olisi myös jääkarhuja.
+3000000124	No tuo kuulostaa jo mielenkiintoiselta.
+3000000125	Haluan tietää missä sinä olet ollut.
+3000000126	Olin Italiassa isäni kanssa.
+3000000127	Hän on Jannen kaksoisveli.
+3000000128	Hän ei ollut tavannut minua.
+3000000129	Voi olla, että hän ei ole tavannut sinua.
+3000000130	Tällä hetkellä hän saattaa olla kiireinen.
+3000000131	Kyllä on joo, näpyttelikö hän älypuhelintaan?
+3000000132	Sitten hänellä oli todennäköisesti tärkeä keskustelu.
+3000000133	Myös siellä kaikki on mahdollista.
+3000000134	Se sinun täytyy selittää minulle.
+3000000135	Minulla oli opettaja, joka opetti minua.
+3000000136	Sinun täytyy myös opettaa minua.
+3000000137	Mitä sinun kannattaa syödä Australiassa?
+3000000138	Minulla oli pastaa illalliseksi.
+3000000139	Voimme tehdä sitä yhdessä kesällä.
+3000000140	Joo, olisin siitä erittäin iloinen.
+3000000141	Se on erittäin mielenkiintoista.
+3000000142	Olitko muuten myös Sydneyssä kesällä?
+3000000143	Kyllä, mutta vain kaksi päivää.
+3000000144	Sydneyssä on erittäin kallista.
+3000000145	Haluan myös mennä sinne.
+3000000146	Liisa asuu siellä nyt, eikö?
+3000000147	Mihin maahan haluat matkustaa?
+3000000148	Se olisi mielenkiintoista kuulla.
+3000000149	Siellä on myös Bali.
+3000000150	En ole koskaan käynyt Indonesiassa.
+3000000151	Kyllä, voimme mennä sinne ensi kesänä.
+3000000152	Hienoa, mutta haluan lentää illalla.
+3000000153	Voin kysyä isältä onnistuuko se, mutta en lupaa mitään.
+3000000154	Sitten voimme lentää aamulla, jos se ei käy.
+3000000155	Mitä otat mukaasi lennolle?
+3000000156	En mitään, koska se on lyhyt matka.
+3000000157	Pitäisikö minun ottaa jotain syötävää?
+3000000158	Sinun ei tarvitse suunnitella mitään nyt.
+3000000159	Meillä on vielä paljon aikaa jäljellä.
+3000000160	Haluatko minun ottavan tyynyni mukaan?
+3000000161	Suunnittelen jo kaiken valmiiksi.
+3000000162	Ei, olemme rikkaita ja siellä on tyynyt.
+3000000163	Se on ensiluokkainen helikopteri.
+3000000164	Kuinka monta paikkaa helikopterissa on?
+3000000165	Helikopterissa on 4 paikkaa, me kaikki mahdumme hyvin mukaan.
+3000000166	Kuinka kauan lento todella kestää?
+3000000167	Lento kestää yhteensä 12 tuntia.
+3000000168	12 tuntia koneessa on melko kauan.
+3000000169	Ei, 12 tuntia on lyhyin lentomatka sinne.
+3000000170	Se ei ole ongelma.
+3000000171	Saat kaiken mitä haluat.
+3000000172	Rakastan indonesialaista ruokaa, se on todella hyvää!
+3000000173	Rakastan myös paikallista ruokaa Indonesiassa!
+3000000174	Kyllä, Indonesiassa on paljon upeita palatseja.
+3000000175	Turkki on myös erittäin mielenkiintoinen.
+3000000176	Kyllä, olen samaa mieltä.
+3000000177	En ole koskaan ollut siellä.
+3000000178	Olen ollut Turkissa aiemmin.
+3000000179	Siellä on erittäin mukavaa.
+3000000180	Haluan myös mennä Turkkiin.
+3000000181	Hei, haluaisitko muuttaa huoneistoon kanssamme?
+3000000182	Muutan huoneistoon Leenan kanssa.
+3000000183	Kuinka korkea talo on?
+3000000184	Huoneistossa on kolme huonetta, se riittää meille.
+3000000185	Se tekee minut onnelliseksi.
+3000000186	Onko huoneisto lähellä yliopistojamme?
+3000000187	Ei, se on 20 minuutin päässä, mutta voimme mennä junalla.
+3000000188	Hienoa, meitä on kolme tyttöä asumassa yhdessä.
+3000000189	Ei, emme ole vielä muuttaneet.
+3000000190	Yliopisto alkaa kolmen viikon kuluttua.
+3000000191	Haluamme muuttaa kolmen päivän kuluttua.
+3000000192	Sopiiko jos Liisa muuttaa myös?
+3000000193	Tuo jääkaappisi, koska meillä kummallakaan ei ole jääkaappia.
+3000000194	Se on sopii Leenalle.
+3000000195	Minulla ei ole myöskään jääkaappia.
+3000000196	Sovitaan kuka tuo tai ostaa mitäkin.
+3000000197	No voin tuoda sohvan ja pesukoneen.
+3000000198	Papukaijojen kielessä on esimerkiksi noin kymmenen kertaa enemmän makusilmuja kuin vaikkapa kanan.
+3000000199	Meillä on kolme makuuhuonetta.
+3000000200	Jokainen saa oman makuuhuoneen.
+3000000201	Okei, jokainen ostaa omat huonekalut omaan makuuhuoneeseensa.
+3000000202	Minulla on vielä viisi kattilaa ja vedenkeitin.
+3000000203	Onko sinulla laseja ja veitsiä?
+3000000204	Onko meillä edes keittiötä käytettävissä?
+3000000205	Kyllä, tietysti meillä on keittiö.
+3000000206	M iksi juuri tämä käyttäytyminen on papukaijojen evoluutiossa valikoitunut kanssakäymisen muodoksi?
+3000000207	Keittiö on 15 neliömetriä.
+3000000208	Ei, se ei ole ollenkaan puhdas.
+3000000209	Meidän on mentävä sinne tänään siivoamaan se.
+3000000210	Onko sinulla aikaa tänään?
+3000000211	Kyllä, mutta sovitaan vielä toinen päivä, sillä siivoamme koko talon.
+3000000212	Kyllä, Leena pitää sitä myös hyvänä ideana.
+3000000213	Mutta meidän on aloitettava mahdollisimman pian.
+3000000214	Keittiöön tarvitaan ensin jääkaappi, uuni, mikroaaltouuni ja leivänpaahdin.
+3000000215	Okei, jätetään se toistaiseksi.
+3000000216	Minulla on vielä vedenkeitin ja leivänpaahdin.
+3000000217	Voin myös hankkia jääkaapin.
+3000000218	Ostan astianpesukoneen ja uunin.
+3000000219	Leena ostaa kaiken ruokailuvälineistä lautasiin.
+3000000220	Luulen, että huoneistossa on astianpesukone.
+3000000221	Leena juuri kertoi minulle, että hän voi myös tuoda television.
+3000000222	Kuinka monta kertaa minun on kerrottava sinulle?
+3000000223	Keittiö on vanha ja se on ruskea.
+3000000224	Haluan maalata sen valkoiseksi.
+3000000225	Lisäksi Leenalla ja minulla ei ole mitään halua tehdä muutoksia.
+3000000226	Sitten annan minun tehdä se ja maksaa se.
+3000000227	Seinät ovat kaikki keltaisia, voimme maalata ne yhdessä.
+3000000228	Joo, haluammeko maalata myös ne valkoisiksi?
+3000000229	Jotta kaikki ei ole valkoista, voisimme myöhemmin istuttaa yrttejä keittiöön.
+3000000230	En voi joutua kosketuksiin yrttien kanssa.
+3000000231	Mutta voimme istuttaa niitä parvekkeelle.
+3000000232	Minulla on edelleen se keltainen matto.
+3000000233	Kylpyhuoneemme on muuten hyvin pieni eikä ikkunaa ole.
+3000000234	Emme ole vielä valmiita keittiön kanssa.
+3000000235	Mutta voimme syödä kesällä parvekkeella ja talvella olohuoneessa.
+3000000236	Kyllä, hänen äitinsä ompelee ne meille.
+3000000237	Verhojen pitäisi olla valkoiset teemaan sopien.
+3000000238	Mutta haluaisimme myös harmaat verhot.
+3000000239	Minulla ei ole ongelmaa sen kanssa.
+3000000240	En tiedä kuinka monta neliömetriä wc on.
+3000000241	Sopisiko jos hankimme pienen kaapin astioillemme?
+3000000242	Pitäisikö minun ostaa se kaappi?
+3000000243	Asunnossa on vielä hyvin pieni huone, ja sinne voimme sijoittaa pesukoneen.
+3000000244	Tarvitsemme wc:seen maton, verhot, suihkuverhon ja peilin.
+3000000245	Luulen, että minulla on suihkuverho ja peili vanhasta huoneistostani.
+3000000246	Hänellä on myös hylly hammastahnaa ja hammasharjoja varten.
+3000000247	Sitten olemme valmiita myös wc:n kanssa.
+3000000248	Mielestäni se on 20 neliömetriä.
+3000000249	Vietämme siellä joka tapauksessa hyvin vähän aikaa.
+3000000250	20 neliömetriä on jo paljon.
+3000000251	Tarvitsemme ruokapöydän tuoleilla, sohvan ja nojatuoleja, sohvapöydän ja television konsolilla.
+3000000252	Tällä hetkellä en enää pysty ajattelemaan kunnolla.
+3000000253	Mitä haluat hankkia tai tuoda?
+3000000254	Tuo asuntoomme ruokapöytä ja tuolit.
+3000000255	No mitä jos tuon sohvan ja sohvapöydän.
+3000000256	Saan meille myös kirjahyllyn, maton ja verhot.
+3000000257	Jos haluat, voin kyllä tuoda verhot.
+3000000258	Tuon verhot, omistan muutamia hienoja verhoja.
+3000000259	Vuokranantaja ei halua meidän ripustavan mitään seinälle.
+3000000260	No sehän on varsin erikoista?
+3000000261	Hän ei halua reikien olevan seinässä myöhemmin.
+3000000262	Meidän on vielä mietittävä eteistä.
+3000000263	Luulen, että tarvitsemme vain vaatekaapin ja peilin.
+3000000264	Minusta vuokra on erittäin halpa.
+3000000265	Todellako, se on aika hintava minulle?
+3000000266	Meille se sopii hyvin, käymme molemmat töissä.
+3000000267	Kyllä, hinta on liian kallis.
+3000000268	Olen edelleen opiskelija enkä edes työskentele.
+3000000269	Mutta eihän sinun tarvitse maksaa koko vuokraa yksin.
+3000000270	Maksat vain 300 euroa kuussa.
+3000000271	Huoneistossa on kaksi pientä huonetta ja yksi iso huone.
+3000000272	Onko sinulla paljon vaatteita ja paljon huonekaluja?
+3000000273	Kyllä, minulla on paljon huonekaluja ja paljon kirjoja.
+3000000274	Leenalla on enemmän huonekaluja kuin sinulla.
+3000000275	Sopiiko, että laitat hänen julisteensa huoneeseesi?
+3000000276	Joo ei se ole mikään este.
+3000000277	Tärkeintä, että saan suuren huoneen.
+3000000278	Jokainen saa yhden talon avaimen.
+3000000279	Minusta on hyvä, että puhut edelleen.
+3000000280	Okei, meidän on vielä luotava siivoussuunnitelma.
+3000000281	Ehdotan, että jokainen siivoaa oman huoneensa.
+3000000282	Entä miten haluamme tehdä sen muiden huoneiden kanssa?
+3000000283	Voimme siivota vuorotellen joka viikko.
+3000000284	Yksi hoitaa esimerkiksi keittiön ja niin edelleen.
+3000000285	Joka toinen päivä pyyhimme ja imuroimme.
+3000000286	Jokaisen tulisi lisäksi silittää vaatteensa.
+3000000287	Kyllä, kannatetaan, ja keittiön, olohuoneen ja kylpyhuoneen on aina oltava puhtaita.
+3000000288	Haluaisin todella hoitaa keittiön siivouksen.
+3000000289	Haluan kokata joka perjantai, lauantai ja sunnuntai.
+3000000290	Yksi valmistaa aamiaisen, toinen lounaan ja viimeinen illallisen.
+3000000291	Leena haluaa imuroida ja pyyhkiä pölyt.
+3000000292	Olemme jo selventäneet hommien jakoa.
+3000000293	Oletteko samaa mieltä kuin juuri kirjoitin?
+3000000294	Ei, en pidä siitä, koska joskus en ole kotona.
+3000000295	Voit kokata maanantaina ja tiistaina.
+3000000296	Leena voi kokata keskiviikkona ja torstaina.
+3000000297	Valmistan ruokaa vain kolmena päivänä.
+3000000298	Annan opiskelijoille pianotunteja joka torstai, olisiko se sinulle ongelma?
+3000000299	Minulla on muutama kysymys tästä.
+3000000300	Kuten tiedätte, olen lääketieteen opiskelija ja minulla on pian ensimmäinen tentti.

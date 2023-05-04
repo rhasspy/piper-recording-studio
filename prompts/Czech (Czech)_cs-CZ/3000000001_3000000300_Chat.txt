@@ -1,0 +1,300 @@
+3000000001	Kdy se chystáte na výlet?
+3000000002	Dobrý den, to zní dobře.
+3000000003	Ano to by bylo skvělé.
+3000000004	Měl bych se tě na to zeptat.
+3000000005	Dobře, to mi vyhovuje.
+3000000006	V té době mám také prázdniny.
+3000000007	Už jste si rezervovali letenky?
+3000000008	Ne, zatím jsme nic nezarezervovali.
+3000000009	Pak to musíme vymyslet jinak.
+3000000010	To je jedno, každý si plánuje sám.
+3000000011	Rád bych trávil dovolenou jinak.
+3000000012	To by byl dobrý kompromis.
+3000000013	Jelikož letíme jen za dva týdny, pravděpodobně to udělám příští týden.
+3000000014	Sbalím si kufr za týden.
+3000000015	Nerozuměl jsem správně vaší otázce.
+3000000016	Mohu vám doporučit dobrý opalovací krém.
+3000000017	Myslel jsem, že si tam půjčíme auto.
+3000000018	Půjčme si karavan, můžeme pak vzít i kamarády.
+3000000019	Bylo velmi teplo, takže nesmíme zapomenout na vodu.
+3000000020	Ano, samozřejmě, musíme o tom přemýšlet.
+3000000021	Je třeba si něco takového rezervovat dopředu?
+3000000022	Ne, můžete tam jít spontánně.
+3000000023	Udělali jsme to i minulý rok.
+3000000024	Pak nemáte nic předem naplánováno.
+3000000025	Můžete také plavat s delfíny.
+3000000026	Ano, samozřejmě můžeme jít také na pláž.
+3000000027	Můj přítel tam už jednou byl.
+3000000028	Ale víc mně zajímá kultura.
+3000000029	Ano, myslím, že to je skvělý nápad.
+3000000030	Navštěvují se muzea a řada dalších míst.
+3000000031	Předem říkám, že nemohou přijet více než dva lidé.
+3000000032	Ale Lenka také přijede, byli bychom tak tři.
+3000000033	Ne, bohužel je to příliš mnoho.
+3000000034	Ne, Lenku nemůžete jen tak vyloučit.
+3000000035	Potom vás bohužel musím vyloučit oba.
+3000000036	Je mi líto, ale nedá se nic dělat.
+3000000037	Buď půjdeme všichni, nebo nikdo.
+3000000038	Nech mě jít do hotelu.
+3000000039	Protože je to moje nejlepší kamarádka.
+3000000040	Ne, nemám s ní žádný problém.
+3000000041	Je vítána a budeme rádi, když se přidá.
+3000000042	Kde jsi byl loni v létě?
+3000000043	Ano, to bylo jen na krátkou dobu.
+3000000044	Chtěl jsem vyzkoušet něco nového.
+3000000045	Byl jsem tam čtyři měsíce.
+3000000046	Protože jsem šéf, můžu si naplánovat dovolenou dle libosti.
+3000000047	Ano, upřímně, nad tím stále přemýšlím.
+3000000048	Možná tam poletím v zimě.
+3000000049	Ne, nelíbí se mi to na jaře.
+3000000050	Ve kterém městě jsi byl?
+3000000051	Jak to že jsi na to zapomněl?
+3000000052	Je to tam opravdu skvělé.
+3000000053	Také jsem tam chtěl jít před dvěma lety.
+3000000054	Bohužel ne všichni byli vpuštěni dovnitř.
+3000000055	Je k tomu potřeba speciální pozvánka.
+3000000056	Ano, dostal jsem pozvání od Margot Robbie.
+3000000057	Vezmu si oblečení a tuniku.
+3000000058	Nebral bych si kalhoty po kolena.
+3000000059	Spontánně jsem na něco přišel.
+3000000060	Můžeme létat s mým vrtulníkem.
+3000000061	Pak nemusíme platit za letenky.
+3000000062	Myslím, že je to skvělý nápad.
+3000000063	To je můj vlastní vrtulník.
+3000000064	Nemusím za to nic platit.
+3000000065	Můj otec je pilot a rychle nás tam dostane.
+3000000066	Ale nechci letět s tvým otcem.
+3000000067	Vždy se ptá na moje známky.
+3000000068	Ne, píšu svou poslední práci.
+3000000069	Chci si vzít dovolenou, abych si mohl odpočinout.
+3000000070	Pokud je vám méně než 18 let, budete se muset zeptat svých rodičů, jestli máte dovoleno s námi jet.
+3000000071	Takže drahý, slyšel jsi někdy o univerzitě?
+3000000072	Jsem právě v posledním ročníku.
+3000000073	Na to jsem úplně zapomněl.
+3000000074	Pak to pravděpodobně není žádný problém.
+3000000075	Jen buď rád, že tě vezmu s sebou.
+3000000076	Nechci se s tebou hádat.
+3000000077	Můžu za tebe všechno zaplatit.
+3000000078	Ale také chci být s Lenkou.
+3000000079	Neměli byste jít s námi.
+3000000080	Pokud nesouhlasíte, můžete letět sami.
+3000000081	Ale celou dobu zůstaneš vedle mě.
+3000000082	Já a Lenka poletíme a vy nám všechno zaplatíte.
+3000000083	Už jsem ti to předtím říkal.
+3000000084	Mohu jet na dovolenou kamkoli.
+3000000085	Může se tam plavat v moři?
+3000000086	Proč by to nemělo být povoleno?
+3000000087	Někde můžou být nebezpečné proudy.
+3000000088	Chci vidět i slavné muzeum.
+3000000089	Obávám se, že tam budou vodě medúzy.
+3000000090	Prostě máte příliš mnoho předsudků.
+3000000091	Nerozšířili jste si své obzory.
+3000000092	Pravděpodobně jste se museli smát.
+3000000093	Ne, to bylo příliš mělké.
+3000000094	Myslel jsem, že je to pravda.
+3000000095	Mám ti říct, kde jsem byl?
+3000000096	Je možné, že vás neviděl.
+3000000097	V tuto chvíli může být zaneprázdněn.
+3000000098	Potom pravděpodobně měl důležitý rozhovor.
+3000000099	I tam je možné vše.
+3000000100	Musíte mě to také naučit.
+3000000101	Co jste jedli v Austrálii?
+3000000102	Na večeři jsem měl těstoviny.
+3000000103	To samé můžeme udělat společně v létě.
+3000000104	Ano, byl bych z toho velmi šťastný.
+3000000105	Ano, ale jen dva dny.
+3000000106	Lenka tam teď žije, že?
+3000000107	Ve skutečnosti to tak jednoduše funguje málokdy.
+3000000108	Ano, můžeme tam jet příští léto.
+3000000109	Ne, můj otec nemůže večer létat.
+3000000110	V létě je to nebezpečné.
+3000000111	Co si vezmete s sebou do letadla?
+3000000112	Nic, protože je to krátký výlet.
+3000000113	Vrátili bychom se za týden.
+3000000114	Stále nám zbývá hodně času.
+3000000115	Chceš, abych si vzal sebou polštář?
+3000000116	Ne, jsme bohatí a máme polštáře u sebe.
+3000000117	Ve vrtulníku jsou 4 místa.
+3000000118	Upřímně, už se na to necítím.
+3000000119	Ano, v Indonésii jsou i pralesy.
+3000000120	Turecko je také velmi zajímavé.
+3000000121	Ano, myslím si to také.
+3000000122	Je to tam velmi pěkné.
+3000000123	Také chci jet do Turecka.
+3000000124	Stěhuji se s Lenkou do bytu.
+3000000125	Jak vysoký je váš dům?
+3000000126	Chci se přestěhovat k tobě.
+3000000127	Je byt blízko naší univerzity?
+3000000128	Ne, je to 20 minut daleko, ale můžeme jet vlakem.
+3000000129	Ano, to je v pořádku.
+3000000130	Opravdu se na to těším.
+3000000131	Univerzita začne za tři týdny.
+3000000132	Chceme se nastěhovat za tři dny.
+3000000133	Je v pořádku, aby se k vám Lisa nastěhovala?
+3000000134	Ale musíte si vzít ledničku, protože oba lednici nemáme.
+3000000135	Udělejme si plán, kdo musí něco koupit nebo vzít s sebou.
+3000000136	Dobře, každý si kupuje svůj nábytek do své ložnice.
+3000000137	Nyní můžeme začít s kuchyní.
+3000000138	Takže mám ještě pět hrnců a rychlovarnou konvici.
+3000000139	Máme vůbec k dispozici kuchyň?
+3000000140	Kolik metrů čtverečních má kuchyně?
+3000000141	Kuchyně má 15 metrů čtverečních.
+3000000142	Je kuchyně v čistém stavu?
+3000000143	Ne, vůbec to není čisté.
+3000000144	Musíme tam dnes jít vyčistit kuchyň.
+3000000145	Ano, Lenka si také myslí, že je to dobré.
+3000000146	Musíme však začít co nejdříve.
+3000000147	Do kuchyně potřebujeme nejprve lednici, troubu, mikrovlnnou troubu a toustovač.
+3000000148	Stále mám rychlovarnou konvici a toustovač.
+3000000149	Vezmu si myčku a troubu.
+3000000150	Lenka nakupuje vše od příborů po talíře.
+3000000151	Myslím, že v bytě je myčka.
+3000000152	Ano, to by bylo dobré.
+3000000153	Kolikrát ti to musím říkat?
+3000000154	Chci to nabarvit na bílo.
+3000000155	Bylo by to pro vás v pořádku?
+3000000156	Navíc s Lenkou nemáme žádnou touhu.
+3000000157	Pak to nechám udělat a zaplatím za to.
+3000000158	Jo, chceme je také natřít bíle?
+3000000159	Mám alergii, s bylinami nemohu přijít do styku.
+3000000160	Ale můžeme to udělat na balkoně.
+3000000161	To by byla také možnost.
+3000000162	Můžete mi prosím odpovědět na mou předchozí otázku?
+3000000163	Můžeme také použít něco modrého.
+3000000164	Naše koupelna je velmi malá a není tam okno.
+3000000165	Ještě jsme neskončili s kuchyní.
+3000000166	Ale můžeme jíst v létě na balkóně a v zimě v obývacím pokoji.
+3000000167	Budeme o tom diskutovat později.
+3000000168	Může Lenka prosím sehnat závěsy?
+3000000169	Ano, její matka nám je ušije.
+3000000170	Ale chtěli bychom mít šedou záclonu.
+3000000171	Na toaletu potřebujeme koberec, závěsy, sprchový závěs a zrcadlo.
+3000000172	Myslím, že mám ze starého bytu sprchový závěs a zrcadlo.
+3000000173	Lenka si chce koupit záclonu.
+3000000174	Má také nádobku na zubní pastu a kartáčky na zuby.
+3000000175	Pak jsme také skončili s toaletou.
+3000000176	Nyní můžeme začít s obývacím pokojem.
+3000000177	Obývací pokoj je ve skutečnosti velmi velký.
+3000000178	Myslím, že má 20 metrů čtverečních.
+3000000179	Rozloha 20 metrů čtverečních je už hodně.
+3000000180	Potřebujeme jídelní stůl se židlemi, pohovkou a křesly, konferenční stolek a televizi s konzolou.
+3000000181	V tuto chvíli už mi to nemyslí.
+3000000182	Pokud chcete, můžu sehnat závěsy.
+3000000183	Nelíbí se mi tvůj vkus.
+3000000184	Nechce, aby ve zdi byly později díry.
+3000000185	Stále musíme myslet na chodbu.
+3000000186	Považuji to za velmi levné.
+3000000187	Proč jsi to neřekl předem?
+3000000188	Neříkej mi, že ti připadá cena příliš drahá.
+3000000189	Ano, cena je příliš drahá.
+3000000190	Jsem stále student a ani nepracuji.
+3000000191	Musíte však zaplatit pouze 100 dolarů.
+3000000192	Lenka má více nábytku než vy.
+3000000193	Je v pořádku, když si její plakáty umístíte do svého pokoje?
+3000000194	S tím bych neměl žádný problém.
+3000000195	Hlavní věc je, abych měl velkou místnost.
+3000000196	Každý dostane klíč od domu.
+3000000197	Dostanu ještě jeden od sklepa.
+3000000198	Myslím, že je dobré, že stále mluvíš.
+3000000199	Dobře a stále musíme vytvořit plán úklidu.
+3000000200	Navrhuji, aby si každý uklidil svůj vlastní pokoj.
+3000000201	Můžete to udělat, kdykoli chcete.
+3000000202	Jak to chceme udělat s ostatními místnostmi?
+3000000203	Můžeme se každý týden střídat.
+3000000204	Jsem pro to, aby služby byly vždy k dispozici.
+3000000205	Jeden má například kuchyňský servis a tak dále.
+3000000206	Každé dva dny otíráme a vysáváme.
+3000000207	Každý by měl mít svůj vlastní kufr.
+3000000208	Dobře, pak já si vezmu toaletu.
+3000000209	Jsem pro, aby to bylo rozděleno.
+3000000210	Jeden připravuje snídani, druhý oběd a poslední večeři.
+3000000211	Vysávat a otírat chce Lenka.
+3000000212	Služby jsme si již objasnili.
+3000000213	Vařit budete v pondělí a úterý.
+3000000214	Lenka může vařit ve středu a ve čtvrtek.
+3000000215	Jen tři dny vařím já.
+3000000216	Vezmu si ho do kuchyně.
+3000000217	Pro Lenku je to v pořádku.
+3000000218	Můžete mi prosím odpovědět na moji otázku?
+3000000219	Chceme umístit jídelní stůl do kuchyně?
+3000000220	Aby nás to nenudilo, mohli jsme si později v kuchyni vysadit bylinky.
+3000000221	Je to pro vás problém?
+3000000222	Udělejme to tak, že si rezervujete všechno jen pro vás a já půjdu ke své přítelkyni.
+3000000223	Pak to uděláme tak, že stejně jako každý rok půjdeme společně na dovolenou.
+3000000224	Ano, než jsem si sbalil kufr, musel jsem už něco nakupovat.
+3000000225	Četl jsem, že to je blízko Ománu.
+3000000226	Je tam teplo nebo zima?
+3000000227	Musím si koupit opalovací krém.
+3000000228	Ne, v dlouhých kalhotách je příliš horko.
+3000000229	Když jsem tam byl, jezdil jsem na velbloudovi.
+3000000230	Také miluji kulturu a jídlo.
+3000000231	Proč tam nemůžeme jít všichni?
+3000000232	Protože moje sestřenice má poměrně malý byt a není příliš pohostinná.
+3000000233	Dobře, zaplatíme si levný hotel.
+3000000234	V Turecku jsem nikdy nebyl.
+3000000235	Slyšel jsem, že je tam velmi teplo.
+3000000236	Byl jsem v poušti, viděl jsem spoustu hvězd a bylo velmi chladno.
+3000000237	Ale myslel jsem, že žiješ v Japonsku.
+3000000238	Po dvou měsících máme opět dovolenou.
+3000000239	Můžete pracovat a být pravidelně na dovolené?
+3000000240	Kdy máte dovolenou v zimě?
+3000000241	Nevím, kdy a kde to chci utratit.
+3000000242	Na jaře můžete také letět do Austrálie.
+3000000243	Ale znám Rebeku Elmaloglou, pozve mě také.
+3000000244	Osobně je neznáte a musí to být australská hvězda.
+3000000245	Co si vezmete do Dubaje?
+3000000246	Vezmu si s sebou oblečení a toaletní potřeby.
+3000000247	Jaké oblečení si chcete vzít s sebou?
+3000000248	Ale já chci letět ráno.
+3000000249	Omlouvám se, ale jsem bohatší.
+3000000250	Říkáte, že jste bohatí, a pak říkáte, že nechcete na sebe upozorňovat.
+3000000251	Dobře, můžeme to naplánovat znovu, ale nemohu slíbit.
+3000000252	Nyní mi slíbíš, že nepřijedeš, jinak můžeš jet do Dubaje sám.
+3000000253	Slibuji ti, že s tebou nepůjdu, hlavní věc, nenechávej mě samotného.
+3000000254	S Lenkou dostaneme velký pokoj a vy můžete spát ve skříni.
+3000000255	Ale nezůstanete každý den vedle nás.
+3000000256	Ano, zůstanu vedle vás každý den, jinak se mnou nepůjdete.
+3000000257	Chtěl bych jít do muzea, na pláž a chci hodně jíst.
+3000000258	Znám Dubaj velmi dobře, i když jsem tam nikdy nebyl.
+3000000259	Jak to, že ho tak dobře znáš?
+3000000260	Udělal jsem si průzkum a také tam pracoval můj otec.
+3000000261	Může se chodit v kraťasech?
+3000000262	Dobrá, nebudeme tam nosit krátké kalhoty.
+3000000263	Není problém respektovat jejich pravidla, když mají tak dobré jídlo.
+3000000264	A mnoho zajímavostí jako třeba zpívající fontánu.
+3000000265	Neměli byste jet na dovolenou do Dubaje.
+3000000266	Jednou jsem viděl jedovatého pavouka, až jsem zapomněl dýchat.
+3000000267	Byl jsem také vevnitř v opeře.
+3000000268	Ano, rád bych věděl, kde jsi byl.
+3000000269	Ano, byl na svém chytrém telefonu?
+3000000270	Měl jsem učitele, který mě to naučil.
+3000000271	Byl jsi také v Sydney?
+3000000272	Skvělé, ale chci letět večer.
+3000000273	Mám si vzít něco k jídlu?
+3000000274	Kolik míst je ve vrtulníku?
+3000000275	Jak dlouho ten let vlastně trvá?
+3000000276	Asijská kuchyně je skvělá, mám ji moc rád.
+3000000277	Dobrý den, chtěli byste se k nám nastěhovat do bytu?
+3000000278	Byt má tři pokoje, dům by nám stačil.
+3000000279	Bude skvělé, když budeme žít společně se třemi dívkami.
+3000000280	Takže můžu přinést gauč a pračku.
+3000000281	Ano, ale udělejme to další den, když uklízíme celý dům.
+3000000282	Lenka mi právě řekla, že může přinést i televizi.
+3000000283	Kuchyně je stará a má hnědou barvu.
+3000000284	Stěny jsou žluté, můžeme je natřít společně.
+3000000285	Nevím, kolik metrů čtverečních má toaleta.
+3000000286	Hodila by se malá skříňka na naše nádobí?
+3000000287	V bytě je ještě jedna velmi malá místnost a tam můžeme umístit pračku.
+3000000288	Přinesu jídelní stůl se židlemi.
+3000000289	Přinesu pohovku a konferenční stolek.
+3000000290	Dostal jsem také polici, koberec a závěsy.
+3000000291	Pronajímatel nechce, abychom cokoli pověsili na zeď.
+3000000292	Myslím, že potřebujeme jen šatník a zrcadlo.
+3000000293	K dispozici jsou dva malé pokoje a velký pokoj.
+3000000294	Máte mnoho oblečení a spoustu nábytku?
+3000000295	Ano, mám hodně nábytku a spoustu knih.
+3000000296	Ano, jsem pro a kuchyň, obývací pokoj a koupelna musí být vždy čisté.
+3000000297	Chtěl bych si vzít kuchyňskou službu.
+3000000298	Pokud chcete, mohu také vařit každý pátek, sobotu a neděli.
+3000000299	Souhlasíte s tím, co jsem právě napsal?
+3000000300	Ne, to se mi nelíbí, protože někdy nejsem doma.

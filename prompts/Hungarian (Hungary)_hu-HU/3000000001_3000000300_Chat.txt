@@ -1,0 +1,300 @@
+3000000001	Szia, Katival Görögországba repülünk az ünnepek alatt.
+3000000002	Szia, ez nagyon jól hangzik, én is mehetek?
+3000000003	Igen, nagyszerű lenne, mikor érsz rá?
+3000000004	Még utána kell néznem a naptárban.
+3000000005	Két hét múlva nekem is jó, a jegyeket már lefoglaltátok?
+3000000006	Még nem, szeretnél most foglalni?
+3000000007	Most még nem, majd fizetés után.
+3000000008	Tizedike után kapok fizetést, majd hívlak.
+3000000009	Szólok az egyik barátnőmnek, aki ott él.
+3000000010	Nagyon kedves tőled, köszönöm.
+3000000011	A barátnőm idegenvezető, a tengerparton bérel egy lakást.
+3000000012	Gyakran nyaralunk együtt a barátnőmmel.
+3000000013	Ez jó megoldás, örülök, hogy egyetértünk.
+3000000014	Mikor pakolod be a bőröndödet?
+3000000015	Mivel csak két hét múlva repülünk, valószínűleg az indulás napján.
+3000000016	Holnap délelőtt mehetek veled vásárolni?
+3000000017	Úgy érted, az ünnepek alatt utazzunk a tengerpartra?
+3000000018	Igen, úgy értem az ünnepek alatt.
+3000000019	Igen, mielőtt bepakolok veszek egy új bőröndöt.
+3000000020	Járt Görögországban az elmúlt tíz évben?
+3000000021	Alig várom az ünnepeket.
+3000000022	Meleg vagy hideg van ott?
+3000000023	Hallottam, hogy az átlaghőmérséklet hasonló az itthonihoz.
+3000000024	Holnap naptejet kell vennem.
+3000000025	Tudok egy jó fényvédőt tudok ajánlani.
+3000000026	Azt hittem, ott fogunk autót bérelni.
+3000000027	De van jogosítványa?
+3000000028	Te is csak nadrágot veszel?
+3000000029	Arra gondoltam, hogy veszek egy szalmakalapot.
+3000000030	Imádom a sivatagokat, ezért utazom ebbe az országba.
+3000000031	A sivatagi táj lélegzetelállító, nekünk is el kellene menni.
+3000000032	Az anyukámat a tavalyi nyaraláson megharapta egy teve.
+3000000033	Tíz éve történt, de minden pillanatra emlékszem.
+3000000034	Nagyon meleg volt, ezért nem szabad elfelejtenünk a vizet vinni.
+3000000035	Igen, persze, figyelni fogok.
+3000000036	Nem, foglalás nélkül is mehetsz.
+3000000037	Spontán módon jobban szeretek utazni.
+3000000038	Ti is a tengerpartra akartok menni?
+3000000039	Igen, holnap ötkor találkozunk a mozi előtt.
+3000000040	El akarod végezni az idegenvezető tanfolyamot?
+3000000041	Mennyi ideig tart egy utazás?
+3000000042	Egy idegen városban először múzeumba megyek.
+3000000043	Az unokatestvéremnél töltök három napot.
+3000000044	Előre szólok, hogy legfeljebb két ember jöhet.
+3000000045	De Péter is jön, hárman leszünk a csónakban.
+3000000046	Nem, sajnos ez túl sok, valaki nem jöhet velünk.
+3000000047	Nem korrekt, hogy az utolsó pillanatban mondod le az utat.
+3000000048	Sajnálom, de nem tehetek semmit.
+3000000049	Miért nem mehetünk oda?
+3000000050	Jól van, akkor megyünk egy olcsó hotelbe.
+3000000051	Akkor keressünk olcsó szállodákat.
+3000000052	Mert ő a legjobb barátom.
+3000000053	Nincs vele semmi problémám, jöjjön ha akar.
+3000000054	Törökországban voltál tavaly nyáron?
+3000000055	Nem, még sosem jártam vidámparkban, mert nem érdekel.
+3000000056	Egyetértek veled, ott túl meleg van nyáron.
+3000000057	Engem is lenyűgöznek a sivatagi éjszakák.
+3000000058	Igen, mondd el, milyen volt ott?
+3000000059	A sivatagban voltam, sok csillagot láttam, és nagyon hideg volt.
+3000000060	Nem csináltam semmi érdekeset.
+3000000061	Te nem Németországban élsz?
+3000000062	De, Németországban élek.
+3000000063	Én is Németországban élek.
+3000000064	Ugyan, nem gondoltam komolyan.
+3000000065	Ne haragudj, túl hangos a zene, nem hallottam.
+3000000066	Valami újat akartam kipróbálni, ezért utaztam oda.
+3000000067	Mióta élsz idegenvezetőként abban az országban?
+3000000068	Négy hónapot töltöttem ott, nagyon jó időszak volt.
+3000000069	Két hónap után végre szabadságra tudok menni.
+3000000070	Rendszeresen tudsz menni nyaralni?
+3000000071	Egy idő után, mikor végül visszajutottak, szerettek volna hazamenni.
+3000000072	Télen szoktál szabadságra menni?
+3000000073	Nem tudom, hogy ezen a télen mit fogok csinálni.
+3000000074	Te mikor utazol a szüleidhez?
+3000000075	Őszintén szólva még mindig gondolkodom.
+3000000076	Tavasszal Ausztráliába is repülhet, én is ott voltam tavasszal.
+3000000077	Nem, tavasszal nem szeretek utazni.
+3000000078	Én is abban a házban vettem ki szobát.
+3000000079	Ez nagyszerű, és én voltam a házban.
+3000000080	Én is oda akartam menni két évvel ezelőtt.
+3000000081	Sajnos nem mindegyikük választotta ezt az útvonalat.
+3000000082	Nem hiszem, szerintem ez nem jó ötlet.
+3000000083	Nem lehet bejutni oda, bocsánat.
+3000000084	Ő is meghívott benneteket, de aztán lemondta.
+3000000085	Nem ismerem őt személyesen.
+3000000086	Nagyon bosszant ez a beszélgetés, zárjuk le a témát.
+3000000087	Mit viszel magaddal Törökországba?
+3000000088	Mikor indulsz a repülőtérre?
+3000000089	Milyen ruhákat akarsz magaddal vinni?
+3000000090	Nem vennék magamnak hosszú szoknyát, mert rövid a lábam.
+3000000091	Akkor nem kell fizetnünk a repülőjegyekért, ha ma éjfélig lefoglalod a szállást.
+3000000092	Szerintem ez az ötlet nagyszerű.
+3000000093	Az apám pilóta, és gyorsan oda tud juttatni minket.
+3000000094	De nem akarok apáddal repülni.
+3000000095	Ez sokkal korábban történt, egy másik nyaraláson.
+3000000096	Befejezem a mai munkát, és indulhatunk.
+3000000097	Akkor meg kell kérdezned a szüleidet, hogy jöhetsz-e velünk.
+3000000098	Hallottál már erről az egyetemről?
+3000000099	Akkor valószínűleg nem probléma.
+3000000100	25 éves vagyok, elég idős az utazáshoz.
+3000000101	Apám azt mondja, 18:00 körül repülünk.
+3000000102	De én reggel akarok repülni.
+3000000103	Ez nem lehetséges, örülj neki, hogy magammal viszlek.
+3000000104	Számomra ez lényegtelen, rád bízom a döntést.
+3000000105	Te magad mondtad, hogy gazdagabb vagyok.
+3000000106	Azt mondtad, hogy nem akarod felhívni magadra a figyelmet.
+3000000107	Nem akarok vitatkozni veled, mit akarsz még ott csinálni?
+3000000108	Sokat akarok a hotelben pihenni és úszni.
+3000000109	Igen, én fizetek mindent, ez nem probléma.
+3000000110	De ne jöjjön velünk, találj ki valami kifogást.
+3000000111	Oké, újra beszélhetünk róla, de nem ígérek semmit.
+3000000112	Most ígérte meg nekem, hogy jól fog viselkedni.
+3000000113	Megígérem, hogy nem kereslek többet téged.
+3000000114	Kati  és én megkapjuk a nagy szobát, és te a hálószobában aludhatsz.
+3000000115	Erre nem tudok mit mondani.
+3000000116	Ha nem akarsz velem jönni, menj egyedül.
+3000000117	Rendben, de mindig mellettem maradsz.
+3000000118	De nem maradsz mellettünk minden nap.
+3000000119	Igen, minden nap veled leszek.
+3000000120	Nem, te itthon maradsz és locsolod a virágokat.
+3000000121	Szeretnék menni a strandra, gyere velem.
+3000000122	Négy óra várakozás után elindult újból a beszállítás.
+3000000123	Mégis hogyan ismerheted ilyen jól a várost?
+3000000124	Gyerekkoromban apám sokat utazott.
+3000000125	Lehet viselni rövidnadrágot az utcán?
+3000000126	Ezt már az elején elmondtam.
+3000000127	Igen, ebben a városban két napot fogunk pihenni.
+3000000128	Ez egy gyönyörű kastély, nézzük meg a parkját is.
+3000000129	Nem kell elfogadnom semmit.
+3000000130	Ne menjünk a Balatonra nyaralni.
+3000000131	Miért ne, bárhová elmehetek nyaralni.
+3000000132	Miért ne mehetnénk ebben az évben a déli partra?
+3000000133	Bár az avokádót gyakran zöldségként emlegetik, valójában gyümölcsről beszélünk.
+3000000134	Nem, ezt nem tudtam, mert sohasem mondtad.
+3000000135	Aggódom, hogy nem tudok ebben az évben pihenni.
+3000000136	Csak túl sok csomagod van.
+3000000137	Kengurukat és tevét is láttam.
+3000000138	Ez egy jó ötlet, hozol nekem is?
+3000000139	Majdnem meghaltam egyszer, mert beleestem a vízbe.
+3000000140	Akkor nem megyünk a Balatonra.
+3000000141	Ez most nagyon vicces volt.
+3000000142	Nem, ez túl drága volt, azt hittem, olcsóbb a déli part.
+3000000143	Nem hiszem, hogy találsz ettől jobb megoldást.
+3000000144	Igen, szeretném tudni, hol voltál.
+3000000145	A Balatonon voltam, ott találkoztam Péterrel.
+3000000146	Igen, ő Laci ikertestvére, nem ismertem korábban.
+3000000147	Lehet, hogy nem látott téged.
+3000000148	Igen, a mobilommal csináltam ezt a videót.
+3000000149	Akkor valószínűleg fontos beszélgetést folytatott.
+3000000150	A déli parton tanultam úszni.
+3000000151	Ezt most nem hiszem el, magyarázd el kérlek.
+3000000152	Volt egy tanárom, aki ezt tanította nekem.
+3000000153	Nekem is meg kell tanítanod ezt.
+3000000154	Tésztát ettem vacsorára salátával.
+3000000155	Igen, nagyon örülnék neki.
+3000000156	Ez nagyon érdekes, elmeséled hogyan történt?
+3000000157	Te is voltál már hónapokig külföldön?
+3000000158	Nagyon szórakoztató volt, de túl sok pénzt költöttem.
+3000000159	Én is oda akarok menni.
+3000000160	Szeretnék veled utazni oda.
+3000000161	Tényleg el akarok menni, nem bánom, hogy mennyibe kerül.
+3000000162	Még sosem jártam Indonéziában, menjünk el jövőre!
+3000000163	Nagyszerű, de én még nem csomagoltam ki.
+3000000164	Nem, nyáron veszélyes hegyet mászni.
+3000000165	Mit viszel magaddal a repülésre?
+3000000166	Semmit, mert ez egy rövid út, egy hét múlva visszajövünk.
+3000000167	Szerintem ez rossz ötlet, mert nem tudsz úszni.
+3000000168	Nem, köszönöm, már mindent előkészítettem.
+3000000169	Vettem vizet is, mert meleg lesz az autóban.
+3000000170	Szerinted vigyek valamit enni?
+3000000171	Még sok időnk van hátra.
+3000000172	Azt akarod, hogy vigyek magammal egy párnát?
+3000000173	Négy szabad hely van a helikopterben, mindenki befér.
+3000000174	Mennyi ideig tart a repülés?
+3000000175	Az időeltolódás öt óra hossza.
+3000000176	Félek a magasságtól, nem merek felmenni a hegyre.
+3000000177	Akkor nem jöhetsz, mert pánikba fogsz esni.
+3000000178	De igen, szükségem van egy maszkra.
+3000000179	Mindent megkapsz, amit akarsz.
+3000000180	Este nyolckor kezdődik a film.
+3000000181	Nem, nem tudom, hogy Péter meddig dolgozik.
+3000000182	Van ott uszoda, vagy gőzfürdő?
+3000000183	Igen, vannak tavak és hegyek, nagyon jól fogod érezni magadat.
+3000000184	Szeretem a mediterrán országokat.
+3000000185	Igen, én is így gondolom, de még soha nem voltam ott.
+3000000186	Akkor holnap este megbeszéljük a részleteket.
+3000000187	Ezt nem tudtam, de továbbra sem értek veled egyet.
+3000000188	Szia, szeretnél közösen bérelni velem egy lakást?
+3000000189	Hányadik emeleten van az albérleted?
+3000000190	A lakásban három háló és egy nappali van.
+3000000191	Közel van a lakás az egyetemünkhöz?
+3000000192	Nem, az 20 percre van, de mehetünk vonattal.
+3000000193	Igen, ez rendben van, már nagyon várom.
+3000000194	Jó lenne, ha hárman együtt laknánk.
+3000000195	Az egyetem három hét múlva kezdődik.
+3000000196	Három nap múlva be akarunk költözni.
+3000000197	Nem baj, ha Lisa egy szobában lesz veled?
+3000000198	De, a hűtőt el kell szállítani, mert elromlott.
+3000000199	Nekem sincs hűtőm, vegyünk egyet.
+3000000200	Hozatok egy kanapét és egy mosógépet.
+3000000201	Rendben, mindenki saját bútort vesz a hálószobájába.
+3000000202	Most már a konyhával is foglalkozhatunk.
+3000000203	Van napszemüveged és úszógumid?
+3000000204	Van egyáltalán konyha a lakásban?
+3000000205	Igen, persze, hogy van konyhánk.
+3000000206	Hány négyzetméteres a konyha?
+3000000207	Ma oda kell mennünk, hogy kitakarítsuk a konyhát.
+3000000208	Igen, amikor kitakarítjuk az egész házat.
+3000000209	Igen, Kati szerint ez is jó.
+3000000210	A konyhához először hűtőszekrényre, sütőre, mikrohullámú sütőre és kenyérpirítóra van szükségünk.
+3000000211	Azt hiszem, nincs szükségünk mikrohullámú sütőre.
+3000000212	Jól van, hagyjuk ezt egyelőre.
+3000000213	Nézd meg kérlek, hol van a mosógép.
+3000000214	Most mondtam, hogy tévét is hozhatsz.
+3000000215	Hányszor kell még elmondanom?
+3000000216	A konyha régi, és sötétre van festve.
+3000000217	Ez szörnyű, fehérre akarom színezni.
+3000000218	Ezen kívül Katival jövő héten szabadságon vagyunk.
+3000000219	Akkor megcsinálom, és kifizetem.
+3000000220	Ez is egy lehetőség lenne.
+3000000221	Igen, azt hiszem én is, használhatunk valami kéket is.
+3000000222	Igen, meg tudjuk csinálni.
+3000000223	A fürdőszobánk nagyon kicsi, és nincs ablaka.
+3000000224	Kérem, nyugodjon meg, azonnal intézkedünk.
+3000000225	Még nem végeztünk a konyhával.
+3000000226	De nyáron az erkélyen és télen a nappaliban étkezhetünk.
+3000000227	Ezt később fogjuk megvitatni.
+3000000228	Milyen színű függönyt szeretnél a konyhába?
+3000000229	Szerintem a falnak mindig fehérnek kell lennie.
+3000000230	Úgy értem, hogy sötétszürke.
+3000000231	Ez is működik, ezzel nincs probléma.
+3000000232	Nem tudom, hány négyzetméteres a konyha.
+3000000233	Elférne ide egy kis szekrény az edényeinknek?
+3000000234	Ez nagyon kicsi, vegyem meg a szekrényt?
+3000000235	Igen, kérem, vegyen egy szekrényt.
+3000000236	Rakjuk oda a mosógépet.
+3000000237	Függönyökre, zuhanyfüggönyre és tükörre van szükségünk.
+3000000238	Azt hiszem, van egy zuhanyfüggönyöm és egy tükör a régi lakásomból.
+3000000239	Holnap veszek egy szőnyeget.
+3000000240	Kati függönyt akar venni.
+3000000241	Most már a nappalival folytathatjuk.
+3000000242	A nappali valójában nagyon nagy.
+3000000243	Szükségünk van egy étkezőasztalra székekkel, kanapéval és fotelekkel, dohányzóasztallal és televízióval konzollal.
+3000000244	Miért van szükségünk konzolra?
+3000000245	Jelenleg nem tudok több pénzt költeni.
+3000000246	Szóval kifutottunk a költségvetésből, ugye?
+3000000247	Az étkezőasztalt székekkel szállítják.
+3000000248	Hozom a kanapét és a dohányzóasztalt.
+3000000249	Kapok egy könyvespolcot, szőnyeget és függönyöket is.
+3000000250	Ha akarod, felszerelem neked a tükröket.
+3000000251	Megértem a döntésedet, nem kell aggódnod.
+3000000252	A főbérlő nem engedi, hogy felszereljünk valamit a falra.
+3000000253	Nem értem a döntésedet.
+3000000254	Nem akarja, hogy később lyukak legyenek a falon.
+3000000255	Mi nem csinálunk ilyet, ne aggódj.
+3000000256	Azt hiszem, csak egy szekrényre és egy tükörre van szükségünk.
+3000000257	Mennyibe kerül a lakbér?
+3000000258	A lakbér nagyon kedvező.
+3000000259	Miért nem mondtad már az elején?
+3000000260	Ne mondd, hogy túl drága a lakbér.
+3000000261	Még mindig diák vagyok, és most nincsen munkám.
+3000000262	Elégedett vagyok a bérleti díjjal.
+3000000263	Rendben, ez akkor olcsó.
+3000000264	Két kis szoba és egy nagy szoba van.
+3000000265	Hogyan osszuk fel a szobákat?
+3000000266	Sok ruhája és sok bútora van?
+3000000267	Igen, sok bútorom és könyvem van.
+3000000268	Katának több bútora van, mint neked.
+3000000269	Ezzel nem lenne problémám.
+3000000270	Mindenki kap egy lakáskulcsot.
+3000000271	Szerintem kérjünk egy pótkulcsot is.
+3000000272	Igen, igazad van, de hogy akarjuk ezt csinálni?
+3000000273	Azt javaslom, mindenki takarítsa ki a saját szobáját.
+3000000274	Minden héten több étel közül váltogathatunk.
+3000000275	Két naponta törölgetjük és porszívózzuk.
+3000000276	Igen, egyetértek, mindenkinek vasalnia kellene a ruháját.
+3000000277	Igen, a konyhának mindig tisztának kell lennie.
+3000000278	Szeretném átvenni a konyhai szolgáltatást.
+3000000279	Hogyan szeretnéd megfőzni a halat?
+3000000280	Ha akarod, én is főzök minden pénteken, szombaton és vasárnap.
+3000000281	Az egyik elkészíti a reggelit, a másik az ebédet és az utolsó vacsorát.
+3000000282	Már tisztáztuk a kérdést Péterrel.
+3000000283	Egyetért azzal, amit írtam?
+3000000284	Nem, ez nem tetszik, mert néha nem vagyok otthon.
+3000000285	Ez egy jó érv, akkor inkább később fizetek.
+3000000286	Hétfőn és kedden fogsz főzni.
+3000000287	Igen, ebben egyetértek veled.
+3000000288	Csak három napig érvényes az ajánlatom.
+3000000289	Van más is, amit szeretnél megbeszélni?
+3000000290	Minden csütörtökön zongoraleckéket adok, ez gondot okozna neked?
+3000000291	Van néhány kérdésem ezzel kapcsolatban, hová akarod tenni a zongorát?
+3000000292	Engem nagyon zavar a zongora.
+3000000293	Hamarosan megkezdődik az első vizsgám.
+3000000294	Nagyon sajnálom, de pénzre van szükségem.
+3000000295	Hálás lennék, ha ezt a dolgot megoldanád hétvégén.
+3000000296	Nem, a szomszédaink ezzel nem értenének egyet.
+3000000297	Kompromisszumot találni nem egyszerű.
+3000000298	Hétvégén tanulhatsz a könyvtárban.
+3000000299	Rendben, holnap majd meglátom.
+3000000300	Nem hiszem, hogy igazad lenne.

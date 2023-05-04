@@ -1,0 +1,300 @@
+4000000001	Dobrý deň, rád by som spomenul, že tento chat môže byť zaznamenaný pre interný tréningový proces.
+4000000002	Vitajte, ďakujeme vám za návštevu našich webových stránok.
+4000000003	Aký máte problém?
+4000000004	Stretli ste sa ešte s ďalšími problémami okrem zmienených v predchádzajúcej sťažnosti?
+4000000005	Zdravím, radi by sme vás informovali, že tento chat je monitorovaný kvôli zabezpečeniu kvality.
+4000000006	Budem potrebovať vaše kontaktné údaje na aktualizáciu ďalšieho procesu.
+4000000007	Ak chcete, môžem vám zaslať detaily.
+4000000008	Ahoj, môžem vám vysvetliť kroky inštalácie zmieneného produktu.
+4000000009	Pomôže nám to lepšie vám poradiť.
+4000000010	Môžeme v tom pokračovať?
+4000000011	Možno budeme musieť identifikovať problém, ktorý máte.
+4000000012	Ospravedlňujeme sa za nepríjemnosti, s ktorými ste sa stretli.
+4000000013	Je nám to veľmi ľúto, ale ponuka dopravy zdarma pre konkrétny región skončila pred týždňom.
+4000000014	Úprimne sa ospravedlňujeme, ale v súčasnosti neposkytujeme prepravu na tento kontinent.
+4000000015	Toto nie je správne oddelenie, ktoré by mohlo poskytnúť dostatočné informácie o tomto probléme.
+4000000016	Je to pre vás v poriadku, ak vás presmerujem na správne oddelenie?
+4000000017	Potrvá to iba chvíľku, kým si prejdem podrobnosti, môžete počkať na linke?
+4000000018	Je nám to veľmi ľúto, ale všetci naši agenti sú momentálne obsadení.
+4000000019	Ak vydržíte niekoľko minút, ozveme sa vám čo najskôr ako bude možné.
+4000000020	Ďakujeme za vašu trpezlivosť za zdržanie a ospravedlňujeme sa za čas strávený čakaním.
+4000000021	Pred pokračovaním potrebujeme ďalšie informácie.
+4000000022	Skôr ako budeme pokračovať, chcela by som vás požiadať o poskytnutie ďalších informácií.
+4000000023	Za účelom spracovania objednávky uveďte číslo svojej kreditnej karty, dátum expirácie a bezpečnostný kód.
+4000000024	Môžem vás požiadať, aby ste zadali poštové smerovacie číslo súčasnej adresy?
+4000000025	Môžem vás požiadať, aby ste mi poskytli číslo účtu uvedené na vygenerovanej faktúre?
+4000000026	Prosím vás, poskytnite mi váš dátum narodenia a rodné číslo.
+4000000027	Chceli by ste vedieť viac?
+4000000028	Poviem vám, prečo je to dobrá investícia, ak si produkt kúpite hneď.
+4000000029	Chápeme, že príliš veľa možností môže byť mätúcich.
+4000000030	Môžem vám vysvetliť naše propagačné ponuky?
+4000000031	Ďakujeme vám za využitie služby nášho chatu.
+4000000032	Ďakujeme, že ste navštívili našu webovú stránku.
+4000000033	Sme radi, že vás môžeme privítať.
+4000000034	Sme radi, že sa nám podarilo váš problém vyriešiť za kratší čas.
+4000000035	Môžete tak urobiť kliknutím na odkaz.
+4000000036	Ak máte akékoľvek ďalšie problémy s objednávkou, dajte nám vedieť.
+4000000037	Vaša objednávka by mala doraziť do konca týždňa.
+4000000038	Keď už diskutujeme o vašom zakúpenom produkte, máme niekoľko skvelých podobných produktov, ktoré by sa hodili k vašej objednávke.
+4000000039	Nemali by ste náhodou záujem vidieť podobné produkty v ponuke?
+4000000040	Ďakujeme, že ste využili našu 24-hodinovú asistenčnú službu.
+4000000041	Sme radi, že sme vám mohli pomôcť a že ste našli presne to, čo ste hľadali.
+4000000042	Prosím chvíľu počkajte, kým potvrdím túto objednávku u svojho nadriadeného.
+4000000043	Nevadí vám chvíľu počkať, kým skontrolujem transakciu objednávky?
+4000000044	Avšak, dovoľte mi, aby som si tieto informácie znova skontroloval so svojím nadriadeným.
+4000000045	Dajte mi chvíľu na kontrolu.
+4000000046	Vyriešenie vašej transakcie môže trvať niekoľko dní.
+4000000047	Môžem vám zavolať späť do hodiny?
+4000000048	Je nám to ľúto, ale na našich serveroch máme technické problémy, ktoré nám bránia v dokončení vašej objednávky.
+4000000049	Pozrime sa, čo môžeme urobiť, aby sme veci napravili.
+4000000050	Je mi skutočne ľúto, že ste neboli spokojní s nákupom.
+4000000051	Ako by ste chceli zaplatiť za túto objednávku?
+4000000052	Mám podrobnosti k vašej objednávke.
+4000000053	Je nám to ľúto, ale momentálne nie je možné vyhovieť vašej žiadosti.
+4000000054	Zdá sa, že produkt momentálne nemáme na sklade.
+4000000055	Momentálne máme k dispozícii iba tovar uvedený online alebo v obchodoch.
+4000000056	Zdá sa, že túto funkciu momentálne nemáme.
+4000000057	Je mi to veľmi ľúto, dovoľte mi zaslať správnu veľkosť a farbu, ktorú ste si pôvodne objednali.
+4000000058	Pošlem vám e-mailom pokyny na vrátenie produktu, ktoré sme omylom odoslali.
+4000000059	Prajete si vrátiť alebo vymeniť ho?
+4000000060	Ak pošlete fotografiu poškodeného produktu, pošleme vám nový.
+4000000061	Dovoľte mi, aby som skontroloval vašu objednávku, aby sme videli, čo sa stalo, a necháme vám poslať náhradný tovar.
+4000000062	Zdá sa, že vaša objednávka bola odoslaná na nesprávnu adresu.
+4000000063	Chystáme sa poslať ďalší balík na vašu adresu, ktorý by mal by doraziť v priebehu budúceho týždňa.
+4000000064	Môžete mi povedať číslo vašej objednávky?
+4000000065	Skontroloval som vami poskytnuté informácie a overil som, že váš produkt je v záručnej dobe.
+4000000066	Zašlite tento e-mail nášmu servisnému stredisku a požiadajte ho o ďalšiu pomoc s kontaktnými údajmi uvedenými nižšie.
+4000000067	Svoje preferencie môžete kedykoľvek zmeniť v našich pravidlách ochrany súkromia na tomto webe.
+4000000068	Ak ste nenašli svoju pôvodnú účtenku, kópia tohto e-mailu bude slúžiť ako dôkaz toho, že sme schválili produkt na odoslanie do servisného strediska.
+4000000069	Neváhajte a pridajte ďalšie podrobnosti o probléme, ktorý máte s produktom.
+4000000070	Keď budete produkt odosielať do servisného strediska, nezabudnite ho správne zabaliť a zahrňte doň kópiu tohto e-mailu.
+4000000071	Ak nás potrebujete v súvislosti s týmto prípadom kontaktovať, odpovedzte priamo na tento e-mail alebo nám zavolajte a uveďte referenčné číslo: 04428404.
+4000000072	Upozorňujeme, že na iniciovanie vrátenia platby potrebujeme doklad o odmietnutí nástupu na letisku.
+4000000073	Tešíme sa na vašu odpoveď.
+4000000074	Špeciálne pri nových klientoch je platba vopred nevyhnutným pravidlom.
+4000000075	Ak máte ďalšie otázky alebo obavy, zostávam vám k dispozícii.
+4000000076	Upozorňujeme, že čakáme na vašu odpoveď, kým budeme môcť pokračovať v riešení vášho prípadu.
+4000000077	Ak od vás nedostaneme odpoveď, označíme tento prípad ako uzavretý do 5 dní.
+4000000078	Ak bol váš problém medzitým vyriešený, oznámte nám to prosím.
+4000000079	Musím platiť za kampane vopred?
+4000000080	Vážená pani Nováková, som rád, že Vás zaujali služby Osobného poradcu na telefóne.
+4000000081	Táto služba Vás nebude nič stáť a môžete ju využívať z pohodlia Vášho domova.
+4000000082	Touto cestou a spôsobom chránime čas a financie Vás aj Vašich najbližších.
+4000000083	Ja ako Váš osobný poradca Vám poskytnem dlhodobú a komplexnú starostlivosť o Vaše financie.
+4000000084	Som tu na to, aby som Vás informoval o novinkách a zmenách, ktoré sa Vás týkajú a tiež riešil všetky Vaše požiadavky v súvislosti s Vašou bankou.
+4000000085	Keďže nám záleží na Vašej spokojnosti, takouto formou by sme chceli naštartovať našu dlhodobú spoluprácu.
+4000000086	Žiadame vás, aby ste si ponechali všetky predchádzajúce správy.
+4000000087	Cenu letenky garantuje dopravca iba v rámci dňa vytvorenia rezervácie.
+4000000088	V prípade, že budete požadovať akúkoľvek zmenu vo Vami vytvorenej rezervácii, obráťte sa na náš Zákaznícky servis.
+4000000089	Ďakujeme za rezerváciu a využitie našich služieb.
+4000000090	Vami vybraný termín je záväzný a je ho možné zmeniť alebo zrušiť najneskôr 48 hodín pred termínom.
+4000000091	Všetky naše materiály majú vynikajúcu kvalitu pre všetky vaše potreby balenia.
+4000000092	Ak zistíte, že pri balení potrebujete viac bublinkovej fólie, pásky alebo škatúľ, jednoducho sa prihláste do svojho účtu a požiadajte o doručenie ďalších.
+4000000093	V obidvoch prípadoch nám, prosím, oznámte, či budete svoje materiály vracať do 7 dní od prijatia a pred dátumom vyzdvihnutia.
+4000000094	Kontaktujeme vás, aby sme vás informovali, že vaša platba za program zlyhala.
+4000000095	Pretože záležitosť stále nie je vyrovnaná a jej výška bola nesplatená minimálne 24 hodín, prinútilo nás to problém prešetriť.
+4000000096	V súlade s našimi obchodnými podmienkami bol na vaše konto účtovaný poplatok 10 libier, ktorý slúži na zohľadnenie času stráveného vyšetrovaním problému.
+4000000097	Áno, ďakujeme vám za uskutočnenie platby.
+4000000098	Ako môžem získať pozície v blokoch?
+4000000099	Sme radi, keď sa náš obchod ľuďom páči a sú spokojní s našimi službami.
+4000000100	Vážime si všetkých zákazníkov a posielame im darčekové predmety.
+4000000101	Preto kladieme maximálny dôraz na každú objednávku, aby bola vybavená a odoslaná v čo najkratšom čase.
+4000000102	Musím garantovať celoročný rozpočet?
+4000000103	V prípade, že Vám zmena času nevyhovuje, máte nárok na zrušenie letenky s tým, že Vám vrátime plnú sumu.
+4000000104	V prípade, že Vám táto zmena nevyhovuje, ponúkame Vám dve možnosti.
+4000000105	V prípade záujmu o iný dátum odletu, ponúkame Vám zmenu dátumu úplne zadarmo.
+4000000106	Dosiahnite komerčnú dokonalosť prostredníctvom optimalizácie cien a predaja.
+4000000107	Dĺžka projektu závisí od rôznych faktorov, ako sú rozpočet a veľkosť organizácie.
+4000000108	Každý projekt je navrhnutý tak, aby vyhovoval konkrétnym potrebám našich klientov.
+4000000109	Rozsah je určený hlavne na základe obchodných cieľov a výziev.
+4000000110	Fázu ohodnotenia zvyčajne odporúčame na začiatku každého projektu.
+4000000111	Cestovanie eliminujeme v maximálnej možnej miere, aby sme ušetrili čas a peniaze.
+4000000112	Naše riešenia sú flexibilné a sú určené na riešenie nespočetných problémov.
+4000000113	Pani, skontrolujte svoj e-mail a taktiež telefón kvôli verifikačnému kódu.
+4000000114	Dobre teda, iba sa teraz odhlásim z vášho počítača.
+4000000115	Ak sa prihlásite k odberu nášho bulletinu, môžete získať zľavu ďalších pätnásť percent.
+4000000116	Môžeme vám poskytnúť školenie v cene ďalších sto päťdesiat libier.
+4000000117	Dobrý deň, iba voláme, aby sme sa uistili, že vaše spotrebiče fungujú v poriadku.
+4000000118	Boli by ste ochotní zúčastniť sa rýchleho prieskumu o vašom nákupe?
+4000000119	Prehrievanie je bežným problémom tohto modelu a vzťahuje sa naň záruka.
+4000000120	Tento výrobok predávame iba tým zákazníkom, ktorí majú príslušný certifikát.
+4000000121	Ak sa váš počítač prehrieva, možno si budete chcieť zaobstarať vodné chladenie.
+4000000122	Volám vám, aby som vás informoval, že vaša objednávka bola oneskorená.
+4000000123	Batérie vydržia iba niekoľko rokov, takže to vyzerá, že ich budete musieť vymeniť.
+4000000124	Inštalácia môže byť komplikovaná, ale máme technikov, ktorí to môžu urobiť za vás.
+4000000125	Keďže sa jedná o starý model, môžeme ho nahradiť novšou verziou.
+4000000126	Návrh bude obsahovať vyhlásenie a rozsah práce, ceny, časové harmonogramy a odporúčania.
+4000000127	Množstevné zľavy sa pohybujú medzi desiatimi až tridsiatimi percentami našich typických konzultačných sadzieb.
+4000000128	Fáza návrhu sa používa na návrh tréningového programu od začiatku až do konca.
+4000000129	Prevádzková nadbytočnosť znižuje riziko v prípade, že kľúčová osoba odíde alebo bude nedostupná.
+4000000130	Zlepšenie obchodných procesov je možné dosiahnuť iba pomocou presnej dokumentácie procesov.
+4000000131	Vaša organizačná stratégia je rozhodujúca pre určenie toho, ako bude vaše podnikanie fungovať.
+4000000132	Môžeme vyvinúť, distribuovať a poskytnúť komplexné správy pre akýkoľvek typ prieskumu medzi zamestnancami.
+4000000133	Ste si istý, že ho chcete otvoriť?
+4000000134	Ak sa chcete vyhnúť čakaniu, naša online podpora je vždy rýchlejšia.
+4000000135	Ak chcete, počas opravy si môžete prenajať jedno z našich automobilov.
+4000000136	Ak prichádzate so svojím autom, musíte si vopred dohodnúť stretnutie.
+4000000137	Oprava zvyčajne trvá niekoľko dní a nie viac ako týždeň.
+4000000138	Je v poriadku, ak vás na chvíľu podržím na linke?
+4000000139	Prajete si, aby som vám pomohol s riešením problémov po telefóne?
+4000000140	Pošlite nám to späť a my sa o to postaráme.
+4000000141	Náš hlavný tréner je ešte v triede, ale čoskoro príde.
+4000000142	Lekcie pre deti sú za rovnakú cenu ako lekcie pre dospelých.
+4000000143	Väčšinou tu mávame dosť veľa domácich úloh, takže kurz nie je pre každého.
+4000000144	Môžete si priniesť vlastné vybavenie alebo použiť to, čo máme k dispozícii.
+4000000145	Môžete si tiež najať lektora, pretože je to zvyčajne lacnejšie.
+4000000146	Škola organizuje každý víkend aktivity, ktoré študentom pomáhajú precvičiť si to, čo sa naučili.
+4000000147	Väčšina našich študentov je z Ázie, ale niektorých máme aj z Európy.
+4000000148	Učitelia pokročilých kurzov väčšinou nenechajú študentov hovoriť v materinskom jazyku.
+4000000149	Existuje aj niekoľko intenzívnych kurzov, ktoré môžete absolvovať cez víkendy.
+4000000150	Živé vystúpenie na konci kurzu je jednou z požiadaviek na získanie certifikátu.
+4000000151	Môžete sa zúčastniť tridsaťminútovej hodiny zadarmo a zistiť, či sa vám páči.
+4000000152	Dokončenie zvyčajne trvá štyri roky, ale niektorí to zvládnu aj za menej.
+4000000153	Máme veľa možností pre ľudí, ktorí chcú študovať na čiastočný úväzok.
+4000000154	Môžete sa pozrieť na webovú stránku a zistiť, aké štipendiá ponúkame.
+4000000155	V prípade malých kampaní, ak si klient objednáva jednorázovo kampaň, nie je to potrebné.
+4000000156	Vyučovanie trvá štyridsaťpäť minút a medzi lekciami sú pätnásťminútové prestávky.
+4000000157	Zvyčajne odporúčame absolvovať dve hodiny každý týždeň, ale môžete absolvovať aj viac.
+4000000158	Uistite sa, že ho máte v chladničke, potom vydrží dlhšie.
+4000000159	Ak je to pre niekoho darček, môžem to pre vás zabaliť.
+4000000160	Táto konzola je limitovanou edíciou, takže ju už nebudeme mať na sklade.
+4000000161	Účtujeme poplatky za tašky, takže si zákazníci zvyčajne prinesú svoje vlastné.
+4000000162	Iba tento víkend získate pri kúpe dvoch produktov jeden zadarmo.
+4000000163	Všetky tieto džemy sú miestne vyrobené, takže chuť je veľmi čerstvá.
+4000000164	Ak si ich kúpite teraz, nebudete platiť žiaden úrok na budúci rok.
+4000000165	Máme ich aj vo väčšej veľkosti, ak vám tieto nesadnú.
+4000000166	Máme zopár modelov tohto druhu.
+4000000167	Dovoľte mi skontrolovať našu webovú stránku a zistiť, či máme tento model.
+4000000168	Zavolajte ma, ak budete potrebovať, aby som priniesol niečo iné.
+4000000169	Chcete si produkt vyzdvihnúť v obchode alebo vám ho pošleme?
+4000000170	Jedná sa o šesťjadrový procesor, takže je vynikajúci na strih videa.
+4000000171	Ak sa venujete iba príležitostnému hraniu, balíček A vám bude stačiť.
+4000000172	Za ďalších dvadsať libier si môžete pripočítať ďalšie tri roky záruky.
+4000000173	Všetky druhy ovocia a zeleniny v tejto časti sú ekologické.
+4000000174	V prípade, ak chce klient dosiahnuť celoročne výhodnejšiu cenu reklamy, je nutné garantovať rozpočet na ročnej báze.
+4000000175	Potraviny, ktoré tu pripravujeme, sú vyrobené z geneticky nemodifikovaných prísad.
+4000000176	Zdá sa, že tovar je úplne vypredaný, ale dovoľte mi ešte skontrolovať zadný sklad.
+4000000177	Tento výrobok môžem osobne odporučiť, naši zákazníci s ním majú výborné skúsenosti.
+4000000178	Už ste premýšľali, že by ste si kúpili čisto elektrické vozidlo?
+4000000179	Jej nevhodný výber a spôsob nosenia môže deťom spôsobiť zdravotné ťažkosti.
+4000000180	Môžeme tiež prenajať ktorékoľvek z týchto automobilov, ktoré tu vidíte.
+4000000181	Na všetky modely z roku 2020 je zahrnutá päťročná záruka.
+4000000182	Všetky naše ojazdené vozidlá sú umiestnené tu na pravej strane.
+4000000183	Mám ako reklamná agentúra nárok na agentúrnu províziu?
+4000000184	Ak sú servery momentálne zaneprázdnené, môže dôjsť k miernemu oneskoreniu.
+4000000185	Možno budete musieť znova načítať stránku, aby ste mohli vidieť nové aktualizácie.
+4000000186	Stlačte tlačidlo obnovenia a skontrolujte, či sa vám formulár zobrazí.
+4000000187	Skontrolujte, či v sieti nie sú pripojené žiadne ďalšie zariadenia.
+4000000188	Vyplňte správu o poruche a naši technici sa vám čoskoro ozvú.
+4000000189	V sieti máte povolené tri rôzne zariadenia bez ďalších poplatkov.
+4000000190	Môžete zaplatiť mesačný poplatok za predplatné alebo iba jednorazovú platbu.
+4000000191	Pri pripájaní k sieti skontrolujte, či nie sú zapnuté žiadne bezpečnostné programy firewall.
+4000000192	Ak uvidíte červené svetlo, mali by ste program okamžite zatvoriť.
+4000000193	Ak sa program nestiahol do dvoch minút, reštartujte zariadenie prosím.
+4000000194	Pre túto aktualizáciu budete musieť uvoľniť veľa miesta na disku.
+4000000195	Je lepšie pre klienta objednávať reklamu napriamo alebo cez mediálnu agentúru?
+4000000196	Pred uložením akýchkoľvek zmien je potrebné aktualizovať váš systém, prosím.
+4000000197	Môže to byť preto, že vo vašom zariadení došlo miesto na úložisku.
+4000000198	Podľa toho, čo vidím, je ďalšie zariadenie pripojené k sieti.
+4000000199	Kto zabezpečuje prieskum sledovanosti?
+4000000200	Pomáhame našim zákazníkom prekonávať výzvy na rýchlo sa rozvíjajúcom trhu.
+4000000201	Sme popredným poskytovateľom profesionálnych dátových služieb v okolí New Yorku.
+4000000202	Náš tím odborníkov dokáže vyriešiť aj tie najnaliehavejšie problémy strojového vzdelávania.
+4000000203	Hlboké znalosti odvetvia a dôkladná analýza sú našimi silnými stránkami.
+4000000204	Tri roky po sebe sme boli ocenení spokojnosťou zákazníkov spoločnosťou.
+4000000205	Naši predchádzajúci zákazníci čerpali výhody zo zlepšenia obchodných procesov a zvýšenia ziskov.
+4000000206	Na riešenie vašich projektov vývoja softvéru používame rôzne techniky.
+4000000207	Za príplatok máme k dispozícii možnosť doručenia do druhého dňa.
+4000000208	Nákupy je potrebné uskutočniť do 21:00, ak chcete mať nárok na dvojdňovú prepravu.
+4000000209	Uistite sa, že máte pripravený občiansky preukaz pre všetky nákupy alkoholu.
+4000000210	Dnes a zajtra máme špeciálnu ponuku na nákup 2 produktov a 1 zdarma.
+4000000211	Darčekovú kartu môžete uplatniť na ktoromkoľvek z našich nákupných miest.
+4000000212	Všetky nákupy nad 10 dolárov sú zahrnuté do našich mesačných lotérií.
+4000000213	Na danom mieste nebolo možné nájsť žiadne položky na sklade.
+4000000214	Prajete si kúpiť mini verziu alebo verziu v plnej veľkosti?
+4000000215	Kupón nemôžete použiť na položky, ktoré sú už v zľave.
+4000000216	Chceli by ste si s týmto výrobkom zakúpiť aj záruku?
+4000000217	Zákaznícky servis je našou prioritou a všetky sťažnosti berieme vážne.
+4000000218	Aké sú obmedzenia v rámci televíznej reklamy?
+4000000219	Prihlás sa a získaj prístup k svojmu exkluzívnemu obsahu.
+4000000220	Obráťte sa na miestneho predajcu kvôli pravidlám týkajúcich sa jednotlivých obchodov.
+4000000221	Ak pošlete 50 alebo viac dolárov, máte nárok na zľavu 20 dolárov.
+4000000222	Ak nie ste spokojní, jednoducho nám zavolajte a my vám objednávku vrátime.
+4000000223	Máme záruku spokojnosti, takže ak nebudete spokojní s nákupom, môžete ho jednoducho vrátiť.
+4000000224	Chceli by ste si k svojej objednávke pridať nejaké ďalšie položky?
+4000000225	Náš priateľský personál ochotne odpovie, ak budete mať ešte nejaké otázky.
+4000000226	Tento produkt bol vydaný nedávno, takže sa pravdepodobne rýchlo vypredá.
+4000000227	Pri výstupe z parkovacej plošiny prosím preukážte potvrdenie parkovaciemu zariadeniu.
+4000000228	Ak by ste neboli spokojní s kurzom, ponúkame vám vrátenie celej sumy.
+4000000229	Nemáš ešte vytvorený účet?
+4000000230	Môžete sa porozprávať s poradcom, aby sme mohli čo najlepšie vyhovieť vašim potrebám.
+4000000231	Naše lekcie sú upravené tak, aby čo najlepšie vyhovovali potrebám každého študenta.
+4000000232	Existuje viac lekcií týždenne, takže plánovanie rozvrhu nie je problém.
+4000000233	Môžete si zvoliť jeden z dvoch doučovacích alebo skupinových kurzov.
+4000000234	Naše triedy sú zvyčajne v skupinách po 3 alebo 4 študentov.
+4000000235	Naše hodiny sú skôr založené na praktickom prístupe k výučbe.
+4000000236	Túto lekciu si môžete za príplatok pridať do svojho rozvrhu.
+4000000237	Na tento kurz existuje viac ako 30 denná záruka vrátenia peňazí.
+4000000238	Vzhľadom na súčasnú situáciu sa všetky naše kurzy konajú online.
+4000000239	Ponúkame niečo pre každého, či už sa jedná o predškoláka alebo mladého dospelého.
+4000000240	Ak chcete mať nárok na vrátenie peňazí, musíte preukázať doklad o kúpe.
+4000000241	Máte nárok na úplné vrátenie platby iba do 30 dní od nákupu.
+4000000242	Vezmite prosím tovar so sebou do obchodu spolu s účtenkou.
+4000000243	Keď prídete kvôli vráteniu objednávky, vezmite si so sebou všetky potvrdenky.
+4000000244	Z dôvodu chyby výrobcu vám môžeme položku bezplatne kedykoľvek vymeniť.
+4000000245	Každá položka má záruku vrátenia peňazí, takže vám ju radi vrátime.
+4000000246	Zameriavame sa na úspech našich klientov.
+4000000247	Skontroloval som tovar a táto položka je spôsobilá na vrátenie.
+4000000248	Položku môžete vziať do obchodu alebo nám ju poslať poštou.
+4000000249	Nie sme schopní ponúknuť vám vrátenie peňazí, ale môžeme vám poskytnúť kredit v obchode.
+4000000250	Nakoľko ste neodstránili bezpečnostnú pečať, záruka je ešte stále platná.
+4000000251	Chceli by ste vrátiť platbu za tovar alebo za kredit v obchode?
+4000000252	Odneste ho do servisného strediska, aby sa na neho mohol pozrieť náš technik.
+4000000253	Môžete nám ich poslať späť na vrátenie peňazí alebo vám môžeme poslať úplne nový tovar.
+4000000254	Nemôžeme vám ponúknuť úplnú náhradu, ale môžeme vám vrátiť 40% hotovosti.
+4000000255	Keď prídete za účelom vrátenia tovaru, nezabudnite mať pri sebe originálne balenie.
+4000000256	Je mi ľúto, ale táto položka bola v konečnom výpredaji.
+4000000257	Zašlite nám prosím túto položku späť do konca pracovného týždňa vo štvrtok.
+4000000258	Skôr ako budeme môcť akokoľvek pokačovať, musíte predložiť doklad o kúpe.
+4000000259	Ak narazíte na problémy znova, kontaktujte nás čo najskôr, prosím.
+4000000260	Zajtra môžeme vyslať nášho technika, aby sa prišiel pozrieť na váš problém.
+4000000261	Máte nárok na predĺženie záruky za ďalších 10 dolárov ročne.
+4000000262	Je mi ľúto, ale bez potvrdenia nemôžeme spracovať vrátenie tovaru.
+4000000263	Nemáte náhodou ešte nejaké iné telefónne číslo alebo emailovú adresu?
+4000000264	Cena štyridsať dolárov za rok za zlatý level členstva nie je taká zlá ponuka.
+4000000265	Chápem a môžem vás uistiť, že to nie je vaša chyba.
+4000000266	Je mi ľúto, ale tento problém bol spojený s účtami a fakturáciou.
+4000000267	Dobre, dovoľte mi, aby som to vyhľadal, dajte mi chvíľu.
+4000000268	V počítači ste neurobili žiadnu aktualizáciu, však?
+4000000269	Váš program sa môže automaticky aktivovať po dokončení všetkých inštalácií.
+4000000270	Odomkni si prístup ku kvalitnému obsahu, ktorý ťa inšpiruje a nakopne na každý deň.
+4000000271	Dostali sme vašu platbu, tu sú vaše informácie o doprave.
+4000000272	Cena reklamy kopíruje krivku sledovanosti počas dňa.
+4000000273	Realizuje predaj reklamného času, sponzorovanie relácií a telenákup.
+4000000274	Práve preto sa stalo, že vaša objednávka je trochu oneskorená.
+4000000275	Pane, som tu, aby som vám pomohol s aktiváciou softvéru.
+4000000276	Opäť vám chcem pripomenúť, že vám môžeme poskytnúť ďalšie rozšírenie.
+4000000277	Buduje cenovú politiku jednotlivých televíznych staníc a spolupracuje pri finančnom zabezpečovaní vlastnej televíznej tvorby.
+4000000278	Ak chcete pokračovať, kliknite na začiarkavacie políčko.
+4000000279	Dajte tomu chvíľu a malo by sa to vrátiť späť.
+4000000280	Prosím, všetko si starostlivo prečítajte, odpovedajte na všetky otázky a tiež pridajte požadované fotky.
+4000000281	Dobre, na vašej audio súprave nie je žiaden zvuk, rozumiem.
+4000000282	Vaša internetová sieť nie je vhodná pre vašu audio súpravu.
+4000000283	Pane, mohli by ste, prosím, znova potvrdiť vašu ôsmu skupinu?
+4000000284	Otvorte program, žiada od vás produktový kľúč?
+4000000285	Naše požiadavky na akvizíciu pomerne často zahŕňajú podrobnú dokumentáciu procesu.
+4000000286	Ak náš technik nie je schopný problém vyriešiť, pošleme vám náhradný diel.
+4000000287	Ak potrebujete pomoc s inštaláciou, zavolajte alebo navštívte naše webové stránky.
+4000000288	Zadajte tento kód na našom webe a získate zľavu ďalších pätnásť percent.
+4000000289	Chceli by sme sa vás spýtať na pár otázok o vašom produkte.
+4000000290	Odošlite ho do niektorého z našich servisných stredísk na opravu.
+4000000291	Doručujeme po celom svete, ale doba dodania je niekoľko týždňov.
+4000000292	Poskytuje starostlivosť, výživnú stravu a strechu nad hlavou novým prírastkom v útulku.
+4000000293	Súčasťou vášho predplatného je pístup ku cloudovému úložisku na jeden rok.
+4000000294	Je mi ľúto, že to počujem, ihneď vám pošleme náhradu.
+4000000295	Táto funkcia sa predáva ako doplnok, nie je zahrnutá v cene.
+4000000296	Voláme vám, aby sme vás informovali, že výrobok, ktorý ste si kúpili, sťahujeme z trhu.
+4000000297	Ak niekedy narazíte na akýkoľvek problém, môžete nám kedykoľvek zavolať.
+4000000298	Môžeme sa tiež postarať o montáž za ďalších päťdesiat päť libier.
+4000000299	Odporúčame ho kvôli údržbe priniesť do obchodu každé tri roky.
+4000000300	Opravoval váš produkt jeden z našich kvalifikovaných technikov už predtým?

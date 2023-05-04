@@ -1,0 +1,300 @@
+3000000001	Saya masih didalam perjalanan, sebentar lagi sampai.
+3000000002	Selamat pagi, selamat memulai hari baru.
+3000000003	Tadi aku ke bank dan bertemu dengan Pak Ismail.
+3000000004	Tunggu saja, jalanan masih macet.
+3000000005	Sebentar lagi hujan, ingat simpan baju.
+3000000006	Aku keluar sebentar, mau ketemu temen.
+3000000007	Mah, tolong ambilin buku dong, ketinggalan di rak sepatu.
+3000000008	Katanya dia lebih suka makan jagung.
+3000000009	Kalo kamu pergi, aku juga pergi.
+3000000010	Kirain kamu juga mau datang.
+3000000011	Dia sampe nunggu di depan rumah.
+3000000012	Inget pake masker yah, jangan sampe lupa.
+3000000013	Baju yang tante beliin pas kok.
+3000000014	Aku dapet pekerjaan lagi untuk besok.
+3000000015	Kayaknya sih uda peraturannya, ga bisa diubah lagi.
+3000000016	Coba aja kalo ketemu dia besok.
+3000000017	Memang tampaknya ga meyakinkan, tapi gue bakal tetep coba.
+3000000018	Kan kita pernah makan kari disana.
+3000000019	Gue salam sama dia, tapi kayaknya dia beneran lupa.
+3000000020	Topinya uda gue taruh ditas lu, jangan lupa keluarin.
+3000000021	Gue baca buku tiap malem, pagi gue kerja.
+3000000022	Pekerjaan udah selesai, saatnya rebahan.
+3000000023	Hari ini rencananya masak ayam woku pake nasi.
+3000000024	Enak banget lu masi ada yang beliin hadiah.
+3000000025	Ada banyak cara untuk membasmi kutu putih.
+3000000026	Tapi katamu ga ada rahasia diantara kita.
+3000000027	Kamu pernah berjanji demikian.
+3000000028	Jangan lupa kalo dia nyokap lo.
+3000000029	Selamat sore pak, untuk hasil revisinya sudah saya letakkan dimeja bapak.
+3000000030	Bentar lagi sampe, tolong bukain pagar ya.
+3000000031	Kalau buah yang uda dipotong malah lebih murah bu.
+3000000032	Ga nyangka aja kalo lo berani ngomong gitu ke dia.
+3000000033	Dari kecil emang uda jago matematika dia mah.
+3000000034	Masa dia beli ayam ga minta dipotongin.
+3000000035	Kita semua gatau seberapa lama dia bisa bertahan dengan kondisi seperti sekarang ini.
+3000000036	Mendingan kamu beli keran baru aja, terus diganti.
+3000000037	Tolong keluarin sosis dari kulkas ya, mau digoreng nanti.
+3000000038	Besok aku pulang, tapi kayaknya harus ke hotel dulu.
+3000000039	Rumahku masi berantakan, ga bisa langsung ditempati.
+3000000040	Bab tiga sudah saya lihat, revisinya oke.
+3000000041	Coba booking restoran untuk acara besok.
+3000000042	Aku ga suka bicara lewat chat, keluar aja lah yuk.
+3000000043	Cuaca hari ini dingin banget, mana mau belanja lagi.
+3000000044	Ya udah gue bilang ke dia kalo lu ga bisa ya.
+3000000045	Baperan banget, padahal kan gw ga lagi omongin itu.
+3000000046	Uda keterima paketnya, bukunya lengkap, rapi.
+3000000047	Belum gue coba, besok aja sekalian.
+3000000048	Baik pak, saya akan sampaikan ke atasan.
+3000000049	Tolong kirimin lagu tadi ke gue dong.
+3000000050	Selamat yah uda menang lomba, semoga kedepannya makin banyak menang.
+3000000051	Mau pesan aqua dua galon ya bang.
+3000000052	Kalo kamu emang ga mau kerjasama sama dia, ya bilang aja.
+3000000053	Uang listrik bulan ini mahal banget ma.
+3000000054	Jangan dilihat luarnya aja, coba ditepuk dan dengerin suaranya.
+3000000055	Mata gue asik mau tutup, ngantuk banget Jo.
+3000000056	Gue uda pakein air panas, tapi tetep aja baunya ga ilang.
+3000000057	Kalo gue sih mending tetep jadi pelukis yah.
+3000000058	Daripada lu pusing gitu, mending langsung aja nanya ke dia.
+3000000059	Kalo memang uda mau rusak, tolong jangan dikasi lagi.
+3000000060	Baik bu, saya akan mengkomunikasikannya ke atasan saya.
+3000000061	Kalau boleh saya mau ikut bu.
+3000000062	Habis diaduk, tambahin aja mentega cair.
+3000000063	Buruan dong, ntar terlambat lagi.
+3000000064	Besok pagi kumpul didekat lapangan basket ya teman- teman.
+3000000065	Jangan sampe lupa minum obat ya.
+3000000066	Iya dong, lagian ngapain bawa buku kesana.
+3000000067	Oh, jadi dia bakal kembali lagi kesini.
+3000000068	Gue uda kasi ke temen gue ya, sisanya lu usahain sendiri.
+3000000069	Besok boleh pinjemin gua laptop lu ga?
+3000000070	Gue juga lagi ketat nih belakangan, ga bisa bantu, maaf ya.
+3000000071	Panggilin Grab buat aku dong tolong, ga ada pulsa.
+3000000072	Astaga, kamu seharusnya langsung ke dokter.
+3000000073	Dia kan memang sering datang, tapi gue ga suka.
+3000000074	Katanya tahun depan bakal masuk murid baru.
+3000000075	Siska, lu kalo baca chat ini langsung telepon gue ya.
+3000000076	Kalo boleh, besok sekalian bawa aja.
+3000000077	Coba kirimin ke aku lirik lagu tadi dong.
+3000000078	Pantesan dia kayak ga mau balesin chat gue gitu.
+3000000079	Kamu ke belakang kamar aku, disana ada satu gudang kecil.
+3000000080	Loh, kok dia yang ngatur-ngatur kita?
+3000000081	Tergantung ci, kalau beli banyak lebih murah.
+3000000082	Pilih aja dulu, nanti saya totalkan harganya.
+3000000083	Buset dah, ga ada yang dateng, lu buruan.
+3000000084	Saya lebih suka makan durian, beli yang durian saja.
+3000000085	Gue pengen cerita ke lu, tapi jangan kasi tau orang lain ya.
+3000000086	Sabtu pagi jam tujuh, lu boleh ikut juga kalo mau.
+3000000087	Turut berduka ya pak, semoga bapak dan keluarga diberi kekuatan.
+3000000088	Jus jeruk ga pake gula bu, tapi jus nanas ada.
+3000000089	Tolong kirimin alamat pak Ismat ya, sekarang juga.
+3000000090	Setiap pagi ya ke kantor aja kerjaannya, abis ga ada aktivitas lain.
+3000000091	Gue mau jual sepeda gue, coba bantu tanyain mana tau ada yang mau.
+3000000092	Hidup dia jadi penuh drama sejak itu, hahaha.
+3000000093	Aku udah beli balon sama stiker, sisanya kalian tentuin aja.
+3000000094	Rapat uda dimulai, lu kemana aja?
+3000000095	Buku matematika uda gue jual.
+3000000096	Jangan, nanti dia bakalan ke toilet juga.
+3000000097	Maaf kalo uda buat lu kecewa, gw ga akan ulangi lagi.
+3000000098	Bang, tolong ambilin paket gue dong di depan pintu.
+3000000099	Bu Arni, paketnya saya letakkan di depan rumah ya.
+3000000100	Dia uda keluar rumah sakit, tapi masih lemas.
+3000000101	Sampai disana kasih tahu saja nomor mejanya ke orangnya.
+3000000102	Kalau ngomong, yang jelas, jangan suka cuekin orang.
+3000000103	Jangan berangsur angsur dalam kesedihan dong pak.
+3000000104	Asri banget tempat itu, kamu harus pergi.
+3000000105	Mewarnai bisa bantu anak ibu untuk lebih relaks.
+3000000106	Aduh, kamu kemana aja, ditelepon ga diangkat.
+3000000107	Ya jangan terlalu dipikirin juga, ntar juga lewat.
+3000000108	Gue uda pengen kesana sejak beberapa abad lalu.
+3000000109	Lu kira gue ga tau pemikiran busuk lu?
+3000000110	Perut gue mules banget dari kemaren, gue ga ikutan dulu deh.
+3000000111	Padahal gw uda serius banget, pengen sama dia.
+3000000112	Kotaknya saya satuin aja ya bu, nanti ibu tinggal keluarin.
+3000000113	Grabnya sudah boleh dipesan ya, Bu.
+3000000114	Terima kasih untuk kebaikan ibu selama saya bekerja.
+3000000115	Terus dia jeritin tukang becaknya dong.
+3000000116	Relate banget ke lu yang suka bikin ngakak.
+3000000117	Kalo temenan yang biasa aja, jangan sampai norak banget gitu.
+3000000118	Gini nih kalo dia yang mimpin.
+3000000119	Wahyu, boleh bantuin gua gak?
+3000000120	Emang dia tau lu tamatan luar negeri?
+3000000121	Udah yah, gue pengen istirahat bentar.
+3000000122	Gue pulang duluan guys, udah dijemput, maaf.
+3000000123	Son, hadiah buat dosen udah dia kasih belom?
+3000000124	Hama yang satu ini memiliki tubuh yang licin yang sulit dibasmi.
+3000000125	Proposal sudah saya setujui, silahkan ambil sendiri dikantor.
+3000000126	Kok lu ga pernah kasih tau gue?
+3000000127	Ya ga mau lah, emang kenapa gue harus pergi?
+3000000128	Percuma aja, lu ngomong sama dia cuma habisin waktu.
+3000000129	Iya, maksud saya semasa liburan ini.
+3000000130	Saya biasanya mengajar les 2 kali seminggu bu.
+3000000131	Mohon pengertiannya, pembayaran sedang diproses.
+3000000132	Peduli amat, mau sampe putus hubungan juga aku ga peduli.
+3000000133	Kamu ada kenalan tukang renovasi ga?
+3000000134	Hai Ronnie, kamu sekarang dimana posisinya?
+3000000135	Aku ga merasa ada masalah jadi guru.
+3000000136	Yang, besok aku mau ke Jakarta.
+3000000137	Kenapa mau ke Jakarta lagi?
+3000000138	Jadi malam ini jam berapa pulang?
+3000000139	Belum tau, mungkin agak malaman sedikit.
+3000000140	Ya udah kalau begitu, cepat siapin kerjaannya.
+3000000141	Malam ini aku pengen makan masakan kamu.
+3000000142	Oke, aku masakin udang sama sup.
+3000000143	Makasih banyak, see you later.
+3000000144	Selamat hari Senin, selamat memulai hari baru.
+3000000145	Kemarin kamu beli berapa set itu peralatan make upnya?
+3000000146	Aku beli tiga, satu yang lipstik semua sama dua set yang campuran. 
+3000000147	Nggak kok, yang lipstik semua isi lima cuma enam ratusan ribu.
+3000000148	Kalo aku beli satuannya sama kamu gimana?
+3000000149	Emang kamu mau warna apa?
+3000000150	Hewan ini juga mengeluarkan cairan lengket yang dapat menimbulkan jamur gelaga pada tanaman.
+3000000151	Boleh deh, nanti tak fotoin kamu pilih aja.
+3000000152	Tunggu dulu, satunya berapa jadinya?
+3000000153	Yah harga aku beli dibagi lima aja.
+3000000154	Tapi ntar kamu ga ada untungnya dong jadinya?
+3000000155	Ya gapapa, yang penting sama-sama seneng aja.
+3000000156	Ya uda deh, makasi banyak ya, inget fotoin.
+3000000157	Oke sip bossku, kalo lupa ntar kamu ingetin aja lagi.
+3000000158	Manatau lo masi pengen hangout sama temen, ntar ketangkep berabe.
+3000000159	Ga bakalan lah, gue pengen merem aja dikamar.
+3000000160	Ya boleh sih, asalkan kerjaan kelar semua.
+3000000161	Gue sih uda kelar dari kemaren, cuma perlu dicek ulang.
+3000000162	Kalo uda selesai nanti send ke gue dulu yah, kalo ga nanti bersalahan lagi.
+3000000163	Sejak kapan gue pernah ga send ke lu.
+3000000164	Ingetin aja, jangan sampe lupa.
+3000000165	Tenang aja, gak akan lupa gue mah.
+3000000166	Sekolah jadi ngajar tatap muka?
+3000000167	Ga tau tuh, ga ada kabar, kayaknya ga jadi deh.
+3000000168	Huh, baguslah kalo ga jadi, takut gue.
+3000000169	Takut apaan, kita kan guru, harus jadi pahlawan loh.
+3000000170	Kalo kena ke murid juga tanggung jawab ortunya lah.
+3000000171	Uda ga usah dipikirin, ga jadi juga kok tatap mukanya.
+3000000172	Iya, lebih lega sedikit hati gue.
+3000000173	Untungnya sih mereka taat, kalo ga, udah deh ga tau.
+3000000174	Tolong jemput adik kamu dong, dia mabuk lagi.
+3000000175	Kok ga jemput sendiri?
+3000000176	Aku lagi di kondangan, kalo bisa juga ga mau repotin kamu.
+3000000177	Oalah, ya uda aku jemput sekarang deh.
+3000000178	Iya oke, gue makan dulu.
+3000000179	Ben, lu liat kotak pensil gue ga tadi?
+3000000180	Ga ada dirumah gue.
+3000000181	Di sekolah lah Ben, gue kan duduk disamping lu tadi.
+3000000182	Iya, ga ketemu, padahal gue kira uda masukin ke tas.
+3000000183	Uda gue kosongin tasnya Ben, masih ga nemu.
+3000000184	Ya uda pinjem aja dulu sama kakak lu.
+3000000185	Iya nih, ga bisa kerjain tugas kalo ga ada pensil.
+3000000186	Uda ketemu Ben, dicuri kakakku kotak pensilnya.
+3000000187	Iya, tadi gue sempet mandi, terus diambil.
+3000000188	Yaelah, ya uda kerjain tugas sana, gue uda kelar.
+3000000189	Fisika aja Ben, kimia gue bisa, lu mau jawabannya?
+3000000190	Nih ya, Kimia gue kerjain dulu ntar gue fotoin.
+3000000191	Fisika lu tau rumusnya kan?
+3000000192	Ya iyalah, gue juga ga mau nyatet punya orang.
+3000000193	Uda selesai nih Ben kimia gue, nih fotonya.
+3000000194	Ini foto fisika gue, semoga membantu.
+3000000195	Pagi bu, perkenalkan nama saya Ratih.
+3000000196	Apakah ibu bersedia menjadi guru pembimbing saya?
+3000000197	Pagi Ratih, jurusan apa ya?
+3000000198	Baik bu, sampai nanti bu.
+3000000199	Sudah saya kasih susu kak, tapi belum habis.
+3000000200	Dari jam berapa bu susunya?
+3000000201	Waduh, sudah setengah jam lebih, dibuang aja bu, buat yang baru.
+3000000202	Sudah mau habis kak susunya.
+3000000203	Baik kak, matanya memang sudah lemas, sudah ngantuk.
+3000000204	Nanti adik tidur, ibu tolong cuci botolnya ya.
+3000000205	Baik kak, biasanya di steril 3 kali ya kak?
+3000000206	Iya, pertama sama kedua kali pakai air panas, ketiga masukin ke mesin.
+3000000207	Baik kak, saya tidurin adik dulu ya.
+3000000208	Adik sudah tidur bu?
+3000000209	Sudah kak, sudah cuci semua.
+3000000210	Kalau masih ada waktu tolong masukin bajunya ke mesin cuci ya.
+3000000211	Sudah saya masukin juga kak, mau dicuci?
+3000000212	Boleh deh, nanti saya kirimin cara pakenya.
+3000000213	Besok kita jadi nonton gak?
+3000000214	Gak tahu juga, yang horor gitu mungkin?
+3000000215	Sepertinya ga ada film horor belakangan ini.
+3000000216	Kalo yang fighting gitu ada gak?
+3000000217	Ada sih, tapi gue gak inget judulnya.
+3000000218	Nanti lihat aja pas uda sampe, gue mandi dulu.
+3000000219	Dari pagi belum mandi lu?
+3000000220	Iya, gue baru bangun jam 10 tadi.
+3000000221	Nanti gue yang pesen grab aja, sekalian jemput lu.
+3000000222	Gue sudah selesai mandi, lu jam berapa kesini?
+3000000223	Nih gue pesen ya grabnya?
+3000000224	Sudah sampai, keluar aja sekarang.
+3000000225	Jangan bilang belum jalan.
+3000000226	Berbicara mengenai kucing, tentu identik dengan kesan imut.
+3000000227	Namun hal ini berbanding terbalik dengan singa yang merupakan hewan buas.
+3000000228	Hal inilah yang membuat beberapa kebiasaan kucing mirip kelakuan singa.
+3000000229	Simak baik-baik penjelasan berikut ini.
+3000000230	Kerap menggosokan tubuh pada area yang menjadi teritorinya.
+3000000231	Kebiasaan inilah yang mungkin cukup familier dan kerap terlihat oleh orang-orang.
+3000000232	Lebih senang menempati tempat yang tinggi.
+3000000233	Kucing memiliki kebiasaan yang sedikit berbeda jika dibandingkan dengan hewan lainnya.
+3000000234	Kebiasaan tersebut adalah kerap berdiam diri di area yang tinggi.
+3000000235	Ini Penyebab dan Cara Mengatasinya.
+3000000236	Ada persamaan antara suara singa dan kucing.
+3000000237	Suara kucing seringkali dianggap sangat menggemaskan oleh kebanyakan orang.
+3000000238	Berbicara mengenai insting memburu tentunya singa sudah pasti memiliki hal tersebut.
+3000000239	Selain nasi, makaroni juga bisa menjadi sumber karbohidrat harian Bunda.
+3000000240	Itulah mengapa makaroni bisa menjadi makanan sehat untuk keluarga.
+3000000241	Bunda bisa memasaknya dengan cara dipanggang, goreng, rebus, maupun kukus.
+3000000242	Rebus makaroni setengah matang.
+3000000243	Campurkan mayones, gula, garam, dan lada.
+3000000244	Dinginkan selama 2 jam.
+3000000245	Sebelum disajikan, tambahkan keju parut.
+3000000246	Rebus makaroni setengah matang, tiriskan.
+3000000247	Siapkan loyang, olesi minyak zaitun, masukkan sebagian makaroni.
+3000000248	Masukkan brokoli kukus di atasnya, lalu tutupi dengan sisa makaroni.
+3000000249	Taburi keju di atasnya.
+3000000250	Siap disajikan dengan saus.
+3000000251	Didihkan air, masukkan wortel hingga setengah matang.
+3000000252	Masukkan bawang putih halus, kaldu, garam, gula, lada.
+3000000253	Masukkan makaroni, kacang polong, dan seledri
+3000000254	Rebus makaroni hingga matang.
+3000000255	Agar lebih praktis, masukkan larutan ini ke dalam botol semprot.
+3000000256	Masukkan telur dan daun bawang.
+3000000257	Tuangkan ke dalam loyang yang sudah diolesi minyak tipis.
+3000000258	Kukus dengan api sedang selama 30 menit.
+3000000259	Tuang beberapa tetes sabun cuci piring dan air hangat ke dalam botol semprot.
+3000000260	Panaskan minyak zaitun, tuang seluruh adonan di atas wajah.
+3000000261	Masak hingga berwarna kuning keemasan pada kedua sisi.
+3000000262	Makanan mahal bisa Bunda makan dengan memasak sendiri. 
+3000000263	Ada alasannya kenapa orang suka sekali membuat donat kentang.
+3000000264	Soalnya, tambahan ketang ampuh membuat donat tetap lembut walau sudah dingin.
+3000000265	Makin banyak kentang ditambahkan, donat akan jadi makin lembut.
+3000000266	Tapi, tentu saja takaran kentangnya tidak bisa 100%.
+3000000267	Ingat, kentangnya perlu kita kukus dulu kemudian dihaluskan.
+3000000268	Mengukus kentang pun tak boleh sembarangan.
+3000000269	Kentang harus dikukus dalam kondisi masih berkulit dan belum dikupas.
+3000000270	Kentang juga sebaiknya hanya dibelah dua selama dikukus, tidak lebih.
+3000000271	Adonan yang keras menunjukkan takaran air yang kurang.
+3000000272	Segera tambahkan air kalau merasa adonan sangat keras.
+3000000273	Ikuti cara ini kalau mau membuat donat goreng yang matang merata. 
+3000000274	Baru ditambahkan margarin dan garam.
+3000000275	Kalau sudah ditambahkan margarin, kita dilarang keras menambahkan air lagi.
+3000000276	Fermentasi juga bisa berpengaruh pada hasil donat yang keras, lo.
+3000000277	Di resep, kita mungkin diminta mengistirahatkan adonan selama 30 menit.
+3000000278	Tapi, waktu fermentasi bisa sangat berpengaruh pada suhu tempat donat dibuat.
+3000000279	Nah, itu dia tips agar donat tidak keras setelah dingin.
+3000000280	Ketika adonan didiamkan, fermentasi terus berjalan dan adonan terus mengembang.
+3000000281	Teksturnya yang renyah membuat bakwan banyak disukai orang.
+3000000282	Bakwan memiliki istilah yang berbeda di setiap daerah.
+3000000283	Selain gurih, bakwan sayur juga mengandung manfaat dari sayuran di dalamnya.
+3000000284	Campur rata bahan adonan tepung.
+3000000285	Masukkan semua sisa bahan, kecuali udang.
+3000000286	Angkat setelah bakwan sayur matang kecokelatan, sajikan bersama cabai rawit.
+3000000287	Untuk memasak bakwan, tentunya dibutuhkan minyak goreng yang lumayan banyak.
+3000000288	Aduk rata hingga berbusa.
+3000000289	Kucing yang makan rumput tidak menandakan mereka doyan dengan rumput.
+3000000290	Sebaliknya, pasti ada sesuatu yang mendorong mereka untuk terpaksa mengonsumsi rumput.
+3000000291	Beberapa alasan medis dan penyebab kenapa kucing makan rumput.
+3000000292	Jika menggunakan botol semprot, semprot pada bagian di mana kutu putih menumpuk. 
+3000000293	Ada masalah pada pencernaan kucing yang membuatnya terpaksa mengonsumsi rumput.
+3000000294	Naluri kucing yang memakan rumput untuk memenuhi sebagian nutrisinya.
+3000000295	Tunggu hingga 15 menit.
+3000000296	Sebetulnya, tak masalah jika kucing memakan rumput dalam batasan tertentu.
+3000000297	Pastikan juga bahwa kucingmu tidak memakan rumput secara berlebihan.
+3000000298	Kamu dapat mempelajari apapun yang dapat membuat dirimu berkembang.
+3000000299	Sebenarnya bermain game juga dapat memberikan manfaat pada diri kita.
+3000000300	Karya yang dibuat tentunya menyesuaikan dengan skill yang kamu miliki.

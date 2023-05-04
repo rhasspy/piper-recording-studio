@@ -1,0 +1,300 @@
+4000000001	Na raspolaganju imamo više boja.
+4000000002	Svi sezonski predmeti su na konačnoj rasprodaji.
+4000000003	Uz svaku kupnju dostupna je besplatna isporuka.
+4000000004	Zatražite pomoć bilo kojeg od naših ljubaznih suradnika.
+4000000005	Želite li da vam zamotam ovaj poklon?
+4000000006	Na raspolaganju također imamo mogućnost isporuke sljedećeg dana uz nadoplatu.
+4000000007	Možemo izvršiti preuzimanje u trgovini ili kućnu dostavu.
+4000000008	Kvarljiva roba ne ispunjava uvjete za povrat novca.
+4000000009	Svi odjevni predmeti su na  popustu od 10%.
+4000000010	Članovi imaju pravo na 1% povrata novca.
+4000000011	Taj predmet više nemamo u ponudi.
+4000000012	Povrat robe se prihvaća 30 dana nakon kupnje uz račun.
+4000000013	Za prijenos podataka u određenim slučajevima potreban nam je vaš pristanak.
+4000000014	Pričekajte moment dok potražimo proizvod.
+4000000015	Svoje postavke u svakom trenutku možete promijeniti u našim Pravilima o zaštiti privatnosti na ovoj web stranici.
+4000000016	Neki partneri ne traže vaš pristanak za obradu vaših podataka već se pozivaju na svoj legitimni poslovni interes.
+4000000017	Darovnu karticu možete iskoristiti na bilo kojem od naših prodajnih mjesta.
+4000000018	Sve kupnje iznad 10 Kuna ulaze u našu mjesečnu nagradnu igru.
+4000000019	Nudimo otkup starih mobilnih uređaja.
+4000000020	Predmeti s crvenom oznakom sniženi su 40 %.
+4000000021	Želite li mini verziju ili punu verziju?
+4000000022	Pelene se nalaze u trećem redu slijeva.
+4000000023	Nudimo samo organske proizvode bez umjetnih materijala.
+4000000024	Koju veličinu cipele želite da probate?
+4000000025	Ograničenja kupnje primjenjuju se samo na određene predmete.
+4000000026	Predstoji nam velika rasprodaja tijekom blagdana.
+4000000027	Pored toga nudimo i uslugu kućne dostave.
+4000000028	Možete se prijaviti u naš program nagrađivanja vjernosti kupaca.
+4000000029	Za proizvode koji su već na rasprodaji ne možete koristiti kupon.
+4000000030	Želite li kupiti jamstvo na predmet?
+4000000031	Prioritet nam je zadovoljstvo kupaca i sve prigovore rješavamo na najbolji mogući način.
+4000000032	Ovi predmeti ne ispunjavaju uvjete za povrat.
+4000000033	Ispunjavate uvjete za 5 % popusta pri svakoj kupnji.
+4000000034	Takvom načinu obrade podataka možete se usprotiviti klikom na "Saznajte više".
+4000000035	Ovaj, kao i ostale proizvode nudimo sam ili kao dio paketa.
+4000000036	Ovaj proizvod imamo u više veličina i boja u drugoj trgovini.
+4000000037	Ukoliko ste i dalje zainteresirani u utorak ćemo dobiti novu pošiljku.
+4000000038	Imamo dostupne planove plaćanja za određene proizvode koji imaju žutu oznaku.
+4000000039	Možete prihvatiti sve ili dio tih postupaka.
+4000000040	Navedena cijena ne uključuje porez niti dostavu na vašu adresu.
+4000000041	Samonaplatno mjesto obično ima kraće linije čekanja od ostalih mjesta.
+4000000042	Hvala Vam na povratnim informacijama, cijenimo mišljenja svih naših kupaca!
+4000000043	Obratite se lokalnom prodavaču u vezi s pravilima o pojedinačnim kupnjama.
+4000000044	Na žalost, naše jamstvo povrata novca trenutačno to ne pokriva.
+4000000045	Proizvod za koji ste zainteresirani na žalost više ne uvozimo.
+4000000046	Cijena svakog našeg proizvoda je ista u svim našim trgovinama.
+4000000047	Trenutačno ih nema na zalihama, molimo Vas provjerite ponovno sutra.
+4000000048	Ako niste zadovoljni, jednostavno nas nazovite i vratit ćemo vam novac za vašu narudžbu.
+4000000049	Imamo garanciju zadovoljstva kupaca, pa ako ste nezadovoljni proizvodom, jednostavno ga možete vratiti.
+4000000050	Na vašem uređaju moguće je pohranjivanje ili pristup kolačićima, identifikatorima uređaja ili drugim podacima u svrhu s kojom ste upoznati.
+4000000051	Želite li dodati još predmeta u svoju narudžbu ili je to sve?
+4000000052	Da li želite izraditi našu karticu za nagrađivanje vjernih kupaca?
+4000000053	Predmet možemo čuvati za vas jedan radni dan uz avans od 10 %.
+4000000054	Ovdje trenutačno imamo samo male i velike veličine za ovu haljinu.
+4000000055	Sutra se vraćamo natrag u školu nakon 3 tjedna odmora.
+4000000056	U našoj trgovini kao načine plaćanja prihvaćamo kartice ili gotovinu.
+4000000057	Pri izlasku iz parkirne garaže pokažite potvrdu čuvaru na parkiralištu.
+4000000058	Vaši podaci mogu se koristiti za poboljšanje postojećih sustava i softvera te za razvoj novih proizvoda.
+4000000059	Ovaj proizvod imamo samo u našoj vodećoj trgovini u centru grada.
+4000000060	Očekujte da vaš kupljeni predmet stigne u roku od tri radna dana.
+4000000061	Ovaj je proizvod nedavno izbačen na tržište i trebao bi se brzo rasprodati.
+4000000062	Ovaj kredit možete koristiti u ovoj trgovini i bilo kojem našem prodajnom mjestu.
+4000000063	Na žalost, tu liniju proizvoda više ne radimo za naše tržište.
+4000000064	Sve što ovdje prodajemo certificirano je kao organsko uzgojeno povrće.
+4000000065	Naše ljubazno osoblje rado će odgovoriti na sva vaša pitanja.
+4000000066	Morate predočiti dokaz o kupnji da biste imali pravo na povrat novca.
+4000000067	Žao mi je zbog proizvoda, dopustite mi da vam vratim novac.
+4000000068	Vaš je predmet još uvijek u jamstvu narednih 4 mjeseca.
+4000000069	Proizvod mora biti u originalnom pakiranju kad ga donesete na zamjenu.
+4000000070	U mogućnosti smo ga besplatno zamijeniti ako stvarno to želite.
+4000000071	Ispunjavate uvjete za puni povrat novca u roku od 30 dana od kupnje.
+4000000072	Donesite predmet sa sobom u trgovinu sve skupa s računom.
+4000000073	Ponesite sve račune sa sobom kad dođete po povrat novca.
+4000000074	Izvorno jamstvo ne pokriva habanje, oštećenja uzrokovana djelovanjem vode itd.
+4000000075	Sačekajte me samo moment kako bi provjerio vašu povijest kupnje.
+4000000076	Zbog greške proizvođača, predmet možemo besplatno zamijeniti za vas ukoliko želite.
+4000000077	Svi povrati trebaju ili fizičku potvrdu ili e-potvrdu o kupnji.
+4000000078	Svaka stavka dolazi s jamstvom za povrat novca, pa ćemo vam rado vratiti novac.
+4000000079	Na žalost, ova stavka ne ispunjava uvjete za povrat novca.
+4000000080	Jeste li ga kupili u trgovini ili onlajn - putem interneta?
+4000000081	Provjerio sam i nažalost ta stavka ne ispunjava uvjete za povrat.
+4000000082	Istraživanje tržišta može se koristiti kako bi se saznalo više o publici koja posjećuje web lokacije / aplikacije i pregledava oglase.
+4000000083	Povrat vašeg novaca za proizvod možete izvršiti na šalteru korisničke službe.
+4000000084	Predmet možete odnijeti u trgovinu ili nam ga poslati poštom.
+4000000085	Možete li mi reći koji je broj proizvoda koji vas interesira?
+4000000086	Bojim se da proizvod ne ispunjava uvjete za besplatnu popravku.
+4000000087	Ne možemo vam ponuditi povrat novca, ali možemo vam dati kredit za trgovinu.
+4000000088	Jamstvo je poništeno jer ste skinuli sigurnosnu plombu s vaše pećnice.
+4000000089	Želite li povrat novca za kredit ili neki predmet u trgovini?
+4000000090	Odnesite ga u svoj servisni centar kako bi ga naš tehničar mogao pogledati.
+4000000091	Jamstvo je zapravo isteklo prije tri dana, a ne prije 2 dana.
+4000000092	Želite li zamjenu, povrat novca ili neki drugi proizvod iz trgovine?
+4000000093	Popravak možemo obaviti umjesto vas bez naknade ukoliko možete pričekati 2 dana.
+4000000094	Imamo dobre vijesti za Vas, ispunjavate uvjete za povrat novca!
+4000000095	Jeste li rekli da se telefon neće uključiti kad se puni?
+4000000096	Taj je proizvod davno skinut s polica u našoj trgovini.
+4000000097	Ne možete izvršiti zamjenu predmeta koji su na konačnoj rasprodaji.
+4000000098	Hrđa nije obuhvaćena jamstvom tako da ga ne možemo zamijeniti.
+4000000099	Vaš proizvod nije spomenut na popisu opoziva proizvođača ovog proizvoda.
+4000000100	Zamjenski dijelovi su vam poslani poštom i trebali bi stići sutra.
+4000000101	Rado ćemo vam nadoknaditi troškove proizvoda ukoliko Vam se ne svidi.
+4000000102	Ne možemo vam ponuditi povrat novca u cijelosti, ali možemo vam vratiti 40 % gotovine.
+4000000103	Sjećate li se koji ste dan kupili predmet u našoj trgovini?
+4000000104	Kad budete krenuli vratiti predmet, svakako ponesite sa sobom originalno pakiranje.
+4000000105	Žao mi je, ali taj je predmet bio na konačnoj rasprodaji.
+4000000106	Pošaljite nam predmet natrag prije kraja radnog vremena u četvrtak.
+4000000107	Poslat ćemo sutra naše tehničare da ga pogledaju na licu mjesta.
+4000000108	Jamstvo za ovaj proizvod ne pokriva štetu uzrokovanu upadanjem u vodu.
+4000000109	Možete nam ga vratiti za povrat novca ili vam možemo poslati potpuno novi predmet.
+4000000110	Morate dostaviti dokaz o kupnji prije nego što budemo mogli bilo što učiniti.
+4000000111	Trebate nam poslati  detaljan opis oštećenja proizvoda uz nekoliko fotografija.
+4000000112	Imate još tri mjeseca jamstva za njega i može se produljiti nakon isteka.
+4000000113	Morate dostaviti dokaz o kupnji prije nego što nešto učinimo.
+4000000114	Nikada niste kupili jamstvo kad ste kupili neki naš proizvod?
+4000000115	Ako opet naiđete na problem, svakako nas kontaktirajte što prije.
+4000000116	Povrat novca bit će obrađen u roku od dva radna dana.
+4000000117	Nismo odgovorni za bilo kakve povezane troškove u vezi dostave.
+4000000118	Slobodno nam recite kakve cipele tražite i rado ćemo Vam pomoći.
+4000000119	Je li ovo poklon za vas ili za nekoga drugog?
+4000000120	Javite nam se ako vam bude trebala još neka pomoć.
+4000000121	Dopustite mi da provjerim našu web stranicu da vidimo imamo li taj model.
+4000000122	Ovaj model je jako lijep i elegantan, napravljen je u Italiji.
+4000000123	Slobodno osjetite ovaj materijal, vrlo je mekan i prijatan na dodir.
+4000000124	Kabine za presvlačenje nalaze se na kraju trgovine s desna.
+4000000125	Zovnite me ako me trebate da Vam donesem nešto drugo.
+4000000126	Naš tim stručnjaka može riješiti čak i najsloženija pitanja strojnog učenja.
+4000000127	Dobro poznavanje industrije i rigorozna analiza tržišta naša su jača strana.
+4000000128	Moguće je mjerenje djelotvornosti i učinkovitosti sadržaja koji vidite ili s kojim vršite interakciju.
+4000000129	Naši kupci su imali veliku korist od poboljšanih poslovnih procesa i povećane dobiti.
+4000000130	Pružamo razne vrste rješenja kako za domaće tako i za strane klijente.
+4000000131	Stjecanje kritičkih uvida za naše kupce naš je najviši prioritet.
+4000000132	Nudimo širok spektar prilagođenih rješenja koja najbolje odgovaraju vašim potrebama.
+4000000133	Naši inovativni proizvodi čine naše kupce konkurentnijima na globalnom tržištu.
+4000000134	Pomažemo tvrtkama u usponu u implementiranju raznih složenih poslovnih sustava.
+4000000135	Mi smo vodeći pružatelj profesionalnih podatkovnih usluga u širem dijelu Balkana.
+4000000136	Nudimo globalna rješenja našim globalno integriranim kupcima te novim klijentima.
+4000000137	Pomažemo kupcima da prevladaju izazove na tržištu koje se brzo razvija.
+4000000138	Angažiranje kupaca za nas predstavlja jedan od ciljeva najveće važnosti.
+4000000139	Postignite komercijalnu izvrsnost kroz optimizaciju vaših cijena i obavljanje prodaje.
+4000000140	Pomažemo klijentima da poboljšaju učinkovitost i inoviraju svoja poduzeća za budućnost.
+4000000141	Duljina projekta ovisi o raznim čimbenicima, poput proračuna i veličine organizacije.
+4000000142	Svaki je projekt osmišljen kako bi udovoljio specifičnim potrebama naših klijenata.
+4000000143	Imamo više od dvadeset godina iskustva u pružanja poslovnih rješenja.
+4000000144	Opseg se određuje uglavnom na temelju poslovnih ciljeva i izazova.
+4000000145	Mi tipično preporučujemo fazu procjene na početku svakog od projekata.
+4000000146	Naša su rješenja fleksibilna i namijenjena su rješavanju bezbrojnih izazova.
+4000000147	Putovanja eliminiramo što je više moguće kako bismo uštedjeli vrijeme i novac.
+4000000148	Prijedlog će sadržavati izjavu i opseg posla, cijene, rokove i preporuke.
+4000000149	Količinski popusti kreću se između deset i trideset posto naših tipičnih cijena savjetovanja.
+4000000150	Faza dizajna koristi se za izradu programa obuke od početka do kraja.
+4000000151	Mapiranje poslovnih procesa ključno je za poboljšanje svakog poslovnog procesa.
+4000000152	Operativni višak smanjuje rizik u slučaju da ključni talent napusti tvrtku ili bude nedostupan.
+4000000153	Poboljšanje poslovnog procesa može se izvršiti samo s točnom dokumentacijom procesa.
+4000000154	Vaša organizacijska strategija presudna je za definiranje načina poslovanja vašeg poslovanja.
+4000000155	Kako bi nastavili trebat će vam najnovija verzija ove aplikacije.
+4000000156	Da li se zaslon još uvijek zamrzava kad otvorite program.
+4000000157	Ako se pojavi crveno svjetlo, trebali biste odmah izaći iz programa.
+4000000158	Isključite bilo koji antivirusni softver jer bi to moglo utjecati na preuzimanje.
+4000000159	Kliknite ikonu u gornjem desnom kutu kako bi započeli s preuzimanjem.
+4000000160	Pobrinite se da na vašem vanjskom disku  ima  dovoljno prostora.
+4000000161	Ako se nije preuzeo za dvije minute, ponovo pokrenite uređaj.
+4000000162	Moguće je mjeriti djelotvornost i učinkovitost oglasa koje ste vidjeli ili s njima vršili interakciju.
+4000000163	Prije nego što nastavite dalje, ažurirajte uređaj na najnoviju verziju.
+4000000164	Za to ažuriranje trebat ćete osloboditi puno prostora na disku.
+4000000165	Pokušajte dvaput kliknuti na ikonu "alat" na kartici s postavkama.
+4000000166	Prilagođeni sadržaj može vam se prikazivati temeljem profila o vama.
+4000000167	Jeste li nedavno ažurirali svoj uređaj ili provjerili nova ažuriranja?
+4000000168	Moguće je načiniti profil o vama i vašim interesima kako bi vam se prikazivali upravo vama prilagođeni sadržaji.
+4000000169	Ne pritišćite tipku za napajanje dok žaruljica ne postane zelena.
+4000000170	Morate nadograditi sustav da biste mogli spremiti bilo kakve promjene.
+4000000171	Poslat ćemo Vam uskoro pristupni kod na vašu adresu e-pošte.
+4000000172	Želite li kupiti samo ovaj paket ili kompletan instalacijski softver?
+4000000173	To može biti zato što na vašem uređaju nema prostora za pohranu.
+4000000174	Možete li mi reći ključ proizvoda kako bi ga aktivirali za Vas?
+4000000175	Svakako pričekajte nekoliko sekundi prije nego što ponovno uključite računalo.
+4000000176	Pobrinite se da zatvorite sve ostale kartice prije nego što nastavite.
+4000000177	Pričekajte nekoliko minuta dok se ažuriranje ne preuzme na vaše računalo.
+4000000178	Nažalost, vaš uređaj ne podržava instaliranje ove vrste softvera od treće strane.
+4000000179	Ova aplikacija ne može se koristiti na više od dva uređaja.
+4000000180	Vjerujem da postoji problem s poslužiteljem treće strane ove aplikacije.
+4000000181	Prilagođeni oglasi mogu vam se prikazivati na temelju profila o vama.
+4000000182	Prema onome što vidim drugi uređaj je spojen na mrežu.
+4000000183	Ne propustite nagradne igre i ponude prilagođene Vašim interesima.
+4000000184	Profil može biti izrađen na temelju vaših interesa kako bi vam se prikazivale vama prilagođeni oglasi koji vas mogu zanimati.
+4000000185	Oglasi vam se mogu prikazivati temeljem sadržaja koji pregledavate, aplikacija koje koristite, vaše približne lokacije ili vrste vašeg uređaja.
+4000000186	Izbrišite paket za preuzimanje nakon što ste završili s preuzimanjem.
+4000000187	Prije preuzimanja najnovije aplikacije za vaše računalo, provjerite imate li dobru vezu.
+4000000188	Vaš uređaj je moguće identificirati na temelju skeniranja jedinstvene kombinacije karakteristika vašeg uređaja.
+4000000189	Vaši precizni geolokacijski podaci mogu se koristiti za podršku jednoj ili više svrha.
+4000000190	Vidim da ste preuzeli najnoviju zakrpu za vaš antivirusni softver.
+4000000191	To znači preciznost utvrđivanja vaše lokacije u rasponu od nekoliko metara.
+4000000192	Želite li preuzeti premium verziju softvera i isprobati ga 30 dana bez naknade?
+4000000193	Možete povezati do tri uređaja na mrežu bez dodatnih troškova.
+4000000194	Javite mi kad to od vas čarobnjak za preuzimanje zatraži.
+4000000195	Više o kolačićima možete saznati u našim Politici kolačića.
+4000000196	Pokušajte vidjeti možete li sada pomaknuti pokazivač u lijevi kut preglednika.
+4000000197	Ispunite izvješće o prekidu rada i naši će se tehničari uskoro javiti.
+4000000198	Sada možete nadograditi ovaj program na premium verziju potpuno besplatno.
+4000000199	Aplikacija može prikupljati, koristiti i dijeliti podatke o lokaciji korisnika kako bi pružala usluge temeljene na lokaciji.
+4000000200	Pobrinite se da odaberete poslovnu verziju softvera kako bi mogli pristupiti svim značajkama.
+4000000201	Pritisnite gumb za osvježavanje i pogledajte hoće li obrazac iskočiti.
+4000000202	Možda ćete trebati osvježiti stranicu kako biste vidjeli nova ažuriranja.
+4000000203	Izbrišite aplikaciju s radne površine desnim klikom na opciju delete.
+4000000204	Ako su svi poslužitelji zauzeti, može doći do neznatnog kašnjenja.
+4000000205	U potonjem slučaju možemo vam poslati elektronički bilten s komercijalnim sadržajem za oglašavanje.
+4000000206	U slučaju otkazivanja pretplate, osobne podatke koje smo prikupili u tu svrhu prestat ćemo obrađivati.
+4000000207	Sada kliknite na opciju "Dalje" da biste aktivirali svoj softver.
+4000000208	Obnovite pretplatu ili će ona prijeći u način smanjene funkcionalnosti.
+4000000209	Moramo napomenuti kako spomenuti postupak neće utjecati na valjanost podataka koji su ranije prikupljeni na temelju dane privole.
+4000000210	Dakle , postoji mogućnost da se vaši osobni podaci dijele i s navedenim društvom.
+4000000211	U potonjem slučaju možete dati pristanak na korištenje navedenih podataka u svrhu ciljanog oglašavanja.
+4000000212	Žao nam je, ali trenutno ne možemo ništa drugo učiniti.
+4000000213	Za početak, mogu li dobiti vašu adresu e-pošte koju obično koristite?
+4000000214	Navedene se informacije bilježe i prilikom svake registracije korisnika.
+4000000215	U redu, sve je spremno i sad ću se odjaviti s vašeg računala.
+4000000216	Imate li kojim slučajem neki drugi telefonski broj na koji vas možemo pozvati?
+4000000217	Možda će se automatski aktivirati nakon dovršetka instalacije ove aplikacije.
+4000000218	Potražite ovaj kontrolni kôd u svojoj e-pošti i na telefonu.
+4000000219	Dovršite kupnju odmah i ostvarite deset posto popusta na sve nove artikle!
+4000000220	Premašili ste ograničenje za potrošnju podataka za ovaj mjesec.
+4000000221	Da biste provjerili govornu poštu, nazovite 1 2 3 4.
+4000000222	Ispunite anketu u nastavku kako bi osvojili još više bodova rasta!
+4000000223	Nakon što je korisnik dao dopuštenje može ga i opozvati u bilo kojem trenutku.
+4000000224	Preuzmite aplikaciju za bolje iskustvo!
+4000000225	Primili smo vašu uplatu za ovu aplikaciju!
+4000000226	Jeste li sigurni da je želite otvoriti?
+4000000227	Vaša je narudžba isporučena u radnju koju ste naveli tijekom narudžbe!
+4000000228	Vaš sigurnosni kod za oporavak adrese e-pošte je poslat!
+4000000229	Ova aplikacija je iz nepoznatog izvora, želite li je svejedno instalirati?
+4000000230	Način na koji korisnik može davati dopuštenja vezana uz aplikaciju može ovisiti o uređaju i softveru korisnika.
+4000000231	Upravo ste primili polog na svoj račun.
+4000000232	Vaša je izjava sada dostupna na vašem računu.
+4000000233	Vaša je pizza na putu!
+4000000234	Pregrijavanje predstavlja čest problem kod tog modela i pokriven je jamstvom.
+4000000235	Odnesite ga u jedan od naših servisnih centara kako bi ga popravili.
+4000000236	Nisam u mogućnosti pružiti vam takve informacije preko telefona.
+4000000237	Željeli bismo vam postaviti nekoliko pitanja o vašem proizvodu.
+4000000238	Biste li bili voljni sudjelovati u brzom istraživanju o vašoj kupnji?
+4000000239	Unesite taj kôd na našu web stranicu kako biste dobili dodatnih petnaest posto popusta.
+4000000240	Pozdrav, samo zovemo kako bismo provjerili rade li vaši uređaji ispravno.
+4000000241	Poslat ćemo vam zamjenu ako naš tehničar ne uspije riješiti problem.
+4000000242	Za pomoć u vezi instalacije nazovite nas ili posjetite našu web stranicu.
+4000000243	Ako se prijavite za naš bilten, možete ostvariti dodatnih petnaest posto popusta.
+4000000244	Želite li se pridružiti našem programu vjernosti?
+4000000245	Taj je proizvod davno skinut s polica.
+4000000246	Sjećate li se koji ste dan kupili ovaj proizvod?
+4000000247	Imate li još račun ili e-potvrdu kod sebe?
+4000000248	Vaš je proizvod još uvijek u jamstvu.
+4000000249	Samo nam ga pošaljite natrag, a mi ćemo se pobrinuti za ostalo.
+4000000250	Želite li da vam pomognem u rješavanju problema putem telefona?
+4000000251	Prema zadanim postavkama, korisnik mora odobriti spomenuta dopuštenja prije nego što može pristupiti odgovarajućim informacijama.
+4000000252	Je li u redu ako vas stavim na jedan trenutak na čekanje?
+4000000253	Na kojem ste mjestu kupili ovaj proizvod?
+4000000254	U čemu je problem s vašim televizorom?
+4000000255	Izgleda da je vaše jamstvo isteklo još prije nekoliko tjedana.
+4000000256	Jeste li kupili produženo jamstvo za ovaj televizor?
+4000000257	Naše jamstvo pokriva samo dijelove, ali ne i uslugu popravka.
+4000000258	Nudimo povrat novca za trideset dana.
+4000000259	Možemo vam poslati zamjenu ili vam vratiti novac.
+4000000260	To nije nedostatak, to je zapravo značajka.
+4000000261	Možete onemogućiti tu značajku ako vam smeta.
+4000000262	Čini se da vaše prijenosno računalo nije kompatibilno s priključnom stanicom.
+4000000263	Neke komponente možemo Vam nadograditi besplatno.
+4000000264	Dostava vašeg uređaja nije pokrivena jamstvom.
+4000000265	Poslat ću vam vezu s popisom svih kompatibilnih dodataka.
+4000000266	Samo da potvrdim vašu adresu.
+4000000267	Za popravak obično treba nekoliko dana i ne više od tjedan dana.
+4000000268	Svi  naši uposlenici prošli su adekvatnu obuku.
+4000000269	Morate ugovoriti sastanak ako dolazite automobilom.
+4000000270	Dok se popravlja, možete unajmiti jedan od naših automobila.
+4000000271	Ako želite izbjeći čekanje, naša je mrežna podrška uvijek brža.
+4000000272	Samo prvo moramo provjeriti vaše podatke.
+4000000273	Budući da se radi o starom modelu, možemo ga zamijeniti novijom verzijom.
+4000000274	Svi povrati zahtijevaju potvrdu o plaćanju.
+4000000275	Preporučujemo da ga donosite svake tri godine radi održavanja.
+4000000276	Možemo se pobrinuti i za ugradnju  za dodatnih pedeset pet kuna.
+4000000277	Ako naiđete na bilo kakav problem, slobodno nas nazovite.
+4000000278	Instalacija može biti komplicirana, ali mi imamo tehničare koji to mogu učiniti umjesto vas.
+4000000279	Zovemo vas kako bismo vas obavijestili o opozivu proizvoda koji ste kupili.
+4000000280	Ta se značajka prodaje kao dodatak i nije uključena u cijenu.
+4000000281	Žao mi je što to čujem, odmah ćemo vam poslati zamjenu.
+4000000282	Prvi put trebali biste puniti svoj laptop dvadeset i četiri sata.
+4000000283	Baterije traju samo nekoliko godina, pa izgleda kao da vašu treba zamijeniti.
+4000000284	Zovem da vas obavijestim da je vaša narudžba odgođena.
+4000000285	Je li adresa koju imamo u evidenciji točna?
+4000000286	Ako se računalo pregrijava, možda biste trebali razmisliti o vodenom hlađenju.
+4000000287	Uz vašu pretplatu uključena je godina besplatne pohrane u oblaku.
+4000000288	Taj proizvod prodajemo samo kupcima koji imaju odgovarajući certifikat.
+4000000289	Možemo osigurati obuku na licu mjesta.
+4000000290	Ako želite saznati više o svom novom proizvodu, nazovite nas!
+4000000291	Dostavljamo širom svijeta, ali vrijeme otpreme traje nekoliko tjedana.
+4000000292	Ako se vaše vještine programiranja ne poboljšaju, onda je čas besplatan!
+4000000293	Možete birati između jednog ili jednog podučavanja ili grupnih predavanja.
+4000000294	Studenti su dužni polagati ispit prilikom upisa.
+4000000295	Svaki tečaj osmišljen je kako bi odgovarao svim studentima.
+4000000296	Nudimo ponešto za svakoga, bilo da je to dijete ili mlađa odrasla osoba.
+4000000297	Zbog trenutačne situacije, svi se tečajevi održavaju putem interneta.
+4000000298	Instruktori će rado da odgovore na sva vaša pitanja koja imate.
+4000000299	Koristi se za pristup približnoj lokaciji korisnika.
+4000000300	Ovu nastavu možete dodati u svoj raspored uz dodatnu naknadu.

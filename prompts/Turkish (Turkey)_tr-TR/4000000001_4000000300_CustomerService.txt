@@ -1,0 +1,300 @@
+4000000001	Bu üründe birden fazla rengimiz mevcuttur.
+4000000002	Sezonluk ürünlerin tamamı son indirimde, kaçırmayın.
+4000000003	Her alışverişte ücretsiz kargo imkanı vardır.
+4000000004	Bu konuda lütfen müşteri hizmetlerimizden yardım isteyin.
+4000000005	Ekstra ücret ödemeden hediye paketi ister misiniz?
+4000000006	Biz 30 gün içerisinde ücretsiz iade seçeneği sunuyoruz.
+4000000007	Ek ücret karşılığında ertesi gün teslimat seçeneğimiz mevcuttur.
+4000000008	Mağazadan teslim veya eve teslim yapabiliriz.
+4000000009	İadeleri yalnızca alışveriş kuponu ile değiştirebilirsiniz.
+4000000010	Bozulabilir ürünler iade için uygun değildir.
+4000000011	Artık bu ürünün yeşil rengini satmıyoruz.
+4000000012	İade, satın alma tarihinden en geç 30 gün sonra fatura ile kabul edilir.
+4000000013	Mağaza sabah 10 akşam 9 arası açıktır.
+4000000014	Ürünü ararken sizi biraz bekleteceğim.
+4000000015	Satın alma işlemleri akşam 9'dan önce yapılmalıdır.
+4000000016	Tüm alkol alımları için yanınızda kimliğiniz olduğundan emin olun.
+4000000017	Bugün ve yarın 2 alana 1 bedava şeklinde özel kampanyamız var.
+4000000018	Hediye kartınızı konumlarımızdan herhangi birinde kullanabilirsiniz.
+4000000019	Söz konusu lokasyonda stokta herhangi bir ürün bulamadım.
+4000000020	Eski cihazlar için bir geri dönüşüm planı sunuyoruz.
+4000000021	Lütfen bize bir güncel adres sağlayın.
+4000000022	Kırmızı etiketli ürünler %40 indirimlidir.
+4000000023	Aynı zamanda, daha önce tarayıcınıza kaydedilmiş çerezlerin silinmesi de mümkündür.
+4000000024	Bebek bezleri üçüncü reyonda bulunur.
+4000000025	Organik ve organik olmayan çeşitlerimiz mevcuttur.
+4000000026	Ayakkabının kaç numara olmasını istiyorsunuz?
+4000000027	Satın alma kısıtlamaları belirli öğeler için geçerlidir.
+4000000028	Süper Ramazan Bayramı indirimi geliyor.
+4000000029	Maalesef kırmızı rengi elimizde kalmamış.
+4000000030	Bu ayın 20'sinden itibaren eve teslim hizmeti sunuyoruz.
+4000000031	Sadakat ödülleri programımıza kayıt olabilirsiniz.
+4000000032	Halihazırda indirimde olan ürünler için kupon kullanamazsınız.
+4000000033	Ürünle birlikte bir garanti satın almak ister misiniz?
+4000000034	Müşteri hizmetleri önceliğimizdir ve tüm şikayetleri ciddiye alırız.
+4000000035	Gümrüklemedeki ürünler iade için uygun değildir.
+4000000036	Alışveriş yaptığınız için teşekkür ederim.
+4000000037	Her satın alma işleminizde %10 puan kazanırsınız.
+4000000038	Minimum satın alma tutarı 100 Türk lirasıdır.
+4000000039	Ürünü tek başına veya bir menünün parçası olarak sunuyoruz.
+4000000040	Bu ürünü birden fazla boyutta satıyoruz.
+4000000041	Salı günü yeni bir gönderi alacağız.
+4000000042	Belirli ürünler için ödeme planlarımız mevcuttur.
+4000000043	Tüm gümrükleme ürünleri nihai satıştır.
+4000000044	Öğrenci ve askeri indirimler sunuyoruz.
+4000000045	Listelenen fiyata vergi veya nakliye dahil değildir.
+4000000046	Kendi kendine ödeme genellikle daha kısa satırlara sahiptir.
+4000000047	Kadromuzun tamamı sertifikalı eğitmenlerden oluşmaktadır.
+4000000048	Başvuru sürecimiz kolay ve hızlıdır.
+4000000049	Öğrencilerimiz dünyanın her yerinden geliyor.
+4000000050	Kurstan memnun kalmazsanız tam bir geri ödeme sunuyoruz.
+4000000051	Yetenekli öğrencilere geri ödemesiz burs veriyoruz.
+4000000052	Eğitmenlerimiz sizin için rahat bir tempoda ilerliyor.
+4000000053	İlk kez gelen öğrenciler ücretsiz deneme sınavına hak kazanırlar.
+4000000054	Sadece özel grup dersleri veriyoruz.
+4000000055	Öğrenciler ilerlemeyi iki hafta gibi kısa bir sürede görüyor!
+4000000056	Kurslarımızı her bir öğrenciye göre uyarlıyoruz.
+4000000057	Programlama becerileriniz gelişmediyse ücretsiz ders bizden!
+4000000058	Gündüz ve gece sınıfları sunuyoruz.
+4000000059	Her ders 45 dakika uzunluğundadır.
+4000000060	İhtiyaçlarınızı en iyi şekilde karşılayabilmemiz için bir danışmanla konuşabilirsiniz.
+4000000061	Öğrenciler, kabul edildikten sonra bir seviye belirleme sınavına girmek zorundadırlar.
+4000000062	Her ders öğrenciler düşünülerek tasarlanmıştır.
+4000000063	Sınırlı sayıda yerimiz mevcuttur, acele etmenizi tavsiye ederiz.
+4000000064	Eğitmen kadromuz kendi alanlarında uzmandır.
+4000000065	İster yeni yürümeye başlayan bebek ister genç bir yetişkin olsun, herkes için bir şeyler sunuyoruz.
+4000000066	Ödül ve çekiliş, yarışma ya da benzeri bir etkinlik kapsamında verdiğiniz bilgilerin etkinliğin gerçekleştirilmesi amacıyla iş ortaklarımız ile sair üçüncü kişilerle paylaşılabilmesi.
+4000000067	İlgilenen öğrenciler aşağıya tıklayarak daha fazla bilgi edinebilirler.
+4000000068	Eğitmenlerimizin çoğu Orta Doğu Teknik Üniversitesi mezunudur.
+4000000069	Eğitmenler, sahip olabileceğiniz tüm soruları yanıtlamaktan mutluluk duyar.
+4000000070	Bu kurs için 30 gün para iade garantisi vardır.
+4000000071	Öğrenmeye kapsamlı bir yaklaşım sunuyoruz.
+4000000072	Yarın ücretsiz bir web semineri var.
+4000000073	Edebiyat dersinde sadece üç koltuk daha var.
+4000000074	Ek bir ücret karşılığında bu dersi programınıza ekleyebilirsiniz.
+4000000075	Kurslarımız, uygulamalı öğrenme yaklaşımına dayanmaktadır.
+4000000076	Geçmiş öğrenciler arasında %98 memnuniyet oranına sahibiz.
+4000000077	Sınıflarımız genellikle 3 veya 4 kişilik gruplar halindedir.
+4000000078	Pazartesi günü oryantasyon kursumuz başlıyor.
+4000000079	Artık o kursu açmıyoruz, onun yerine ahşap boyama kursumuz var.
+4000000080	Hızlandırılmış İngilizce kursumuz en popüler kurstur.
+4000000081	Diğer kurumlardan kredi transferi yapabilirsiniz.
+4000000082	Bire bir ders veya grup dersleri arasında seçim yapabilirsiniz.
+4000000083	Şu anda o dersi vermemiz mümkün değil.
+4000000084	İngilizce, Fransızca ve İspanyolca dillerinde kurslar sunuyoruz.
+4000000085	Haftada birden fazla ders var, bu yüzden zamanlama bir sorun değil.
+4000000086	Bu sınıflar hızlı öğrenme için tasarlanmıştır.
+4000000087	Yüz yüze veya çevrimiçi dersler sunuyoruz.
+4000000088	Programlarımız öğrencilerin ihtiyaçlarını karşılamak için esnektir.
+4000000089	Dersler günlük  ya da haftalık olarak ücretlendirilir.
+4000000090	Sınıflarımız, her öğrencinin ihtiyacına en uygun şekilde ayarlanmıştır.
+4000000091	Sabah 9'daki bir müzik dersi için çağırıldınız.
+4000000092	Belirli sınıflar için bir bekleme listesi vardır.
+4000000093	Öğrenciler mezun olduktan sonra bitirme sertifikası alacaklardır.
+4000000094	Bu hafta resmi tatil olacağından eğitime önümüzdeki hafta devam edeceğiz.
+4000000095	Belirli kurslar için taksitli ödeme planı sunuyoruz.
+4000000096	Yeni hizmet ve faaliyetlerimizden sizleri haberdar edebilmek, bu doğrultuda size en uygun ürün ve hizmetin sağlanabilmesi.
+4000000097	Geri ödeme şartlarını sağlamak için öncelikle satın alma kanıtı olarak fiş ya da fatura göstermelisiniz.
+4000000098	Ürününüzün garantisi 2 ay daha devam etmektedir.
+4000000099	Ürün orijinal ambalajında zarar görmemiş ​​olmalıdır.
+4000000100	Dilerseniz ücretsiz olarak mağazalarımızdan değiştirebiliriz.
+4000000101	Yalnızca satın alma tarihinden itibaren 30 gün içinde tam bir geri ödeme almaya hak kazanırsınız.
+4000000102	Lütfen ürünü fişiyle birlikte mağazaya götürün.
+4000000103	İade etmeye geldiğinizde tüm faturaları yanınızda getirin.
+4000000104	Aşınma ve yıpranma orijinal garanti kapsamında değildir.
+4000000105	Satın alma geçmişinizi kontrol edeyim.
+4000000106	Üreticinin kusuru nedeniyle, ürünü sizin için ücretsiz olarak değiştirebiliriz.
+4000000107	Tüm iadeler için fiziksel bir fatura veya e-fatura gerekir.
+4000000108	Bu ürün para iade garantisi için uygun değildir.
+4000000109	Yapmanız gereken, işlenmiş ürünler alacağınız zaman etiketlerinde yazan bileşenleri incelemek.
+4000000110	Kontrol ettim ve bu ürün iade için uygun değil.
+4000000111	Bu parça için değiştirme ücreti 35 lira olacaktır.
+4000000112	Müşteri hizmetleri kontuarından iade yapabilirsiniz.
+4000000113	Ürünü mağazaya götürebilir veya bize postalayabilirsiniz.
+4000000114	Ürünün barkod numarasını söyler misiniz?
+4000000115	Korkarım ürün ücretsiz onarım için uygun değil.
+4000000116	Sosyal ağlar ile sitenin ilişkilendirilmesini sağlayarak, hızlı ve engelsiz paylaşım yapmanızın sağlanabilmesi.
+4000000117	Güvenlik mührünü çıkardığınız anda garanti geçersiz hale geldi.
+4000000118	Ürün veya mağaza puanı için para iadesi istiyor musunuz?
+4000000119	Teknisyenimizin bakabilmesi için lütfen servis merkezinize götürün.
+4000000120	Garanti aslında üç gün önce sona erdi.
+4000000121	Değiştirmek mi yoksa geri ödeme mi istiyorsunuz?
+4000000122	Sanırım onarımı sizin için yapabiliriz.
+4000000123	Geri ödeme için bize geri gönderebilir veya size yepyeni bir ürün gönderebiliriz.
+4000000124	İyi haber, geri ödeme almaya hak kazandınız!
+4000000125	Telefonun artık açılmayacağını mı söylediniz?
+4000000126	O ürün uzun zaman önce raflardan kaldırıldı.
+4000000127	Son satıştaki ürünleri iade edemezsiniz.
+4000000128	Ürünün paslanmış olması garanti kapsamında değildir, bu yüzden değiştiremiyoruz.
+4000000129	Ürününüzden üreticinin geri çağırma listesinde bahsedilmedi.
+4000000130	Yedek parçalarınız geçen Pazartesi postalanmış gözüküyor.
+4000000131	Ürünün maliyetini size memnuniyetle geri ödeyeceğiz.
+4000000132	Hizmet ve faaliyetlerimizden faydalanabilmeniz için gerekli çalışmaların yapılabilmesi.
+4000000133	Ürünü hangi gün satın aldığınızı hatırlıyor musunuz?
+4000000134	İade için gittiğinizde faturanızın yanınızda olduğundan emin olun.
+4000000135	Üzgünüm ama o ürün son satıştaydı.
+4000000136	Lütfen ürünü Perşembe günü mesai bitmeden bize geri gönderin.
+4000000137	Yarın bir göz atmaları için birkaç teknisyen göndereceğiz.
+4000000138	Bu ürünün garantisi su hasarını kapsamaz.
+4000000139	Herhangi bir pastan sorumlu değiliz.
+4000000140	Hâlâ bir fatura veya e-fatura var mı?
+4000000141	Garantinizin bitmesine daha üç ay var.
+4000000142	Bir şey yapabilmemiz için önce satın alma kanıtı sağlamanız gerekir.
+4000000143	Üzgünüm, maalesef bu garanti geçersizdir.
+4000000144	Ürünü satın aldığınızda garanti satın almadınız.
+4000000145	Tekrar sorun yaşarsanız, lütfen en kısa zamanda bizimle iletişime geçin.
+4000000146	İki iş günü içinde geri ödeme yapılacaktır.
+4000000147	İlgili herhangi bir nakliye masrafından sorumlu değiliz.
+4000000148	Bakması için yarın bir teknisyen çağırabiliriz.
+4000000149	Hızlı bir müşteri memnuniyeti anketi yapmak için zamanınız var mı?
+4000000150	Piştikten sonra blender'dan geçirip servis yapın.
+4000000151	Üzgünüm ama fatura olmadan iadeyi işleme koyamayız.
+4000000152	Lütfen bize üründeki hasarın ayrıntılı bir açıklamasını gönderin.
+4000000153	Ürünlerimiz verimli ve yüksek düzeyde ölçeklenebilir.
+4000000154	Dijital danışmanlık bizim uzmanlık alanımızdır.
+4000000155	Uzmanlardan oluşan ekibimiz, makine öğrenimiyle ilgili en acil sorunların bile üstesinden gelebilir.
+4000000156	Derin endüstri bilgisi ve titiz analiz, güçlü yönlerimizdir.
+4000000157	Üç yıl üst üste Bergama Üniversitesi müşteri memnuniyeti ödülüne layık görüldük.
+4000000158	Müşterilerimiz, iyileştirilmiş iş süreçlerinden ve artan kârlardan büyük ölçüde faydalandı.
+4000000159	Çeşitli iç ve dış müşterilere çözümler sunuyoruz.
+4000000160	Müşterilerimiz için kritik bilgiler edinmek önceliğimizdir.
+4000000161	İhtiyaçlarınıza en uygun şekilde özelleştirilmiş çözümler sunuyoruz.
+4000000162	Sertifikalı bir platin hizmetleri üyesiyiz.
+4000000163	Kurumsal kaynak planlaması bizim uzmanlık alanımızdır.
+4000000164	Yazılım geliştirme projelerinizin üstesinden gelmek için aktif metodolojiler kullanılır.
+4000000165	Ürünlerimiz, müşterileri küresel pazarda daha rekabetçi hale getirir.
+4000000166	Büyüyen şirketlerin karmaşık iş sistemlerini uygulamalarına yardımcı oluyoruz.
+4000000167	İstanbul'un önde gelen profesyonel veri hizmetleri sağlayıcısıyız.
+4000000168	Başarı sicilimiz kendisi için konuşur.
+4000000169	İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme ilkelerine uygun olarak işlenecektir.
+4000000170	Uygulamada 20 yıllık tecrübemiz var.
+4000000171	Hızla gelişen bir pazarda müşterilerin zorlukların üstesinden gelmelerine yardımcı oluyoruz.
+4000000172	Müşteri katılımı bizim için çok önemlidir.
+4000000173	Devam etmek için uygulamanın en son sürümüne ihtiyacınız olacak.
+4000000174	Bilgisayarı yeniden başlatmayı denediniz mi?
+4000000175	Programı açtığınızda ekranınız hâlâ donuyor mu?
+4000000176	Önce komut istemini açmanız gereklidir.
+4000000177	Yazılım lisansı ne zaman sona erdi?
+4000000178	Türkiye genelinde 22 ilde toplam 45 Koçtaş mağazası bulunmaktadır.
+4000000179	Kırmızı ışık görürseniz hemen programdan çıkmalısınız.
+4000000180	Cihazınızın fişini çekin, aşırı ısınmış olabilir.
+4000000181	İndirmeyi etkileyebilecek tüm virüsten koruma yazılımlarını kapatın.
+4000000182	Güç düğmesine üç saniye basılı tutun.
+4000000183	Sağ üst köşedeki simgeye tıklayın.
+4000000184	Diskinizde yeterli alan olduğundan emin olun.
+4000000185	Hâlâ siyah ekran var mı?
+4000000186	Yazılımı yeniden yüklemeniz gerekir, sonrasında tekrar deneyin.
+4000000187	Hukuka ve dürüstlük kurallarına uygun.
+4000000188	İki dakika içinde indirilmediyse, cihazınızı yeniden başlatın.
+4000000189	Şu anda hangi sürümü kullandığınızı sorabilir miyim?
+4000000190	Gereksiz sekmelerden çıkmayı deneyin ve programı yeniden başlatın.
+4000000191	Uygulamada sorun gidermeyi tıklayın, böylece bilgisayar yeniden başlatılacaktır.
+4000000192	Sabit sürücünüzde daha fazla alana ihtiyacınız olacak.
+4000000193	Devam etmeden önce cihazınızı en son sürüme güncelleyin.
+4000000194	Bu güncelleme için çok fazla disk alanı boşaltmanız gerekecek.
+4000000195	Ayarlar sekmesindeki "araç" simgesine tıklamayı deneyin.
+4000000196	Önce bilgisayarı yeniden başlatmayı deneyin.
+4000000197	Yarışma, çekiliş gibi kampanya süreçlerimize dahil olmanız durumunda, faaliyetin gerçekleştirilmesine ilişkin alınması gereken verileriniz.
+4000000198	Devam etmeden önce Java tabanlı programlardan çıkın.
+4000000199	Cihazınızı yakın zamanda güncellediniz mi?
+4000000200	Saat 3'te bir teknisyen gönderebiliriz.
+4000000201	Kişisel Verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi.
+4000000202	Dosyaları bir kez daha masaüstüne indirmeyi deneyin.
+4000000203	Işık yeşile dönene kadar güç düğmesine basmayın.
+4000000204	Arama işlevini kullanın ve sonra tekrar deneyin.
+4000000205	Herhangi bir değişikliği kaydetmeden önce sistemi yükseltmeniz gerekir.
+4000000206	Erişim kodunu e-postanıza göndereceğim, lütfen kontrol edin.
+4000000207	Paketi veya yazılımı tek başına mı satın almak istiyorsunuz?
+4000000208	Cihazınızın depolama alanı yetersiz olduğu için olabilir.
+4000000209	Lütfen ürün anahtarını söyler misiniz?
+4000000210	Bilgisayarınızı tekrar açmadan önce birkaç saniye beklediğinizden emin olun.
+4000000211	Uygulamayı kaldırmayı bir kez daha deneyin.
+4000000212	Devam etmeden önce diğer tüm sekmeleri kapattığınızdan emin olun.
+4000000213	Güncellemenin indirilmesi için lütfen birkaç dakika bekleyin.
+4000000214	Muhtemelen çok fazla program kullanıyor.
+4000000215	Maalesef yazılım cihazınız tarafından desteklenmiyor.
+4000000216	Uygulama ikiden fazla cihazı desteklemiyor.
+4000000217	Sanırım sunucuda bir sorun var.
+4000000218	Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi.
+4000000219	Görebildiğim kadarıyla ağa bağlı başka bir cihaz mevcut.
+4000000220	Sanırım ücretsiz deneme süreniz dün sona erdi.
+4000000221	Bu metin ile kişisel verilerinizin işlenme süreçleri hakkında sizleri detaylıca bilgilendirmek istiyoruz.
+4000000222	Lütfen sayfayı bir kez daha yenilemeyi deneyin.
+4000000223	Ağa bağlı olup olmadığınızı kontrol edip gördünüz mü?
+4000000224	Basın Bültenleri bölümünden ulaşabilirsiniz.
+4000000225	İndirmeyi bitirdikten sonra lütfen indirme paketini silin.
+4000000226	Başka bir sunucuya kaydetmeyi deneyin.
+4000000227	Lütfen indirmeden önce güçlü bir bağlantınız olduğundan emin olun.
+4000000228	Mağaza açılış-kapanış saatlerine ana sayfamızdaki Mağazalarımız bölümünden ulaşabilirsiniz.
+4000000229	İadeler mutlak surette orijinal kutu veya ambalajı ile birlikte yapılmalıdır.
+4000000230	Ücretsiz deneme süreniz bu ayın 24'ünde sona erecek.
+4000000231	İade isteğinizin kabul edilebilmesi için ürünlerin orijinal kutusunda ve ambalajı bozulmamış olması gerekmektedir.
+4000000232	İade etmek istediğiniz ürün ile birlikte, ürüne ait fatura aslının da tarafımıza mutlaka göndermeniz gerekmektedir.
+4000000233	Siparişiniz bugün istediğiniz adrese teslim edildi!
+4000000234	Montajı yapılmış ve kesilerek satılan ürünlerin iadesi kabul edilmemektedir.
+4000000235	Diğer durumlarda ise iade işlemlerinde kargo ücreti size aittir.
+4000000236	Ürünü teslim alırken mutlaka kontrol ediniz.
+4000000237	Maalesef ödemeniz başarısız oldu, herhangi bir ücret alınmadı.
+4000000238	Pizzanız 15 dakika sonra teslim edilmek üzere yola çıktı.
+4000000239	Eğer ürününüz size hasarlı olarak ulaştı ise teslim almayınız.
+4000000240	Beğenip beğenmediğinizi görmek için otuz dakikalık ücretsiz bir derse katılabilirsiniz.
+4000000241	Canlı performans, sertifikayı almanın şartlarından biridir.
+4000000242	Hafta sonları alabileceğiniz bazı yoğun kurslar da vardır.
+4000000243	Burs vermiyoruz, ancak öğrenciler yüzde on indirim alıyor.
+4000000244	Sınıflarımızı yaşa ve dil seviyesine göre ayırıyoruz.
+4000000245	İleri düzey kurslardaki öğretmenler, öğrencilerin ana dillerinde konuşmalarına izin vermez.
+4000000246	Orada sadece Türkçe dışında başka bir dil konuşabilirsiniz.
+4000000247	Öğrencilerimizin çoğu Asya'dan, ancak Avrupa'dan da var.
+4000000248	Mevcut küresel durum nedeniyle, yalnızca çevrimiçi kurslarımız var.
+4000000249	Okul, her hafta sonu öğrencilerin öğrendiklerini uygulamalarına yardımcı olan etkinlikler düzenler.
+4000000250	Genellikle kursa göre daha ucuz olduğu için bir özel öğretmen de tutabilirsiniz.
+4000000251	Ders kitapları kurs ücretine dahil değildir.
+4000000252	Sana binanın etrafını göstereyim mi?
+4000000253	Genellikle oldukça fazla ev ödevi vardır, bu nedenle kurs herkese uygun değildir.
+4000000254	İngilizce dilbilim kursu yalnızca ileri düzeydeki öğrenciler içindir.
+4000000255	Bakım için her üç yılda bir getirmenizi öneririz.
+4000000256	Fazladan elli beş lira ile montajı da halledebiliriz.
+4000000257	Herhangi bir sorunla karşılaşırsanız, bizi aramaktan çekinmeyin.
+4000000258	Kurulum karmaşık olabilir, ancak bunu sizin için yapabilecek teknisyenlerimiz var.
+4000000259	Satın aldığınız bir ürün için 7 gün 24 saat teknik servis olduğunu bildirmek için arıyoruz.
+4000000260	Bu özellik eklenti olarak satılır, dahil değildir.
+4000000261	Bunu duyduğuma üzüldüm, hemen yenisini göndereceğiz.
+4000000262	Dizüstü bilgisayarınızı ilk kez yirmi dört saat şarj etmelisiniz.
+4000000263	Piller yalnızca birkaç yıl dayanır, bu nedenle sizinkinin değiştirilmesi gerekiyor gibi görünüyor.
+4000000264	Siparişinizin geciktiğini bildirmek için arıyorum.
+4000000265	Dosyamızdaki adres doğru ise lütfen onaylayınız.
+4000000266	Bilgisayarınız aşırı ısınıyorsa, dışarıdan soğutucu kullanmayı düşünmek isteyebilirsiniz.
+4000000267	Garantiniz bitmek üzere, lütfen yenilemek için linke tıklayınız.
+4000000268	Aboneliğinize bir yıllık bulut depolama dahildir.
+4000000269	Bu ürünü yalnızca uygun sertifikaya sahip müşterilere satıyoruz.
+4000000270	Yerinde eğitim sağlayabiliriz fakat bunun için bazı şartlarımız var.
+4000000271	Yeni ürününüz hakkında daha fazla bilgi edinmek isterseniz, bizi arayın!
+4000000272	Dünya çapında gönderim yapıyoruz, ancak nakliye süresi birkaç haftadır.
+4000000273	Aşırı ısınma, bu model için yaygın bir sorundur ve garanti kapsamındadır.
+4000000274	Lütfen tamir ettirmek için servis merkezlerimizden birine götürün.
+4000000275	Telefonda bu tür bilgileri vermem mümkün gözükmüyor.
+4000000276	Size ürününüzle ilgili birkaç soru sormak istiyoruz.
+4000000277	Satın alma işleminizle ilgili hızlı bir ankete katılmak ister misiniz?
+4000000278	Yüzde on beş ekstra indirim almak için bu kodu web sitemize girin.
+4000000279	Alışveriş için bir puan kartınız var mı?
+4000000280	Merhaba, sadece cihazlarınızın düzgün çalıştığından emin olmak için arıyoruz.
+4000000281	Teknisyenimiz sorunu çözemezse size yenisini göndereceğiz.
+4000000282	Ek yüz elli lira için farklı bir eğitim sağlayabiliriz.
+4000000283	Kurulumla ilgili yardım için lütfen arayın veya web sitemizi ziyaret edin.
+4000000284	Bültenimize kaydolursanız yüzde on beş daha indirim alabilirsiniz.
+4000000285	Kapsam, esas olarak iş hedeflerine ve zorluklara göre belirlenir.
+4000000286	Genellikle her projenin başında bir değerlendirme aşaması öneriyoruz.
+4000000287	Çözümlerimiz esnektir ve sayısız zorluğu çözmeyi amaçlar.
+4000000288	Zamandan ve paradan tasarruf etmek için seyahati mümkün olduğunca ortadan kaldırıyoruz.
+4000000289	Teklif, bir açıklama ve çalışma kapsamı, fiyatlandırma, zaman çizelgeleri ve önerileri içerecektir.
+4000000290	Hacim indirimleri, tipik danışmanlık oranlarımızın yüzde onundan yüzde otuzuna kadar değişir.
+4000000291	Tasarım aşaması, baştan sona bir eğitim programı tasarlamak için kullanılır.
+4000000292	İş süreci haritalaması, iş sürecinin iyileştirilmesi için esastır.
+4000000293	Operasyonel yedeklilik, kilit yeteneğin ayrılması veya kullanılamaması durumunda riski azaltır.
+4000000294	İş süreci iyileştirmesi ancak doğru süreç dokümantasyonu ile yapılabilir.
+4000000295	Satın alma gereksinimleri genellikle ayrıntılı süreç belgelerini içerir.
+4000000296	Kurumsal stratejiniz, işletmenizin nasıl çalışacağını tanımlamak için kritik öneme sahiptir.
+4000000297	Her tür çalışan anketi için kapsamlı raporlama geliştirebilir, dağıtabilir ve sağlayabiliriz.
+4000000298	Fiyatlandırma optimizasyonu ve satış yürütme yoluyla ticari mükemmelliğe ulaşın.
+4000000299	Müşterilerimizin verimliliği artırmalarına ve gelecek için yenilik yapmalarına yardımcı oluyoruz.
+4000000300	Bir projenin uzunluğu, bütçe ve organizasyon büyüklüğü gibi çeşitli faktörlere bağlıdır.

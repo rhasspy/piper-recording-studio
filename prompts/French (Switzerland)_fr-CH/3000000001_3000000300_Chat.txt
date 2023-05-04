@@ -1,0 +1,300 @@
+3000000001	Mangez pendant que c'est chaud.
+3000000002	Si oui, vous êtes peut-être accro au shopping.
+3000000003	Avant d’entreprendre quelques mesures que ce soit, vous devez reconnaître que vous êtes probablement un acheteur compulsif.
+3000000004	Si vous le voulez, vous pouvez manger dans notre restaurant.
+3000000005	Oui, j’aimerais manger au restaurant.
+3000000006	Mais vous devez réserver une place pour ça.
+3000000007	J’espère ne pas avoir à payer.
+3000000008	C’est trop cher pour moi.
+3000000009	Je ne veux pas manger au restaurant.
+3000000010	Vous pouvez venir chercher votre commande maintenant.
+3000000011	Oui, je pense que je dois payer vingt euros.
+3000000012	Non, vous devez payer neuf euros quatre-vingt-dix-neuf.
+3000000013	J’ai déjà dit que vous pouvez récupérer votre commande maintenant.
+3000000014	Je suis un peu distrait.
+3000000015	Ce n’est pas un problème.
+3000000016	Vous pouvez toujours venir chercher votre commande.
+3000000017	Je n’ai pas d’argent liquide sur moi.
+3000000018	Oui, vous pouvez également payer avec une carte de crédit.
+3000000019	J’espère que la nourriture est bonne.
+3000000020	Merci pour votre commande et je vous souhaite un bon appétit.
+3000000021	Bonjour, je voudrais commander un gâteau.
+3000000022	Merci d’avoir choisi notre pâtisserie.
+3000000023	Je ne sais pas quels types vous vendez.
+3000000024	Nous vendons aussi des tartes.
+3000000025	Nos tartes aux pommes sont les plus vendues.
+3000000026	Non, j’aimerais avoir quelque chose avec du chocolat.
+3000000027	Oui, nous avons aussi des tartes au chocolat.
+3000000028	Payez vos dettes et dites-leur adieu.
+3000000029	Un paquet de biscuits au chocolat coûte cinq euros quatre-vingt-dix-neuf.
+3000000030	Un paquet contient cent biscuits aux pépites de chocolat.
+3000000031	Cela représente beaucoup de biscuits.
+3000000032	Non, il n’y a pas de cannelle dans ces biscuits.
+3000000033	Oui, ces biscuits contiennent également des raisins secs.
+3000000034	Dommage, car je suis allergique et je n’aime pas la cannelle.
+3000000035	J’entends par là de la confiture ou du chocolat.
+3000000036	Depuis, j’aère ma maison tous les matins, c’est devenu ma routine quotidienne.
+3000000037	Dans les régions chaudes, il faut aérer régulièrement l’habitation, en particulier les chambres à coucher.
+3000000038	Nous vous remercions de votre commande.
+3000000039	Oui, j’aimerais avoir quinze biscuits sablés.
+3000000040	Oui, nous vendons aussi du café avec de la crème de lait.
+3000000041	Je pourrais vous offrir du thé glacé.
+3000000042	Je ne peux pas tolérer le thé glacé.
+3000000043	Oui, nous avons aussi des limonades.
+3000000044	Non, une grande limonade coûte un euro quatre-vingt-dix-neuf.
+3000000045	Une grande limonade à zéro virgule cinq litres.
+3000000046	J’aimerais avoir une grande limonade, mais elle doit être fraiche.
+3000000047	Ensuite, je l’inclurai dans la commande.
+3000000048	Oui, nous pouvons également livrer votre commande.
+3000000049	Mais vous devez la payer d’avance.
+3000000050	J’habite à cinq kilomètres.
+3000000051	Vous devez payer un total de cinq euros.
+3000000052	Votre commande sera là dans une demi-heure.
+3000000053	Mais je ne serai pas là.
+3000000054	Oui, si vous voulez, nous pouvons la livrer plus tard.
+3000000055	Non, j’ai besoin que la commande soit livrée maintenant.
+3000000056	Je vais vous transférer l’argent directement.
+3000000057	Bien reçu, nous ferons comme vous le souhaitez.
+3000000058	Non, je n’ai pas encore demandé les prix.
+3000000059	Vous devez payer douze euros au total.
+3000000060	Merci pour votre commande.
+3000000061	Merci de votre aide.
+3000000062	Oui, nous allons tout livrer dans une demi-heure et le laisser dans votre jardin.
+3000000063	Bonjour, je voudrais commander une casserole.
+3000000064	Nous pouvons vous proposer une casserole de pommes de terre et une casserole de nouilles.
+3000000065	Beaucoup de nos clients préfèrent la casserole de pommes de terre.
+3000000066	Non, nous pouvons le faire sans fromage.
+3000000067	Oui, j’aimerais avoir quelque chose à boire.
+3000000068	Oui, nous vendons aussi de l’eau.
+3000000069	Je voudrais avoir de l’eau naturelle.
+3000000070	Oui, vous pouvez toujours réserver une place.
+3000000071	Je voudrais réserver une table pour trois personnes.
+3000000072	Nous devrions d’abord le savoir.
+3000000073	Pour nous, cela n’a pas d’importance.
+3000000074	Cela ne devrait pas être trop tard.
+3000000075	Bonjour, c’est super ça.
+3000000076	Oui, ce serait génial.
+3000000077	Nous prendrons l’avion dans deux semaines.
+3000000078	À ce moment-là, je suis aussi en vacances.
+3000000079	Non, nous n’avons encore rien réservé.
+3000000080	Non, bien sûr, je ne veux pas tout réserver.
+3000000081	Ce n’est pas sympa.
+3000000082	Alors, tu as juste à ne pas venir avec moi.
+3000000083	Ensuite, nous ferons en sorte que tu fasses les réservations pour toi.
+3000000084	Non, tu n’as rien à payer.
+3000000085	Je ne suis pas d’accord.
+3000000086	Peu importe, je ne veux plus passer mes vacances avec toi.
+3000000087	Ensuite, nous ferons en sorte de tous partir en vacances ensemble.
+3000000088	Ce serait un bon compromis.
+3000000089	Je suis content que nous puissions être d’accord.
+3000000090	Je le ferai probablement dans une semaine.
+3000000091	Je vais faire ma valise dans une semaine aussi.
+3000000092	Je n’ai pas bien compris ta question.
+3000000093	Oui, je veux dire pour les vacances.
+3000000094	Oui, avant de faire ma valise, je dois aller acheter quelque chose.
+3000000095	Il veut une petite voiture pour Noël.
+3000000096	J’attends les vacances avec impatience.
+3000000097	Je suis également heureux.
+3000000098	Je dois acheter un écran solaire.
+3000000099	Je pensais que nous louerions une voiture là-bas.
+3000000100	Oui, j’ai un permis de conduire.
+3000000101	Non, pour les pantalons, il fait trop chaud.
+3000000102	Il y a aussi beaucoup de déserts.
+3000000103	Quand j’étais là-bas, j’étais sur un chameau.
+3000000104	C’est une belle expérience.
+3000000105	Nous pouvons le faire également.
+3000000106	Il faisait très chaud.
+3000000107	Oui, bien sûr, nous devons y réfléchir.
+3000000108	Non, vous pouvez y aller spontanément.
+3000000109	Nous l’avons fait l’année dernière aussi.
+3000000110	Comme tu n’as rien prévu, un peu de spontanéité ne fera pas de mal.
+3000000111	On peut également nager avec les dauphins.
+3000000112	Oui, nous pouvons aussi aller à la plage.
+3000000113	Un de mes amis l’avait déjà fait.
+3000000114	J’aime aussi la culture et la nourriture.
+3000000115	Des visites culturelles sont également disponibles.
+3000000116	Oui, je pense que l’idée est géniale.
+3000000117	Un voyage culturel prend trois jours.
+3000000118	On visite les musées et les espaces naturels.
+3000000119	Oui, ça pourrait le faire.
+3000000120	Mais je dois clarifier avec elle.
+3000000121	Nous sommes trois personnes.
+3000000122	Non, malheureusement c’est trop.
+3000000123	Par conséquent, tu dois venir par toi même.
+3000000124	Comme ma cousine a un appartement plutôt petit, nous ne pourrons pas tous y rester.
+3000000125	Soit on y va tout, soit on n’y va pas du tout.
+3000000126	Laisse-moi aller à l’hôtel.
+3000000127	C’est beaucoup plus confortable.
+3000000128	D’accord, alors allons dans un hôtel pas cher.
+3000000129	Alors, recherchez des hôtels bon marché.
+3000000130	Parce qu’elle est ma meilleure amie.
+3000000131	Non, je n’ai aucun problème avec elle.
+3000000132	Elle est la bienvenue.
+3000000133	Je veux y aller.
+3000000134	Va voir dans la cuisine, j’ai fait des cookies.
+3000000135	Ils sont encore chauds.
+3000000136	J’étais dans le désert et j’ai vu beaucoup d’étoiles et il faisait très froid.
+3000000137	Tout ça est hors sujet.
+3000000138	Je n’ai rien fait d’intéressant.
+3000000139	Mais je pensais que tu vivais au Japon.
+3000000140	J’y suis resté quatre mois.
+3000000141	Ce fut un agréable moment.
+3000000142	Après deux mois, nous sommes de nouveau en vacances.
+3000000143	Oui, j’ai toujours des vacances.
+3000000144	Depuis que je suis le patron, je peux planifier mes vacances moi-même.
+3000000145	Je ne sais pas quand et où je veux passer mes vacances.
+3000000146	Oui, honnêtement, je réfléchis encore.
+3000000147	Peut-être que je vais y aller en hiver.
+3000000148	Cette étude sauve des vies.
+3000000149	J’étais là-bas aussi au printemps.
+3000000150	Non, je n’aime pas être là-bas au printemps.
+3000000151	Je voulais aussi y aller il y a deux ans.
+3000000152	Pour ça, tu as besoin d’une invitation spéciale.
+3000000153	Je ne le pense pas.
+3000000154	Tu ne les connais pas personnellement et il faut que ce soit une star américaine.
+3000000155	Je vais prendre des vêtements et des articles de toilette avec moi.
+3000000156	J’ai oublié ce que tu voulais emporter.
+3000000157	Je vais prendre des vêtements et une tunique.
+3000000158	Je ne prendrais pas de pantacourt.
+3000000159	Je propose quelque chose.
+3000000160	Nous pouvons voyager avec mon hélicoptère.
+3000000161	Je pense que l’idée est géniale.
+3000000162	C’est mon propre hélicoptère.
+3000000163	Mon père est pilote et il peut nous y emmener rapidement.
+3000000164	Mais je ne veux pas voler avec ton père.
+3000000165	Il demande toujours mes notes.
+3000000166	C’était il y a longtemps.
+3000000167	Non, je finis mon dernier travail.
+3000000168	Je veux prendre des vacances pour pouvoir me détendre.
+3000000169	Alors, tu as encore moins de dix-huit ans et tu devras demander à tes parents.
+3000000170	Je suis à ma dernière année.
+3000000171	Alors ce n’est probablement pas un problème.
+3000000172	Mon père dit que nous allons décoller vers 18 heures.
+3000000173	Mais je veux voyager le matin.
+3000000174	Ce n’est pas possible.
+3000000175	Soit juste heureux que je vous emmène avec moi.
+3000000176	Pour moi, ce n’est pas grave.
+3000000177	Tu es riche, mais tu ne veux pas attirer l’attention sur toi.
+3000000178	Je ne veux pas me disputer avec toi.
+3000000179	Je veux faire beaucoup de choses.
+3000000180	Mais vous payez tout.
+3000000181	Oui, je paie tout.
+3000000182	Préférez l’argent comptant, vous pourrez ainsi mieux gérer votre compulsion.
+3000000183	Mais je veux aussi être avec ta cousine Lena.
+3000000184	Tu vas maintenant me promettre que tu ne viendras pas, sinon tu iras seule.
+3000000185	Je te promets que je ne viendrai pas avec toi.
+3000000186	Si tu n’es pas d’accord, tu peux voler seul.
+3000000187	Mais tu restes toujours à côté de moi.
+3000000188	Mais tu ne vas pas rester à côté de nous tous les jours.
+3000000189	Oui, je resterai à côté de toi tous les jours.
+3000000190	Non, tu restes ici.
+3000000191	Moi et Lena voyagerons et tu nous paieras tout.
+3000000192	Je ne ferai pas ça.
+3000000193	Je veux beaucoup manger.
+3000000194	J’ai fait beaucoup de recherches et mon père y a également travaillé.
+3000000195	Je vous l’ai déjà dit au début.
+3000000196	Mais nous aimerions avoir un rideau gris.
+3000000197	Je veux dire un gris foncé.
+3000000198	J’ai vu des kangourous là-bas.
+3000000199	Vous avez repéré quelque chose que vous aimez vraiment ?
+3000000200	C’était une mauvaise blague.
+3000000201	Vous avez probablement dû rire.
+3000000202	Non, c’était trop bizarre.
+3000000203	Je pensais que c’était vrai.
+3000000204	Tu ne le croiras pas.
+3000000205	Oui, j’aimerais savoir où tu étais.
+3000000206	Il ne m’avait pas vu.
+3000000207	Il se peut qu’il ne vous ait pas vu.
+3000000208	Je te rejoins bientôt, je dois finir mes exercices.
+3000000209	J’ai dû mal à le croire.
+3000000210	J’ai eu un professeur qui m’a enseigné le surf.
+3000000211	Tu dois aussi m’apprendre.
+3000000212	J’ai eu des pâtes pour le dîner.
+3000000213	Nous pouvons faire la même chose en été.
+3000000214	Oui, j’en serais très heureux.
+3000000215	C’est vraiment une activité très agréable.
+3000000216	Oui, mais seulement deux jours.
+3000000217	J’ai eu beaucoup de plaisir même si c’est très cher.
+3000000218	Je veux y aller aussi.
+3000000219	Nous pouvons y aller aussi.
+3000000220	J'ai eu un super cadeau pour mon anniversaire !
+3000000221	Allons tous en Indonésie.
+3000000222	Oui, nous pouvons y aller l’été prochain.
+3000000223	Je vais le faire savoir mon père.
+3000000224	Bien, mais je veux voyager le soir.
+3000000225	Non, mon père ne peut pas voler le soir.
+3000000226	En été, c’est dangereux.
+3000000227	Rien, parce que le voyage est court.
+3000000228	Nous revenons dans une semaine.
+3000000229	Non, tu n’en as pas besoin.
+3000000230	Tu n’as rien à planifier maintenant.
+3000000231	Je planifie déjà tout.
+3000000232	Il y a quatre places dans l’hélicoptère.
+3000000233	Nous trouverons tous une place.
+3000000234	Le vol dure douze heures.
+3000000235	J’ai peur des hauteurs.
+3000000236	Alors tu ne peux pas venir.
+3000000237	Honnêtement, je n’en ai plus envie.
+3000000238	D’accord, je vais voler avec vous.
+3000000239	Mais j’ai besoin d’un masque.
+3000000240	Demandez à un vendeur de mettre l’article de côté pour vous une vingtaine de minutes.
+3000000241	J’aime aussi la nourriture en Indonésie.
+3000000242	Là-bas tu ne seras pas seule.
+3000000243	J’ai envie d’aller nager, la mer est si belle.
+3000000244	Avant de quitter la maison, dressez une liste des choses dont vous avez vraiment besoin.
+3000000245	Je n’ai jamais été là.
+3000000246	C’est très bien là-bas.
+3000000247	L’appartement a trois pièces et nous suffirait amplement.
+3000000248	Je veux emménager avec toi.
+3000000249	Non, c’est à vingt minutes, mais on peut y aller en train.
+3000000250	Je suis vraiment impatient d’y être.
+3000000251	L’université commencera dans trois semaines.
+3000000252	Nous voulons emménager dans trois jours.
+3000000253	Oui, je suis d’accord.
+3000000254	Mais tu devras prendre ton frigo, car nous n’avons pas de frigo tous les deux.
+3000000255	Faisons un plan de qui doit acheter ou prendre quelque chose.
+3000000256	Je peux donc apporter un canapé et une machine à laver.
+3000000257	Nous avons trois chambres à coucher.
+3000000258	Tout le monde a sa propre chambre.
+3000000259	D’accord, tout le monde achète ses propres meubles pour sa chambre.
+3000000260	Nous pouvons maintenant commencer par la cuisine.
+3000000261	Il me reste des casseroles et une bouilloire.
+3000000262	Il faut commencer par le début.
+3000000263	Oui, bien sûr, nous avons une cuisine.
+3000000264	Je l’avais déjà dit.
+3000000265	Je dois le savoir.
+3000000266	La cuisine fait quinze mètres carrés.
+3000000267	Eh bien, ça va.
+3000000268	Nous devons y aller aujourd’hui pour nettoyer la cuisine.
+3000000269	Oui, mais faisons ça un autre jour, lorsque nous allons nettoyer tout l’appartement.
+3000000270	Mais nous devons commencer le plus tôt possible.
+3000000271	Je pense que nous n’avons pas besoin d’un micro-ondes.
+3000000272	D’accord, laissons ça pour l’instant.
+3000000273	Nous avons également besoin d’un lave-vaisselle.
+3000000274	J’ai toujours une bouilloire et un grille-pain.
+3000000275	Je peux aussi avoir un frigo.
+3000000276	Je pense qu’il y a un lave-vaisselle dans l’appartement.
+3000000277	Oui, ce serait bien.
+3000000278	La cuisine est vieille et de couleur brune.
+3000000279	Je veux changer la couleur pour du blanc.
+3000000280	C’est trop de travail.
+3000000281	Les murs sont tous jaunes, on peut les peindre ensemble.
+3000000282	Ce serait aussi une option.
+3000000283	Oui, je le pense aussi.
+3000000284	Nous pouvons également utiliser quelque chose de bleu.
+3000000285	J’ai toujours un tapis jaune.
+3000000286	Je le prends avec moi pour la cuisine.
+3000000287	Alors, je vais acheter un tapis.
+3000000288	Je suis vraiment désolé.
+3000000289	Je vais la chercher maintenant.
+3000000290	Non, j’aimerais avoir quelque chose de rafraîchissant.
+3000000291	Il fait très chaud dehors.
+3000000292	Comme cette région est agréable !
+3000000293	Nous devons y aller aussi.
+3000000294	J’ai aussi visité une prison célèbre.
+3000000295	Nous fermons le sujet.
+3000000296	Mais je suis plus riche et je ne dis pas ça.
+3000000297	Non, je ne le sais pas.
+3000000298	Je suis déjà excité.
+3000000299	Il était probablement dans une conversation importante.
+3000000300	Tu obtiens tout ce que tu veux.

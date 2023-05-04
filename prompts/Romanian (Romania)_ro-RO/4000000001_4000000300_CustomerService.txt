@@ -1,0 +1,300 @@
+4000000001	Trebuie să prezentați dovada achiziției pentru a fi eligibil pentru o rambursare.
+4000000002	Îmi pare rău pentru produs, permiteți-mi să vă rambursez suma cheltuită.
+4000000003	Produsul trebuie să fie în ambalajul original.
+4000000004	Sunteți eligibil pentru o rambursare integrală numai în termen de 30 de zile de la achiziție.
+4000000005	Vă rugăm să luați articolul cu dumneavoastră la magazin împreună cu chitanța.
+4000000006	Uzura nu este acoperită de garanția originală.
+4000000007	Datorită defectului din fabricație, putem înlocui articolul gratuit pentru dumneavoastră.
+4000000008	Taxa de înlocuire pentru acea parte va fi de 50 de lei.
+4000000009	Puteți duce articolul la magazin sau îl puteți trimite prin poștă.
+4000000010	Mă tem că produsul nu este eligibil pentru reparații gratuite.
+4000000011	Garanția a expirat acum trei zile.
+4000000012	Garanția a fost anulată în momentul în care ați îndepărtat sigiliul de siguranță.
+4000000013	Puteți să ni-l trimiteți înapoi pentru rambursare sau vă putem expedia un articol nou.
+4000000014	Nu puteți returna articole aflate în lichidare de stoc.
+4000000015	Puteți da click pentru a vă da acordul cu privire la prelucrarea realizată de către noi și partenerii noștri în astfel de scopuri.
+4000000016	Produsul dumneavoastră nu a fost menționat în lista de rechemări a producătorului.
+4000000017	Piesele de schimb sunt trimise prin poștă.
+4000000018	Vom fi încântați să vă rambursăm costul produsului.
+4000000019	Nu vă putem oferi o rambursare integrală, dar vă putem restitui 40% în numerar.
+4000000020	Vă rugăm să ne expediați articolul înainte de sfârșitul zilei de joi.
+4000000021	Mâine vom trimite doi tehnicieni să facă o inspecție.
+4000000022	Garanția pentru acest produs nu acoperă daunele cauzate de apă.
+4000000023	Vom fi bucuroși să vă prelungim garanția.
+4000000024	Au mai rămas trei luni de garanție.
+4000000025	Trebuie să furnizați dovada achiziției înainte de a putea face orice.
+4000000026	Nu ați cumpărat garanția extinsă atunci când ați cumpărat produsul.
+4000000027	Dacă întâmpinați din nou probleme, vă rugăm să ne contactați cât mai curând posibil.
+4000000028	O rambursare va fi procesată în termen de două zile lucrătoare.
+4000000029	Nu suntem responsabili pentru costurile de transport asociate.
+4000000030	Îmi pare rău, dar nu putem procesa returnarea fără o chitanță.
+4000000031	Vă rugăm să ne trimiteți o descriere detaliată a deteriorării produsului.
+4000000032	Dacă doriți să vă aduceți mașina, trebuie să vă programați.
+4000000033	În timp ce este reparată, primiți spre folosință una dintre mașinile noastre.
+4000000034	Dacă doriți să evitați așteptarea, asistența noastră online este întotdeauna mai rapidă.
+4000000035	Mai întâi trebuie să verificăm informațiile dumneavoastră.
+4000000036	Deoarece este un model vechi, îl putem înlocui cu o versiune mai nouă.
+4000000037	Vă recomandăm să îl aduceți la fiecare trei ani pentru întreținere.
+4000000038	Logarea cu user și parolă permite accesul la facilități suplimentare pentru fiecare serviciu și la conținut customizat.
+4000000039	Dacă întâmpinați probleme, nu ezitați să ne sunați.
+4000000040	Instalarea poate fi complicată, dar avem tehnicieni care o pot face pentru dumneavoastră.
+4000000041	Ne puteți contacta șapte zile pe săptămână.
+4000000042	În ce magazin ați achiziționat produsul?
+4000000043	A fost remediat anterior de unul dintre tehnicienii noștri calificați?
+4000000044	Vă putem trimite un înlocuitor sau vă putem rambursa banii.
+4000000045	Puteți dezactiva această funcție, dacă vă deranjează.
+4000000046	Vindem acel produs numai clienților care dețin certificatul corespunzător.
+4000000047	Expediem în întreaga lume, dar timpul de expediere este de câteva săptămâni.
+4000000048	Supraîncălzirea este o problemă obișnuită pentru acel model și este acoperită de garanție.
+4000000049	Vă rugăm să îl duceți la unul dintre centrele noastre de service pentru a-l repara.
+4000000050	Nu putem oferi acest tip de informații prin telefon.
+4000000051	Ați fi dispus să participați la un sondaj rapid despre achiziția dumneavoastră?
+4000000052	Vă sun pentru a vă informa că a fost întârziată comanda dumneavoastră.
+4000000053	Este corectă adresa pe care o avem în baza noastră de date?
+4000000054	Ar trebui să vă încărcați laptopul timp de 24 de ore prima dată.
+4000000055	Bună ziua, sunăm doar pentru a ne asigura că aparatele dumneavoastră funcționează corect.
+4000000056	Caracterul nostru profund jurnalistic și de interes public este susținut de numărul mare al cititorilor noștri aflat în continuă creștere.
+4000000057	Doriți să vă alăturați programului nostru de loialitate?
+4000000058	Produsele noastre sunt eficiente și foarte scalabile.
+4000000059	Echipa noastră de experți poate aborda chiar și cele mai urgente probleme legate de învățarea automată.
+4000000060	Cunoștințele profunde din industrie și analiza riguroasă sunt atuurile noastre.
+4000000061	Clienții noștri au beneficiat foarte mult de procesele de afaceri îmbunătățite.
+4000000062	Oferim soluții pentru o varietate de clienți interni și externi.
+4000000063	Obținerea unor informații critice pentru clienții noștri este prioritatea noastră.
+4000000064	Oferim soluții personalizate pentru a se potrivi cel mai bine nevoilor dumneavoastră.
+4000000065	Planificarea resurselor întreprinderii este specialitatea noastră.
+4000000066	Metodologiile agile sunt folosite pentru a aborda proiectele dumneavoastră de dezvoltare software.
+4000000067	Produsele noastre fac clienții mai competitivi pe piața globală.
+4000000068	Ajutăm companiile în creștere să implementeze sisteme complexe de afaceri.
+4000000069	Palmaresul nostru de succes vorbește de la sine.
+4000000070	Ajutăm clienții să depășească provocatorile de pe o piață în evoluție rapidă.
+4000000071	Obțineți excelență comercială prin optimizarea prețurilor.
+4000000072	Ajutăm clienții să îmbunătățească eficiența și să inoveze pentru viitor.
+4000000073	Durata unui proiect depinde de diverși factori, cum ar fi bugetul și dimensiunea organizației.
+4000000074	Fiecare proiect este conceput pentru a satisface nevoile specifice ale clienților noștri.
+4000000075	De obicei, recomandăm o fază de evaluare la începutul fiecărui proiect.
+4000000076	Soluțiile noastre sunt flexibile și menite să rezolve nenumărate provocări.
+4000000077	Eliminăm călătoriile cât mai mult posibil pentru a economisi timp și bani.
+4000000078	Propunerea va include o declarație și un domeniu de lucru, prețuri, termene și recomandări.
+4000000079	Reducerile variază de la zece la treizeci la sută din tarifele noastre tipice de consultanță.
+4000000080	Îmbunătățirea procesului de afaceri se poate face numai cu documentația exactă a procesului.
+4000000081	Cerințele de achiziție includ adesea documentația detaliată a procesului.
+4000000082	Strategia organizațională este esențială pentru definirea modului în care va funcționa afacerea dumneavoastră.
+4000000083	Putem dezvolta, distribui și furniza rapoarte cuprinzătoare pentru orice tip de sondaj al angajaților.
+4000000084	Veți avea nevoie de cea mai recentă versiune a aplicației pentru a continua.
+4000000085	Ecranul se blochează în continuare când deschideți programul?
+4000000086	Când a expirat licența pentru software?
+4000000087	Dacă vedeți o lumină roșie, ar trebui să ieșiți imediat din program.
+4000000088	Deconectați dispozitivul, este posibil să fi fost supraîncălzit.
+4000000089	Țineți apăsat butonul de alimentare timp de trei secunde.
+4000000090	Faceți clic pe pictograma din colțul din dreapta sus.
+4000000091	Este posibil să fie necesar să reinstalați software-ul.
+4000000092	Deconectați-vă mai întâi de la Bluetooth.
+4000000093	Dacă nu s-a descărcat în două minute, reporniți dispozitivul.
+4000000094	Pot să vă întreb ce versiune folosiți în prezent?
+4000000095	Veți avea nevoie de mai mult spațiu pe hard disk.
+4000000096	Actualizați dispozitivul la cea mai recentă versiune înainte de a continua.
+4000000097	Va trebui să eliberați mult spațiu pe disc pentru acea actualizare.
+4000000098	Utilizatorii nu vor modifica nici o parte din acest site în afară de ceea ce este necesar pentru utilizarea corespunzatoare a site-ului cu scopul în care a fost creat.
+4000000099	Vă putem trimite un tehnician la ora 15:00.
+4000000100	Sunați sau ne trimiteți emailuri sau scrisori, întrebați despre produsele și serviciile noastre, sau raportați probleme de funcționalitate.
+4000000101	Trebuie să faceți upgrade sistemului înainte de a putea salva modificările.
+4000000102	Voi trimite codul de acces la adresa dumneavoastră de e-mail.
+4000000103	Din păcate, software-ul nu este acceptat de dispozitivul dumneavoastră.
+4000000104	Aplicația nu acceptă mai mult de două dispozitive.
+4000000105	Cred că este o problemă cu serverul.
+4000000106	Putem înregistra apeluri telefonice pentru îmbunătățirea calității, instruirea personalului și managementul serviciilor noastre.
+4000000107	Din ceea ce pot vedea, un alt dispozitiv s-a conectat la rețea.
+4000000108	De asemenea, este posibil să colectăm informații din cookie-urile plasate pe dispozitiv.
+4000000109	Asigurați-vă că așteptați câteva secunde înainte de a reporni computerul.
+4000000110	În acest caz, colectăm date pentru analize și statistici privind funcționarea website-urilor.
+4000000111	Vă rugăm să vă asigurați că aveți o conexiune stabilă înainte de descărcare.
+4000000112	Cred că dispozitivul dumneavoastră are probleme de conectivitate.
+4000000113	Interacționați cu website-urile noastre, prin intermediul cookie-urilor și a altor tehnologii similare.
+4000000114	Pe timpul unei veri călduroase, cel mai potrivit desert este înghețata.
+4000000115	Asigurați-vă că nu există firewall-uri activate atunci când vă conectați la rețea.
+4000000116	Puteți plăti o taxă de abonament lunară sau o plată unică.
+4000000117	Vă rugăm să faceți clic pe pictogramă când vi se solicită.
+4000000118	Vi se permit trei dispozitive în rețea fără costuri suplimentare.
+4000000119	Este și mai delicioasă atunci când reușești să o faci în casă.
+4000000120	Încercați și vedeți dacă puteți muta cursorul acum.
+4000000121	Completați un raport de avarie și tehnicienii noștri vă vor contacta în curând.
+4000000122	Puteți face upgrade gratuit la versiunea premium.
+4000000123	Asigurați-vă că nu există alte dispozitive conectate în rețea.
+4000000124	Ai nevoie de doar trei ingrediente pentru această rețetă.
+4000000125	Apăsați butonul de reîmprospătare și vedeți dacă apare formularul.
+4000000126	Poate fi necesar să reîmprospătați pagina pentru a vedea noile actualizări.
+4000000127	Ștergeți aplicația de pe desktop, făcând clic dreapta și ștergere.
+4000000128	Așteptați două minute înainte de a actualiza pagina.
+4000000129	Nu puteți modifica data și ora.
+4000000130	Parola dumneavoastră trebuie să includă și majuscule.
+4000000131	Voi avea nevoie de acest cod, vă rog.
+4000000132	Vă rugăm să verificați dacă internetul funcționează.
+4000000133	Acum, faceți clic pe „următor” pentru a vă activa software-ul.
+4000000134	Apăsați butonul de alimentare pentru al porni.
+4000000135	Trimiteți codurile de verificare la adresa de e-mail.
+4000000136	În contextul acestor zile călduroase, cui nu-i place să se răsfețe cu o înghețată.
+4000000137	Computerul dumneavoastră este conectat la internet?
+4000000138	Trebuie să folosești doar 3 ingrediente, fără aparat special.
+4000000139	Această escaladare nu a fost aprobată de această echipă.
+4000000140	Acestea sunt toate informațiile la care am acces.
+4000000141	Va trebui să completăm un formular de escaladare.
+4000000142	Nu se aude niciun sunet în cască.
+4000000143	În plus, este o rețetă foarte rapidă.
+4000000144	La pachet vine și rețeta pentru a putea face laptele condensat îndulcit acasă.
+4000000145	Veți primi doar un cod de verificare.
+4000000146	Încă o dată, nu vă putem oferi o altă extensie.
+4000000147	Reînnoiți abonamentul sau va intra în funcționalitate redusă.
+4000000148	Domnule, sunt aici pentru a vă ajuta să activați software-ul.
+4000000149	Înghețata cumpărată din magazin poate fi într-o mare varietate de feluri.
+4000000150	De aceea comanda dumneavoastră este puțin întârziată.
+4000000151	Nu putem face nimic altceva în acest moment.
+4000000152	Pentru a începe, pot avea adresa dumneavoastră de e-mail?
+4000000153	Rambursarea nu a fost emisă în douăzeci și opt februarie?
+4000000154	Nu avem nevoie de un cod de acces pentru acel e-mail.
+4000000155	Mă voi deconecta de pe calculator acum.
+4000000156	Domnule, ce anume vedeți pe ecran acum?
+4000000157	Nu ați făcut nicio actualizare pe computer, nu?
+4000000158	S-ar putea activa automat după finalizarea instalării.
+4000000159	Nu vă putem rambursa, a fost făcută deja o excepție.
+4000000160	Verificați adresa de e-mail și telefonul pentru acest cod de verificare.
+4000000161	Nu faceți clic pe nimic, doamnă, rămâneți pe linie.
+4000000162	Urează-le lui Mihai și altor 3 prieteni la mulți ani!
+4000000163	Mai aveți 1 gigabyte de date.
+4000000164	Codul dumneavoastră de securitate este 92192.
+4000000165	Ne pare rău că plata dumneavoastră a eșuat, nu s-au perceput alte taxe.
+4000000166	Trimiteți textul 123 la 99484 pentru actualizări.
+4000000167	Finalizați achiziția acum și primiți o reducere de zece la sută!
+4000000168	Declarația dumneavoastră este acum disponibilă în contul dumneavoastră.
+4000000169	Ați fost deconectat de la această sesiune.
+4000000170	Tocmai ați primit o depunere în contul dumneavoastră.
+4000000171	Ați depășit limita de date pentru această lună.
+4000000172	Pentru a vă verifica mesageria vocală, apelați 121.
+4000000173	Completați un sondaj pentru mai multe puncte!
+4000000174	Este posibil ca acest e-mail să nu fie sigur, sunteți sigur că doriți să îl deschideți?
+4000000175	Descărcați aplicația pentru o experiență mai bună!
+4000000176	Este posibil să aveți întreruperi din cauza unui semnal slab.
+4000000177	Apăsați aici pentru a modifica setările.
+4000000178	Livrarea gratuită este disponibilă pentru orice achiziție.
+4000000179	Vă rugăm să cereți ajutor oricăruia dintre asistenții nostri.
+4000000180	Avem o opțiune de livrare a doua zi disponibilă la un cost suplimentar.
+4000000181	Articolele perisabile nu sunt eligibile pentru returnări.
+4000000182	Toate articolele vestimentare sunt reduse cu 10%.
+4000000183	Returnările sunt acceptate 30 de zile de la cumpărare, însoțite de chitanță.
+4000000184	Orarul magazinului este de la 10 la 19.
+4000000185	Așteptați puțin în timp ce căutăm produsul.
+4000000186	Vă puteți răscumpăra cardul cadou în oricare dintre magazinele noastre.
+4000000187	Nu am putut găsi articole în stoc în magazinul selectat.
+4000000188	Oferim un plan de răscumpărare a dispozitivelor vechi.
+4000000189	Articolele cu etichetă roșie au o reducere de 40%.
+4000000190	Anumitor articole se aplică restricții de cumpărare.
+4000000191	Oferim servicii de livrare la domiciliu.
+4000000192	Vă puteți înscrie în programul nostru de recompensare a loialității.
+4000000193	Nu puteți utiliza un cupon de reducere pentru articolele cu preț deja redus.
+4000000194	Doriți să cumpărați extra-garanție împreună cu articolul?
+4000000195	Ne ocupăm cu seriozitate de toate reclamațiile.
+4000000196	De obicei conține aditivi cum ar fi fulgi de ciocolată, sau chipsuri, ornamente cum ar fi ciocolata sau carameaua, nucile, fructele și dulciurile.
+4000000197	Oferim produsul individual sau ca parte dintr-un pachet.
+4000000198	Oferim acest produs în mai multe dimensiuni.
+4000000199	Oferim reduceri pentru studenți și pensionari.
+4000000200	Prețul listat nu include taxele sau transportul.
+4000000201	Vă mulțumim pentru feedback-ul dumneavoastră, apreciem opiniile fiecărui client!
+4000000202	Vă rugăm să vă adresați distribuitorului local cu privire la politica individuală a magazinului.
+4000000203	Garanția noastră de rambursare acoperă acest lucru.
+4000000204	Prețul fiecărui produs este același în toate magazinele.
+4000000205	Unele din cele mai folosite feluri de înghețată sunt vanilia ciocolata, căpșuni și vafele, în combinație cu cele trei feluri.
+4000000206	Dacă nu sunteți mulțumit de achiziția dumneavoastră, puteți returna produsul, pur și simplu.
+4000000207	Magazinul se închide la ora 19:00 în ajunul Crăciunului.
+4000000208	Doriți să adăugați articole suplimentare la comanda dumneavoastră?
+4000000209	Aveți noul card de recompense pentru clienți?
+4000000210	Înghețatele mai rafinate conțin aproximativ 16% lapte gras și poate varia până la 20%.
+4000000211	Clienții noi au dreptul la un cadou gratuit.
+4000000212	Așteptați ca produsul să ajungă la dumneavoastră în termen de trei zile lucrătoare.
+4000000213	Acest produs este lansat recent și se vinde foarte bine.
+4000000214	Personalul nostru prietenos va fi bucuros să vă răspundă la orice întrebări.
+4000000215	Doriți să încercați ambele perechi de pantofi?
+4000000216	Doriți aceste perechi pentru dumneavoastră sau pentru altcineva?
+4000000217	Anunțați-mă dacă mai aveți nevoie de ceva.
+4000000218	Cum vi se potrivește această pereche?
+4000000219	Permiteți-mi să verific site-ul nostru pentru a vedea dacă avem acel model.
+4000000220	Acesta este foarte elegant, este produs în Italia.
+4000000221	Cabinele de probă se află în partea din spate a magazinului.
+4000000222	Vă mulțumim că ați cumpărat de la noi!
+4000000223	Acesta este un procesor cu opt nuclee, deci este minunat pentru editarea video.
+4000000224	Va trebui să achiziționați și un monitor?
+4000000225	Se pun ingredientele într-o oala pe foc mediu spre înalt pana începe să fiarbă.
+4000000226	Acesta este cel mai nou model care tocmai a apărut săptămâna trecută.
+4000000227	Excelent, vă vom trimite imediat noul calculator.
+4000000228	Toate fructele și legumele din această secțiune sunt fără pesticide.
+4000000229	Am importat această carne de vită din Noua Zeelandă și este sută la sută fără hormoni.
+4000000230	Mâncarea pe care o pregătim aici este făcută cu ingrediente care nu sunt modificate genetic.
+4000000231	Puteți găsi acest produs în secțiunea Delicatese.
+4000000232	Somonul proaspăt este la ofertă specială doar astăzi.
+4000000233	Ar trebui să primim mai multe căpșuni în următoarele zile.
+4000000234	Ultima dată când am verificat, am avut doar marca respectivă.
+4000000235	Vindem mașini noi și second hand, uneori și motociclete.
+4000000236	Eu personal nu aș recomanda acel model, are destul de multe probleme.
+4000000237	Este o companie coreeană și fabrică mașini de ani de zile.
+4000000238	Pentru toate cele douăzeci de modele este inclusă o garanție de cinci ani.
+4000000239	Principala diferență este interiorul din piele.
+4000000240	De asemenea, putem închiria oricare dintre mașinile pe care le vedeți aici.
+4000000241	Dacă cumpărați acum, nu plătiți nicio dobândă timp de un an de zile.
+4000000242	Pungile de plastic se taxează, deci clienții își aduc de obicei propriile lor pungi.
+4000000243	Doriți o copie electronică a chitanței dumneavoastră?
+4000000244	Puteți găsi mai multe dintre produsele noastre în magazinul nostru online.
+4000000245	Prețul este puțin mai bun dacă cumpărați din magazin.
+4000000246	Produsul despre care întrebați este vândut numai online.
+4000000247	Permiteți-mi să încerc să caut numărul noului model.
+4000000248	Pachetele sunt întotdeauna mai ieftine și includ mai multe produse.
+4000000249	Puteți plăti în șase sau douăsprezece rate lunare.
+4000000250	Dacă acesta este un cadou pentru cineva, îl pot împacheta pentru dumneavoastră.
+4000000251	Asigurați-vă că îl păstrați la frigider și va rezista mai mult timp.
+4000000252	Procesul nostru de înscriere este ușor și rapid.
+4000000253	Studenții noștri provin din țări de pe tot globul.
+4000000254	Vă oferim o rambursare integrală dacă nu sunteți mulțumit de curs.
+4000000255	Oferim burse de merit studenților foarte talentați.
+4000000256	Studenții pot observa progresul propriu în doar două săptămâni!
+4000000257	Ne adaptăm cursurile pentru fiecare student.
+4000000258	Oferim cursuri de zi și la seral.
+4000000259	Fiecare lecție are 45 de minute.
+4000000260	Studenții trebuie să susțină un test de admitere.
+4000000261	Datorită situației actuale, toate cursurile se desfășoară online.
+4000000262	Studenții interesați pot afla mai multe dând clic mai jos.
+4000000263	Instructorii sunt încântați să răspundă la orice întrebări pe care le aveți.
+4000000264	Există o garanție de 30 de zile pentru returnarea banilor pentru acest curs.
+4000000265	Mai sunt doar trei locuri în cadrul cursului de literatură.
+4000000266	Puteți adăuga acest curs la programul dumneavoastră de studii pentru o taxă suplimentară.
+4000000267	Cursurile noastre se bazează pe o abordare practică.
+4000000268	Avem o rată de satisfacție de 98% în rândul absolvenților.
+4000000269	Cursurile noastre sunt de obicei în grupuri de 3 sau 4 studenți.
+4000000270	Puteți transfera credite de la alte instituții de învățământ.
+4000000271	Puteți alege între cursuri individuale sau de grup.
+4000000272	Programele noastre sunt flexibile pentru a satisface nevoile elevilor.
+4000000273	Cursurile noastre sunt adaptate pentru a se potrivi cel mai bine nevoilor fiecărui elev.
+4000000274	Sunteți programat pentru o oră de muzică la 9:00.
+4000000275	Elevii vor primi un certificat de absolvire.
+4000000276	Studenții anteriori ne-au scris doar recenzii de cinci stele.
+4000000277	Pentru anumite cursuri oferim plata în rate.
+4000000278	Vom organiza o sesiune online de informare mâine.
+4000000279	Avem multe opțiuni pentru persoanele care doresc să studieze cu jumătate de normă.
+4000000280	Majoritatea burselor sunt bazate pe merit.
+4000000281	Avem două campusuri, la care te gândeai?
+4000000282	Transportul în jurul campusului este foarte convenabil.
+4000000283	În campus avem două restaurante, un bar și o cafenea.
+4000000284	Cât de experimentat în utilizarea calculatoarele vă considerați?
+4000000285	Cursurile sunt de patruzeci și cinci de minute, cu pauze de cincisprezece minute între ele.
+4000000286	De obicei, vă sugerăm să urmați două cursuri în fiecare săptămână, dar puteți face și mai multe.
+4000000287	Profesorii noștri au studiat cu toții la conservator.
+4000000288	Puteți urma o lecție gratuită de treizeci de minute pentru a vedea dacă vă place.
+4000000289	Nu oferim burse, dar studenții beneficiază de reducere de zece la sută.
+4000000290	Ne împărțim clasele după vârstă și nivel de limbă.
+4000000291	Profesorii de la cursurile avansate nu vor permite elevilor să vorbească în limba lor maternă.
+4000000292	Școala organizează în fiecare sâmbătă activități care îi ajută pe elevi să practice ceea ce au învățat.
+4000000293	Manualele nu sunt incluse în taxa anuală și nu sunt opționale.
+4000000294	De obicei există destul de multe teme, așa că cursul nu este pentru toată lumea.
+4000000295	Cursul de lingvistică engleză este destinat numai cursanților avansați.
+4000000296	Cursurile sunt de la opt la unsprezece în fiecare dimineață.
+4000000297	Vă puteți aduce propriul echipament sau puteți folosi ceea ce avem la dispoziție.
+4000000298	Echipamentul de siguranță este obligatoriu pentru toată lumea.
+4000000299	Vă putem aloca un instructor personal, dacă doriți.
+4000000300	Clasele pentru copii sunt la același preț ca și clasele pentru adulți.

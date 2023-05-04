@@ -1,0 +1,300 @@
+4000000001	Saya sangat ingin membantu Anda.
+4000000002	Akan tetapi permintaan Anda melebihi apa yang dapat kami lakukan untuk pelanggan.
+4000000003	Saya sangat menghargai minat Anda terhadap produk kami.
+4000000004	Kami siap membantu Anda mengatasi masalah yang Anda temui di platform kami.
+4000000005	Senang dapat melayani Anda.
+4000000006	Mohon maaf, saat ini kami tidak dapat menindaklanjuti tiket bantuan Anda.
+4000000007	Harap tunggu sebentar, petugas kami akan segera melayani Anda.
+4000000008	Mitra pelayanan kami akan segera memberikan solusi bagi Anda.
+4000000009	Kami menghargai setiap komentar dan umpan balik dari Anda.
+4000000010	Apabila memerlukan bantuan, harap tinggalkan pesan.
+4000000011	Kami harap Anda puas dengan layanan kami.
+4000000012	Kami akan segera menghubungi bagian teknik untuk segera menangani keluhan Anda.
+4000000013	Mohon tidak meninggalkan barang bawaan Anda.
+4000000014	Terima kasih atas perhatiannya.
+4000000015	Mohon tidak membuang sampah sembarangan di area pantai.
+4000000016	Kami harap Anda menikmati waktu liburan Anda bersama kami.
+4000000017	Kami mohon maaf atas ketidaknyamanan yang Anda temui.
+4000000018	Harap tinggalkan pesan atau kirim surel untuk segala masalah yang Anda hadapi.
+4000000019	Kami akan segera membantu Anda.
+4000000020	Halo Kak, barang ini tidak memiliki spesifikasi sesuai yang Kakak cari.
+4000000021	Mohon periksa produk menarik lainnya dari kami.
+4000000022	Saat ini kami memiliki program cashback 10% untuk setiap transaksi di atas satu juta rupiah.
+4000000023	Harap segera daftarkan nomor pelanggan Anda supaya kami dapat terus membantu Anda.
+4000000024	Nomor resi yang Anda masukkan tidak ditemukan.
+4000000025	Mohon periksa kembali nomor resi Anda.
+4000000026	Harap cantumkan nomor pelanggan Anda di surel yang Anda kirimkan.
+4000000027	Kami harap Anda menikmati program baru kami.
+4000000028	Terima kasih telah memilih kami sebagai mitra liburan Anda.
+4000000029	Semoga liburan Anda menyenangkan.
+4000000030	Tuan Jeri, terima kasih telah mengunjungi situs web kami.
+4000000031	Apabila Anda masih memiliki pertanyaan, jangan ragu untuk kembali menghubungi kami.
+4000000032	Kami akan berusaha semaksimal mungkin memecahkan masalah yang Anda hadapi.
+4000000033	Mohon tidak menutup telepon selama beberapa menit.
+4000000034	Terima kasih telah menunggu.
+4000000035	Kami telah menemukan nomor pesanan Anda.
+4000000036	Harap untuk tidak memberikan tip atau hadiah apa pun kepada petugas kami.
+4000000037	Selamat pagi, saya Mila.
+4000000038	Kami mohon maaf atas kendala yang Bapak hadapi.
+4000000039	Terima kasih kembali, senang dapat membantu Anda.
+4000000040	Pelanggan yang terhormat, kami memiliki diskon khusus untuk Anda.
+4000000041	Pak Rahmat, kami menyesalkan kendala yang Bapak alami.
+4000000042	Selamat petang, Ibu Lina.
+4000000043	Mohon bantuannya menyebutkan nomor rekening dana nasabah Anda.
+4000000044	Harap menunggu sebentar ya, Pak.
+4000000045	Kami akan segera memeriksa berkas Anda.
+4000000046	Anda telah memasukkan kata sandi yang salah sebanyak 3 kali, harap mencoba kembali setelah 5 menit.
+4000000047	Ibu Rusmini, kami harap Anda menikmati hidangan spesial kami.
+4000000048	Masukan Anda sangat berharga.
+4000000049	Terima kasih telah meluangkan waktu untuk mengulas layanan kami.
+4000000050	Mohon tidak memberikan imbalan jasa dalam bentuk apa pun kepada karyawan kami.
+4000000051	Untuk menjaga kualitas layanan, seluruh staf kami dievaluasi tiap minggu.
+4000000052	Harap terus menggunakan produk kami, karena kepuasan Anda adalah kebahagiaan kami.
+4000000053	Senang dapat membantu Anda, mohon tetap gunakan layanan kami untuk kelancaran bisnis Anda.
+4000000054	Terima kasih atas kepercayaan Anda.
+4000000055	Kami akan terus meningkatkan kualitas produk dan layanan kami.
+4000000056	Pelanggan yang terhormat, kami menyesalkan kejadian yang tidak menyenangkan yang telah Anda alami.
+4000000057	Mohon maaf atas segala ketidaknyamanan yang disebabkan kelalaian staf kami.
+4000000058	Harap luangkan 1 menit untuk menilai kinerja staf kami.
+4000000059	Harap berikan skor 1 apabila pelayanan kami tidak memuaskan, skor 2 apabila pelayanan kami kurang memuaskan, dan seterusnya hingga skor 5 apabila Anda puas.
+4000000060	Kami mohon maaf yang sebesar-besarnya.
+4000000061	Kami sangat menyesalkan ketidaknyamanan yang disebabkan oleh kekeliruan petugas kami.
+4000000062	Harap simpan kartu anggota Anda untuk terus menikmati berbagai promo menarik dari kami.
+4000000063	Kami harap Anda senang telah bermalam di hotel kami.
+4000000064	Kolam renang kami memiliki fasilitas air hangat yang tersedia 24 jam.
+4000000065	Kami harap Anda menikmati waktu Anda menginap di hotel kami.
+4000000066	Harap ikuti panduan keamanan transaksi kami agar terhindar dari penipuan.
+4000000067	Mohon untuk tidak memberikan kode rahasia yang Anda terima kepada siapa pun termasuk staf kami.
+4000000068	Kami sedang menyiapkan kamar Anda dengan mengikuti protokol kesehatan yang ditetapkan oleh pemerintah.
+4000000069	Harap tidak membuka masker ketika berada di ruang publik di area hotel kami.
+4000000070	Kami sangat menghargai kerjasama Anda.
+4000000071	Terima kasih atas dukungan terus-menerus dari Anda dan keluarga.
+4000000072	Kami harap Anda terus memercayai produk dan pelayanan kami.
+4000000073	Terima kasih atas minat Anda.
+4000000074	Keamanan dan kesehatan Anda dan keluarga adalah prioritas kami.
+4000000075	Kami mengutamakan kepuasan pelanggan di atas segalanya.
+4000000076	Terima kasih telah berbelanja di toko kami.
+4000000077	Kami mohon maaf karena pelayanan kami kurang maksimal.
+4000000078	Kami akan menegur staf kami atas kelalaian yang menyebabkan terganggunya rencana perjalanan Anda.
+4000000079	Kami harap Anda terus menggunakan produk kami.
+4000000080	Maaf, produk yang Anda pesan sudah tidak tersedia.
+4000000081	Anda dapat memesan produk sejenis dengan kualitas yang sama.
+4000000082	Harap mencantumkan kode promo Anda pada lembar ini.
+4000000083	Demi keamanan dan kenyamanan Anda, mohon tidak melakukan transaksi di luar platform kami.
+4000000084	Segala bentuk penipuan akan diteruskan ke pihak berwenang.
+4000000085	Keamanan transaksi Anda selalu menjadi prioritas kami.
+4000000086	Harap kirimkan tangkapan layar percakapan Anda dengan pihak penjual.
+4000000087	Kami selalu berusaha memberikan yang terbaik demi kenyamanan Anda.
+4000000088	Kesehatan Anda dan keluarga selalu menjadi prioritas kami.
+4000000089	Mohon sebutkan nomor driver yang mengantar Anda ke Slipi.
+4000000090	Anda dapat melihat nomor driver terkait di halaman riwayat pesanan di aplikasi kami.
+4000000091	Kesalahpahaman dan sengketa dengan pihak nasabah telah diselesaikan secara kekeluargaan.
+4000000092	Segala sengketa dengan pihak nasabah telah diselesaikan secara kekeluargaan.
+4000000093	Kami telah menindaklanjuti keluhan Anda.
+4000000094	Tidak lupa kami sampaikan permohonan maaf atas kendala yang Anda alami. 
+4000000095	Peningkatan kualitas layanan akan terus dilakukan dan masukan serta kritik dari pelanggan merupakan acuan bagi kami untuk selalu memberikan layanan yang lebih baik lagi di masa mendatang.
+4000000096	Pada 29 Juni 2021, teknisi area telah datang ke lokasi untuk perbaikan kabel yang rusak dan saat ini layanan telah kembali normal.
+4000000097	Semoga layanan kami selalu bermanfaat bagi Bapak Agus dan keluarga.
+4000000098	Terima kasih atas perhatian dan kepercayaan Bapak kepada kami.
+4000000099	Kami menyampaikan permohonan maaf atas ketidaknyamanan yang dialami oleh Bapak Wiliam.
+4000000100	Kami mengucapkan terima kasih untuk masukan Ibu Milliam dalam upaya meningkatkan kualitas layanan kami kepada pelanggan.
+4000000101	Sekali lagi, kami mohon maaf atas kekurangnyamanan yang dialami beberapa waktu yang lalu.
+4000000102	Kami sangat menghargai setiap keluhan disampaikan. 
+4000000103	Kami berkomitmen untuk terus melakukan perbaikan demi meningkatkan kualitas layanan.
+4000000104	Kami percaya bahwa transparansi penting untuk memastikan kepercayaan konsumen kami.
+4000000105	Dalam memberikan jasa perencanaan keuangan, kami selalu berusaha menyampaikan hal-hal yang patut dipertimbangkan dan risiko atas suatu investasi yang dibahas bersama, sesuai dengan kebutuhan dan permintaan setiap klien.
+4000000106	Untuk keluhan Ibu tentang keterlambatan pengiriman akan kami ganti dengan yang baru tanpa dihitung dalam tagihan.
+4000000107	Kami akan mengirimkan suku cadang baru ke alamat Anda secara gratis.
+4000000108	Mohon maaf atas keterlambatan pengiriman produk kami.
+4000000109	Selamat siang, semoga hari Anda menyenangkan.
+4000000110	Terima kasih telah memesan produk manisan mangga dan manisan pala dari toko kami.
+4000000111	Untuk selisih tagihan yang Ibu sampaikan kami akan mengirimkan petugas untuk mendatangi kediaman Ibu guna penyesuaian data.
+4000000112	Kami menyesalkan mengenai pengalaman kurang menyenangkan yang dialami oleh Ibu Oneng.
+4000000113	Kami harap kejadian serupa tidak kembali terulang.
+4000000114	Kami selalu berusaha memperbaiki layanan kami.
+4000000115	Kami berkomitmen untuk terus melakukan evaluasi dan perbaikan demi kepuasan pelanggan kami.
+4000000116	Kami menyesalkan mengenai perbuatan driver kami yang dirasa tidak menyenangkan oleh Ibu Mawar.
+4000000117	Dengan adanya pembatalan tersebut, maka limit kredit Ibu Lastri telah dikembalikan secara otomatis.
+4000000118	Atas perhatian dan kerjasamanya, kami ucapkan terima kasih.
+4000000119	Semoga penjelasan kami dapat menjawab pertanyaan Bapak.
+4000000120	Kepuasan Anda adalah prioritas dan kebahagiaan kami.
+4000000121	Kami terus berusaha memperkuat kualitas layanan untuk seluruh pelanggan.
+4000000122	Masukan dan kritik dari Bapak Jago merupakan acuan untuk selalu memberikan pelayanan terbaik dan menjadi lebih baik lagi di masa mendatang.
+4000000123	Kami sampaikan bahwa tim kami sudah melakukan pengecekan melalui tim ligitasi, terkait kasus yang dikeluhkan Ibu Sri.
+4000000124	Dapat disimpulkan bahwa tim kami telah mengirimkan produk yang dipesan sebagaimana mestinya.
+4000000125	Dengan demikian kami dapat mengonfirmasi bahwa transaksi ini sudah selesai dan kami berharap agar kendala teknis yang terjadi tidak menyurutkan kepercayaan Bapak Arson untuk terus menggunakan aplikasi kami.
+4000000126	Kami terus berupaya untuk meningkatkan kualitas pelayanan kami.
+4000000127	Demikian kami sampaikan dan terima kasih atas kepercayaan Ibu Yuliana untuk memilih perusahaan kami sebagai solusi finansial Anda.
+4000000128	Kami akan senantiasa membantu pengguna setia kami kapan pun dan di mana pun, guna memberikan pengalaman bertransaksi digital yang aman, nyaman, dan tepercaya.
+4000000129	Kami selalu berkomitmen untuk memberikan pengalaman berbelanja yang nyaman dan aman kepada seluruh pelanggan kami.
+4000000130	Salah satunya dengan selalu menempatkan pelanggan sebagai prioritas utama sejalan dengan salah satu core-value kami, Enable Customer To Grow.
+4000000131	Kami akan terus meningkatkan kualitas layanan guna menghadirkan pengalaman bertransaksi yang nyaman dan tepercaya.
+4000000132	Karena  Anda baru berlangganan 3 bulan, setelah layanan dicabut baru dapat kembali dipasang di tempat yang baru.
+4000000133	Atas kepercayaan Anda, kami ucapkan Terima kasih.
+4000000134	Kami harap Anda menikmati hidangan spesial kami, kepiting soga saus telur asin.
+4000000135	Sebelumnya kami ingin menyampaikan permohonan maaf yang sebesar-besarnya atas ketidaknyamanan yang dialami oleh Bpk Rachmat dalam melakukan perubahan paket layanan kami.
+4000000136	Terkait dengan kendala ini, saat ini keluhan yang Kakak sampaikan pelanggan sudah ditangani secara langsung oleh tim terkait.
+4000000137	Saat ini Bapak telah dapat kembali menikmati layanan Internet dari kami untuk mendukung kegiatan digital di rumah.
+4000000138	Selain itu, kami juga akan terus melakukan upaya terbaik agar kejadian serupa tidak terulang kembali.
+4000000139	Sebagai perusahaan penyediaan layanan Internet yang telah mendapatkan kepercayaan oleh masyarakat, sudah menjadi tugas kami untuk terus meningkatkan pelayanan kami dan memberikan layanan terbaik untuk seluruh pelanggan.
+4000000140	Kami akan terus meningkatkan kualitas sistem dan pengalaman konsumen untuk memastikan hal ini tidak terulang di kemudian hari.
+4000000141	Kami harap Anda menikmati penerbangan Anda bersama Singa Air.
+4000000142	Kami ucapkan terima kasih atas menggunakan layanan jasa pengiriman kami.
+4000000143	Kami ingin meminta maaf atas ketidaknyamanan yang terjadi terkait hal ini.
+4000000144	Masukan dan saran Anda sangat berarti bagi kami.
+4000000145	Kami harap Anda menyukai desain dan aroma parfum terbaru kami.
+4000000146	Ibu Ana, kami ingin meminta maaf atas ketidaknyamanan yang terjadi terkait hal ini.
+4000000147	Kami terus berupaya untuk meningkatkan kualitas pelayanan kami. 
+4000000148	Kami sangat memahami ketidaknyamanan yang Anda alami.
+4000000149	Terima kasih atas kepercayaan Ibu yang telah menggunakan jasa kami.
+4000000150	Sekali lagi kami mengucapkan terima kasih atas masukan yang disampaikan kepada kami serta kepercayaan memilih layanan kami.
+4000000151	Kami harap Anda selalu sehat dan sukses.
+4000000152	Kami sangat menyesal atas ketidaknyamanan yang Anda alami sebagai salah satu nasabah prioritas kami.
+4000000153	Kami akan melakukan evaluasi menyeluruh terhadap kinerja staf terkait kami sehingga masalah serupa tidak akan terulang lagi di kemudian hari.
+4000000154	Apabila Bapak Rusdi bersedia, harap meluangkan waktu satu menit untuk mengisi survey singkat atas pelayanan kami.
+4000000155	Harap tekan angka 5 yang berarti Anda puas terhadap pelayanan kami.
+4000000156	Saat ini semua petugas teknis kami sedang sibuk.
+4000000157	Mohon kesediaannya menunggu sebentar.
+4000000158	Mohon untuk tidak menutup telepon.
+4000000159	Kami akan segera kembali.
+4000000160	Harap masukkan 16 digit nomor kartu Anda diikuti dengan tanda pagar.
+4000000161	Mohon untuk tidak mengirimkan tiket bantuan untuk masalah yang sama.
+4000000162	Kami akan segera membantu menyelesaikan masalah yang Anda hadapi.
+4000000163	Kami harap Anda tidak keberatan untuk mengisi formulir kepuasan pelanggan kami.
+4000000164	Kepuasan Anda adalah kebahagiaan kami.
+4000000165	Kami berkomitmen untuk selalu menjaga mutu kualitas layanan kami.
+4000000166	Perusahaan kami berdiri di atas dasar saling percaya dan saling menguntungkan.
+4000000167	Manajer operasional kami akan segera menemui Anda.
+4000000168	Apabila Anda berkenan, harap mengisi formulir singkat untuk memberikan masukan atas kinerja dan pelayanan kami.
+4000000169	Kami berterima kasih atas waktu yang Anda berikan untuk memberikan evaluasi terhadap pelayanan kami.
+4000000170	Ibu Rina, mohon maaf, mohon sebutkan nomor ponsel Anda yang terdaftar di sistem kami.
+4000000171	Mohon juga sebutkan tempat dan tanggal lahir Anda.
+4000000172	Kue kami selalu baru setiap hari.
+4000000173	Kami mempersiapkan kue kami pada dini hari untuk dijual hingga sore hari.
+4000000174	Kue yang tersisa tidak akan dijual kembali keesokan harinya.
+4000000175	Kami berkomitmen untuk memberikan yang terbaik.
+4000000176	Harap tidak memberikan tips kepada karyawan kami.
+4000000177	Jangan ragu untuk terus menggunakan layanan kami.
+4000000178	Kami harap Anda berkenan melihat penawaran menarik dari kami berikut ini.
+4000000179	Mohon maaf, Kakak, produk yang Kakak pesan sudah tidak diproduksi lagi.
+4000000180	Kakak dapat memilih produk lain yang sejenis dengan harga yang serupa.
+4000000181	Apabila boleh kami sarankan produk berikut.
+4000000182	Apabila Kakak berminat, Kakak dapat memesan kalung ini.
+4000000183	Kalung ini memiliki harga yang hampir sama, dan kualitas yang sama.
+4000000184	Terima kasih telah menghubungi layanan pelanggan kami.
+4000000185	Bapak Ardi, mohon untuk menunggu sebentar.
+4000000186	Kami sedang mencari data Anda di sistem.
+4000000187	Untuk produk yang Anda maksud, kami mohon maaf karena produk tersebut sudah discontinued atau tidak diproduksi lagi.
+4000000188	Mohon maaf, kami hanya dapat mengganti produk yang rusak tidak lebih dari 48 jam dari tanggal faktur.
+4000000189	Kami hanya dapat membantu Anda mengatasi kendala teknis terkait aplikasi kami.
+4000000190	Mohon bersabar untuk menunggu.
+4000000191	Terkait dengan kendala ini, saat ini keluhan yang Anda sampaikan sudah ditangani secara langsung oleh tim terkait.
+4000000192	Sudah menjadi tugas kami untuk terus meningkatkan kualitas layanan kami dan memberikan yang terbaik untuk seluruh pelanggan. 
+4000000193	Kami memohon maaf atas kendala teknis yang anda alami.
+4000000194	Kami mohon maaf atas keterlambatan hasil pemeriksaannya.
+4000000195	Kami menyadari pentingnya kenyamanan bertransaksi Bapak dan terus berusaha meningkatkan pelayanan kami ke depannya.
+4000000196	Untuk informasi lebih detail dan hasil pemeriksaan laporan Bapak akan kami kirim via email. 
+4000000197	Mohon dilakukan pengecekan ke email Bapak.
+4000000198	Terima kasih atas pengertian dan kepercayaannya kepada kami.
+4000000199	Kami akan terus memperbaiki layanannya sehingga apa yang menjadi harapan pelanggan dapat dipenuhi, mengingat kepuasan pelanggan adalah yang utama.
+4000000200	Terima kasih atas kesetiaan dan kepercayaan Bapak Eko Prasetyo menggunakan layanan kami.
+4000000201	Kami senantiasa berkomitmen memberikan layanan terbaik demi kenyamanan pelanggan.
+4000000202	Kami mengucapkan terima kasih untuk masukan Bapak Agus dalam upaya meningkatkan kualitas layanan kami kepada pelanggan.
+4000000203	Terkait hal tersebut, Kami informasikan bahwa saat ini dana sudah masuk ke rekening nasabah atas nama Bapak Yuki.
+4000000204	Dengan ini kami menyampaikan permohonan maaf atas ketidaknyamanan yang dialami oleh Bapak Solehhuddin.
+4000000205	Kami telah melakukan investigasi internal lebih lanjut sehubungan dengan keluhan yang disampaikan oleh Bapak Solehhuddin, yakni terkait dengan penghapusan sisa pembayaran dan denda keterlambatan terkait program kami.
+4000000206	Kami telah menghapus sisa pembayaran angsuran dan denda keterlambatan Bapak Solehhudin sehingga Perjanjian Pembiayaan telah kami nyatakan lunas.
+4000000207	Kami pun mengapresiasi masukan dan saran yang diberikan demi meningkatkan kualitas layanan kami.
+4000000208	Kami siap membantu Anda dengan senang hati.
+4000000209	Terima kasih atas kepercayaan Bapak Jeremy untuk terus menggunakan jasa kami.
+4000000210	Sebagai platform untuk pembayaran digital dan kami memohon maaf atas ketidaknyamanan yang Bapak alami.
+4000000211	Kami berpegang pada Kebijakan Perlindungan Produk Retail demi kepuasan konsumen.
+4000000212	Klaim hanya bisa ditindaklanjuti dalam 14 hari kalender sejak barang diterima.
+4000000213	Produk yang telah Kakak terima sejak 15 Juni 2021 telah habis masa garansinya.
+4000000214	Hal ini agar ke depannya tidak terjadi kendala yang serupa akibat proses pemasangan yang kurang tepat.
+4000000215	Kami mengucapkan terima kasih atas kepercayaan Bapak Rendi untuk senantiasa tetap menggunakan produk kami.
+4000000216	Apabila ada informasi yang ingin ditanyakan kembali dengan senang hati kami siap membantu Bapak.
+4000000217	Pesanan Anda akan segera kami proses dalam 24 jam.
+4000000218	Agar pekerjaan bisa berjalan dengan lancar dan terkoordinasi dengan baik, setiap kantor pasti membutuhkan ruang rapat.
+4000000219	Tak hanya digunakan untuk karyawan internal saja, ruang rapat juga kerap digunakan untuk rapat dengan mitra dari perusahaan lain.
+4000000220	Maka dari itu, ruang rapat harus didesain dengan nyaman, fungsional, dan elegan dengan fitur yang lengkap.
+4000000221	Kantor yang terletak di tengah kota pastinya memiliki pemandangan kota yang indah.
+4000000222	Tak ada salahnya untuk menghadirkan pemandangan ini pada ruang rapat Anda.
+4000000223	Jendela besar dengan pemandangan Kota Jakarta membuat ruang rapat ini terasa lebih nyaman.
+4000000224	Didominasi oleh warna putih pada dinding dan mejanya, ruang rapat yang tidak terlalu besar pun bisa terasa lapang dan luas.
+4000000225	Dilengkapi dengan kursi hitam yang nyaman, ruang rapat dengan tema monokrom ini terlihat minimalis dan elegan.
+4000000226	Desain kontemporer identik dengan warna-warna natural yang bisa membuat ruangan terkesan lebih luas dan mewah.
+4000000227	Seperti ruang rapat satu ini yang menggunakan dominasi warna krem dan cokelat sebagai warna dindingnya.
+4000000228	Meja rapat marmer berwarna putih serta aksen emas di dinding seperti menambah kemewahan di dalam ruangan.
+4000000229	Tak hanya itu, ruang rapat ini juga didukung dengan desain yang elegan menggunakan indirect lighting di bagian tengah dan sekeliling ruangan.
+4000000230	Dengan demikian, tampilannya pun terlihat semakin profesional dan nyaman untuk digunakan.
+4000000231	Kesan profesional sangat terasa dari ruang rapat yang didominasi oleh warna biru tua yang satu ini.
+4000000232	Ruangan yang didominasi oleh warna gelap ini terkesan modern, mewah, dan elegan.
+4000000233	Ditambah indirect lighting di tengah ruangan, ruang rapat ini pun terkesan lebih dramatis.
+4000000234	Pemandangan dari ruang rapat selalu menjadi daya tarik tersendiri yang menarik untuk dilihat.
+4000000235	Seperti ruang rapat ini yang memiliki pemandangan hijau yang asri.
+4000000236	Meja rapat panjang dari kayu berpotongan abstrak pun seperti melengkapi kesan natural dan asri ke dalam ruangan.
+4000000237	Ruangan juga terlihat semakin serasi dengan dominasi warna krem dan panel dinding kayu sebagai aksen ruangan.
+4000000238	Siapa pun yang berdiskusi di dalamnya pasti akan merasa sejuk dan tenang.
+4000000239	Tidak perlu khawatir, Anda bisa memilih furnitur yang lebih compact dan mengurangi aksen dekorasi yang tidak terlalu penting.
+4000000240	Anda juga bisa menggunakan furnitur multifungsi yang lebih hemat tempat.
+4000000241	Lihat saja desain ruang rapat mungil yang estetik satu ini.
+4000000242	Dengan penggunaan kayu pada dinding, lantai, dan furnitur, ruang rapat tetap terlihat nyaman walaupun berada di ruang yang sempit.
+4000000243	Salah satu tips menciptakan ruang keluarga bergaya minimalis ialah membuat satu spor sebagai daya tarik utama.
+4000000244	Bagi Anda yang berencana menghadirkan konsep rumah minimalis pada ruang keluarga mungkin sedang mencari inspirasi.
+4000000245	Sebetulnya ada banyak sekali ide ruang keluarga bergaya minimalis.
+4000000246	Anda hanya perlu banyak mengeksplor dan menemukan gaya favoritmu sendiri.
+4000000247	Terpenting tetap memperhatikan kaidah-kaidah gaya rumah minimalis dan juga ramah di kantong.
+4000000248	Namun untuk sedikit memberi inspirasi, terdapat beberapa ide terkait menciptakan ruang keluarga bergaya minimalis.
+4000000249	Ruang keluarga minimalis memang cukup minim dekorasi, tetapi Anda masih bisa menghadirkan tekstur pada sejumlah komponennya.
+4000000250	Misalnya sofa beludru, permadani berbulu halus, hingga meja kopi kayu atau marmer.
+4000000251	Sesuaikan bentuk furnitur agar nampak serasi, rapi, dan memiliki "garis lurus".
+4000000252	Dengan mengombinasikan beberapa item itu, ruang keluarga sudah cukup memiliki aspek dekoratif dan menarik secara visual.
+4000000253	Warna netral menjadi ciri khas rumah minimalis.
+4000000254	Namun ada baiknya memberi sentuhan warna lain sebagai kombinasi, misalnya hijau.
+4000000255	Tanaman bisa menjadi item yang cocok untuk sedikit memperkaya warna di ruang keluarga.
+4000000256	Tapi jangan terlalu banyak, cukup fokuskan pada satu titik.
+4000000257	Pilihan lainnya, menggunakan bantal atau karpat bermotif daun pada perabotan yang didominasi warna abu-abu.
+4000000258	Memilih dua warna utama adalah semua yang dibutuhkan untuk ruang keluarga minimalis.
+4000000259	Cukup untuk menghadirkan nuansa dekoratif dan menarik.
+4000000260	Pilih Desain Sederhana dan Bersih.
+4000000261	Kesederhanaan cenderung berjalan seiring dengan ruang modern.
+4000000262	Salah satu hal yang penting ialah pemilihan bentuk furnitur.
+4000000263	Desain yang meliuk-liuk dan mewah tidak akan menciptakan kesan minimalis.
+4000000264	Jadi pilihlah potongan yang menciptkan garis ruangan bersih dan kontemporer.
+4000000265	Contohnya, gunakan sofa yang ramping dan memiliki tekstur bagus.
+4000000266	Tambahkan bantal, karper, serta rak minimalis untuk menyimpan beberapa aksesoris.
+4000000267	Ruang keluarga minimalis baiknya memiliki titik fokus sebagai daya tarik.
+4000000268	Seperti memilih sofa berwarna kuning cerah pada ruangan yang didominasi putih.
+4000000269	Selain itu, karpet bermotif dan aksesoris lainnya juga bisa menjadi daya tarik.
+4000000270	Sehingga bisa menyuguhkan tampilan yang menyenangkan dan unik.
+4000000271	Kendati begitu, bebas dari kekacauan adalah tujuan utama rumah minimalis.
+4000000272	Jadi singkirkan item yang tak digunakan dan kedepankan fungsi.
+4000000273	Ada banyak format dan opsi material lain yang bisa kamu jelajahi.
+4000000274	Kamu bisa  memakai material konvensional, seperti gipsum, yang dicat putih bersih.
+4000000275	Ini akan membuat rumah terasa terang dan lebih nyaman.
+4000000276	Lebih hemat energi dan nyaman, lho.
+4000000277	Supaya plafon gipsum di rumah lebih estetik, kamu bisa menambahkan wood beams atau rangka dari kayu solid.
+4000000278	Model ini banyak diadopsi rumah-rumah modern masa kini. 
+4000000279	Perpaduan gipsum putih polos dengan wood beams yang antik menciptakan harmoni di rumahmu.
+4000000280	Jika ingin berbeda dan jauh lebih estetik, kamu bisa mencoba plafon wood beams yang dipasang berjajar.
+4000000281	Pemilihan warna kayu ternyata juga berpengaruh.
+4000000282	Dengan tone terang, plafon jadi lebih cocok untuk konsep rumah minimalis modern ala Skandinavia.
+4000000283	Apalagi kalau diserasikan dengan perabot dan material lantainya.
+4000000284	Tinggal padu dengan dinding-dinding putih polos. 
+4000000285	Plafon panel kayu mungkin tidak begitu lumrah kita temukan di Indonesia.
+4000000286	Ini karena harga kayu cukup mahal dibandingkan gipsum.
+4000000287	Namun, secara estetika memang beda jauh. 
+4000000288	Panel kayu menciptakan suasana hangat dari warnanya.
+4000000289	Ia menjadi insulator alami yang menstabilkan temperatur dalam rumah.
+4000000290	Tentunya untuk kebutuhan elemen bangunan, kayu solid lebih disarankan. 
+4000000291	Selain dipasang biasa dengan jarak minimal, beberapa desainer menyulap kayu menjadi panel berjarak.
+4000000292	Panel-panel kayu berjarak ini cukup fleksibel.
+4000000293	Jadi bahan pelapis daun pintu sampai dipasang di plafon pun boleh. 
+4000000294	Memang akan memberikan kesan mewah otomatis di ruangan.
+4000000295	Namun, perhatikan pula perawatannya, mengingat ia berongga, maka proses pembersihannya pun cukup rumit.
+4000000296	Metal beams mungkin jauh dari bayanganmu saat bicara model plafon.
+4000000297	Namun, ternyata bisa dipasang sebagai elemen hunian, kok.
+4000000298	Seperti rumah di atas yang sengaja memasang rangka-rangka logam di bagian plafon sebagai aksen. 
+4000000299	Tak hanya berfungsi sebagai dekorasi, metal beams di ruangan tersebut dimanfaatkan pula untuk menggantung lampu.
+4000000300	Unik tapi tak kelewat aneh.

@@ -1,0 +1,300 @@
+4000000001	Kami mempunyai pelbagai warna dan jenis sekarang, anda boleh memilih.
+4000000002	Terdapat item bermusim dalam penjualan akhir ini, jangan terlepas peluang ini.
+4000000003	Penghantaran percuma akan diikuti oleh sebarang pembelian, sila menerima baucar.
+4000000004	Anda boleh bertanya sebarang soalan yang berkaitan kepada petugas kami pada bila-bila masa.
+4000000005	Adakah anda ingin perkhidmatan pembungkusan hadiah tanpa sebarang caj tambahan?
+4000000006	Anda boleh membayar deposit dahulu jika anda ingin membeli item ini.
+4000000007	Kami mempunyai perkhidmatan penghantaran pada hari berikutnya dengan caj tambahan.
+4000000008	Kami mempunyai perkhidmatan pengambilan barang di kedai atau penghantaran ke rumah.
+4000000009	Anda boleh menukar pulangan dengan kredit kedai sahaja, kami tidak menerima pulangan duit.
+4000000010	Item yang mudah rosak tidak layak mendapat pulangan, harap pelanggan memahami.
+4000000011	Semua pakaian yang dijual di sini mempunyai diskaun sebanyak sepuluh peratus.
+4000000012	Ahli berhak untuk mendapat pulangan tunai sebanyak satu peratus terma dan syarat terpakai.
+4000000013	Kami tidak menjual item tersebut lagi, anda boleh memilih item yang lain.
+4000000014	Pengembalian barang diterima tiga puluh hari selepas pembelian, anda perlu menunjukkan resit.
+4000000015	Kedai kami buka dari pukul sepuluh pagi ke sembilan malam, sila datang pada waktu tersebut.
+4000000016	Sila tunggu sekejap, kami akan mencari produk yang disebut sekarang.
+4000000017	Pembelian harus dilakukan sebelum sembilan malam agar anda berhak untuk mendapat penghantaran dalam masa dua hari.
+4000000018	Sila pastikan anda mempunyai kod identiti bagi setiap alkohol yang dibeli.
+4000000019	Anda boleh menebus kad hadiah anda di salah satu lokasi kami pada hari ini.
+4000000020	Iklan di laman web berkebolehan menarik pelayar internet untuk mengetahui lebih lanjut tentang produk yang diiklankan kerana pelayar boleh terus dihubungkan dengan laman web pengiklan secara langsung.
+4000000021	Minta maaf, saya tidak dapat mencari sebarang item di lokasi tersebut.
+4000000022	Kami menawarkan rancangan pembelian balik untuk peranti lama, terma dan syarat terpakai.
+4000000023	Item dengan tanda berwarna merah mempunyai kadar diskaun sebanyak empat puluh peratus.
+4000000024	Adakah anda mahukan versi saiz mini atau versi saiz penuh?
+4000000025	Lampin boleh dicari dalam halaman tiga dalam laman web ini.
+4000000026	Makanan organik dan tidak organik boleh dibeli dalam laman web ini.
+4000000027	Berapakah saiz kasut yang anda mahukan, tiga puluh enam, tiga puluh tujuh atau tiga puluh lapan?
+4000000028	Sekatan pembelian terpakai untuk barang tertentu sahaja, semua ditanda biru.
+4000000029	Promosi cuti akan diadakan pada minggu depan, jangan terlepas peluang ini.
+4000000030	Stok kami telah habis, anda boleh datang pada minggu depan.
+4000000031	Kami menawarkan perkhidmatan penghantaran ke premis-premis, sila isikan alamat anda.
+4000000032	Anda boleh mendaftar dalam program ganjaran kesetiaan kami untuk mendapat promosi.
+4000000033	Anda tidak layak untuk menggunakan baucar bagi item yang sedang dipromosi.
+4000000034	Laman web akhbar yang berjaya mencapai melebihi lapan juta paparan muka setiap bulan.
+4000000035	Perkhidmatan pelanggan adalah keutamaan kami dan kami mengendalikan sebarang aduan dengan serius.
+4000000036	Item dalam penjualan pelepasan tidak layak untuk dikembalikan, mengikut syarat sini.
+4000000037	Terima kasih atas pembelian anda dalam kedai kami, selamat jalan.
+4000000038	Mereka ialah rakyat Malaysia yang muda, dinamik dan progresif serta mempunyai daya beli & daya saing yang tinggi.
+4000000039	Kami menawarkan produk tersebut bersendirian atau dalam satu pakej, yang mana anda inginkan?
+4000000040	Penyediaan Data Peribadi anda ialah secara sukarela.
+4000000041	Kami berjanji untuk membuat penghantaran yang baru pada hari Khamis ini.
+4000000042	Kami menawarkan pelbagai pelan pembayaran untuk item tertentu di dalam kedai kami.
+4000000043	Kami menawarkan diskaun khas untuk pelajar-pelajar dan askar, adakah anda dari salah satu kategori ini?
+4000000044	Harga yang dipamerkan di sini tidak merangkumi cukai atau caj penghantaran.
+4000000045	Anda biasanya tidak perlu beratur dengan lama jika anda membuat pembayaran menggunakan kaunter automatik.
+4000000046	Terima kasih atas maklum balas anda, kami menghargai pendapat setiap pelanggan.
+4000000047	Sila hubungi peruncit tempatan anda mengenai dasar kedai individu, terima kasih.
+4000000048	Harga semua produk adalah sama di semua kedai di Malaysia, kami tidak boleh mengubahnya.
+4000000049	Itu ialah pencetak semua dalam satu.
+4000000050	Sementara waktu kami menghadapi kekurangan stok, anda boleh datang esok.
+4000000051	Kami tidak mempunyai produk yang sedia ada sekarang, minta maaf.
+4000000052	Sekiranya anda berasa tidak puas hati dengan produk kami, kami akan membuat bayaran balik dengan segera.
+4000000053	Sesuai dengan kemudahan pada masa kini, pengguna juga tidak lagi perlu bersusah payah untuk menukar atau menambah warna di dalam pencetak sebaliknya proses berkenaan sangat mudah.
+4000000054	Adakah anda ingin menambah sebarang produk ke dalam pesanan anda?
+4000000055	Kami boleh menyimpan produk tersebut untuk kamu selama satu hari perniagaan.
+4000000056	Sementara waktu kedai kami mempunyai saiz besar and sederhana sahaja.
+4000000057	Kami mempunyai promosi balik ke sekolah hari esok untuk pelajar-pelajar.
+4000000058	Kami menerima pembayaran tunai atau kad kredit dan debit di dalam kedai kami.
+4000000059	Sila menunjukkan resit kepada pekerja jika anda ingin keluar dari kompleks ini.
+4000000060	Pelanggan yang baru boleh mendapat satu hadiah khas yang kami sediakan.
+4000000061	Pembelian anda akan dijangka untuk tiba dalam tiga hari perniagaan.
+4000000062	Produk ini baru-baru sahaja dijual dan dijangka akan dijual dengan cepat.
+4000000063	Anda boleh menggunakan kredit anda di mana-mana lokasi kedai ini.
+4000000064	Semua makanan yang dijual di sini telah diiktiraf sebagai organik.
+4000000065	Kakitangan kami yang beramah mesra akan menjawab sebarang soalan yang anda ada.
+4000000066	Kami telah menghentikan pembekalan produk tersebut kerana produk tersebut terlalu mahal.
+4000000067	Kami mencadangkan anda untuk mendaftar sebagai ahli kedai kami untuk menikmati promosi.
+4000000068	Semua jurutunjuk kami telah diiktiraf and disahkan, setiap orang mempunyai lesen sendiri.
+4000000069	Proses mendaftar adalah sungguh mudah dan cepat, hanya memerlukan sepuluh minit anda.
+4000000070	Pelajar kami berasal dari seluruh dunia, kami memberi pengajaran yang berkualiti.
+4000000071	Sekiranya anda tidak puas hati dengan kursus kami, kami akan memberi bayaran balik sepenuhnya.
+4000000072	Jurutunjuk kami akan memastikan semua pelajar memahami setiap topik yang diajar.
+4000000073	Pelajar yang datang kali pertama akan diberikan satu kelas percubaan secara percuma.
+4000000074	Kami cuma menawarkan kelas secara berkumpulan, tetapi bukan seorang sahaja.
+4000000075	Kami memastikan setiap pelajar mempunyai kemajuan dengan menghadiri kelas kami selama dua minggu.
+4000000076	Kami menganjurkan kelas kami mengikut kemampuan dan kebolehan setiap pelajar.
+4000000077	Kami akan menanggung jawab sekirannya kemahiran pengaturcaraan anda tidak bertambah baik.
+4000000078	Kami menawarkan kelas pada waktu malam juga sekirannya anda sibuk pada waktu siang.
+4000000079	Setiap kelas akan berlangsung selama empat puluh lima minit pada setiap hujung minggu.
+4000000080	Anda boleh berbincang dengan penasihat supaya kami dapat memberikan pengajaran yang sesuai untuk anda.
+4000000081	Setiap pelajar perlu mengambil ujian penempatan sebelum mendaftar ke dalam setiap kelas.
+4000000082	Kami hanya mempunyai pendaftaran terhad bagi setiap kelas, setiap kelas tidak akan melebihi dua puluh pelajar.
+4000000083	Jurutunjuk kami ialah pakar dalam bidang masing-masing, setiap jurutunjuk telah diiktiraf.
+4000000084	Kami menawarkan kelas kepada semua orang, termasuklah kanak-kanak dan orang tua.
+4000000085	Oleh sebab situasi sekarang, semua kelas terpaksa diadakan secara dalam talian.
+4000000086	Sesiapa yang berminat boleh klik laman web yang disediakan di bawah.
+4000000087	Pengubahsuaian juga sangat mudah, ia tidak memerlukan individu berkepakaran kerana segalanya mudah.
+4000000088	Jurutunjuk kami sungguh besar hari untuk menjawab sebarang soalan yang anda ada.
+4000000089	Wang akan dijamin untuk dikembalikan salama tiga puluh hari untuk kursus ini.
+4000000090	Terdapat satu webinar yang percuma esok, adakah anda ingin menyertainya?
+4000000091	Kami hanya terdapat tiga tempat lagi bagi kursus sains ini, jangan lepaskan peluang ini.
+4000000092	Anda boleh menambahkan kursus ini ke dalam jadual anda dengan bayaran tambahan.
+4000000093	Kelas kami akan dianjurkan berdasarkan kerja amali agar dapat menarik perhatian pelajar-pelajar.
+4000000094	Kami mempunyai tahap kepuasan sebanyak sembilan puluh lapan peratus mengikut komen pelajar masa lalu.
+4000000095	Kelas kami kadangkala berpecah kepada kumpulan tiga ke empat orang untuk memudahkan pengajaran.
+4000000096	Orientasi kami akan dianjurkan pada minggu depan, semua pelajar wajib untuk hadir.
+4000000097	Kami tidak menawarkan kelas itu lagi, kelas itu sudah penuh.
+4000000098	Kelas yang paling terkenal ialah kursus Bahasa Inggeris dan juga Bahasa Cina.
+4000000099	Minta maaf, kami tidak menawarkan kursus tersebut buat sementara waktu.
+4000000100	Kami menawarkan khusus Bahasa Inggeris, Bahasa Perancis dan Bahasa Cina.
+4000000101	Terdapat beberapa kelas dalam satu minggu, oleh itu, penjadualan kelas bukanlah satu masalah.
+4000000102	Kelas ini untuk mereka yang boleh belajar dengan pantas.
+4000000103	Kami menawarkan kelas dalam talian atau di pusat tuisyen kami.
+4000000104	Jadual kami adalah fleksibel mengikut keperluan pelajar kami, pelajar boleh memilih.
+4000000105	Bayaran akan dicaj mengikut jam, anda boleh membuat pembayaran di kaunter.
+4000000106	Jadual anda untuk kelas Bahasa Inggeris ialah pukul lapan malam setiap hari Khamis.
+4000000107	Kami mempunyai senarai menunggu untuk kelas tertentu kerana terlalu banyak pelajar.
+4000000108	Setiap pelajar akan mendapat satu sijil kelulusan setelah tamat pengajian.
+4000000109	Pelajar yang lalu telah memberi komen dan penilaian yang baik kepada perkhidmatan kami.
+4000000110	Kami menawarkan rancangan pembayaran secara ansuran untuk kursus tertentu sahaja.
+4000000111	Kami akan menganjurkan satu sesi informasi secara talian pada hari esok.
+4000000112	Pelajar wajib menghadiri setiap kelas, alasan yang sah harus diberi jika pelajar tidak hadir.
+4000000113	Anda boleh memindah kredit anda dari institusi kami di lokasi yang lain.
+4000000114	Anda boleh membuat pendaftaran secara dalam talian supaya tidak perlu beratur di sini.
+4000000115	Anda boleh mendapat lebih banyak informasi tentang kursus kami dalam laman web ini.
+4000000116	Anda perlu menunjukkan bukti pembelian anda agar anda berhak untuk mendapatkan pembayaran balik.
+4000000117	Saya minta maaf mengenai produk tersebut, izinkan saya mengembalikan wang anda.
+4000000118	Item anda masih dalam jaminan, anda berhak untuk mendapat pengembalian wang.
+4000000119	Produk ini mesti di dalam bungkusan yang asal untuk ditukar.
+4000000120	Kami dapat menukar barang ini dengan yang baru jika anda inginkan.
+4000000121	Anda hanya berhak untuk mendapatkan pembayaran balik dalam tempoh tiga puluh hari.
+4000000122	Sila membawa item yang ingin ditukar bersama dengan resit masing-masing ke kedai kami.
+4000000123	Haus dan lusuh tidak dilindungi di bawah jaminan asal, minta maaf.
+4000000124	Sila tunggu sekejap, saya akan memeriksa sejarah pembelian anda pada minggu lalu.
+4000000125	Kerosakan item ini adalah disebabkan oleh masalah pengilang, kami boleh gantikan yang baru untuk anda.
+4000000126	Satu resit fizikal atau e-resit harus ditunjukkan bagi sebarang pengembalian barang.
+4000000127	Item ini tidak dapat dipulangkan kerana tiada jaminan untuk item ini.
+4000000128	Menyentuh aspek kegunaan dakwat pula, ia mampu untuk menampung lebih empat belas ribu helaian bercetak untuk kapasiti penuh sebelum dakwat mula habis serta mengering.
+4000000129	Saya sudah periksa tetapi barang ini tidak berhak untuk mendapat penggantian.
+4000000130	Pencetak semua dalam satu ini sememangnya dicadangkan untuk pengguna di luar sana dan padanan teknologi yang didatangkan juga sangat memudahkan tugasan serta rutin harian.
+4000000131	Anda boleh membuat pengembalian item di kaunter khidmat pelanggan tersebut.
+4000000132	Anda boleh membawa item tersebut ke kedai kami atau mengepos kepada kami.
+4000000133	Bolehkah anda memberitahu nombor identiti produk tersebut kepada kakitangan itu?
+4000000134	Minta maaf, produk tersebut tidak layak untuk mendapat pembaikan secara percuma.
+4000000135	Kami tidak mampu memberi pengembalian wang kepada anda, tetapi anda layak untuk mendapat kredit kedai kami.
+4000000136	Jaminan dibatalkan pada saat anda melepaskan meterai keselamatan, sila memahami.
+4000000137	Adakah anda ingin pengembalian tunai atau kredit kedai kami, anda boleh memilih.
+4000000138	Sila bawa item tersebut ke pusat servis kami untuk diperiksa.
+4000000139	Jaminan item ini sebenarnya sudah luput pada tiga hari yang lalu.
+4000000140	Adakah anda ingin penggantian item atau pengembalian tunai bagi item ini?
+4000000141	Baiklah, kami akan membuat pembaikan secara percuma untuk anda dalam minggu ini.
+4000000142	Anda perlu mengembalikan item tersebut kepada kami sebelum kami menghantar item yang baru kepada anda.
+4000000143	Berita baik, anda layak mendapat bayaran balik, sila datang esok!
+4000000144	Adakah anda mengatakan bahawa telefon bimbit anda tidak akan dihidupkan lagi?
+4000000145	Produk itu telah dikeluarkan dari rak untuk beberapa minggu kerana kualiti yang tidak baik.
+4000000146	Anda tidak layak untuk kembalikan sebarang produk semasa waktu promosi.
+4000000147	Kami boleh memberikan anda diskaun.
+4000000148	Produk anda tidak disebut dalam senarai ingat pengeluar, saya tidak dapat menggantikan untuk kamu.
+4000000149	Alat ganti anda ada di dalam peti mel, sila periksa peti mel tersebut.
+4000000150	Jika berdasarkan kepada kelas pencetak ini, ia diklasifikasikan sebagai pencetak kelas pertengahan namun menawarkan kepelbagaian fungsi untuk pengguna dan pembelian yang sangat berbaloi.
+4000000151	Sila pastikan anda mempunyai bungkusan asal apabila anda ingin membuat pengembalian barang.
+4000000152	Sila hantar barang tersebut kepada kami sebelum hari Khamis, terima kasih.
+4000000153	Kami akan hantar beberapa juruteknik pada hari esok untuk periksa item tersebut.
+4000000154	Jaminan produk ini tidak melingkungi kerosakan air, minta maaf encik.
+4000000155	Kami tidak bertanggungjawab atas karat yang berlaku terhadap produk tersebut.
+4000000156	Baiklah, kami berasa senang hati untuk melanjutkan jaminan produk ini untuk anda.
+4000000157	Anda mesti menunjukkan bukti pembelian anda sebelum kami boleh membuat apa-apa.
+4000000158	Jaminan produk ini telah luput, minta maaf anda perlu membayar untuk pembaikan produk.
+4000000159	Sila hubungi kami secepat mungkin sekiranya anda menghadapi sebarang masalah.
+4000000160	Bayaran balik akan diproses dalam masa dua hari perniagaan ini, terima kasih.
+4000000161	Kami tidak bertanggungjawab atas sebarang masalah yang berkaitan dengan penghantaran.
+4000000162	Pengguna boleh memuat turun aplikasi menerusi telefon pintar untuk membuat sebarang tetapan atau pengubahsuaian mengikut tugas.
+4000000163	Sila hantar butiran produk anda yang rosak supaya kami dapat mengatur pembayaran balik anda.
+4000000164	Produk kami sangat berkualiti dan perkhidmatan penghantaran amat cepat.
+4000000165	Perundingan digital ialah kepakaran kami, anda boleh bertanya sebarang soalan.
+4000000166	Pasukan pakar kami boleh menangani sebarang masalah yang berkaitan dengan pembelajaran mesin.
+4000000167	Pengetahuan industri yang mendalam dan analisis yang teliti ialah tanggungjawab kami.
+4000000168	Langkah untuk memuat dakwat semula juga sangat mudah apabila pengguna hanya perlu membeli kit penambahan dakwat yang berbentuk silinder dan memasukkan kepada slot dakwat.
+4000000169	Pelanggan kami telah mendapat manfaat daripada kemajuan proses perniagaan kami dan peningkatan keuntungan.
+4000000170	Kami menawarkan penyelesaian untuk pelanggan tidak kira dari dalaman atau luaran.
+4000000171	Mendapatkan pandangan kritikal tentang produk kami untuk pelanggan ialah keutamaan kami.
+4000000172	Kami menawarkan penyelesaian khas kepada setiap pelanggan untuk menyesuaikan situasi mereka.
+4000000173	Kami ialah ahli perkhidmatan platinum yang telah disahkan, kami berusaha untuk memberikan perkhidmatan terbaik.
+4000000174	Perancangan sumber perusahaan ialah kepakaran kami, sila menghubungi kami melalui e-mel.
+4000000175	Produk kami menjadikan pelanggan lebih berdaya saing di pasaran global.
+4000000176	Kami membantu syarikat yang sedang berkembang untuk menerapkan sistem perniagaan yang kompleks.
+4000000177	Kami ialah penyedia perkhidmatan data profesional terkemuka di Malaysia sini.
+4000000178	Rekod kejayaan kami membuktikan kemampuan kami untuk memberikan perkhidmatan yang terbaik.
+4000000179	Kami menawarkan penyelesaian global kepada pelanggan kami dan juga menghargai pandangan mereka.
+4000000180	Kami mempunyai pengalaman selama dua puluh tahun dalam memberikan perkhidmatan ini.
+4000000181	Kami membantu pelanggan untuk menyelesaikan cabaran dalam pasaran ini yang cepat berkembang.
+4000000182	Penglibatan pandangan dan pendapat pelanggan adalah sangat penting dalam perbincangan kita.
+4000000183	Anda memerlukan versi aplikasi ini yang terkini untuk menikmati sebarang fungsi aplikasi ini.
+4000000184	Adakah anda cuba untuk memulakan semula komputer anda pada hari itu?
+4000000185	Adakah skrin anda masih membeku semasa anda mencuba untuk membuka program tersebut?
+4000000186	Buka prom arahan dahulu sebelum anda membuat sesuatu supaya komputer anda berfungsi.
+4000000187	Bilakah lesen perisian anda luput, bolehkah anda periksanya melalui butiran perisian anda?
+4000000188	Kit berkenaan umpama sebuah picagari yang mengandungi dakwat dan pengguna hanya melakukan aturan mudah untuk mengisi semula tangki dakwat.
+4000000189	Sekiranya anda ternampak lampu merah, anda patut keluar dari program tersebut segera.
+4000000190	Sila matikan komputer anda, peranti anda mungkin telah menjadi terlalu panas.
+4000000191	Matikan sebarang perisian antivirus kerana ini mungkin akan mempengaruhi proses muat turun.
+4000000192	Sila menekan butang kuasa selama tiga saat untuk memulakan semula komputer anda.
+4000000193	Sila klik pada ikon yang terdapat di hujung kiri untuk menjalankan aplikasi tersebut.
+4000000194	Sila memastikan cakera anda mempunyai ruang yang mencukupi untuk memuat turun aplikasi tersebut.
+4000000195	Adakah anda masih ternampak skrin hitam sekarang, bolehkah anda cuba menyelesaikannya?
+4000000196	Anda mungkin perlu memuat turun semula perisian tersebut agar ia berfungsi.
+4000000197	Sila putuskan sambungan Bluetooth tersebut terlebih dahalu dan sambungkan semula.
+4000000198	Jika ia belum dimuat turun dalam tempoh dua minit, sila memulakan semula peranti anda.
+4000000199	Bolehkah saya bertanya versi yang manakah anda sedang gunakan sekarang?
+4000000200	Sila cuba keluar dari tab yang tidak akan digunakan dan setelahnya periksa komputer anda.
+4000000201	Sila cuba selesaikan masalah aplikasi ini dengan menekan butang itu.
+4000000202	Anda mungkin memerlukan ruang yang lebih banyak dalam cakera anda.
+4000000203	Sila mengemas kini peranti anda ke versi yang terkini sebelum anda meneruskan kerja.
+4000000204	Anda perlu mengosongkan banyak ruang di dalam cakera untuk meneruskan kemas kini.
+4000000205	Cuba klik pada ikon "alat" dalam tab tetapan ini dan baca arahannya.
+4000000206	Cuba mula semula komputer anda terlebih dahulu sebelum anda memuat turun aplikasi tersebut.
+4000000207	Kaedah berkenaan adalah sangat unik berbanding langkah pengisian dakwat konvensional yang memerlukan pengguna membuka pencetak atau mengotori tangan.
+4000000208	Memiliki rumah sendiri pastinya menjadi idaman kerana ia antara aset yang menguntungkan jika bijak mengatur strategi.
+4000000209	Adakah anda mengemas kini peranti anda baru-baru ini, adakah anda menghadapi sebarang masalah?
+4000000210	Kami boleh menghantar satu juruteknik pada waktu tiga petang nanti.
+4000000211	Apatah lagi, jika ia terletak di kawasan tumpuan pasti harganya sentiasa meningkat dari tahun ke tahun dan mampu menjadi satu instrumen pelaburan jangka panjang.
+4000000212	Sila cuba memuat turun fail tersebut ke dalam komputer meja anda dan klik ikon fail itu.
+4000000213	Jangan menekan butang kuasa sehingga anda ternampak lampu bertukar ke warna hijau.
+4000000214	Sila menggunakan fungsi mencari untuk mencari sesuatu yang anda ingin tahu.
+4000000215	Anda perlu mengemas kini sistem anda sebelum anda boleh membuat sebarang penukaran.
+4000000216	Saya akan menghantar kod akses ke e-mel anda pada hari esok, sila tunggu.
+4000000217	Masalah ini mungkin disebabkan oleh ruangan cakera anda yang terhad itu.
+4000000218	Bolehkah anda memberitahu saya kunci produk tersebut agar saya dapat membantu anda?
+4000000219	Sila memastikan anda menunggu beberapa saat sebelum anda menghidupkan semula komputer anda.
+4000000220	Sila memastikan semua tab anda telah ditutup sebelum anda meneruskan kerja anda.
+4000000221	Sila tunggu beberapa minit untuk memuat turun kemas kini tersebut.
+4000000222	Malangnya, peranti anda tidak menyokong perisian ini, anda memerlukan peranti yang lain.
+4000000223	Aplikasi ini tidak menyokong peranti melebihi dua buah, anda perlu mendaftar dengan e-mel yang baru.
+4000000224	Saya yakin bahawa percubaan percuma anda telah luput kelmarin, anda perlu membayar seterusnya.
+4000000225	Namun, melihat kepada persekitaran industri perumahan yang mampu memberi kesan baik kepada mereka untuk jangka panjang, akhirnya mereka memutuskan untuk memiliki rumah pertama di sekitar ibu negara.
+4000000226	Saya yakin bahawa terdapat masalah yang berkaitan dengan pelayan ini.
+4000000227	Bampar hadapan juga diperbaharui selain bahagian lampu kabusnya bersepadu dengan lampu nyalaan siang.
+4000000228	Berdasarkan apa yang saya boleh lihat, peranti yang lain telah disambungkan dengan rangkaian ini.
+4000000229	Sila cuba memuatkan semula halaman ini dan memeriksa agar aplikasi tersebut berfungsi.
+4000000230	Ruang kabinnya pula memiliki tahap Kebisingan, Gegaran dan Kekasaran yang dipertingkatkan.
+4000000231	Sila memadamkan muat turun paket setelah anda telah siap memuat turun aplikasi tersebut.
+4000000232	Sila pastikan anda mempunyai penyambungan yang kuat sebelum anda memuat turun.
+4000000233	Adakah anda ingin mencuba baju ini?
+4000000234	Kami mempunyai pelbagai saiz.
+4000000235	Anda lebih menyukai warna biru atau merah?
+4000000236	Anda boleh membeli dua untuk mendapat diskaun.
+4000000237	Ali dan empat orang kawan anda lagi telah mengucapkan selamat hari jadi kepada anda!
+4000000238	Selain itu, ia dilengkapi Monitor Pemandangan Sekitar Pintar dan Pengesan Objek Bergerak Pintar.
+4000000239	Pesanan anda telah dihantar, sila tunggu sepuluh minit, terima kasih.
+4000000240	Kod keselamatan anda ialah tiga sembilan empat sembilan dua, jangan beri kod ini kepada orang lain.
+4000000241	Anda mempunyai satu janji temu pada hari ini di klinik kesihatan Bayan Lepas.
+4000000242	Pengguna juga tidak perlu bimbang dengan penggunaan kuasa kerana ia mampu bertahan sepanjang hari biarpun digunakan pada tahap maksimum.
+4000000243	Minta maaf atas pembayaran gagal anda, anda tidak akan dicaj dan tiada transaksi dibuat.
+4000000244	Makanan anda akan dihantar oleh pemandu anda sebentar lagi, sila menikmati makanan anda.
+4000000245	Sila menulis e-mel kepada kami untuk menyuarakan sebarang soalan kepada kami.
+4000000246	Rakyat diharap untuk berada di dalam rumah masing-masing untuk mengurangkan penularan wabak penyakit.
+4000000247	Rakyat disuruh untuk memakai topeng muka apabila keluar dari rumah.
+4000000248	Rakyat disuruh untuk rajin mencuci tangan setiap hari dan menjaga kebersihan diri.
+4000000249	Kini, kebanyakan urusan rasmi boleh dilakukan secara maya atau menerusi kiriman e-mel tanpa membabitkan salinan dokumentasi fizikal, malah kiriman e-mel berkenaan juga sudah dianggap sebagai dokumentasi rasmi untuk urusan tertentu.
+4000000250	Pastinya kemajuan teknologi akan terus berubah dan mungkin suatu masa nanti bahawa kewujudan mesin pencetak tidak lagi efisien sebaliknya diganti dengan sistem yang lebih sistematik serta mudah.
+4000000251	Jenis kasut yang manakah anda sedang cari, bolehkah anda tunjukkan foto?
+4000000252	Kami mempunyai kasut jenis itu.
+4000000253	Adakah anda beli kasut ini untuk anda sendiri atau untuk orang lain?
+4000000254	Jemputlah duduk untuk mencuba kasut ini, bagi tahu saya jika anda memerlukan apa-apa.
+4000000255	Kami juga mempunyai baju yang bersaiz lebih kecil jika baju ini terlalu besar.
+4000000256	Sila tunggu sekejap, saya ingin memeriksa laman web kami untuk menjawab soalan anda.
+4000000257	Baju ini memang sangat berkualiti, ia diperbuat dari Italy dan diimport ke sini.
+4000000258	Cuba sentuh kain ini, ia memang sungguh lembut dan selesa untuk dipakai.
+4000000259	Anda boleh masuk ke bilik di belakang untuk mencuba baju ini jika anda suka.
+4000000260	Panggillah saya sekiranya anda mempunyai sebarang soalan atau pesanan kepada saya.
+4000000261	Adakah anda mahu saya membantu anda untuk membungkus item-item tersebut?
+4000000262	Saya telah memasukkan resit pembelian anda di dalam beg plastik itu.
+4000000263	Terima kasih kerana membeli-belah dengan kami, harap anda datang lagi!
+4000000264	Walaupun masih diakui bahawa mesin pencetak berkenaan tetap diperlukan untuk beberapa urusan dokumentasi, namun peratusan jumlah penggunaannya akan terus mengecil saban tahun.
+4000000265	Adakah anda ingin membeli satu skrin juga?
+4000000266	Ini ialah model terbaru yang baru dikeluarkan pada minggu lepas, harganya murah juga.
+4000000267	Baiklah, kami akan menghantar komputer baru anda dengan segera.
+4000000268	Nampaknya semua makanan sudah habis dijual, izinkan saya periksa dapur kami.
+4000000269	Pernahkah anda mengikuti kursus kami sebelum ini, kami boleh memberikan diskaun.
+4000000270	Kami menawarkan sijil dan program diploma kepada mereka yang baru tamat sekolah menengah.
+4000000271	Anda boleh memeriksa laman web kami untuk mengetahui biasiswa yang kami tawarkan.
+4000000272	Kami menawarkan banyak pilihan untuk pelajar-pelajar yang ingin belajar sambil bekerja.
+4000000273	Kami mempunyai dua kampus, kampus yang manakah anda sedang fikirkan?
+4000000274	Kami tidak menawarkan kursus itu buat sementara waktu, anda boleh memilih kursus yang lain.
+4000000275	Bidang pengajian yang manakah anda ingin pilih, perubatan atau farmasi?
+4000000276	Pengangkutan di sekitar kampus juga sungguh mudah, anda tidak perlu bimbang.
+4000000277	Kursus hanya akan dijalankan pada waktu siang, pelajar dapat berehat pada waktu malam.
+4000000278	Sebaik sahaja anda melengkapkan kursus tersebut, anda akan disahkan sebagai seorang akauntan.
+4000000279	Setiap kelas kami berlangsung selama empat puluh lima minit dengan lima belas minit masa rehat selepasnya.
+4000000280	Anda boleh mengambil kelas yang berlangsung selama tiga puluh lima minit juga mengikut kegemaran anda.
+4000000281	Terdapat juga kursus intensif pada hujung minggu, tetapi hanya pada waktu malam.
+4000000282	Kami membahagikan kelas kami mengikut umur dan kecekapan bahasa pelajar.
+4000000283	Guru di dalam kursus kami tidak membenarkan pelajarnya untuk bertutur dalam bahasa ibunda mereka.
+4000000284	Rasanya mana yang lebih utama bagi anda?
+4000000285	Izinkan saya membawa anda untuk mengunjungi kampus kami yang besar ini.
+4000000286	Buku teks tidak dirangkumi dalam yuran tuisyen, anda perlu memberi bayaran tambahan untuk membelinya.
+4000000287	Produk anda masih dalam jaminan, kami akan membaiki item anda secara percuma.
+4000000288	Anda boleh menghubungi kami tujuh hari seminggu sekiranya anda mempunyai sebarang aduan.
+4000000289	Pernahkah anda membawa item ini untuk diperbaiki oleh juruteknik kami?
+4000000290	Sebenarnya ini bukanlah satu kecacatan, ini ialah ciri item tersebut.
+4000000291	Semua pekerja kami telah dilatih dengan teliti dan tegas, kami mengutamakan layanan pelanggan.
+4000000292	Kadangkala item ini memerlukan beberapa hari untuk diperbaiki, tetapi tidak akan melebihi satu minggu.
+4000000293	Anda perlu membuat janji temu dengan kami sebelum anda datang berjumpa dengannya.
+4000000294	Jika anda ingin mengelakkan pembaziran masa, sokongan dalam talian adalah yang paling pantas.
+4000000295	Oleh sebab ini ialah model lama, kami akan menggantikannya dengan yang baru.
+4000000296	Kami mencadangkan anda untuk membawa item anda untuk penyelenggaraan setiap tiga tahun.
+4000000297	Pemasangan memang sangat rumit, tetapi kami mempunyai juruteknik yang berpengalaman untuk memasangnya.
+4000000298	Anda harus mengecas komputer riba anda selama dua puluh jam untuk kali pertama.
+4000000299	Kami hanya menjual komputer yang mempunyai sijil kepada pelanggan kami.
+4000000300	Jika anda ingin mengetahui maklumat lanjut tentang komputer ini, sila menghubungi kami.

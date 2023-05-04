@@ -1,0 +1,300 @@
+3000000001	To bi te jaz moral vprašati.
+3000000002	Takrat ima tudi jaz počitnice.
+3000000003	Ne želim, da greš z nama.
+3000000004	Ne, ni ti treba plačati ničesar.
+3000000005	Vseeno, naj vsak načrtuje za sebe.
+3000000006	Nočem več iti na počitnice s teboj.
+3000000007	Skupaj gremo na počitnice, a vsak bo rezerviral zase.
+3000000008	Veseli me, da se strinjava.
+3000000009	Kdaj boš spakiral svoj kovček?
+3000000010	Ker letimo čez dva tedna, ga bom verjetno čez teden.
+3000000011	Da, predem spakiram kovček, moram po nakupih.
+3000000012	Je tam toplo ali hladno?
+3000000013	Slišal sem da je povprečna temperatura v Dubaju 37 stopinj Celzija.
+3000000014	Moram kupiti kremo za sončenje.
+3000000015	Priporočim ti lahko kremo, ki jo uporablja moja sestra.
+3000000016	Razmišljam, da tam najamemo avto.
+3000000017	Boš vzel s seboj hlače?
+3000000018	Jaz bom samo obleke in kratke hlače.
+3000000019	Ne, prevroče je za obleke.
+3000000020	Pokrajina je dih jemajoča, tja moramo obvezno.
+3000000021	Ko sem bil tam, sem bil na kameli.
+3000000022	Bilo je super, ampak zelo vroče.
+3000000023	Ne smemo pozabiti na vodo.
+3000000024	Da, seveda moramo misliti na vodo.
+3000000025	Ali moraš tak izlet rezervirati?
+3000000026	Tako smo šli lansko leto.
+3000000027	Rada spontano potujem, čisto brez načrtov.
+3000000028	Tam lahko plavaš z delfini.
+3000000029	Moj prijatelj je to že počel.
+3000000030	Všeč mi je tudi kultura in hrana.
+3000000031	Bi šli na izlet odkrivanja lokalne kulture?
+3000000032	Da, mislim da je to odlična ideja.
+3000000033	Kako dolgo taki izleti trajajo?
+3000000034	Kulturni izleti trajajo običajno tri dni.
+3000000035	Po navadi so to obiski muzejev in pokrajine.
+3000000036	Lahko prespimo pri tvoji sestrični v Abu Dhabiju.
+3000000037	Vendar se moram najprej pogovoriti z njo.
+3000000038	Lahko vnaprej povem, da bo pustila maksimalno dve osebi.
+3000000039	Ne, na žalost je to preveč.
+3000000040	Ne, ne moreš kar izključiti Lene, to ni sprejemljivo.
+3000000041	Potem pa vaju moram oba izključiti.
+3000000042	Žal mi je, vendar glede tega nič ne morem storiti.
+3000000043	Zakaj vsi ne moremo tja?
+3000000044	Če je tako ne bomo šli tja.
+3000000045	Pojdimo rajši v hotel, tako je udobneje.
+3000000046	Samo, da ne bo predrag.
+3000000047	Dobro, pojdimo rajši v poceni hotel.
+3000000048	Če je tako, prosim išči poceni hotele.
+3000000049	Ker je moja najboljša prijateljica.
+3000000050	Ne nimam, če je tako je dobrodošla.
+3000000051	Razumem, ampak vreme je tam toplo.
+3000000052	Bilo je enkratno doživetje, zelo ti priporočam.
+3000000053	To sedaj ni v načrtu.
+3000000054	Kje si bil lansko poletje?
+3000000055	To ni resno vprašanje kajne?
+3000000056	Tudi jaz živim v Nemčiji.
+3000000057	Mislim sem, da živiš na Japonskem.
+3000000058	Da, živel sem tam krajši čas.
+3000000059	Hotel sem poskusiti nekaj novega.
+3000000060	O, kako dolgo si bil tam?
+3000000061	Štiri mesece, bilo je odlično.
+3000000062	Čez dva meseca imava spet počitnice.
+3000000063	Ali lahko v službi redno jemlješ dopust?
+3000000064	Ker sem šef, lahko sam načrtujem svoje dopuste.
+3000000065	Kdaj boš imel dopust pozimi?
+3000000066	Ne vem še kdaj in kje bom.
+3000000067	Boš letel nazaj v Avstralijo?
+3000000068	Jaz sem bil tam spomladi.
+3000000069	Ne, spomladi mi ni prijetno.
+3000000070	V katerem mestu si bil?
+3000000071	Bil sem tudi v hiši kjer so posneli film Katja in Nika.
+3000000072	Tudi jaz sem hotel tja pred dvema letoma.
+3000000073	Na žalost tja ne pustijo vsakega.
+3000000074	Ne, dobil sem povabilo o gospe Ribič.
+3000000075	Pravim, da notri ne pustijo vsakega.
+3000000076	Jaz vendar poznam Mojco Ribič, ona me bo povabila.
+3000000077	Lahko nehaš, res si tečen.
+3000000078	Kaj boš vzel s seboj v Dubaj?
+3000000079	Pozabil sem kaj si govoril prej.
+3000000080	Jaz razmišljam o svetlih oblačilih in hlačah do gležnjev.
+3000000081	Nekaj oblačil in tuniko, seveda tudi hlače.
+3000000082	Nekaj sem se nenadoma spomnil.
+3000000083	Lahko letimo z mojim helikopterjem.
+3000000084	Tako nam ne bo treba plačati za letalske karte.
+3000000085	Kdo bo plačal za helikopter, ti?
+3000000086	Imam svoj helikopter, zato ne potrebno nič plačati.
+3000000087	Moj oče je pilot in lahko nas pelje.
+3000000088	Ne želim leteti s tvojim očetom, vedno me sprašuje za ocene.
+3000000089	To je bilo prej, sedaj delaš.
+3000000090	Želim počitnice, da si lahko odpočijem.
+3000000091	Če je tako, si potem še mladoleten?
+3000000092	Rabil boš dovoljenje staršev, da bi lahko šel z nami.
+3000000093	Dragi, si kdaj slišal za univerzo?
+3000000094	Če je tako ni problem.
+3000000095	Oče pravi da popoldan okoli šestih.
+3000000096	Bodi vesel, da sploh letiš z nami.
+3000000097	Zdrav zajtrk naj vsebuje živila, bogata z beljakovinami, vitamini in minerali.
+3000000098	Sam se hvališ, da si bogat in potem, da ne želiš pozornosti.
+3000000099	Ne želim se prerekati s teboj.
+3000000100	Kaj še želiš početi v Dubaju?
+3000000101	Želim doživeti vse, vendar ti plačaš.
+3000000102	Želim pa biti tudi z Leno.
+3000000103	Ne moreš biti vedno z nama.
+3000000104	Vendar ne morem ničesar obljubiti.
+3000000105	Obljubim, da vaju bom kdaj pustil sama.
+3000000106	Glavno je, da ne pozabiš name.
+3000000107	Lena in jaz bova vzela veliko sobo, ti pa lahko spiš v manjši.
+3000000108	To je proti človeškega dostojanstva.
+3000000109	Moraš, če se ne boš, potem letiš sam.
+3000000110	Dobro, spala bom v majhni sobi.
+3000000111	A vedno boš moral biti v bližini.
+3000000112	Ne boš vendar blizu naju vsak dan.
+3000000113	Jaz in Lena letiva, ti boš pa to plačal.
+3000000114	Želim si pogledati glavne turistične znamenitosti in počivati na plaži.
+3000000115	Moj oče je tam tudi delal.
+3000000116	Kako dolgo pa je delal?
+3000000117	Ni dobrodošlo, to sem ti že govoril.
+3000000118	Kakšen poklica pa je opravljal?
+3000000119	Mesto ponuja velik izbor svetovne kuhinje.
+3000000120	Še posebej ti bo všeč lokalna kuhinja.
+3000000121	Veselim se tudi obiska lokalnih restavracij.
+3000000122	Jaz tudi, arhitektura je čudovita.
+3000000123	Me boš vzel s sabo?
+3000000124	Enkrat sem skoraj umrl, ker sem pozabil dihati pod vodo.
+3000000125	Šala, verjetno ti ni smešna?
+3000000126	Misli sem, da ti resno.
+3000000127	Bil sem tudi v operni hiši.
+3000000128	Naj ti povem, kjer sem bil?
+3000000129	Bil sem v Sudanu z očetom.
+3000000130	Jaz sem spoznal Andraža, to je Tomažev dvojček.
+3000000131	Tomaž je zelo zaposlen, zato ni imel časa.
+3000000132	Seveda, zaposlen s svojim telefonom?
+3000000133	Verjetno je imel pomemben pogovor.
+3000000134	V Avstraliji sem se naučil deskati.
+3000000135	Sedaj ti nič več ne verjamem.
+3000000136	Kaj si jedel v Avstraliji?
+3000000137	Dobro, da imaš kuharski talent.
+3000000138	Si bil tudi v Sydneyju?
+3000000139	Da, vendar samo dva dni.
+3000000140	Lucija sedaj živi tam, kajne?
+3000000141	Ne, Lucija živi v Londonu.
+3000000142	V katero državo želiš potovati?
+3000000143	Jaz pa v Indonezijo, na Bali.
+3000000144	Nikoli nisem bil v Indoneziji.
+3000000145	Moram se dogovoriti z očetom.
+3000000146	Super, vendar pa želim leteti zvečer.
+3000000147	Ne, moj oče ne more leteti zvečer.
+3000000148	Kaj po navadi vzameš s seboj na polet?
+3000000149	Nič, ker je to kratek izlet.
+3000000150	Vrnili bi se čez teden.
+3000000151	Naj vzamem nekaj za jesti?
+3000000152	Nič ni treba načrtovati, ker še imamo čas.
+3000000153	Koliko sedežev je v helikopterju?
+3000000154	Štirje sedeži, dovolj za vse.
+3000000155	Potem boljše, da ne greš zraven.
+3000000156	Dobro, letel bom s tabo.
+3000000157	Dali ti bomo vse, kar potrebuješ.
+3000000158	Poleg tega naj zajtrk vsebuje vsaj eno vrsto sadja.
+3000000159	Vendar, pa še nikoli nisem bil s tabo.
+3000000160	Jaz sem tam že bil, bilo je zelo lepo.
+3000000161	Bi sem preselila v stanovanje z nama?
+3000000162	Preselil se bom v stanovanje z Meto.
+3000000163	Odlično, tudi jaz živim v Bremnu.
+3000000164	Stanovanje ima tri sobe, dovolj za nas vse.
+3000000165	To me veseli, želim se vseliti.
+3000000166	Je stanovanje blizu naše univerze?
+3000000167	Odlično, to me res veseli.
+3000000168	Super bo, da bomo tri dekleta živela skupaj.
+3000000169	Ne, nisem se še preselila.
+3000000170	Pouk se prične čez tri tedne.
+3000000171	Želim se čez tri dni.
+3000000172	Se strinjaš, da se Lucija vseli s teboj?
+3000000173	Moraš prinesti svoj hladilnik, ker ga midve nimava.
+3000000174	Naredimo načrt, kdo mora kaj kupiti, ali prinesti.
+3000000175	Jaz lahko prinesem zofo in pralni stroj.
+3000000176	Počakaj trenutek, to moramo narediti sistematično.
+3000000177	Dobro, vsaka kupi pohištvo za svojo spalnico.
+3000000178	To je jasno, povedala bom Luciji.
+3000000179	Dobro, pričnimo s kuhinjo.
+3000000180	Kaj potrebujemo v kuhinji?
+3000000181	Imaš kozarce in nože?
+3000000182	Seveda imamo, vse je kot mora biti.
+3000000183	Koliko kvadratnih metrov ima kuhinja?
+3000000184	15 kvadratnih metrov, kar ni malo.
+3000000185	Ne, sploh ni čista.
+3000000186	Danes morava tja, da jo počistiva.
+3000000187	Da, vendar je bolje, da greva kak drug dan in počistiva celo stanovanje.
+3000000188	Da, Lucija se tudi strinja.
+3000000189	Vendar moramo to storiti čimprej.
+3000000190	Za kuhinjo najprej potrebujemo hladilnik, pečico in mešalnik.
+3000000191	Mislim, da ne potrebujemo mešalnika.
+3000000192	Dobro, to je vse za sedaj.
+3000000193	Potrebujemo tudi pralni stroj.
+3000000194	Imam pečico, lahko tudi dobim hladilnik.
+3000000195	Dobila bom pralni stroj in mešalnik.
+3000000196	Lucija bo kupila pribor in krožnike.
+3000000197	Mislim, da je pralni stroj že v stanovanju.
+3000000198	Kakšne barve je kuhinja?
+3000000199	Lucija je ravno napisala, da lahko prinese televizijo.
+3000000200	Potrebno je načrtovati sistematično.
+3000000201	Kuhinja je stara in rjave barve.
+3000000202	Želim jo prebarvati v belo.
+3000000203	Lucija in jaz nimava takšne želje.
+3000000204	Če je tako, bom plačala, da jo prebarvajo.
+3000000205	Kakšne barve so zidovi?
+3000000206	Zidovi so rumene barve, lahko jih prebarvamo skupaj.
+3000000207	Posadimo tudi nekaj rastlin, da bo stanovanje izgledalo bolj živahno.
+3000000208	Ne bo šlo, imam alergijo na začimbe.
+3000000209	Lahko pa jih posadimo na balkonu.
+3000000210	Tudi to je opcija.
+3000000211	Lahko prosim odgovoriš na moje prejšnje vprašanje?
+3000000212	Lahko nekaj pobarvamo tudi modro.
+3000000213	Še vedno imam rumeno preprogo.
+3000000214	Vzela jo bom s seboj za v kopalnico.
+3000000215	Naša kopalnica je zelo majhna in brez oken.
+3000000216	Pomiri se, nisva še končali s kuhinjo.
+3000000217	Želiš v njo postaviti jedilno mizo?
+3000000218	Poleti lahko jemo na balkonu, pozimi pa v dnevni sobi.
+3000000219	To se bomo še dogovorile.
+3000000220	Lahko Lucija priskrbi zavese?
+3000000221	Da, njena mama jih bo sešila za nas.
+3000000222	Kakšne barve jih želiš?
+3000000223	Midve bi želeli sive, temno sive.
+3000000224	To bi tudi šlo, kar se mene tiče, lahko.
+3000000225	Nisva še končali s kuhinjo.
+3000000226	Ne poznam velikosti v kvadratnih metrih.
+3000000227	Misliš, da je dovolj prostora za majhno omarico?
+3000000228	Da, vendar nič več.
+3000000229	Da, prosim, kupi jo.
+3000000230	Kam bomo pa postavile pralni stroj?
+3000000231	V stanovanju je še ena majhna soba, kamor ga lahko postavimo.
+3000000232	Za kopalnico rabimo preprogo, zavese, zavese za tuš in zrcalo.
+3000000233	Mislim, da imam zaveso za tuš in zrcalo v starem stanovanju.
+3000000234	Zrcalo je sicer zelo majhno.
+3000000235	Potem bom kupila preprogo.
+3000000236	Kaj hoče kupiti Lucija?
+3000000237	Lucija hoče kupiti zavese.
+3000000238	Ima tudi posodico za zobno pasto in ščetke.
+3000000239	Odlično, končale smo s kopalnico.
+3000000240	Sedaj lahko pričneva z dnevno sobo.
+3000000241	Dnevna soba je zelo velika, okoli 20 kvadratnih metrov.
+3000000242	20 kvadratnih metrov je dovolj.
+3000000243	Rabimo jedilno mizo s stoli, zofo in naslonjače, kavno mizico in televizor.
+3000000244	Lucija bo prinesla televizor.
+3000000245	Prinesla bom jedilno mizo s stoli.
+3000000246	Jaz bom prinesla zofo in kavno mizico.
+3000000247	Prinesla bom tudi polico za knjige, preprogo in zavese.
+3000000248	Odlično, če želiš lahko jaz prinesem zavese?
+3000000249	Ni treba, jaz jih bom.
+3000000250	Lastnik stanovanja ne želi, da kaj obešamo na stene.
+3000000251	Naj nas vsi gledajo ali kaj?
+3000000252	Mislim na zid, ne skrbi.
+3000000253	Razmisliti še moramo o hodniku.
+3000000254	Mislim, da potrebujemo samo garderobo in ogledalo.
+3000000255	Lucija lahko priskrbi oboje.
+3000000256	Super, vse je načrtovano.
+3000000257	Okoli 300 evrov, zelo poceni.
+3000000258	Zakaj nisi povedala na začetku?
+3000000259	Nisi mi rekla, da je to za tebe drago.
+3000000260	Da, to je predrago.
+3000000261	Študentka sem in ne delam.
+3000000262	Plačati moraš samo 100 evrov.
+3000000263	Jaz sem zadovoljna s ceno.
+3000000264	Če je tako, pa v redu.
+3000000265	V stanovanju sta dve majhni sobi in ena velika.
+3000000266	Kako si bomo razdelile sobe?
+3000000267	Imaš veliko oblek in pohištva?
+3000000268	Da, veliko pohištva in knjig.
+3000000269	Lucija ima več pohištva kot ti.
+3000000270	Lahko dam njen poster v tvojo sobo?
+3000000271	Kaj pa velika soba?
+3000000272	Vsaka bo dobila ključe.
+3000000273	Jaz še dodatne za klet.
+3000000274	Dobro, moramo tudi narediti načrt za čiščenje.
+3000000275	Prav imaš, kaj imaš v mislih?
+3000000276	Predlagam, da vsaka počisti svojo sobo.
+3000000277	Kaj pa ostale sobe?
+3000000278	Lahko se menjamo vsak teden.
+3000000279	Da, to bo najboljše.
+3000000280	Ena na primer kuhinjo, druga dnevno sobo in tako dalje.
+3000000281	Strinjam se, skupne sobe morajo biti čiste.
+3000000282	Dobro, jaz bo prvo počistila kopalnico.
+3000000283	Če želiš, lahko kuham vsak petek, soboto in nedeljo.
+3000000284	Predlagam, da razdelimo po obrokih.
+3000000285	Ena zajtrk, druga kosilo in tretja večerjo.
+3000000286	Ne, ker me včasih ne bo doma.
+3000000287	Dobro, boš potem kuhala ob ponedeljkih in torkih?
+3000000288	Lucija lahko kuha ob sredah in četrtkih.
+3000000289	Jaz pa bom tri dni.
+3000000290	Imam še kakšno odprto vprašanje?
+3000000291	Ob četrtkih poučujem klavir, je to težava za tebe?
+3000000292	Kam nameravaš postaviti klavir?
+3000000293	Rada bi ga postavila v dnevno sobo.
+3000000294	Kako dolgo traja tvoj pouk?
+3000000295	Žal mi je, vendar potrebujem denar.
+3000000296	Lahko mogoče poučuješ na balkonu?
+3000000297	Ne, sosedje se ne bi strinjali.
+3000000298	Najti bomo morale kompromis.
+3000000299	Seveda, vedno ga na koncu.
+3000000300	Ne zaupam tvojemu okusu.
