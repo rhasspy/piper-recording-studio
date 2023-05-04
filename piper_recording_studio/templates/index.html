@@ -11,6 +11,16 @@
         <link href="css/fontawesome-all.min.css" rel="stylesheet">
     </head>
     <body>
+        <header>
+            <nav class="navbar navbar-expand-md bg-light">
+                <div class="m-auto text-center">
+                    <img id="logo" src="img/logo.png" alt="Piper logo" style="height: 4em;" />
+                    <h2 class="font-weight-bold">
+                        Recording Studio
+                    </h2>
+                </div>
+            </nav>
+        </header>
         <div class="container-fluid text-center mt-2">
             <div class="row-fluid text-center">
                 <p>
@@ -20,7 +30,6 @@
                     All content submitted to this site must be dedicated to the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain (CC0)</a>
                 </p>
             </div>
-            <hr>
             {% if multi_user: %}
             <div class="row-fluid">
                 <label for="userId" class="mr-2">Login code:</label>
@@ -42,7 +51,7 @@
                         <input id="recordUserId" type="hidden" name="userId" value="">
                         <button id="recordButton" type="submit" class="btn btn-danger form-control" disabled>
                             <i class="fas fa-3x fa-microphone"></i>
-                            <h3>Record</h3>
+                            <h3>Start Recording</h3>
                         </button>
                         <p>
                             Read sentences in your native language
