@@ -2,6 +2,8 @@
 
 Local tool for recording yourself to train a [Piper text to speech](https://github.com/rhasspy/piper) voice.
 
+![Screen shot](etc/screenshot.jpg)
+
 
 ## Docker
 
