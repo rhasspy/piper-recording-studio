@@ -1,0 +1,4 @@
+onnxruntime>=1.11.0,<2
+librosa>=0.9.2,<1
+numpy
+soundfile

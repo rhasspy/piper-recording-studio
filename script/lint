@@ -16,6 +16,7 @@ fi
 
 python_files=()
 python_files+=("${base_dir}/piper_recording_studio"/*.py)
+python_files+=("${base_dir}/export_dataset"/*.py)
 
 # Format code
 black "${python_files[@]}" --check
