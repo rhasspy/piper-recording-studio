@@ -113,7 +113,7 @@ def main() -> None:
         if next_prompt is None:
             return await render_template("done.html")
 
-        complete_percent = num_complete / num_items if num_items > 0 else 1
+        complete_percent = 100 * (num_complete / num_items if num_items > 0 else 1)
         return await render_template(
             "record.html",
             language=language,
@@ -169,7 +169,7 @@ def main() -> None:
         if next_prompt is None:
             return jsonify({"done": True})
 
-        complete_percent = num_complete / num_items if num_items > 0 else 1
+        complete_percent = 100 * (num_complete / num_items if num_items > 0 else 1)
         return jsonify(
             {
                 "done": False,
