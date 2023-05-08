@@ -5,7 +5,7 @@
 3000000005	Natürlich möchte ich nicht alles buchen.
 3000000006	Dann machen wir es so, dass ihr für euch bucht und ich zu meiner Freundin gehe, die in Dubai wohnt.
 3000000007	Mit meinen Eltern verbringe ich echt immer gerne meinen Urlaub.
-3000000008	Dann machen wir es so, dass wie alle zusammen Urlaub machen.
+3000000008	Dann machen wir es so, dass wir alle zusammen Urlaub machen.
 3000000009	Wann wirst du deinen Koffer packen?
 3000000010	Ich werde meinen Koffer auch nach einer Woche packen.
 3000000011	Bevor ich meinen Koffer packe, muss ich ja schon was eingekauft haben.
@@ -123,7 +123,7 @@
 3000000123	Wir gehen nächste Woche, um das Haus zu putzen.
 3000000124	Hast du bei deinem Elternhaus in einem Palast gelebt?
 3000000125	Wir machen hier erstmal sauber und dann ziehen wir ein.
-3000000126	Ich hoffe, dass ich mit euch klarkommen werden.
+3000000126	Ich hoffe, dass ich mit euch klarkommen werde.
 3000000127	Seit unserer Kindheit wollten wir drei zusammenleben und es ist endlich soweit.
 3000000128	Wir müssen es sehr gut planen.
 3000000129	Der Saal ist eine halbe Stunde von uns entfernt.
