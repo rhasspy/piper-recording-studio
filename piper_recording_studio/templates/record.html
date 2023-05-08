@@ -183,41 +183,36 @@
              let response = await fetch(formPage, {
                  method: 'POST',
                  body: formData
-             })
-                 .then(response => {
-                     if (!response.ok) {
-                         throw Error(response.statusText);
-                     }
+             });
 
-                     return response.json();
-                 })
-                 .then(result => {
-                     if (result.done) {
-                         window.location.pathname = "/done.html";
-                         return;
-                     }
-                     
-                     // Update page
-                     q('#promptGroup').value = result.promptGroup;
-                     q('#promptId').value = result.promptId;
-                     q('#promptText').value = result.promptText;
-                     q('#text').textContent = result.promptText;
+             if (response.ok) {
+                 let result = await response.json();
+                 if (result.done) {
+                     window.location.pathname = "/done.html";
+                     return;
+                 }
+                 
+                 // Update page
+                 q('#promptGroup').value = result.promptGroup;
+                 q('#promptId').value = result.promptId;
+                 q('#promptText').value = result.promptText;
+                 q('#text').textContent = result.promptText;
 
-                     q('#numComplete').textContent = result.numComplete;
-                     q('#numItems').textContent = result.numItems;
-                     q('#progressComplete').setAttribute('aria-valuenow', result.completePercent);
-                     q('#progressComplete').style.width = result.completePercent + '%';
+                 q('#numComplete').textContent = result.numComplete;
+                 q('#numItems').textContent = result.numItems;
+                 q('#progressComplete').setAttribute('aria-valuenow', result.completePercent);
+                 q('#progressComplete').style.width = result.completePercent + '%';
 
-                     setAlert('Microphone ready!', 'alert-success');
+                 setAlert('Microphone ready!', 'alert-success');
 
-                     q('#submit').disabled = true;
-                     q('#skip').disabled = false;
-                     q('#clipDiv').hidden = true;
-                     q('#submittedIcon').hidden = false;
-                 })
-                 .catch((error) => {
-                     setAlert('Failed to submit: ' + error, 'alert-danger');
-                 });
+                 q('#submit').disabled = true;
+                 q('#skip').disabled = false;
+                 q('#clipDiv').hidden = true;
+                 q('#submittedIcon').hidden = false;
+             } else {
+                 let errorText = await response.text();
+                 setAlert('Failed to submit: ' + errorText, 'alert-danger');
+             }
          };
 
           document.addEventListener('keyup', function(e){

@@ -146,7 +146,12 @@ def main() -> None:
 
         if args.multi_user:
             user_id = form["userId"]
-            audio_dir = output_dir / f"user_{user_id}"
+            user_dir = output_dir / f"user_{user_id}"
+            if not user_dir.is_dir():
+                _LOGGER.warning("No user/language directory: %s", user_dir)
+                raise ValueError("Invalid login code")
+
+            audio_dir = user_dir
         else:
             audio_dir = output_dir
 
@@ -181,6 +186,12 @@ def main() -> None:
                 "completePercent": complete_percent,
             }
         )
+
+    @app.errorhandler(Exception)
+    async def handle_error(err) -> Tuple[str, int]:
+        """Return error as text."""
+        _LOGGER.exception(err)
+        return (f"{err.__class__.__name__}: {err}", 500)
 
     @app.route("/css/<path:filename>", methods=["GET"])
     async def css(filename) -> Response:
