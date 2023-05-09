@@ -50,13 +50,19 @@ Prompts are in the `prompts/` directory with the following format:
 * Each `.txt` in a language directory contains lines with:
     * `<id>\t<text>` or
     * `text` (id is automatically assigned based on line number)
-    
+
 Output audio is written to `output/`
 
 See `--debug` for more options.
 
 
 ## Exporting
+
+Install exporting dependencies:
+
+``` sh
+python3 -m pip install -r requirements_export.txt
+```
 
 Export recordings for a language to a Piper-compatible dataset (LJSpeech format):
 
