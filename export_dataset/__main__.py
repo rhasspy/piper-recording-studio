@@ -1,5 +1,8 @@
 import argparse
 import csv
+import logging
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import librosa
@@ -9,6 +12,7 @@ from .trim import trim_silence
 from .vad import SileroVoiceActivityDetector
 
 _DIR = Path(__file__).parent
+_LOGGER = logging.getLogger(__name__)
 
 
 def main():
@@ -23,56 +27,79 @@ def main():
     parser.add_argument("--keep-chunks-after", type=int, default=5)
     #
     args = parser.parse_args()
+    logging.basicConfig()
 
     input_dir = Path(args.input_dir)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     wav_dir = output_dir / "wav"
 
-    detector = make_silence_detector()
-
-    with open(output_dir / "metadata.csv", "w", encoding="utf-8") as metadata_file:
+    with open(
+        output_dir / "metadata.csv", "w", encoding="utf-8"
+    ) as metadata_file, ThreadPoolExecutor() as executor:
         writer = csv.writer(metadata_file, delimiter="|")
         for audio_path in input_dir.rglob("*.webm"):
-            text_path = audio_path.with_suffix(".txt")
-            if not text_path.exists():
-                continue
-
-            text = text_path.read_text(encoding="utf-8").strip()
-            wav_path = wav_dir / audio_path.relative_to(input_dir).with_suffix(".wav")
-            wav_id = wav_path.relative_to(wav_dir)
-
-            # Trim silence first.
-            #
-            # The VAD model works on 16khz, so we determine the portion of audio
-            # to keep and then just load that with librosa.
-            vad_sample_rate = 16000
-            audio_16khz, _sr = librosa.load(path=audio_path, sr=vad_sample_rate)
-
-            offset_sec, duration_sec = trim_silence(
-                audio_16khz,
-                detector,
-                threshold=args.threshold,
-                samples_per_chunk=args.samples_per_chunk,
-                sample_rate=vad_sample_rate,
-                keep_chunks_before=args.keep_chunks_before,
-                keep_chunks_after=args.keep_chunks_after,
+            executor.submit(
+                export_audio,
+                audio_path,
+                input_dir,
+                wav_dir,
+                writer,
+                args,
             )
 
-            audio, sample_rate = librosa.load(
-                path=audio_path,
-                offset=offset_sec,
-                duration=duration_sec,
-            )
 
-            # Write as WAV
-            wav_path.parent.mkdir(parents=True, exist_ok=True)
-            soundfile.write(wav_path, audio, sample_rate, format="WAV")
+def export_audio(
+    audio_path: Path,
+    input_dir: Path,
+    wav_dir: Path,
+    writer,
+    args: argparse.Namespace,
+):
+    text_path = audio_path.with_suffix(".txt")
+    if not text_path.exists():
+        _LOGGER.warning("Missing text file: %s", text_path)
+        return
 
-            # id|text
-            writer.writerow((wav_id, text))
+    thread_data = threading.local()
+    if not hasattr(thread_data, "detector"):
+        thread_data.detector = make_silence_detector()
 
-            print(wav_path)
+    text = text_path.read_text(encoding="utf-8").strip()
+    wav_path = wav_dir / audio_path.relative_to(input_dir).with_suffix(".wav")
+    wav_id = wav_path.relative_to(wav_dir)
+
+    # Trim silence first.
+    #
+    # The VAD model works on 16khz, so we determine the portion of audio
+    # to keep and then just load that with librosa.
+    vad_sample_rate = 16000
+    audio_16khz, _sr = librosa.load(path=audio_path, sr=vad_sample_rate)
+
+    offset_sec, duration_sec = trim_silence(
+        audio_16khz,
+        thread_data.detector,
+        threshold=args.threshold,
+        samples_per_chunk=args.samples_per_chunk,
+        sample_rate=vad_sample_rate,
+        keep_chunks_before=args.keep_chunks_before,
+        keep_chunks_after=args.keep_chunks_after,
+    )
+
+    audio, sample_rate = librosa.load(
+        path=audio_path,
+        offset=offset_sec,
+        duration=duration_sec,
+    )
+
+    # Write as WAV
+    wav_path.parent.mkdir(parents=True, exist_ok=True)
+    soundfile.write(wav_path, audio, sample_rate, format="WAV")
+
+    # id|text
+    writer.writerow((wav_id, text))
+
+    print(wav_path)
 
 
 def make_silence_detector() -> SileroVoiceActivityDetector:
