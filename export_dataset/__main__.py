@@ -98,6 +98,8 @@ class ExportAudio:
                         "s16le",
                         "-acodec",
                         "pcm_s16le",
+                        "-ac",
+                        "1",
                         "-ar",
                         str(vad_sample_rate),
                         "pipe:",
@@ -106,10 +108,10 @@ class ExportAudio:
                 )
 
                 # Normalize
-                audio_16khz = (
-                    np.frombuffer(audio_16khz_bytes, dtype=np.int16).astype(np.float32)
-                    / 32767.0
+                audio_16khz = np.frombuffer(audio_16khz_bytes, dtype=np.int16).astype(
+                    np.float32
                 )
+                audio_16khz /= np.abs(np.max(audio_16khz))
 
                 offset_sec, duration_sec = trim_silence(
                     audio_16khz,
