@@ -118,24 +118,24 @@ class ExportAudio:
             )
 
             # Write as WAV
+            command = [
+                "ffmpeg",
+                "-i",
+                str(audio_path),
+                "-f",
+                "wav",
+                "-acodec",
+                "pcm_s16le",
+                "-ss",
+                str(offset_sec),
+            ]
+            if duration_sec is not None:
+                command.extend(["-t", str(duration_sec)])
+
+            command.append(str(wav_path))
+
             wav_path.parent.mkdir(parents=True, exist_ok=True)
-            subprocess.check_call(
-                [
-                    "ffmpeg",
-                    "-i",
-                    str(audio_path),
-                    "-f",
-                    "wav",
-                    "-acodec",
-                    "pcm_s16le",
-                    "-ss",
-                    str(offset_sec),
-                    "-t",
-                    str(duration_sec),
-                    str(wav_path),
-                ],
-                stderr=subprocess.DEVNULL,
-            )
+            subprocess.check_call(command, stderr=subprocess.DEVNULL)
 
             # id|text
             writer.writerow((wav_id, text))
