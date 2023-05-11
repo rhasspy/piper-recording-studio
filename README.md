@@ -58,6 +58,12 @@ See `--debug` for more options.
 
 ## Exporting
 
+Install ffmpeg:
+
+``` sh
+sudo apt-get install ffmpeg
+```
+
 Install exporting dependencies:
 
 ``` sh
