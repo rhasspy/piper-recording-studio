@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Contribute your voice to open source">
+        <meta name="author" content="Michael Hansen">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome-all.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-md bg-light">
+                <a href="/">
+                    <img id="logo" src="img/logo.png" alt="Piper logo" style="height: 3em;" />
+                </a>
+            </nav>
+        </header>
+        <div class="container-fluid mt-3">
+            <div class="row-fluid">
+                <p>
+                    All content submitted to this site must be dedicated to the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain (CC0)</a>
+                </p>
+            </div>
+
+            <div class="row-fluid">
+                <form method="post" action="dataset" enctype="multipart/form-data">
+                    <input type="hidden" name="language" value="{{ language }}">
+                    <input type="hidden" name="userId" value="{{ user_id }}">
+
+                    <input id="dataset" name="dataset" type="file">
+                    <button class="btn btn-success">Upload</button>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>

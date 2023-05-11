@@ -73,6 +73,7 @@ def main() -> None:
 
     app = Quart("piper", template_folder=str(_DIR / "templates"))
     app.config["TEMPLATES_AUTO_RELOAD"] = True
+    app.config["MAX_CONTENT_LENGTH"] = 200 * 1024 * 1024  # 200 mb
     app.secret_key = str(uuid4())
 
     @app.route("/")
@@ -186,6 +187,55 @@ def main() -> None:
                 "completePercent": complete_percent,
             }
         )
+
+    @app.route("/upload")
+    async def api_upload() -> str:
+        """Upload an existing dataset"""
+        language = request.args["language"]
+
+        if args.multi_user:
+            user_id = request.args.get("userId")
+            audio_dir = output_dir / f"user_{user_id}"
+            user_dir = audio_dir / language
+            if not user_dir.is_dir():
+                _LOGGER.warning("No user/language directory: %s", user_dir)
+                raise RuntimeError("Invalid login code")
+        else:
+            user_id = None
+            audio_dir = output_dir
+
+        return await render_template(
+            "upload.html",
+            language=language,
+            multi_user=args.multi_user,
+            user_id=user_id,
+        )
+
+    @app.route("/dataset", methods=["POST"])
+    async def api_dataset() -> str:
+        """Upload an existing dataset"""
+        form = await request.form
+        language = form["language"]
+
+        if args.multi_user:
+            user_id = form.get("userId")
+            audio_dir = output_dir / f"user_{user_id}"
+            user_dir = audio_dir / language
+            if not user_dir.is_dir():
+                _LOGGER.warning("No user/language directory: %s", user_dir)
+                raise RuntimeError("Invalid login code")
+        else:
+            user_id = None
+            audio_dir = output_dir
+
+        files = await request.files
+        dataset_file = files["dataset"]
+        upload_path = user_dir / "_uploads" / Path(dataset_file.filename).name
+        upload_path.parent.mkdir(parents=True, exist_ok=True)
+        await dataset_file.save(upload_path)
+        _LOGGER.debug("Saved dataset to %s", upload_path)
+
+        return await render_template("done.html")
 
     @app.errorhandler(Exception)
     async def handle_error(err) -> Tuple[str, int]:

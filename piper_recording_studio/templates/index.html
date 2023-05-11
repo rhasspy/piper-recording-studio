@@ -59,9 +59,30 @@
                     </form>
                 </div>
             </div>
+            {% if multi_user: %}
+            <div class="row mt-5">
+                <div class="col">
+                    <form id="formUpload" method="get" action="upload">
+                        <input id="uploadLanguage" type="hidden" name="language" value="en-us">
+                        <input id="uploadUserId" type="hidden" name="userId" value="">
+                        <button id="uploadButton" type="submit" class="btn btn-primary form-control" disabled>
+                            <i class="fas fa-3x fa-upload"></i>
+                            <h3>Upload Dataset</h3>
+                        </button>
+                        <p>
+                            Upload a dataset you recorded offline
+                        </p>
+                    </form>
+                </div>
+            </div>
+            {% endif %}
         </div>
         <script>
-         var verbs = ['record']
+          {% if multi_user: %}
+          var verbs = ['record', 'upload'];
+          {% else: %}
+          var verbs = ['record'];
+          {% endif %}
 
          function q(id) {
              return document.querySelector(id);
