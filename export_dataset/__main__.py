@@ -1,12 +1,13 @@
 import argparse
 import csv
 import logging
+import shutil
+import subprocess
 import threading
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-import librosa
-import soundfile
+import numpy as np
 
 from .trim import trim_silence
 from .vad import SileroVoiceActivityDetector
@@ -29,11 +30,16 @@ def main():
     args = parser.parse_args()
     logging.basicConfig()
 
+    if not shutil.which("ffmpeg"):
+        _LOGGER.fatal("ffmpeg must be installed")
+        return 1
+
     input_dir = Path(args.input_dir)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     wav_dir = output_dir / "wav"
 
+    export_audio = ExportAudio()
     with open(
         output_dir / "metadata.csv", "w", encoding="utf-8"
     ) as metadata_file, ThreadPoolExecutor() as executor:
@@ -49,57 +55,94 @@ def main():
             )
 
 
-def export_audio(
-    audio_path: Path,
-    input_dir: Path,
-    wav_dir: Path,
-    writer,
-    args: argparse.Namespace,
-):
-    text_path = audio_path.with_suffix(".txt")
-    if not text_path.exists():
-        _LOGGER.warning("Missing text file: %s", text_path)
-        return
+class ExportAudio:
+    def __init__(self):
+        self.thread_data = threading.local()
 
-    thread_data = threading.local()
-    if not hasattr(thread_data, "detector"):
-        thread_data.detector = make_silence_detector()
+    def __call__(
+        self,
+        audio_path: Path,
+        input_dir: Path,
+        wav_dir: Path,
+        writer,
+        args: argparse.Namespace,
+    ):
+        try:
+            text_path = audio_path.with_suffix(".txt")
+            if not text_path.exists():
+                _LOGGER.warning("Missing text file: %s", text_path)
+                return
 
-    text = text_path.read_text(encoding="utf-8").strip()
-    wav_path = wav_dir / audio_path.relative_to(input_dir).with_suffix(".wav")
-    wav_id = wav_path.relative_to(wav_dir)
+            if not hasattr(self.thread_data, "detector"):
+                self.thread_data.detector = make_silence_detector()
 
-    # Trim silence first.
-    #
-    # The VAD model works on 16khz, so we determine the portion of audio
-    # to keep and then just load that with librosa.
-    vad_sample_rate = 16000
-    audio_16khz, _sr = librosa.load(path=audio_path, sr=vad_sample_rate)
+            text = text_path.read_text(encoding="utf-8").strip()
+            wav_path = wav_dir / audio_path.relative_to(input_dir).with_suffix(".wav")
+            wav_id = wav_path.relative_to(wav_dir)
 
-    offset_sec, duration_sec = trim_silence(
-        audio_16khz,
-        thread_data.detector,
-        threshold=args.threshold,
-        samples_per_chunk=args.samples_per_chunk,
-        sample_rate=vad_sample_rate,
-        keep_chunks_before=args.keep_chunks_before,
-        keep_chunks_after=args.keep_chunks_after,
-    )
+            # Trim silence first.
+            #
+            # The VAD model works on 16khz, so we determine the portion of audio
+            # to keep and then just load that with librosa.
+            vad_sample_rate = 16000
+            audio_16khz_bytes = subprocess.check_output(
+                [
+                    "ffmpeg",
+                    "-i",
+                    str(audio_path),
+                    "-f",
+                    "s16le",
+                    "-acodec",
+                    "pcm_s16le",
+                    "-ar",
+                    str(vad_sample_rate),
+                    "pipe:",
+                ],
+                stderr=subprocess.DEVNULL,
+            )
 
-    audio, sample_rate = librosa.load(
-        path=audio_path,
-        offset=offset_sec,
-        duration=duration_sec,
-    )
+            # Normalize
+            audio_16khz = (
+                np.frombuffer(audio_16khz_bytes, dtype=np.int16).astype(np.float32)
+                / 32767.0
+            )
 
-    # Write as WAV
-    wav_path.parent.mkdir(parents=True, exist_ok=True)
-    soundfile.write(wav_path, audio, sample_rate, format="WAV")
+            offset_sec, duration_sec = trim_silence(
+                audio_16khz,
+                self.thread_data.detector,
+                threshold=args.threshold,
+                samples_per_chunk=args.samples_per_chunk,
+                sample_rate=vad_sample_rate,
+                keep_chunks_before=args.keep_chunks_before,
+                keep_chunks_after=args.keep_chunks_after,
+            )
 
-    # id|text
-    writer.writerow((wav_id, text))
+            # Write as WAV
+            wav_path.parent.mkdir(parents=True, exist_ok=True)
+            subprocess.check_call(
+                [
+                    "ffmpeg",
+                    "-i",
+                    str(audio_path),
+                    "-f",
+                    "wav",
+                    "-acodec",
+                    "pcm_s16le",
+                    "-ss",
+                    str(offset_sec),
+                    "-t",
+                    str(duration_sec),
+                    str(wav_path),
+                ],
+                stderr=subprocess.DEVNULL,
+            )
 
-    print(wav_path)
+            # id|text
+            writer.writerow((wav_id, text))
+
+            print(wav_path)
+        except Exception:
+            _LOGGER.exception("export_audio")
 
 
 def make_silence_detector() -> SileroVoiceActivityDetector:
