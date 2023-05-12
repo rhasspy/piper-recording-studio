@@ -4,6 +4,8 @@ Local tool for recording yourself to train a [Piper text to speech](https://gith
 
 ![Screen shot](etc/screenshot.jpg)
 
+Sponsored by [![Nabu Casa](etc/nabu_casa.svg)](https://nabucasa.com)
+
 
 ## Docker
 
