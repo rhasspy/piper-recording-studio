@@ -76,7 +76,11 @@ Export recordings for a language to a Piper-compatible dataset (LJSpeech format)
 python3 -m export_dataset output/<language>/ /path/to/dataset
 ```
 
-Requires a non-Docker install.
+Requires a non-Docker install. If you used Docker to record your dataset, you may need to adjust the permissions of the output directory:
+
+``` sh
+sudo chown -R "$(id -u):$(id -u)" output/
+```
 
 See `--help` for more options. You may need to adjust the silence detection parameters to correctly remove button clicks and keypresses.
 
