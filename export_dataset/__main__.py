@@ -30,6 +30,12 @@ def main():
     parser.add_argument("--keep-chunks-before", type=int, default=2)
     parser.add_argument("--keep-chunks-after", type=int, default=5)
     #
+    parser.add_argument(
+        "--skip-existing-wav",
+        action="store_true",
+        help="Don't overwrite existing WAV files",
+    )
+    #
     args = parser.parse_args()
     logging.basicConfig()
 
@@ -47,6 +53,7 @@ def main():
         output_dir / "metadata.csv", "w", encoding="utf-8"
     ) as metadata_file, ThreadPoolExecutor() as executor:
         writer = csv.writer(metadata_file, delimiter="|")
+        writer_lock = threading.Lock()
         for audio_path in input_dir.rglob(args.audio_glob):
             executor.submit(
                 export_audio,
@@ -54,6 +61,7 @@ def main():
                 input_dir,
                 wav_dir,
                 writer,
+                writer_lock,
                 args,
             )
 
@@ -68,6 +76,7 @@ class ExportAudio:
         input_dir: Path,
         wav_dir: Path,
         writer,
+        writer_lock: threading.Lock,
         args: argparse.Namespace,
     ):
         try:
@@ -83,72 +92,76 @@ class ExportAudio:
             wav_path = wav_dir / audio_path.relative_to(input_dir).with_suffix(".wav")
             wav_id = wav_path.relative_to(wav_dir)
 
-            if args.threshold <= 0:
-                offset_sec = 0.0
-                duration_sec = None
-            else:
-                # Trim silence first.
-                #
-                # The VAD model works on 16khz, so we determine the portion of audio
-                # to keep and then just load that with librosa.
-                vad_sample_rate = 16000
-                audio_16khz_bytes = subprocess.check_output(
-                    [
-                        "ffmpeg",
-                        "-i",
-                        str(audio_path),
-                        "-f",
-                        "s16le",
-                        "-acodec",
-                        "pcm_s16le",
-                        "-ac",
-                        "1",
-                        "-ar",
-                        str(vad_sample_rate),
-                        "pipe:",
-                    ],
-                    stderr=subprocess.DEVNULL,
-                )
+            if (not args.skip_existing_wav) or (
+                (not wav_path.exists()) or (wav_path.stat().st_size == 0)
+            ):
+                if args.threshold <= 0:
+                    offset_sec = 0.0
+                    duration_sec = None
+                else:
+                    # Trim silence first.
+                    #
+                    # The VAD model works on 16khz, so we determine the portion of audio
+                    # to keep and then just load that with librosa.
+                    vad_sample_rate = 16000
+                    audio_16khz_bytes = subprocess.check_output(
+                        [
+                            "ffmpeg",
+                            "-i",
+                            str(audio_path),
+                            "-f",
+                            "s16le",
+                            "-acodec",
+                            "pcm_s16le",
+                            "-ac",
+                            "1",
+                            "-ar",
+                            str(vad_sample_rate),
+                            "pipe:",
+                        ],
+                        stderr=subprocess.DEVNULL,
+                    )
 
-                # Normalize
-                audio_16khz = np.frombuffer(audio_16khz_bytes, dtype=np.int16).astype(
-                    np.float32
-                )
-                audio_16khz /= np.abs(np.max(audio_16khz))
+                    # Normalize
+                    audio_16khz = np.frombuffer(
+                        audio_16khz_bytes, dtype=np.int16
+                    ).astype(np.float32)
+                    audio_16khz /= np.abs(np.max(audio_16khz))
 
-                offset_sec, duration_sec = trim_silence(
-                    audio_16khz,
-                    self.thread_data.detector,
-                    threshold=args.threshold,
-                    samples_per_chunk=args.samples_per_chunk,
-                    sample_rate=vad_sample_rate,
-                    keep_chunks_before=args.keep_chunks_before,
-                    keep_chunks_after=args.keep_chunks_after,
-                )
+                    offset_sec, duration_sec = trim_silence(
+                        audio_16khz,
+                        self.thread_data.detector,
+                        threshold=args.threshold,
+                        samples_per_chunk=args.samples_per_chunk,
+                        sample_rate=vad_sample_rate,
+                        keep_chunks_before=args.keep_chunks_before,
+                        keep_chunks_after=args.keep_chunks_after,
+                    )
 
-            # Write as WAV
-            command = [
-                "ffmpeg",
-                "-y",
-                "-i",
-                str(audio_path),
-                "-f",
-                "wav",
-                "-acodec",
-                "pcm_s16le",
-                "-ss",
-                str(offset_sec),
-            ]
-            if duration_sec is not None:
-                command.extend(["-t", str(duration_sec)])
+                # Write as WAV
+                command = [
+                    "ffmpeg",
+                    "-y",
+                    "-i",
+                    str(audio_path),
+                    "-f",
+                    "wav",
+                    "-acodec",
+                    "pcm_s16le",
+                    "-ss",
+                    str(offset_sec),
+                ]
+                if duration_sec is not None:
+                    command.extend(["-t", str(duration_sec)])
 
-            command.append(str(wav_path))
+                command.append(str(wav_path))
 
-            wav_path.parent.mkdir(parents=True, exist_ok=True)
-            subprocess.check_call(command, stderr=subprocess.DEVNULL)
+                wav_path.parent.mkdir(parents=True, exist_ok=True)
+                subprocess.check_call(command, stderr=subprocess.DEVNULL)
 
-            # id|text
-            writer.writerow((wav_id, text))
+            with writer_lock:
+                # id|text
+                writer.writerow((wav_id, text))
 
             print(wav_path)
         except Exception:
