@@ -21,6 +21,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_dir")
     parser.add_argument("output_dir")
+    parser.add_argument(
+        "--audio-glob", default="*.webm", help="Glob pattern for audio files"
+    )
     #
     parser.add_argument("--threshold", type=float, default=0.8)
     parser.add_argument("--samples-per-chunk", type=int, default=480)
@@ -44,7 +47,7 @@ def main():
         output_dir / "metadata.csv", "w", encoding="utf-8"
     ) as metadata_file, ThreadPoolExecutor() as executor:
         writer = csv.writer(metadata_file, delimiter="|")
-        for audio_path in input_dir.rglob("*.webm"):
+        for audio_path in input_dir.rglob(args.audio_glob):
             executor.submit(
                 export_audio,
                 audio_path,
