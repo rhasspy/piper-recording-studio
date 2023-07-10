@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+import argparse
+import csv
+from collections import defaultdict
+from pathlib import Path
+from typing import Dict, Set
+
+_DIR = Path(__file__).parent
+_REPO_DIR = _DIR.parent
+_PROMPTS_DIR = _REPO_DIR / "prompts"
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("output_dir")
+    args = parser.parse_args()
+    output_dir = Path(args.output_dir)
+
+    prompt_ids: Dict[str, Dict[str, Set[str]]] = defaultdict(lambda: defaultdict(set))
+    for lang_dir in _PROMPTS_DIR.iterdir():
+        if not lang_dir.is_dir():
+            continue
+
+        lang_code = lang_dir.name.rsplit("_", maxsplit=1)[1]
+        lang_prompt_ids = prompt_ids[lang_code]
+        for text_path in lang_dir.glob("*.txt"):
+            text_prompt_ids = lang_prompt_ids[text_path.stem]
+            with open(text_path, "r", encoding="utf-8") as text_file:
+                reader = csv.reader(text_file, delimiter="\t")
+                text_prompt_ids.update(row[0] for row in reader)
+
+    for user_dir in sorted(output_dir.iterdir()):
+        if not user_dir.is_dir():
+            continue
+
+        for lang_dir in sorted(user_dir.iterdir()):
+            if not lang_dir.is_dir():
+                continue
+
+            lang_code = lang_dir.name
+            if lang_code not in prompt_ids:
+                continue
+
+            lang_prompt_ids = prompt_ids[lang_code]
+            completed_prompt_ids = 0
+            total_prompt_ids = 0
+            for text_name, text_prompt_ids in lang_prompt_ids.items():
+                total_prompt_ids += len(text_prompt_ids)
+                text_dir = lang_dir / text_name
+                if not text_dir.is_dir():
+                    continue
+
+                for prompt_id in text_prompt_ids:
+                    prompt_text_path = text_dir / f"{prompt_id}.txt"
+                    prompt_audio_path = text_dir / f"{prompt_id}.webm"
+                    if (
+                        prompt_text_path.exists()
+                        and (prompt_text_path.stat().st_size > 0)
+                        and prompt_audio_path.exists()
+                        and (prompt_audio_path.stat().st_size > 0)
+                    ):
+                        completed_prompt_ids += 1
+
+            print(user_dir.name, lang_code, f"{completed_prompt_ids}/{total_prompt_ids}")
+
+
+if __name__ == "__main__":
+    main()
