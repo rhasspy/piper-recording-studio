@@ -25,9 +25,9 @@ def main():
         "--audio-glob", default="*.webm", help="Glob pattern for audio files"
     )
     #
-    parser.add_argument("--threshold", type=float, default=0.8)
+    parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--samples-per-chunk", type=int, default=480)
-    parser.add_argument("--keep-chunks-before", type=int, default=2)
+    parser.add_argument("--keep-chunks-before", type=int, default=5)
     parser.add_argument("--keep-chunks-after", type=int, default=5)
     #
     parser.add_argument(
