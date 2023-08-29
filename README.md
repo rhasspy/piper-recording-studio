@@ -6,6 +6,7 @@ Local tool for recording yourself to train a [Piper text to speech](https://gith
 
 [![Sponsored by Nabu Casa](etc/nabu_casa_sponsored.png)](https://nabucasa.com)
 
+See a [video tutorial](https://www.youtube.com/watch?v=Z1pptxLT_3I) by [Thorsten Müller](https://www.thorsten-voice.de/)
 
 ## Docker
 
