@@ -1,2 +1,3 @@
 hypercorn==0.14.3
 quart==0.18.4
+Werkzeug==2.3.7
