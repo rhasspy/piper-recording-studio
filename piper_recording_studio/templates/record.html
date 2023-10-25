@@ -188,7 +188,7 @@
              if (response.ok) {
                  let result = await response.json();
                  if (result.done) {
-                     window.location.pathname = "/done.html";
+                     window.location.href = "done.html";
                      return;
                  }
                  
