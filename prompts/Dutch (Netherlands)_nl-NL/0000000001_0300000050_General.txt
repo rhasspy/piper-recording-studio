@@ -5,15 +5,15 @@
 0000000005	Ik voel dat ik er klaar voor ben en wil dit jaar ook weer meedoen met hardloopwedstrijden.
 0000000006	Toen ik jong was, zagen wij elkaar veel vaker en gingen vaak samen op vakantie.
 0000000007	Om ons begrip over bliksemontladingen te vergroten en de daarmee gepaard gaande krachten en fysische processen in onweerswolken, kunnen we verschillende instrumenten en technieken gebruiken.
-0000000008	Je kunt hier uren ronddwalen en op zoek gaan naar wilde dieren als runderen, edelherten, vossen of de wilde paarden met hun veulens.
+0000000008	Je kunt hier uren ronddwalen en op zoek gaan naar wilde dieren als runderen, edelherten, vossen of wilde paarden met hun veulens.
 0000000009	Nergens ter wereld is er zoveel landschapskunst te vinden op zo’n klein oppervlak als hier.
-0000000010	Op het eiland zijn prachtige wandelingen te maken langs drie bijzondere vogelkijkhutten en een indrukwekkende uitkijktoren. 
+0000000010	Op het eiland zijn prachtige wandelingen te maken langs drie bijzondere vogelkijkhutten en een indrukwekkende uitkijktoren.
 0000000011	Na een dag of twee zijn de koetjes en kalfjes wel uitgemolken, de nieuwtjes uitgewisseld en de directe omgeving verkend.
 0000000012	Uit grootschalig onderzoek blijkt dat meer mensen dit jaar de voorkeur geven aan een vakantie in eigen land.
 0000000013	De parken beschikken over vele uitstekende faciliteiten om een vakantie met gezin compleet te maken.
 0000000014	Bereid de lekkerste gerechten in de keuken, kijk een filmpje in de sfeervolle woonkamer en drink een lekker kopje koffie.
 0000000015	Als het één keer volle maan is geweest na de geboorte van een gezond kind, wordt er een feest georganiseerd door de familie.
-0000000016	Met diepe droefheid heb ik kennis genomen van het overlijden van een goede vriend, maar gelukkig kan ik eerlijk zeggen dat hij een fantastisch leven heeft gehad. 
+0000000016	Met diepe droefheid heb ik kennis genomen van het overlijden van een goede vriend, maar gelukkig kan ik eerlijk zeggen dat hij een fantastisch leven heeft gehad.
 0000000017	Met name cacaodoppen vinden katten onaangenaam, want zowel het knisperende geluid als de geur ervan vinden ze niet lekker.
 0000000018	Groentesoorten die veel vocht bevatten, zoals komkommer, tomaat en sla, worden er niet lekkerder op in de vriezer.
 0000000019	Rauwe aardappels kun je beter niet in de vriezer bewaren, omdat ze veel vocht bevatten.
@@ -30,7 +30,7 @@
 0000000030	Vaak zul je merken dat je darmen even moeten wennen als je gezonder gaat eten.
 0000000031	Je leert allemaal handige overlevingstechnieken die je normaal gesproken nooit nodig zult hebben, maar die heel goed van pas kunnen komen.
 0000000032	Wanneer je goed slaapt, zul je merken dat je je snel actiever en gemotiveerder voelt als je je eetpatroon omgooit en verbetert.
-0000000033	Hoe beter je eet, hoe beter je lichaam in staat is om goed te blijven herstellen en hoe minder je achteruit gaat als je ouder wordt. 
+0000000033	Hoe beter je eet, hoe beter je lichaam in staat is om goed te blijven herstellen en hoe minder je achteruit gaat als je ouder wordt.
 0000000034	Eet je te weinig verse groente, dan kan het zijn dat je huid relatief sneller zijn veerkracht verliest.
 0000000035	Stress is een veelvoorkomende oorzaak van slecht slapen waarbij je leefstijl en tijdsindeling een belangrijke rol spelen.
 0000000036	Hou het rustig in je tuin door voor veel van dezelfde planten te kiezen of voor verschillende soorten met alle dezelfde kleur bloemen.
@@ -45,36 +45,36 @@
 0000000045	Dat is echt leuk voor de hele familie, want niet alleen ben je lekker in de buitenlucht met elkaar bezig maar je komt ook tal van hindernissen tegen.
 0000000046	Het is niet leuk voor ze als pap en mams alle puzzels oplossen en zij er maar voor spek en bonen bijzitten.
 0000000047	Het is één van de klassieke uitjes voor de hele familie die nog altijd razend populair zijn.
-0000000048	Met een groep van maximaal tien personen zul je plaatsnemen op een rubberen ribboot, die zeer hoge snelheden kan behalen.
+0000000048	Met een groep van maximaal tien personen zul je plaatsnemen op een rubberen roeiboot, die zeer hoge snelheden kan behalen.
 0000000049	Je ploegt eerst een tijdje door de golven en voelt de koele zeelucht en het zilte zeewater op je gezicht.
 0000000050	Het is reuze interessant om met het hele gezin naar een dierentuin te gaan in het weekend.
 0000000051	Er is een tentoonstelling waarbij je voorwerpen kunt bekijken die echt in de ruimte zijn geweest.
 0000000052	Een rondvaart met de kinderen is een echte aanrader omdat het leuk is om de stad eens vanaf het water te bekijken.
 0000000053	Als ouder kan je soms deelnemen aan de activiteiten en een andere keer zullen jullie je moeten vermaken in de koffiehoek.
 0000000054	De evenementen zijn er in alle soorten en maten, van sieraden maken tot schilderen en van tekenen en knutselen tot hutten en vlotten bouwen.
-0000000055	Door de populariteit van deze activiteiten groeit ook het aantal activiteiten die geschikt zijn voor jongere kinderen.
-0000000056	De puzzels die je moet oplossen om uit de kamer te kunnen ontsnappen zijn een stuk eenvoudiger, waardoor kinderen ook daadwerkelijk het gevoel hebben dat ze bijdragen aan het ontsnappingsplan. 
+0000000055	Door de populariteit van deze activiteiten groeit ook het aantal activiteiten dat geschikt is voor jongere kinderen.
+0000000056	De puzzels die je moet oplossen om uit de kamer te kunnen ontsnappen zijn een stuk eenvoudiger, waardoor kinderen ook daadwerkelijk het gevoel hebben dat ze bijdragen aan het ontsnappingsplan.
 0000000057	Wetenschappers schatten dat 6 tot 7 kubieke kilometer aan as en lava op de zeebodem rond de vulkaan is terechtgekomen.
 0000000058	Het mooie aan het spel is dat het ook voor jongere kinderen prima te doen is.
-0000000059	De combinatie van snelheid, scherpe bochten en lekker door de bagger scheuren maakt het tot een echt uitje voor avonturiers.
-0000000060	Als het te slecht weer is om naar een pretpark of buitenspeeltuin te gaan, kun je altijd nog een overdekte speelparadijs overwegen.
+0000000059	De combinatie van snelheid, scherpe bochten en lekker door de bagger scheuren maakt het een echt uitje voor avonturiers.
+0000000060	Als het te slecht weer is om naar een pretpark of buitenspeeltuin te gaan, kun je altijd nog een overdekt speelparadijs overwegen.
 0000000061	Klimparken en klimbossen schieten als paddenstoelen uit de grond en bieden een actief uitje voor jong en oud.
-0000000062	Bij veel locaties kun je tevens andere sportieve en leuke activiteiten ondernemen met het gezin.
+0000000062	Op veel locaties kun je tevens andere sportieve en leuke activiteiten ondernemen met het gezin.
 0000000063	Zelfs voor het afsluitende hapje en drankje hoef je in veel gevallen de locatie niet te verlaten.
 0000000064	Als er iets is wat relaxed is op je verjaardag, dan is het wel een dagje sauna of wellness.
 0000000065	Er zijn verschillende leuke pretparken waar je op je verjaardag gratis terecht kunt op vertoon van je kaart.
 0000000066	Sommige supermarkten of andere winkels in een kleiner dorp, hebben ook leuke acties voor jarigen.
 0000000067	Je kunt ervoor kiezen om een aantal grote veranderingen in je leven door te voeren, maar je kunt ook beginnen met een aantal kleinere aanpassingen die samen een hoop opleveren.
-0000000068	Een stekkerdoos is een goede manier om alle aangesloten apparaten in een keer uit te zetten.
+0000000068	Een stekkerdoos is een goede manier om alle aangesloten apparaten in één keer uit te zetten.
 0000000069	Zuinig leven betekent niet dat je nooit meer iets leuks kunt gaan doen of dat je alleen nog maar droog brood moet eten.
 0000000070	Er zijn verschillende sauna’s die gratis toegang of korting geven zodat het genieten van hun faciliteiten een echt cadeautje wordt.
 0000000071	Het is slim om eens kritisch te kijken of je je energieverbruik of de kosten daarvoor kunt verlagen.
 0000000072	Om zuinig te wassen, kun je het beste alleen een was draaien als de trommel vol is.
-0000000073	Bepaal of het laten luchten van de kleding niet voldoende is, voordat je het in de wasmachine gooit. 
+0000000073	Bepaal of het laten luchten van de kleding niet voldoende is, voordat je het in de wasmachine gooit.
 0000000074	Een kleinere auto is niet alleen goedkoper, maar verbruikt daarnaast vaak ook veel minder dan een grote auto.
 0000000075	Om zuinig te leven, kun je er beter voor kiezen om de auto niet meer voor kleine stukjes te gebruiken.
-0000000076	Als het niet het seizoen voor bepaalde groenten of fruit is, dan betekent dat dat die producten in een kas verbouwd moeten worden.
-0000000077	Koop niet teveel in en zorg dat je de producten die je koopt zo kunt gebruiken dat je niets hoeft weg te gooien.
+0000000076	Als het niet het seizoen voor bepaalde groenten of fruit is, dan betekent dit dat die producten in een kas verbouwd moeten worden.
+0000000077	Koop niet te veel in en zorg dat je de producten die je koopt zo kunt gebruiken dat je niets hoeft weg te gooien.
 0000000078	Vraag jezelf de volgende keer dat je nieuwe kleding wilt kopen eerst eens af of je het echt nodig hebt.
 0000000079	Een shampoo en simpel zeepje is vaak al genoeg om je schoon en fris te houden.
 0000000080	Door kleiner te gaan wonen, bespaar je op het gebruik van energie en de kosten daarvoor.
@@ -83,25 +83,25 @@
 0000000083	Als je graag financieel zuiniger wilt leven, dan is het controleren van je abonnementen een slimme zet.
 0000000084	Veel mensen kiezen elk jaar of elke twee jaar een nieuwe telefoon met een abonnement uit.
 0000000085	Dat betekent niet dat je bij de volgende keer boodschappen gelijk alles moet weglaten wat je normaal als extra koopt, maar bouw het langzaam af.
-0000000086	Een auto is niet meer weg te denken uit een standaard gezin, maar ook één van de meest dure kostenposten die mensen hebben. 
+0000000086	Een auto is niet meer weg te denken uit een standaard gezin, maar ook één van de meest dure kostenposten die mensen hebben.
 0000000087	Tijd om dus bewuster om te gaan met je rijgedrag en wat vaker met bus of trein te gaan reizen.
-0000000088	Controleer elk jaar of je zorgverzekering goedkoper kan en welke aanvullende pakketten je echt nodig hebt. 
+0000000088	Controleer elk jaar of je zorgverzekering goedkoper kan en welke aanvullende pakketten je echt nodig hebt.
 0000000089	Houd er rekening mee dat de kosten daardoor wel flink kunnen oplopen als je wél zorg nodig hebt.
 0000000090	Kijk ook eens of de verzekering voor bijvoorbeeld je inboedel of auto goedkoper kan.
 0000000091	Vooral in deze gedigitaliseerde samenleving is het stoppen met kopen van kleding lastig, doordat online kleding bestellen erg makkelijk is.
 0000000092	Waterbesparende kranen en douchekoppen zijn een goed middel om je verbruik te verminderen en daarmee kosten te besparen.
-0000000093	Experts verklaren dat het niet wijs is om op reis te gaan dit jaar, maar dat het wel weer kan. 
+0000000093	Experts verklaren dat het niet wijs is om op reis te gaan dit jaar, maar dat het wel weer kan.
 0000000094	Misschien mis je ze de eerste weken, maar je zult al snel merken dat veel badartikelen niet nodig zijn.
-0000000095	Ten eerste bespaart een auto delen enorm veel kosten en ten tweede ben je goed bezig voor het milieu. 
+0000000095	Ten eerste bespaart een auto delen enorm veel kosten en ten tweede ben je goed bezig voor het milieu.
 0000000096	Eerder is het douchen al voorbij gekomen, maar ook op elektriciteit en water kun je bezuinigen.
 0000000097	Het proces zal niet zonder horten en stoten gaan omdat veel van ons gewend zijn volledig in de maatschappij mee te draaien dat ontzettend gericht is op consumeren.
 0000000098	Met verschillende kleine aanpassingen ben je op weg naar een betere wereld voor jezelf en de mensen om je heen.
-0000000099	Het is maar voor weinig mensen weggelegd om met zo min mogelijk spullen te leven. 
-0000000100	Als mensen je iets willen geven denk dan goed aan wat jou voldoening geeft, zonder dat het materialistisch van aard is.
+0000000099	Het is maar voor weinig mensen weggelegd om met zo min mogelijk spullen te leven.
+0000000100	Als mensen je iets willen geven, denk dan goed aan wat jou voldoening geeft, zonder dat het materialistisch van aard is.
 0000000101	Uiteraard horen bij feestdagen cadeaus, maar cadeaus in materialistische vorm passen niet echt in het straatje van minder consumeren.
 0000000102	Het beste is om je auto helemaal weg te doen, maar begrijpelijk is dat veel mensen niet zonder kunnen.
-0000000103	Het klinkt streng, maar als je er bij stilstaat doe je het voor een goede reden wat veel voldoening geeft.
-0000000104	Je kunt bij een buurtgenoot of vriendin aankloppen of die het zien zitten om een auto te delen.
+0000000103	Het klinkt streng, maar als je er bij stilstaat doe je het voor een goede reden, wat veel voldoening geeft.
+0000000104	Je kunt bij een buurtgenoot of vriendin aankloppen of die zien zitten om een auto te delen.
 0000000105	Maak plaats voor een fotolijstje of zet het gekregen beeldje van je oma weer eens pontificaal in het zicht.
 0000000106	Maar vrijwel ieder huishouden heeft onnodige spullen die in de uitverkoop of op een goedkope webshop gekocht zijn.
 0000000107	Als je in het wilde weg begint is het lastiger vol te houden dan wanneer je een inspirerende reden hebt.
@@ -136,13 +136,13 @@
 0000000136	Op de lange termijn wordt het steeds lastiger, omdat de omgevingsfactoren die gezamenlijk bepalen welke eigenschappen voordelig of nadelig zijn constant veranderen en toeval een grotere rol speelt.
 0000000137	Dat wormpje is ontzettend bruikbaar voor biologisch onderzoek, omdat we er veel van weten en op bestelling populaties kunnen krijgen, die precies voldoen aan de voorwaarden van een experiment.
 0000000138	Door de korte generatietijd - de wormpjes zijn binnen een paar dagen volwassen - konden we een evolutionair experiment uitvoeren.
-0000000139	In het experiment stelden de onderzoekers het wormpje voor een evolutionaire uitdaging door het een nieuwe voedselbron voor te schotelen. 
+0000000139	In het experiment stelden de onderzoekers het wormpje voor een evolutionaire uitdaging door het een nieuwe voedselbron voor te schotelen.
 0000000140	We gaven de wormpjes vijftien generaties de tijd om zich aan de nieuwe voedselbron aan te passen.
 0000000141	Binnen dezelfde laboratoria zagen we relatief weinig variatie: daar evolueerden alle wormenpopulaties op ongeveer dezelfde manier.
 0000000142	Dat komt waarschijnlijk omdat de omstandigheden overal toch een beetje anders zijn, met toevalsfactoren die je niet onder controle hebt.
 0000000143	In het lab leeft het wormpje in een superschone omgeving met één bacterie als voedselbron, terwijl het in de natuur ook allemaal andere bacteriën tegenkomt.
 0000000144	Om het effect van omgevingsfactoren te onderzoeken, zijn we nu bezig met een vervolgexperiment waarbij de ene populatie evolueert zonder bacteriële darmflora en de andere mét zo’n darmflora.
-0000000145	Voorspellen van de evolutie van het leven' is slechts één van de onderzoeken die de afgelopen drie jaar zijn uitgevoerd vanuit de organisatie.
+0000000145	Voorspellen van de evolutie van het leven is slechts één van de onderzoeken die de afgelopen drie jaar zijn uitgevoerd vanuit de organisatie.
 0000000146	De organisatie zorgt voor een unieke kruisbestuiving tussen verschillende disciplines; astronomen, biologen, geologen, scheikundigen, natuurkundigen en informatici doen samen onderzoek naar fundamentele vragen.
 0000000147	De Nederlandse wetenschap loopt wereldwijd voorop in interdisciplinair onderzoek naar de oorsprong en evolutie van het leven.
 0000000148	Je hebt contact met onderzoekers die voor vergelijkbare uitdagingen staan, maar toch totaal verschillende vragen en onderzoeksmethoden hebben.
@@ -155,13 +155,13 @@
 0000000155	Tegenwoordig maken we veel gebruik van onderwaterrobots en bodemlanders.
 0000000156	Dat bevestigt de hekkensluiter van de Eredivisie.
 0000000157	Dat gebeurde laat in de nacht.
-0000000158	Volgens mij mogen we maar een paar meenemen. 
+0000000158	Volgens mij mogen we maar een paar meenemen.
 0000000159	Drie procent in tweeduizend zeventien.
 0000000160	De middenvelder wordt overgenomen van Zenit Sint-Petersburg.
 0000000161	Op de nieuwe locatie wordt een geheel nieuw pand van circa vierduizendtweehonderd vierkante meter neergezet.
 0000000162	Zij kregen onvoldoende steun in de raad.
 0000000163	Het aantal gebeurtenissen zorgde voor veel hinder voor reizigers.
-0000000164	De laatste keer dat zij die titel won was in tweeduizend zes.
+0000000164	De laatste keer dat zij die titel won was tweeduizend zes.
 0000000165	Gemiddeld komen er per gemeente tussen de vijf en tien mensen bij.
 0000000166	Het verhaal gaat verder onder de foto.
 0000000167	De advocate voerde ook medische redenen aan om het gezin niet terug te sturen.
@@ -190,11 +190,11 @@
 0000000190	Momenteel zit er nog een jaar en vier maanden garantie op.
 0000000191	In Europa daalde de verkoop met twee.
 0000000192	Niets om je voor te schamen.
-0000000193	Drie procent gaan vrolijk door met stijgen.
+0000000193	Drie procent gaat vrolijk door met stijgen.
 0000000194	In de kroniek van maar liefst vijfhonderd pagina’s schetst hij een beeld van de bewoners.
 0000000195	Wat ook moeilijk samengaat met sociale activiteiten in de ruimte.
 0000000196	Voor het eerst kunnen de winkels ook eerste kerstdag en op nieuwjaarsdag open.
-0000000197	Het is vrijdagmiddag sinds vijftien uur erg glad op de wegen in het Noorden.
+0000000197	Het is vrijdagmiddag sinds vijftien uur erg glad op de wegen in het noorden.
 0000000198	De gemeente werd verplicht om op te treden.
 0000000199	Voor de tweede keer is een aangifte van smaad tegen de journalist geseponeerd.
 0000000200	De bewoners kregen een seintje en belden gelijk de brandweer.
@@ -222,7 +222,7 @@
 0000000222	Het gaat om het inbrengen van zienswijzen of bedenkingen.
 0000000223	Met een rendement van vier punt drie.
 0000000224	Het gaat om zaken die worden behandeld door de politierechter en de kantonrechter.
-0000000225	Om de wereld leefbaar te houden moeten we onze eetgewoontes drastisch veranderen.
+0000000225	Om de wereld leefbaar te houden moeten we onze eetgewoonten drastisch veranderen.
 0000000226	China leek met deze ontwikkeling stevig door te pakken.
 0000000227	Hiermee kunnen bijvoorbeeld uitverkochte voorwaarden gevonden worden.
 0000000228	Hiermee blijven onze basisschoolleerlingen steken op het niveau van groep zes.
@@ -237,9 +237,9 @@
 0000000237	Nu staan er aan de zuidkant van de lange startbaan weer hekken.
 0000000238	Het gaat niet zozeer om de techniek van het schrijven.
 0000000239	Volgens mij heeft een kat eenentwintig levens.
-0000000240	De economie groeit ieder jaar weer. 
+0000000240	De economie groeit ieder jaar weer.
 0000000241	Die is al sinds negentien vijfenzestig actief.
-0000000242	De paardensport wordt steeds meer populaire.
+0000000242	De paardensport wordt steeds populairder.
 0000000243	De achterstand op koploper Liverpool bedraagt negen punten.
 0000000244	De woning heeft aanzienlijke rookschade opgelopen.
 0000000245	Hij heeft zondagavond in een verklaring zijn eigen versie van de gebeurtenissen verteld.
@@ -251,24 +251,24 @@
 0000000251	We moesten nog vijf banen rijden en ik had zelfs een kleine voorsprong.
 0000000252	De camera's hangen van negentien tot en met vijfentwintig januari aan lantaarnpalen bij de rotonde.
 0000000253	Hij probeert in ieder geval het aantal goed voorspelde wedstrijden van broer Willy te verbeteren.
-0000000254	Hij gaat zo meteen in gesprek met het Laatste Nieuws.
+0000000254	Hij gaat zo meteen in gesprek met Het Laatste Nieuws.
 0000000255	Afgelopen jaar werden er werkzaamheden aan de kolk uitgevoerd.
 0000000256	Het is hier altijd zo koud in de winter.
 0000000257	Het doel van deze verplichting is het verzekeren van de verkeersveiligheid.
 0000000258	Dat riepen de fanatieke fans van de thuisploeg.
 0000000259	Dan kan de schorsing oplopen tot negen maanden.
 0000000260	De vernieuwers willen dit nu afschaffen, geen breuken meer in groep zeven of acht.
-0000000261	Het pretpark heeft een put van honderd tien meter diep.
+0000000261	Het pretpark heeft een put van honderdtien meter diep.
 0000000262	We moeten alle zeilen bijzetten om verlies van dieren- en plantensoorten te voorkomen.
 0000000263	Klimaatverandering is eigenlijk het symptoom van onze ecosysteemvernietigende economie.
-0000000264	Het gaat wereldwijd slecht met de biodiversiteit: een miljoen soorten staat op uitsterven.
+0000000264	Het gaat wereldwijd slecht met de biodiversiteit: een miljoen soorten staan op uitsterven.
 0000000265	Onze ecologische voetafdruk is enorm.
 0000000266	Daarom is een langetermijnvisie van onze overheid en de EU zo belangrijk.
 0000000267	In Nederland is de landbouw op dit moment nog maar 3 tot 4 procent biologisch.
-0000000268	Om de biodiversiteit te herstellen moet de natuur meer ruimte te krijgen.
+0000000268	Om de biodiversiteit te herstellen moet de natuur meer ruimte krijgen.
 0000000269	Daarmee zouden we heel veel biodiversiteit kunnen genereren.
 0000000270	Dat is volgens Vet niet alleen goed voor dieren- en plantensoorten, maar ook voor onszelf.
-0000000271	Naast de Europese regeling worden ook op nationaal niveau belangrijke stappen gezet, vertelt ze. 
+0000000271	Naast de Europese regeling worden ook op nationaal niveau belangrijke stappen gezet, vertelt ze.
 0000000272	Het Deltaplan richt zich op alle grond van Nederland, niet alleen op kwetsbare gebieden.
 0000000273	Ze baseren zich op experimenten in het lab.
 0000000274	Toch kijkt ze positief en vol vertrouwen naar de toekomst.
@@ -291,16 +291,16 @@
 0000000291	Kijk dan eens of jouw favoriete dierenpark een abonnement aanbiedt.
 0000000292	Het zit hem dus puur in de benaming.
 0000000293	Maar ook op onze eigen planeet is er een groot onontdekt gebied: de diepzee.
-0000000294	Waar je in Nederland ook woont: er is altijd wel een dierentuin in de buurt.
+0000000294	Waar je ook in Nederland woont: er is altijd wel een dierentuin in de buurt.
 0000000295	Laat de adrenaline door je lijf gieren met een bezoek aan het pretpark.
 0000000296	Stap een achtbaan in, schreeuw het uit en beleef een onvergetelijke dag.
-0000000297	Een dagje pretpark kan al snel in de papieren lopen. 
+0000000297	Een dagje pretpark kan al snel in de papieren lopen.
 0000000298	Eigenlijk doe je iedereen wel een plezier met een dagje pretpark.
 0000000299	In ieder geval is er altijd iets te doen.
-0000000300	rootschalig onderzoek blijkt dat meer mensen dit jaar de voorkeur geven aan een vakantie in eigen land.
+0000000300	grootschalig onderzoek blijkt dat meer mensen dit jaar de voorkeur geven aan een vakantie in eigen land.
 0100000001	Dus hoe komt Ajax op vijfenzeventig miljoen euro als vraagprijs?
 0100000002	En wat is de veiligste plaats voor een peuter?
-0100000003	Velen vroeg zich echter af, hoe zit het als ik een andere plek wil kopen?
+0100000003	Velen vroegen zich echter af, hoe zit het als ik een andere plek wil kopen?
 0100000004	Hoe werkt dat brieven schrijven?
 0100000005	Wat voor reis zou je ooit willen maken?
 0100000006	Maar wie worden de gezichten van tweeduizend negentien?
@@ -398,7 +398,7 @@
 0100000098	Wat ga je vandaag allemaal doen?
 0100000099	Is het een bedreiging voor de logistieke marktspelers?
 0100000100	Wil je zelf een steentje bijdragen aan biodiversiteitsherstel?
-0200000001	Een hotel met een eigen jachthaven, hoe spectaculair is dat! 
+0200000001	Een hotel met een eigen jachthaven, hoe spectaculair is dat!
 0200000002	Gelukkig kwam het weer goed toen de passen iets minder extreem werden!
 0200000003	De opwarming is al begonnen!
 0200000004	Volg ons hier en blijf op de hoogte van het laatste nieuws!
@@ -415,17 +415,17 @@
 0200000015	Het bedrag is direct helemaal van jou!
 0200000016	Jammer vinden ze het wel, heel jammer zelfs!
 0200000017	Het weer is prachtig en de sfeer zit er goed in!
-0200000018	Help ons de goede praktijken te verzamelen en delen!
+0200000018	Help ons de goede praktijken te verzamelen en te delen!
 0200000019	Ik dacht dat het allemaal een beetje soepeler was geworden dit jaar!
 0200000020	De open dag van Feyenoord is in volle gang!
 0200000021	Dat mag jij niet meer doen!
-0200000022	Dat overkomt je niet zomaar kan ik u vertellen!
+0200000022	Dat overkomt je niet zomaar, kan ik u vertellen!
 0200000023	Als u in de buurt bent, kom gerust kijken!
 0200000024	Het mag ook uit losse onderdelen bestaan!
 0200000025	Geen zorgen, want je kan je water ook gewoon opeten!
 0200000026	Aliens doen het misschien!
 0200000027	Jij kunt kans maken om een paar te winnen!
-0200000028	Ga gezellig mee en ontdek de wereld van het ree!
+0200000028	Ga gezellig mee en ontdek de wereld van de ree!
 0200000029	Laat het weten via een reactie op dit artikel!
 0200000030	Kan ik tussen de werkzaamheden door soms even surfen!
 0200000031	Hoe beter de cijfers hoe leuker we dit vinden!
@@ -442,9 +442,9 @@
 0200000042	Ik hoop ten zeerste dat jullie mij kunnen helpen!
 0200000043	Check hieronder een aantal andere mensen die vol voor deze uitdaging gingen!
 0200000044	Ik was gewoon aanwezig en zag het niet!
-0200000045	Nou het was bepaald geen straf om dat boek uit te lezen!
+0200000045	Nou, het was bepaald geen straf om dat boek uit te lezen!
 0200000046	Kijk hem eens staan met zijn handjes in zijn zij!
-0200000047	Maatwerk maken voor je klant is hierbij het sluitelwoord!
+0200000047	Maatwerk maken voor je klant is hierbij het sleutelwoord!
 0200000048	Deze Zeeuwse vlag is niet te missen!
 0200000049	We houden u de komende dagen op de hoogte!
 0200000050	Buitengewoon veel binnenpret!
@@ -475,7 +475,7 @@
 0200000075	Het heeft de stad en de Amsterdammers veel gekost, maar hij rijdt!
 0200000076	Geld kan ik goed gebruiken voor de vakantie!
 0200000077	Koop nu je tickets met extra korting!
-0200000078	De mooiste uitkiezen dat is wel heel moeilijk hoor!
+0200000078	De mooiste uitkiezen, dat is wel heel moeilijk hoor!
 0200000079	Het boek is ook gewoon te koop en kun je hier bestellen!
 0200000080	Je steekt wat van de dierenwereld op met een grote glimlach op je kop!
 0200000081	Er is hoop om al deze mensen te kunnen helpen!
@@ -497,8 +497,8 @@
 0200000097	Het is uitkijken met beleggingsproducten met grondstoffen als onderliggende waarde!
 0200000098	Nog even en de zomervakantie begint!
 0200000099	Dat komt als een cadeautje voor de bijna jarige ontwerpster!
-0200000100	Teveel ervan is ook niet alles!
-0300000001	Echter viel tijdens de volgende oefening het G P S-signaal regelmatig weg.
+0200000100	Te veel ervan is ook niet alles!
+0300000001	Echter viel tijdens de volgende oefening het G P S signaal regelmatig weg.
 0300000002	Normaal gesproken kondigt P M T zo'n verhoging aan het begin van het jaar aan.
 0300000003	De Wegenwacht Service van de A N W B is persoonsgebonden.
 0300000004	Archief spel je als A R C H I E F.
@@ -506,14 +506,14 @@
 0300000006	Mede dankzij metingen verricht door T N O zijn alle adviezen nu onderbouwd.
 0300000007	Het B B P is een slechte maatstaf voor welvaartsontwikkeling.
 0300000008	Je hoeft je apparaat alleen te registreren bij de R D W.
-0300000009	Daarmee komt de adviesprijs voor de set uit op 999 euro. 
-0300000010	De hoogte van uw A O W kan minder zijn dat u had verwacht.
+0300000009	Daarmee komt de adviesprijs voor de set uit op 999 euro.
+0300000010	De hoogte van uw A O W kan minder zijn dan u had verwacht.
 0300000011	De begroting voor 2020 is in de A V van december 2019 goedgekeurd.
 0300000012	Wat je drinkt, kan bepalen hoe vaak je naar de W C moet.
 0300000013	Het laat zien hoe het B N P per hoofd van de bevolking varieert.
 0300000014	Eerder verhoogden P M E en A B P de pensioenen ook al.
 0300000015	Schrijf je het met een F of als V E T E R?
-0300000016	De G G D heeft al een paar keer aangifte gedaan. 
+0300000016	De G G D heeft al een paar keer aangifte gedaan.
 0300000017	Je schrijft het als F Y S I E K.
 0300000018	R T V Utrecht beschikt over vier zenders voor provincie en stad Utrecht.
 0300000019	Goochelen wordt geschreven met C H in het midden.
@@ -538,7 +538,7 @@
 0300000038	Onze redactie selecteert elke dag de leukste T V tips.
 0300000039	Het C D A moet ook zijn eigen rol hierin "ruiterlijk erkennen", zegt hij.
 0300000040	In Vlaanderen worden ondernemingen tot 250 werknemers, K M O genoemd.
-0300000041	De C A O onderhandelingen zijn begonnen met het uitwisselen van de inzetbrieven. 
+0300000041	De C A O onderhandelingen zijn begonnen met het uitwisselen van de inzetbrieven.
 0300000042	Voor andere rechtsvormen maakt u meteen een afspraak bij K V K.
 0300000043	De R E T verzorgt openbaar vervoer met bus, tram en metro.
 0300000044	Als Z Z P'er moet je je inschrijven in het handelsregister.
