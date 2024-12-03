@@ -660,645 +660,645 @@
 660	Nid ydyw o reidrwydd yn ddifrïol.
 661	Mae'r tegan hefyd yn gweithredu fel corn sain sy’n dawnsio.
 662	Roedd cinio’r coleg y noson honno’n cynnwys pryd o bysgod.
-1	Does dim llawer o ynysoedd ar ei ymylon.
-2	Nid yw wedi priodi erioed a does ganddo ddim plant.
-3	Eu Grŵp Sinsir oedd eu henw ar hwn.
-4	Wrth wneud hynny, roedd e’n paratoi’r ffordd i’r Iesu.
-5	Dyma un ffordd y mae busnesau'n hyrwyddo ac yn hysbysebu eu cynhyrchion a'u gwasanaethau.
-6	Pobl yn pasio balŵns dŵr yn y stryd
-7	Maen nhw’n chwarae ym Mhrif Gynghrair Cymru.
-8	Mae ffyrdd yn yr ardal yn aml wedi'u hanwybyddu.
-9	Roeddwn i'n wir yn meddwl ei bod hi'n mynd i dagu i farwolaeth.
-10	Mantais arall i’r cytlas oedd pa mor syml yr oedd i’w ddefnyddio.
-11	Cyhoeddir enillwyr y gwobrau ym mis Hydref bob blwyddyn.
-12	I'r gwrthwyneb, anwybyddir llythrennau meddal.
-13	Chwe diwrnod yn ddiweddarach, cyhoeddwyd y dyfarniad yn swyddogol.
-14	Yn y bôn, mae priodoliadau aelodau o’r grŵp yn tueddu i ffafrio’r grŵp poblogaidd.
-15	Defnyddiwyd cynhyrchion seleniliadu hefyd.
-16	Gellir cael gwared ar rai achosion heb fod angen treial.
-17	Fe wnaeth enwau o’r fath oedd yn datgysylltu’n raddol o’r diwedd ennill safle annibynnol.
-18	Denodd y ddau gryn sylw ac roedden nhw'n cael eu hailargraffu a'u cyfieithu'n aml.
-19	Ategodd y Llys unfrydol benderfyniad y Llys Apêl.
-20	Mae pwysau’n drymach ar gyfer ymarfer ac yn ysgafnach ar gyfer perfformio.
-21	Onid yw hynny’n rhoi rhywfaint o dir cyffredin i ni?
-22	Mae’n Iddew cydwybodol.
-23	Dywed fod y bachgen ar ei draed cyn i'r gwasanaethau brys gyrraedd.
-24	Mae Air Botswana wedi bod yn gwneud colled gyson ers blynyddoedd.
-25	Byddai’r Llywydd etholedig yn wir arweinydd mewn enw i bobl Awstralia.
-26	Roeddem am fagu’n plant yno.
-27	Dechreuodd hyn gyfres o frwydrau mewnol gwleidyddol rhwng y clwb a Neuadd y Ddinas.
-28	Cymeron nhw hefyd gomisiynau ar gyfer dylunio gerddi gan berchnogion y cartrefi newydd.
-29	Mae dwy bont ac argae yn croesi ffin yr afon.
-30	Ei bwrpas oedd dysgu, cofio, diolch, anrhydeddu a dathlu.
-32	Cafodd ei hanfon adref mewn pryd i ddathlu’r Nadolig.
-33	Aeth cownter ar ei draws, gan ei rannu yn ei hanner.
-34	Roedd eisoes wedi'i dynodi'n sedd y sir erbyn hynny.
-35	Fodd bynnag, mae Jack wedi dwyn y map oddi arno.
-36	Mae’n darparu cynnwys treiddiol am fenywod a theuluoedd, ynghyd â cherddoriaeth gyfoes i oedolion.
-37	Nid oes etifedd i’r teitlau.
-38	Mae’r canlynol yn enghraifft syml o ffynhonnell ddibynnol.
-39	Cynhyrchodd y planhigyn sudd tun a jeli ffrwythau cashiw.
-40	Goroeswyd ef gan ei wraig, Helen.
-41	Pobl yn cerdded o flaen rhywfaint o graffiti.
-42	Mae gwrthrychau coch yn syrthio ar ddynion sy’n sefyll tu ôl i wal goch.
-43	Dyma ble bathodd y term cost cyfle am y tro cyntaf.
-44	Rhagflaenir enwau’r aelodau gan rifau eu hardal.
-45	"""Roeddwn yn awgrymu hynny,"" meddai."
-47	mae menyw yn agor anrheg wrth yfed cwrw
-48	Gall y gweinydd guddio’i hun rhag golygon brysiog gan ddefnyddwyr o’r system
-49	Yn ystod y cyfnod hwnnw creodd gatalog o'r casgliad cyfan.
-50	Paramedrau isod mewn model neu ddosbarth o fodelau yw paramedrau strwythurol.
-51	Fel deddfwr, canolbwyntiodd Bill ar ddiogelu'r amgylchedd a datblygu economaidd.
-52	Mae daearyddiaeth iechyd yn delio â'r cysylltiadau a'r patrymau gofodol rhwng pobl a'r amgylchedd.
-53	Roedd yn briod ddwywaith ac mae ganddo un mab.
-55	Mae ci du yn rhedeg trwy'r eira.
-56	Yn yr achosion hyn, roedd hi’n orfodol ar deithwyr i wneud dau offrwm.
-57	Wedi hynny, llofnododd gannoedd o lofnodion.
-58	Bydd nifer o dywyswyr lleol yn dal i gynnig teithiau.
-59	Dim ond rhyw ychydig gannoedd o fetrau oedd rhwng y ddwy ddinas.
-60	Aeth yn ôl i weithio fel optometrydd.
-61	Cydnabuwyd ei gymwysterau proffesiynol ym mlynyddoedd y Rhyfel gan y Cyfryngau a chyfreithwyr.
-62	Mae’r bachgen yn yr het ddu yn balansio’i gorff ar un llaw
-63	Gall hedfan am yn ôl, neu ar ongl.
-64	Mae hyn yn gadael iddyn nhw olrhain hafaliadau tonnau perthnaseddol.
-65	Wrth i'r cyfnodolyn dyfu o ran maint ac arwyddocâd, felly'r Bwrdd Golygyddol hefyd.
-66	Mae maint cenllysg fel rheol yn cyfateb i faint gwrthrych at ddibenion cymharu.
-67	Gall dysmorffedd yn y galon, yr arennau, a'r system cyhyrysgerbydol ddigwydd hefyd.
-68	Mae’r tir yn yr ardal hon yn cynnwys creigiau gwenithfaenol a folcanig.
-69	Nid oedd y naill waith na’r llall wedi’i gwblhau ar ddechrau’r Rhyfel Byd Cyntaf.
-70	Disgwylir i'r adeilad gael ei ailadeiladu a'i adnewyddu i ddarparu tai.
-71	Mae bachgen bach yn chwarae ar adeiledd tegan glas.
-72	Doedden nhw ddim wedi ei ysgrifennu i lawr ar bapur.
-73	Mae'r ynysoedd yn fynyddig ac yn cynnwys craig folcanig.
-74	Arweiniodd lapiau yn y ddwy ras ond cafodd ei dynnu allan mewn damweiniau hwyr.
-75	Felly dywedaf nad oes amser i golli.
-76	Yn sydyn, daw dyn enigmatig i’r golwg.
-77	Ffarweliodd Betty yn gyflym, gan beri i Susan deimlo’n fwy drwgdybus nag erioed.
-78	Mae strwythur isomeras ffosffad trios yn cyfrannu at ei swyddogaeth.
-79	"""Ydych chi wir wedi bod yr holl amser hwn yn paratoi?"" gofynnodd."
-80	Unigolyn yn eira-fyrddio ar ddiwrnod golau.
-81	Mae'r cynhyrchion yn cael eu gweithgynhyrchu mewn gwahanol is-gwmnïau.
-82	Mae'n ofynnol i ddefnyddwyr y wefan gael caniatâd eu rhiant neu warcheidwad.
-83	Fel myfyriwr is-raddedig, roedd ar y tîm dadlau am dair blynedd.
-84	Caffaelodd De Mol, personoliaeth adnabyddus yn yr Iseldiroedd, ei ffortiwn trwy gynhyrchu rhaglenni teledu.
-85	Ann, roedd hynna'n ddiangen!
-86	Ymddiswyddodd hi o'r swydd hon yn dilyn ei phenodiad fel arglwyddes weithredol.
-88	Grŵp o bobl hŷn yn ymgasglu o gwmpas bwrdd yn syllu i’r pellter.
-89	Gelwir y math hwn o gytundeb yn “gytundeb hyd braich”.
-90	Daethpwyd o hyd i dri sarcoffagws ar ochr ddeheuol y pentref.
-91	Roedd dibynadwyedd cynyddol yn fantais arall i wrthbwyso cost ychwanegol caledwedd.
-92	Ymddeolodd wedyn o actio.
-93	Yn y deunawfed ganrif, roedd yn gartref i Glwb Criced gwreiddiol Llundain.
-94	Gall chwaraewyr ddewis rhwng tair hil unigryw pan yn creu eu cymeriadau.
-95	Roedd Dyffryn Lliw wedi’i rannu rhwng y ddau awdurdod.
-96	Fodd bynnag, ni fydd pob mater yn cael ei drafod gan y cadlywydd.
-97	Mae brechlyn byw gwan arall yn cael ei ddatblygu yn yr Unol Daleithiau.
-98	Defnyddir briciau gwydr yn helaeth mewn gwahanol rannau.
-99	Dau ddyn mewn crysau glas yn dringo ar greigiau.
-100	Ar ochr yr adeilad mae plac yn cofnodi’r digwyddiad hwn.
-101	Erbyn Oes y Gwladwriaethau’n Rhyfela, roedd torri pen yn bennaf wedi cymryd lle chwipio.
-102	Fe wnaethom ganu’r naratif.
-103	Nid oedd y ffin newydd yn fympwyol o'r safbwynt Sofietaidd.
-104	Clywyd ffrwydradau, ond nid oedd modd canfod difrod penodol.
-105	Roedd ar gael dim ond gyda gyriant pedair olwyn i ddechrau.
-106	Mae archaeolegwyr wedi darganfod olion gŵyl Gosac yn yr eglwys hyd yn oed.
-107	Fodd bynnag, roedd angen rigio’r rhain cyn hedfan.
-108	Mae'r prognosis yn amrywio o unigolyn i unigolyn.
-110	Mae rhai trenau teithwyr di-stop yn pasio yn y ddau gyfeiriad.
-111	Roedd dau argraffiad cyfyngedig o’r albwm hwn.
-112	Mae’r lle’n boblogaidd am gerdded, loncian a gwibdeithiau penwythnos.
-113	Cyflwynir y wybodaeth yn iaith gyntaf y gwrthrych.
-114	A hithau’n gydweithfa gyfeillgar ac agored, mae’r grŵp yn adnabyddus am gefnogi gwestai lleol.
-115	Grŵp o bobl wedi ymgasglu ar gyfer cyfarfod.
-116	Mae’r gweithgareddau’n cynnwys ciniawa ffurfiol, cyngherddau, nosweithiau dawnsio ac arddangosfeydd cerddoriaeth.
-117	Mae hi’n rhugl mewn Ffrangeg, Saesneg, Sbaeneg, Almaeneg ac Eidaleg.
-118	Daeth hyn ag ef ato'i hun.
-119	Mae ei ddiddordebau ymchwil wedi bod yn amlochrog.
-120	Yn ogystal, cafodd y gân lwyddiant byd-eang.
-121	Yn y ddwy wisg, cafodd y rhesi meinion eu gostwng i’r ochrau.
-122	Ar wahân i Falaysia, dywedir hefyd fod aelodau yn Singapore a Bali.
-123	Mae'r heddlu'n dod â phutain hunanladdol iddo.
-124	"""Rwy'n credu hynny,"" meddai, gan chwerthin."
-125	Yno, mae’n esbonio’r arfer i’w hatgoffa o aberthu Isaac.
-126	Blas cyrens duon sydd ar y du fel arfer.
-127	Er gwaethaf proffesiynoldeb, mae clwb Cymry Llundain wedi ceisio cadw naws clwb amatur.
-128	Wrth i ddigwyddiadau fynd rhagddynt, nid oedd angen cod darlledu newyddion ar Japan.
-129	Mae’r patrymau ymdopi yn dod yn hysbys ac yn gwneud synnwyr.
-130	Roedd yn rhedeg yn baralel i’r adain celfyddydau diwydiannol.
-131	Mae dyn sy'n gwisgo siwt gôt ddu yn cerdded heibio.
-132	Mae ganddo un brawd hŷn, Mark, sy’n fodel.
-134	Roedd esgynnydd preifat yn gwasanaethu Ystafell yr Arlywydd yn unig.
-135	Mae rhai o’r rhain, er nid pob un, yn cynnwys ffin taleithiol triphwynt.
-136	Roedd yna gantor, trysorydd, diwinydd a deuddeg canon hefyd.
-137	Fodd bynnag, unionwyd y sefyllfa yn gyflym.
-138	Gan ei fod wedi chwarae’n dda enillodd gontract â chwb yr ail-ddinas Dinas Birmingham.
-139	Parhawyd â'r gwaith hefyd ar y Rotwnda a mannau cyhoeddus eraill.
-140	Fe wnaethant roi’r gorau i’w hachos cyfreithiol yn ddiweddarach.
-141	Aeth yr awyren ar dân, gan beri iddi gwympo.
-142	Gall arwyddion trwynol fod yn amlwg, gyda rhedlif o’r trwyn a’r anadlu’n chwyrnllyd.
-143	Mae’r bachgen bach yn y crys morleidr yn hongian addurn ar y goeden.
-145	Trinnir llosgiadau asid cromig â thoddiant thiosulffad sodiwm gwan.
-146	Mae’r colur esthetig yn tynnu llygad y gwyliwr at y canol.
-147	Roedd llawer o bobl eraill yn ariannu’r chwyldro neu gyfrannu drwy eu gwaith celf.
-148	Mae’r term “celf electronig” bron yn gyfystyr â chelf gyfrifiadurol a chelf ddigidol.
-149	Roedd yn cydlynu cyfnewidiadau, ymchwil, datblygu cynnwys, mentrau newydd a chasglu newyddion, hefyd.
-150	Mae ei fandstand yn lle adloniant.
-151	Ei ysbrydoliaeth, Karen, sydd wedi rhoi iddo’r llwyddiant sydd ganddo heddiw.
-152	Mae rhywbeth yn cael ei ddymchwel gan darw dur.
-153	Gallwch chi helpu trwy ei ehangu.
-154	Ond nid oedd ganddo unrhyw gytundeb gyda'r Prydeinwyr am gynnal y fintai.
-155	Roedd ganddo ddiddordeb mewn astudio cemeg y niwclews.
-156	Bu hefyd yn llywyddu llysoedd marsial a oedd yn erlyn y gwrthryfelwyr.
-157	Mae dyfnder y dyfrffyrdd yn ddirgelwch.
-158	Mae’r galar yn rhy ddwys i eiriau.
-159	Yn seinegol, cyfyd gwahaniaethau mewn Portiwgaleg Cyfandirol.
-160	Gellir diffinio pob cynnyrch gan ei farchnad arbenigol.
-162	Byddai hyn wedi cymryd oddeutu o flynyddoedd.
-164	Mae gweithiwr yn garddio mewn amrywiaeth o blanhigion.
-165	Roedd yn sianel ar gyfer llif syniadau a phersonoliaethau, sy'n dal i lifo heddiw.
-166	Hefyd, defnyddir animeiddio wrth ddangos y goeden ffa yn tyfu yn iard gefn Jack.
-167	Doedd hi ddim yn gallu dod o hyd i gyhoeddwr.
-168	Mae hefyd yn bosibl defnyddio proses gwasgaru anelastig i arsylwi dirgryniadau moleciwlaidd.
-169	I ddechrau, nid oedd y ffordd yn cynnwys unrhyw gyfnewidfeydd.
-170	Mae'r pentref yn cymryd ei enw o'r dref y mae wedi ei leoli ynddi.
-171	Mae dyn yn procio ffon hir i fyny tuag at y nenfwd
-172	Gellir cyfleu Trefnu Cyflym fel a ganlyn.
-173	Gall arswyd hefyd orgyffwrdd â’r genres ffantasi, ffuglen oruwchnaturiol a chyffro.
-174	Yna mae’r tresmaswr yn atal y bedwaredd neges.
-175	Mae hyn yn peri problemau o ran trethu i'r Economi Ddigidol.
-176	Mae sgîl-effeithiau cyffredin yn cynnwys syrthni, ceg sych, rhwymedd, a thrafferth gyda’r golwg.
-177	Mae tensiwn ynghylch y berthynas rhwng hawliau patent a hawliau bridwyr planhigion.
-178	Parhaodd hefyd â’i ymchwil, gan gyhoeddi dau bapur mewn geometreg wahaniaethol.
-179	Wedi’i chyfyngu felly, profodd yn her i ddylunio.
-180	Nid oedd canlyniadau’r arbrawf hwn yn bendant.
-181	Gall dŵr sy’n llifo gael yr un effaith.
-182	Wrth gwrs, rwyf wedi gwneud hynny i gyd.
-183	Mae bellach wedi dychwelyd i Lens.
-184	Mae oedolyn wedi’i wisgo mewn du yn dal ffon.
-185	Arestiwyd yr un a oroesodd.
-186	Daeth yn rhan o ymchwil sŵolegol.
-187	Yn ystod y cyfnod hwn, chafodd y sefydlwyr ddim cyflogau.
-189	Roedd ganddo ergyd nerthol hefyd.
-190	Dynes yn sefyll o flaen grŵp â ffolderi du yn eu dwylo.
-191	Mae'r platiau presennol yn defnyddio rhifolion heb sgript.
-192	Mae trenau’n aros yno ar ddyddiau Sadwrn, Sul a gwyliau yn unig.
-193	Mae cerbyd “bwriad cynhyrchu”, o’i gymharu â cherbyd cysyniadol, yn ateb y diben hwn.
-194	Credaf ei fod eisoes wedi cyrraedd y pwynt hwn o ddiogelwch.
-195	Ar hyn o bryd mae’n chwarae yn safle amddiffynnwr.
-196	Aeth y rhain ymlaen i ddylanwadu ar amrywiaeth o wladwriaethwyr a gynhyrchwyd ym Mhrydain.
-197	Mae'n gyffredin iawn o amgylch trefi a phentrefi arfordirol.
-198	Ar ôl gwylio'r prawf, ei ymateb oedd, Wel mae'n gweithio.
-199	Mae dau borthor mewn teml Asiaidd yn ysgubo blodau oddi ar risiau.
-200	Mae cyw iâr hefyd yn rhan fawr o’r economi.
-201	Mae'n parhau i brofi bod y cylchoedd hyn yn ffurfio sail.
-202	Nifer o ddynion yn chwarae cardiau o amgylch bwrdd gwyrdd.
-203	Mae’r gymdogaeth yn gymysgedd gytbwys o deuluoedd, pobl sengl, a dinasyddion hŷn.
-204	Saif yn Adran A o’r Ddinas.
-205	Mae'n canmol cadwraeth gwerinwyr o hanes trwy draddodiad llafar, a duwioldeb yr Eifftiaid.
-206	Roedd y tir glas a melyn yn gynhyrchwyr diemwntau toreithiog.
-207	Gyda’r tîm, sgoriodd pedair gôl mewn wyth gêm.
-208	Dweud fy mod i’n swyddog drwm mawr dros heddwch.
-209	Mae’r gwregysau’n rhedeg dros bwlïau cocos neu sbrocedi cyfatebol.
-210	Cadarnhaodd y cwmni’n ddiweddarach mai’r gwir reswm am y newid oedd y costau cynyddol.
-211	Treuliodd gweddill ei fywyd yn ei ymddeoliad.
-212	Roedd swyddogion Llynges yr Unol Daleithiau yn aml yn cael Croes Dewrder y Llynges.
-213	Mae'r ferch yn y ffotograff i weld yn mwynhau chwarae badminton.
-214	Ni all y brenin gwyn gymryd y frenhines, ond gall y marchog gwyn.
-215	Mae ymhellach i ffwrdd o'r ddinas ganolog.
-216	Dengys y rhain grychni afreolaidd ar y traean uchaf.
-217	Mae tri gwahanol ddull: 'arddangosfa', 'gyrfa', a 'brwydr y chwedlau'.
-218	Maen nhw’n penderfynu ei bod yn rhaid ei dienyddio hi.
-219	Fodd bynnag, mae’n ffurf hen iawn o bregethu.
-220	Yn y defodau, mae cyfranogwyr yn gwneud offrymau o'r teyrnasoedd mwynol, llysiau, ac anifeiliaid.
-221	Dyn â sbectol yn dal ei gi i fyny.
-222	Fodd bynnag, nid yw hyn yn golygu bod theori cyfredol esblygiad yn esboniad digonol.
-223	Dim ond un ysgol sydd yn y rhanbarth ysgol.
-224	Mae'n mynd tuag at y ddinas.
-225	Mae’r adran hon hefyd yn cael ei galw’n Draphont Stryd y De.
-226	Nid oedd hi'n falch nac yn ddig.
-227	Newidiodd strwythur y sefydliad yr adeg hon, gan ymrannu i golegau ar wahân.
-228	Mae bachgen sy'n pwyso ar ffon yn dal arddwrn bachgen llai.
-229	Dyma o bosibl yw'r stori enwocaf am rywun dan orthrwm.
-230	Mae dyn yn edrych mewn bag ger rhai certi siop fwyd a beic.
-231	Maen nhw’n ymddangos yn ffyddlon i’r sefydliad gwrth-Semitig.
-232	Roedd propaganda du yr Almaen fel arfer yn manteisio ar hiliaeth Ewropeaidd a gwrth-Gomiwnyddiaeth.
-233	Onid anghyfiawnder yw hyn?
-234	Mae'r geiriau yn barodi ar ganeuon tymor y gwanwyn.
-235	Roedd gogoniant helaethach ar y gorwel.
-236	Drwy gyfrwng hyfforddiant, gellir gwneud i’r llygoden fawr bwyso’r lifer yn aml.
-237	Mae'r rhywogaeth hon yn absennol o wir ranbarthau anialwch.
-238	Mae i’r brand safle blaen yn segment premiwm Bwlgaria.
-239	Mae’r chwarel yn nodwedd arwyddocaol yn y tir.
-240	Ers hynny, bu cynnydd cymedrol mewn diwydiant, preswylfeydd, a llywodraeth leol.
-241	Mae hynny'n golygu datrysiad dwy wladwriaeth: Israel a Phalestina.
-242	Dyn ar foncyff.
-243	Yn yr achos eithafol, mae pob gair yn cynnwys morffem sengl.
-244	Roedden nhw’n dadlau bod y ddeddf yn rhoi anogaeth ar gyfer blacmel.
-245	Beth Mae’n Ei Olygu?
-246	Ni chafodd y wefan ei hadnewyddu ac nid yw’n weithredol bellach.
-247	Fy Nuw, ddyn, doeddech chi erioed yn hynny.
-248	Ymunodd gweithwyr yn hyn, a dechrau hawlio cyflogau mwy.
-249	Mae presenoldeb y sither cyngerdd mewn cerddoriaeth glasurol yn dal yn brin.
-250	Yn debyg i is-rywogaethau eraill o’r arth du, mae eirth Sinamon yn hollysol.
-252	Tŷ'r Cynrychiolwyr yw'r tŷ isaf yn y Gymanfa Gyffredin.
-253	Ysgrifennydd nifer o erthyglau ar gyfer y Gwyddoniadur Mawr Sofietaidd.
-254	Mae'n mynd yn isel ei ysbryd.
-255	Mae enw'r drwydded yn gyfeiriad at y cysyniad o drwydded artistig.
-256	Tlysni at dlysni
-258	Roedd y tri aelod o'r criw yn eistedd yn y trwyn.
-259	Dychwelwyd ef i'w fynachlog, ac ni wyddys unrhyw sôn pellach amdano.
-260	Mae’ casgliad yn cynnwys llawysgrifau, testunau, lluniau, deunydd clyweledol ac arteffactau.
-261	Llawer iawn o bobl mewn gŵyl awyr agored.
-262	Pan enillodd taleithiau Canolbarth America annibyniaeth, roedd yr union ffiniau yn aneglur.
-263	Yn ystod Rhyfel y Parhad roedd yn cefnogi’r syniad o ryfel ehangol.
-264	Yn y gwanwyn, mae'n cynhyrchu dail gwyrdd llachar gyda nifer o flodau gwyn bychain.
-265	Mae'n bwnc dadleuol iawn.
-266	Roedd y pafiliynau’r un mor odidog â'r bont.
-267	Fel chwaraewr bas, mae’n adnabyddus am ei dôn a’i fynegiant hynod nodedig.
-268	Yr Isadran Rheoli Traffig Awyr sy’n gweithredu’r tŵr rheoli a systemau rheolaeth derfynol radar.
-269	Yn ystod yr amser hwn, gellir cynnal profion dro ar ôl tro.
-270	Ni chafodd yr un o’r ddau eu hailethol.
-271	Mae protestwyr yn brwydro dros hawliau’r plant.
-272	Maent wedi’u clystyru yn y canol, gyda pharciau a mannau parcio yn eu hamgylchynu.
-273	Mae hyn yn ymwneud ag ymchwil.
-274	Gwylia - dyma fi'n mynd!
-275	Roedd hefyd yn un o Ymddiriedolwyr sefydlol Canolfan Mileniwm Cymru.
-276	Gwrandewch ar yr hyn sydd gennyf i'w gynnig.
-277	Beth am fynd allan i de.
-278	Menyw yn syrthio oddi ar ei llafnau rholio.
-279	Rhoddwyd statws cyfartal i’r ieithoedd Saesneg a Ffrangeg.
-280	Mae tri phrif fath o isomorffedd sefydliadol: normadol, gorfodol a dynwaredol.
-281	Parhaodd bywyd da'r haf tan y Rhyfel Byd Cyntaf.
-282	Fel arfer, caiff dau, pedwar neu wyth o allbynnau eu darparu.
-283	Mae ganddo gysylltiad agos ag anthropoleg fiolegol a meysydd biolegol eraill.
-284	Yr un peth yw’r broses o greu llythrennau â llafariaid yn y ddau gyfri.
-285	Amddiffynnwyd y diriogaeth yn llwyddiannus nifer o weithiau gan Americanwyr Brodorol.
-286	Mae'r Cwmni hefyd yn cynnal ymchwil mewn oncoleg a chlefydau hunanimíwn.
-287	Mae’r tai ar y ochr ddwyreiniol yn dyddio o oes Victoria.
-288	Mae'r deml yn nodedig am ei phensaernïaeth.
-289	Mae'r fideo yn eiriol dros niwtraliaeth net.
-290	Mae sawl clinig meddygol yn yr ardal.
-291	Rhaid i bob defnyddiwr dderbyn copi o'r gyfrinach, a all greu cyfyngiadau amser.
-292	Cydnabyddiaeth wedi'i addasu o Allmusic.
-293	Ond pan wrthododd y Senedd ei fesur bancio, galwodd am etholiad diddymu dwbl.
-294	Mae lleithder yn aros yn uchel trwy gydol y flwyddyn.
-295	pedwar bachgen yn edrych allan o gwch
-296	Y gwasanaeth cludiant fyddai’r llwybr rhyngwladol rheolaidd cyntaf i’r maes awyr.
-297	Mewn cyferbyniad, mae nifer fawr o ddarparwyr er elw mewn addysg uwch.
-298	Gan ei fod yn annramadegol, mae ei ddefnydd yn awgrymu person gwladaidd neu annysgedig.
-299	Mae manylion y cynnig hwn hefyd ar gael o Swyddfa'r Dadansoddwr Deddfwriaethol.
-300	Yn ystod ei gyfnod yn y swydd, cyflwynwyd llawer o welliannau.
-301	Mae dynes sy'n gwisgo ffrog yn cerdded ar stryd wag.
-303	Archwilir cysylltiadau ac anghenion dynol yn eu holl gymhlethdod.
-304	Mae syrffiwr yn reidio ton sy’n torri.
-305	Mae disgyblion o drefi yn yr ardal gyfagos hefyd yn mynychu.
-306	Bu farw'r tri.
-307	Mae ar daen ond yn anghyffredin yn Ewrop.
-308	Mae'r gwarchodwyr sy'n mynd heibio yn dweud bod pawb yn edrych arno.
-309	Ci brown yn mynd i mewn i bwll corsiog.
-310	Ar gyfer yr elips, y ffactor hwn hefyd yw cymhareb agwedd yr elips.
-311	"Roedd gan tad ffrind fy mrawd ""Diwbglychau"" a stwff fel yna hefyd."
-312	Mae’r big yn binc ac yn fwy trwchus na phig yr euryn.
-313	Roedd aerdymheru ynddynt gyda rheoli lleithder awtomatig.
-314	Hefyd, banc, dau werthwr tai, cyfrifydd, siop fetio ac ymgymerwr.
-315	Roedd gwasanaeth domestig hefyd yn bwysig.
-316	Mae’r holl ffactorau amgylcheddol hyn yn arwain at ddirywiad y pridd.
-317	Roedd gan y llong hefyd alluoedd halio a thrafod angor.
-318	Cyhoeddir llawer o lyfrau ar ffurf cyfres.
-319	Ymddangosodd seren yn y de-ddwyrain, tywyllwyd yr haul.
-320	Cafodd groeso mawr gan y cyfryngau a'r cyhoedd.
-321	Efallai y bydd gofyn i'r myfyriwr fodloni gofynion ychwanegol sy'n cefnogi eu llwyddiant.
-322	Yn rhestr yr efengylau, rhoddir y drefn fel Mathew, Marc, Luc, Ioan.
-323	A chafodd hi erioed ei dal!
-324	Cysylltwyd y term cilbren ym Mhrydain Fawr gyda thri math o gwch gwaith penodol.
-325	Yng ngweddill Ynysoedd Prydain defnyddiwyd llawer mwy ar frics.
-326	Amaethyddiaeth gyda phwyslais ar gnydau bwyd yw asgwrn cefn economi'r ardal.
-327	Mae angen llawer iawn o waith i wneud cwilt clytiog.
-328	Grŵp o feicwyr modur mewn ras.
-329	Gweithiodd ef ar Ph.
-330	Ei genhadaeth gyntaf oedd ymosod ar y Dwrn Haearn, ond cafodd ei drechu.
-331	Mae wedi darlithio drwy wahoddiad ar bob un o’r saith cyfandir.
-332	Cafwyd cryn dipyn o ddryswch wrth enwi mathau o deim.
-333	Caiff ynni ei drawsnewid o ffurfiau eraill i ynni thermol.
-334	Yn y flwyddyn honno, methodd gystadlu oherwydd anaf.
-335	Darlledwyd y diweddglo ym mis Mai ac enillodd dros saith miliwn o wylwyr.
-336	Mae wedi gadael y band ar ddau wahanol achlysur.
-337	Yn y gêm hon, mae deg colofn.
-338	Cyrhaeddodd gytundeb gyda llywodraeth yr Unol Daleithiau i leihau maint y caffein.
-339	Seilir y dosbarthiadau ar alwedigaeth pennaeth yr aelwyd.
-340	Nid yw'n arferol i'r cenadaethau hyn rannu adeiladau na phersonél diplomyddol.
-341	Nawr, gymar gwych, tyrd i ni gael mynd i'r swper!
-342	Yno cymerodd reolaeth ar fyddinoedd Awstria a chodi'r milisia lleol.
-344	Mae'r gert, wedi'i hadeiladu o ddeunyddiau brodorol, yn hawdd ei hatgyweirio.
-345	Roedd fel pe bai'n addo cymaint o fywiogrwydd i fywyd.
-346	Dechreuodd drwy gadarnhau fod y Llys Rhanbarthol wedi gwrthod yr hawliad trefn briodol.
-347	Rwyf wedi bod yn meddwl am fy hen bryd a gwedd - fel yr oeddent.
-348	Mae'r rhifau hynny'n cynrychioli dosbarthiad mwy manwl o'r ensym.
-349	Felly mae cyflwr lluosogrwydd uchel yr un peth â chyflwr amlsbin.
-350	Mae pont yn cysylltu'r ddwy ynys dros afon gul.
-351	Ni chofiais ar unwaith.
-352	Mae’n nodio ei ben, ac i weld yn awyddus iawn i dyngu llw.
-353	Chwaraeodd ei fam y piano, a’i dad y clarinét.
-354	Mae'r ddelwedd ar y faner hyd yn oed yn giwbiau cildroadwy.
-355	Gyda thrwyddedau meddalwedd cyfrifiadurol, mae priodoli credyd weithiau yn amod trwyddedu.
-356	Rhannwyd yr arolwg o orllewin Canada yn bum arolwg sylfaenol.
-357	Y tymor nesaf aeth e ag hwy i frig Pêl droed Ewrop.
-358	Hi oedd yn gyfrifol am Gynllun Iechyd cyntaf yr Alban.
-359	Mae eraill, gan wybod am ei natur ddrygionus, yn ceisio ei ddifa.
-360	Meistres Gŵydd yw'r enw a roddir ar fenyw o’r wlad glasurol.
-361	Caiff niwtronau eu cynhyrchu’n helaeth mewn ymholltiad ac ymasiad niwclear.
-362	Holltodd y glymblaid yn fuan wedi'r etholiad.
-363	Er bod y gymuned a'r fferi'n llwyddiannus, nid oedd pêl-fas.
-364	Mae’n cael ei weld amlaf mewn cynefinoedd heulog gyda phriddoedd gwlyb, asidig.
-365	Tri dyn yn pysgota â llinyn.
-366	Mae gan y rhanbarth hanes hir o ffermio defaid a gwartheg.
-367	Gall fod hefyd sioc septig.
-368	Bwytaodd y pupur-fintys ei hun a dilyn ochr arall y ffordd.
-369	Rhyddhawyd academyddion ychwanegol yn hwyrach.
-370	Roedd y jingl yn llwyddiannus.
-371	Fodd bynnag, roedd ganddo broblem fawr o ran cysylltiadau cyhoeddus.
-372	Sylwais arno unwaith o'r blaen, pan oeddwn yn y dref hon.
-373	Nid wyf yn lofruddiwr nac yn bedoffilydd.
-374	Bum mlynedd yn ddiweddarach sefydlwyd y Coleg Amaethyddiaeth.
-375	Mae gridiau Norwy a Sweden wedi bod yn gysylltiedig â’i gilydd ers talwm.
-376	Mae persbectif rhyng-ieithyddol felly'n ddefnyddiol ar gyfer terminoleg cyffuriau.
-377	Nid oes llawer o wybodaeth ar gael ar y system sêr.
-378	Fe wnaeth pedwarawdau radio cynnar barhau â’r traddodiad hwn.
-379	Roedd y trigolion yn mwynhau rhyddid i ymarfer eu crefydd.
-380	Fe'i ganed i deulu o academyddion sydd â llawer o gysylltiadau.
-381	Rydyn ni mor agos fod pobl yn teimlo felly amdanom.
-382	Seren y drefn yw seren ag wyth pwynt gyda phelydrau syth.
-383	Roedd y cyhuddiadau yfed a benyweiddio yn rhannol wir.
-384	Roedd y cynllun yn arloesol iawn yn ei amser.
-385	Cafodd y milwr yr oedd wedi ceisio ei helpu hefyd ei saethu a'i ladd.
-386	Honnir bod ysbrydion yn y tŷ.
-387	Gall hefyd yn ymddangos ar gymysgeddau aur sydd â chynnwys copr uchel iawn.
-388	Cynhyrchodd y llifogydd hyn fomentwm gan greu phroblem i'r ysgol.
-389	Mewn rhai achosion mae twyll etholiadol amlwg yn cadw’r gwrthbleidiau allan o rym.
-390	Dynes yn gadael priodas.
-391	Mae'n gerddor llaw chwith ac yn chwarae ei gitâr gyda'r tannau wyneb i waered.
-392	Gellid cartrefu awyrennau yn yr awyrendy hanner o dan y dec hedfan.
-393	Diweddodd y pâr eu tymor drwy ennill eu pencampwriaeth Byd gyntaf.
-394	Nid yw tuedd y boblogaeth yn hysbys.
-395	Ar ôl cwblhau ei Wasanaeth Cenedlaethol dychwelodd i weithio ym maes Rheoli Ystadau.
-396	Roedd y drysau cefn yn ddrysau hunanladdiad heb unrhyw ddyrnau’r tu allan.
-397	Roedd ei gerddoriaeth yr un mor addas i wrando arni’n weithredol neu’n oddefol.
-399	Mae'r ddau yn parhau yn ffrindiau agos.
-401	Ac mae’r delwyr yn ei ganlyn.
-402	Mae'r gwddf yn hir, bwaog, gyda'r pen wedi'i osod arno'n gadarn.
-403	Yn ddiweddarach, mae hi’n datblygu personoliaeth fwy ymosodol a gwarchodol.
-404	Dyma ran drefol fwyaf dwys ei phoblogaeth o unrhyw “gmina” trefol-gwledig Pwylaidd.
-405	Yn anad dim, iddo ef roedd rhyfel yn hollol ddibwynt.
-406	Serch hynny, mae gweddillion Neolithig wedi cyrraedd hyd at heddiw.
-407	Mae golygfeydd wedi’u torri wedi’u gwasgaru i mewn i’r digwyddiadau.
-408	Dechreuais deimlo fel rhyw greadur gwyllt wedi ei ddal mewn magl.
-409	Mae gennym ni sefyllfa o’r math “chwyddwasgiad”.
-410	Mae graean a tywodfaen math-A yn cael eu rhoi ar yr ysgwyddau.
-411	Yn y ffurf hon maent i’w canfod ar y strydoedd yn bennaf.
-412	Cynhelir teithiau’n ddyddiol yn ystod misoedd yr haf.
-413	Bydden nhw’n cael eu hamddiffyn gan wyth o filwyr o Brest.
-414	Mae sampl fechan o’r ysgarthion yn cael ei chasglu.
-415	Roedd y ddau’n berffaith drwy dri batiad.
-416	Yn brif ynadon yn wreiddiol, penodai’r “consyliaid” bob seneddwr newydd.
-417	Person sy’n marchogaeth yn ceisio ffrwyno llo sy’n rhedeg oddi wrthyn nhw.
-418	Gwahoddodd Cymdeithas Feddygol Tsieina ef i deithio drwy’r wlad fel eu gwestai.
-419	Bydd cyfranogwyr sy'n twyllo yn cael eu dileu o'r her.
-420	Mae'r dadleuon yn y Senedd yn arbennig o berthnasol o ran yn eu gosodiad.
-421	Un ystafell oedd yr ysgol yn wreiddiol, ond cafodd ei hehangu’n ddiweddarach.
-422	Cyflogwyd ei dad yn swyddog tollau gan adran Cyllid y Wlad.
-423	Trafnidiaeth gyhoeddus yn unig.
-424	Fe wnaethant stopio yn y salŵn yng Ngwesty'r Grand ar Stryd Allen.
-425	Digwyddodd chwe marwolaeth arall yn anuniongyrchol.
-426	Nid oedd gan y ddeiseb ddigon o lofnodion i gynnal etholiad.
-427	Os caiff ei brofi, bydd y Siryf angen blaendal gan Bob.
-428	Ar ôl i'r pleidleisio gael ei gwblhau, mae'r rhifwyr yn cyfrif y pleidleisiau.
-429	Caiff ei ddefnyddio mewn twyll cardiau ac fel dull o dwyllo mewn cardiau.
-430	Mae band tri dyn yn perfformio.
-431	Yn y marchnadoedd ariannol, mae’r term yn gysylltiedig â’r swigen Dot-com.
-432	Cafodd cyfrolau unigol yr ail argraffiad eu hailargraffu lawer o weithiau.
-433	Llawer o ddynion yn siarad o gwmpas camel.
-434	Prif bryder ei bersona llenyddol yw dianc rhag tlodi.
-436	Roedd hi’n gyffredin gyda phaent.
-437	Mae siâp yr het braidd yn debyg i law, fel arwydd o letygarwch.
-438	Mae'n debyg y bydd y lloeren hon yn cael ei lansio ar roced frodorol.
-439	Mae'n nodi'r rheolau hyn ar gyfer unigolion neu grwpiau o unigolion trwy'r cwmni.
-440	Defnyddir rwbwyr silicon yn helaeth mewn diwydiant, ac mae sawl fformwleiddiad.
-441	Lleolwyd ei bencadlys ym Moscow.
-442	Mae amrywioldeb isel yn gysylltiedig â gweithredu mwy arferol.
-443	Ci yn rhedeg ar y borfa
-444	Mae wedi'i leoli ar Linell Calon Cymru.
-445	Mae rhan o’r grwpiau sylffonyl wedi’i datprotoneiddio ac mae ganddi wefr negatif.
-446	Mae gwneud record yn cynnwys sawl cam.
-447	Yn y gorffennol, bu aflonyddwch yn ystod gorymdeithiau’r Urdd Oren yn y dref.
-448	Bydd y prawf mathemategol yn cael ei grynhoi'n gryno rŵan.
-449	Ci du o flaen ci gwyn yn cerdded ar lwybr mewn coedwig.
-450	Weithiau mae amrywiaeth o arlleg clof sengl i'w gael mewn marchnadoedd yng nghanol Periw.
-451	"Gall y dadiol yn ""-o "" fod naill ai'n Galaidd neu'n Lladin."
-452	Dau ddyn yn paffio.
-453	Cafodd llys y dalaith yn eu herbyn ar yr honiadau statudol a chyfansoddiadol.
-454	Mae cerddoriaeth Orllewinol yn fwy poblogaidd yn y brifddinas, fel mewn unrhyw ddinas fyd-eang.
-455	Gostyngwyd y rhif hwn yn ddiweddarach i un taflegryn i bob awyren.
-456	Defnyddir y platfform i ddelweddu a dadansoddi data o’r Gronfa Wybodaeth Dwyll Genedlaethol.
-457	Roedd yn fagwrfa boblogaidd ym mudiad Anghydffurfwyr gogledd-ddwyrain Swydd Gaer.
-458	Pwy oedd ein gwestai?
-459	I leihau tarfu ar signal, mae’n ddymunol fod y bonyn yn cadw rhwystriant uchel.
-460	Nid yw pob dot hanner tôn yn dangos yr un faint o gynnydd.
-461	Rhoddwyd enwau'r bobl ddilynol ymlaen ar gyfer enwebiad.
-462	Bachgen yn rhedeg o amgylch y sylfeini mewn gêm bêl fas.
-463	Ac fe drois tuag adref gyda heddwch Duw yn llenwi fy nghalon.
-464	Doedd dim gwasanaeth ar y Sul.
-465	Hen bentref glofaol yw Law, sydd bellach yn ardal breswyl dwysedd isel yn bennaf.
-466	Mae menyw yn eistedd ar fainc wrth wynebu tân disglair.
-467	Erys awdur neu awduron go iawn y testun yn anhysbys.
-468	Mae'n wrthfiotig bacteriostatig.
-469	Lonciwr troednoeth mewn parc.
-470	Economegydd wrth ei alwedigaeth.
-471	Mae dyn yn gwneud ystumiau â’i freichiau mewn ardal goediog.
-472	Gydag atgenhedlu rhywiol, mae’r genoteipiau’n cael eu cymysgu bob cenhedlaeth.
-473	O’i flaen, gwelodd wastadedd hardd yn llawn blodau.
-474	Mae bellach dan reolaeth Adran y Gwasanaeth Hamdden a Diwylliannol.
-476	Os ni caiff y rhagofal hwn ei weithredu, bydd anlwc yn siŵr o ddilyn.
-477	Mae ar agor i’r cyhoedd gydol y flwyddyn drwy drefniant ymlaen llaw.
-478	Mae rhaglen Sgowtiaid Awyr weithredol hefyd yn boblogaidd.
-479	Peidiwch â meddwl na allwch gael eich dal.
-480	Mae chwaraewyr hefyd yn gallu gwneud symudiadau ochr-gamu.
-481	Roedd hyn yn ffurfio llwybr newydd rhwng y ddau lyn, a dyna enw'r ffordd.
-482	Mae'n cynnwys gwarchodfa gwlypdir bron yn gyfan gwbl wedi'i hamgylchynu gan lwyni brodorol diraddiadwy.
-483	Mae'n ffurfio crisialau isfetelaidd prismatig monoclinig brown cochlyd i ddu.
-484	Mae concrid gwyn a gwydr wedi cael eu defnyddio.
-485	Fel rheol, mae'n digwydd mewn creigau metamorffaidd.
-486	Gyda seilwaith cymharol annatblygedig, mae economi'r dalaith yn dibynnu'n fawr ar yr afonydd.
-487	Roedd yn feic modur capasiti mawr cyntaf i ddefnyddio swingar unochrog.
-488	Wedi hynny, dilynodd ei yrfa pêl-fasged cyn gwasanaethu am ddwy flynedd yn y Fyddin.
-489	Protestiodd y cwch a gollodd iddo gael ei dorri i ffwrdd wrth orffen.
-490	Roedd ei gyfnod gyda West Ham yn un llawn anafiadau, yn benodol i'w belfis.
-491	Bydd wyth tîm ym mhob adran.
-492	Plannwyd nifer o gynulleidfaoedd yn Ynys y Gogledd dros yr un cyfnod.
-493	Mae dyn yn llifio trwy ddarn o bren i drwsio ffens.
-494	Chwaraeodd am dri thymor, ac ennill tri teitl cynghrair arall.
-495	Dychwelodd ei deulu i Loegr pan oedd yn ddeuddeg oed.
-496	Addolwr eglwysig mewn gwisg las yn paratoi i fynd i’w addolfan.
-497	dyn yn breg-ddawnsio.
-498	Ymladdodd yn ddewr ond fe’i cipiwyd gan rai saethwyr Saesnig.
-500	Bu bron i Cook â cholli ambell i ddiweddglo yn y prif dwrnameintiau.
-501	Mae’r feddyginiaeth deuffenocsylad yn gweithio drwy arafu symudiadau’r coluddion.
-502	Yr oedd ei ymlyniad gwleidyddol gyda Phlaid y Gyngres.
-503	Pan gaiff ei hailgychwyn, bydd y ffeil yn ailgychwyn o’r cadw diwethaf.
-504	Mae rhai enghreifftiau cain yn yr Oriel Bortreadau Genedlaethol.
-505	Mae'r ci brown yn neidio i mewn i'r pwll clir fel grisial.
-506	Yn sgil-gynnyrch o'r aeddfediad hyn sydd heb swyddogaeth, byddant yn diraddio'n gyflym.
-507	Mae merch yn dringo wal pwmpiadwy dros ddŵr.
-508	Mae’r bom piben yn ddyfais debyg, sydd hefyd yn gyffredin yng ngogledd Iwerddon.
-509	Roedd cost cadw cymaint o gynhyrchion terfynol bron a lladd y busnes.
-510	Mae gweddillion yr adeiladau eraill i’w gweld hefyd.
-511	O ganlyniad aeth y torfeydd i lawr yn gyflym yn eu niferoedd.
-512	Ni chafodd neb ei frifo yn y ffrwydrad.
-513	Pan ddisgrifiwyd ef, bernid mai ef oedd y fertebrat dŵr croyw lleiaf.
-514	Yn y pen draw, fe gynyddodd trethi a gwariant.
-515	Roedd y fargen i bara pum ras.
-516	Mae'n ardal lle bydd gwaedu’n gyffredin mewn pobl ifanc.
-517	Y flwyddyn honno daeth yn Swyddog Cyffredinol Byddin Bengal.
-518	Oherwydd y perfformiadau hyn cafodd ei ddewis ar deithiau i Seland Newydd ac India.
-519	Mae'r ddau drac yr un hyd.
-520	Wedi hynny sefydlwyd anheddiad Rhufeinig a dyfodd drwy fasnach a chynhyrchu nwyddau lleol.
-521	Fe’i dywedodd am ei fod ofn ein harfau.
-522	Mae gweithiau celf eraill yn addurno’r ardal.
-523	Mae'r ynys hefyd yn gartref i oleudy.
-524	Rhyddhaodd y cwmni recordiau yr albwm er gwaethaf eu hamheuon am glawr yr albwm.
-525	Mae ci brown a gwyn yn neidio’n uchel ac yn dal pêl las.
-526	Agorodd i ddechrau gyda dau genau llew, rhywfaint o antelop, ac eliffant.
-527	Menyw yn cerdded adref gyda’i siopa.
-528	Mae’n fater sifil, nid mater troseddol.
-529	Addaswyd a chopïwyd hwn yn eang ar gyfer lluoedd awyr eraill.
-530	Maent yn hwylio yn ôl i Bortiwgal wedi hynny.
-531	A’r gaeaf yn dynesu, aethant am y gogledd cyn gynted ag y gallent.
-532	Gadawodd hyn oll fawr o amser i’r bechgyn ymarfer eu gêm eu hunain.
-533	Mae gan y ganolfan siopa fwytai, campfa, salon ewinedd a golchdy.
-534	Dim ond dau neu dri Ewropead a oroesodd.
-535	Fodd bynnag, cafodd y tîm ei ganslo gan y ffederasiwn oherwydd trafferthion ariannol.
-536	Gall aelodau ddechrau digwyddiadau neu ymuno â nhw.
-537	Mae llawer o iselder ysbryd yn bodoli yn y teulu o ganlyniad.
-538	Mae llaw rhywun yn cracio wy ac mae'r melynwy yn disgyn allan
-539	Mab i weithiwr oeddwn i.
-540	Aeth yn ei flaen ei ennill y bencampwriaeth rasio yno y ddwy flynedd ganlynol.
-541	Mae e wedyn yn meddwl am y rhan o’r cynllun sy’n creu Ynys Cobra.
-542	Mae rhannau sy’n aros o’r tiwb yn dod yn fadruddyn y cefn.
-543	Mae priodoli priodoleddau geiriol i aroglau’n cael effeithiau tebyg.
-544	Arwyddlun yr ysgol yw’r ci tarw.
-545	Awdurdodwyd y bataliwn gwirfoddol hwn o'r Gwarchodlu Ymerodrol gan yr Ymerawdwr.
-546	Dyn mewn côt wen a sbectol yn gweithio yn y labordy gan wisgo menig.
-547	Dwi’n sicr, byddwn yn betio fy mywyd arno.
-548	Mae'r ail rownd am ddawns gyfoes.
-549	Ali oedd y ffefryn i ennill o ychydig, ac fe wnaeth drwy benderfyniad unfryd.
-550	Nid yw hyn yn golygu nad yw cronfeydd llai poblogaidd yn fuddsoddiad o safon.
-551	Pan adawodd i ymuno â Thŷ Gwyn Bush, caewyd y cylchgrawn.
-552	Y mae’n sylwebydd mynych ar bolisi tramor ehangach, diogelwch gwladol, a thueddiadau economaidd.
-554	Cadw purdeb yr hiraeth hwnnw oedd gwaith ei fywyd.
-555	Mae merch fach yn chwerthin ac yn gwenu tra ar reid yn y parc.
-556	Mae hynny’n anodd i hyfforddwr ei dderbyn.
-557	Y prif ddiwydiant oedd bridio stoc.
-558	Ar draws o’r farchnad mae carchar.
-559	Dynion yn cerdded i lawr stryd mewn iwnifform werdd.
-560	Oherwydd adolygiadau gwael a gwerthiant araf caeodd y sioe’n gynnar.
-561	Gallant wneud hyn heb ddefnyddio bwyd.
-562	Mae set debyg o enynnau i'w chael mewn ewcaryotau eraill fel burum.
-563	Mae e’n gweithio fel ysgrifennwr ar ei liwt ei hun ar hyn o bryd.
-564	Mae'n feddyg sy'n arbenigo mewn otolaryngoleg.
-565	Bryd hynny, roedd y sioe bron â cael ei chanslo.
-566	Mân ddifrod oedd y difrod i’r cyfleuster.
-567	Fel rheol bydd yr ŵyl yn gorffen gyda gorymdaith, lle defnyddir tân yn aml.
-568	Adroddwyd bod deuclorin monocsid hylifol yn sensitif i sioc.
-569	"Yn yr achos hwn, gelwir cysylltiadau yn ""gyd-ddisgyblion""."
-570	O’r eiliad honno ymlaen, roeddwn yn berson peryglus iawn i wyddonwyr ei adnabod.
-571	Mae'n cael ei ystyried i fod yn un o'r damcaniaethwyr mwyaf blaenllaw ar genedlaetholdeb.
-572	Cafodd ei enwi ar ôl Cadfridog yr Undeb John A. Logan.
-573	Y gallu i gyflawni symudiadau medrus gwirfoddol yw arfer.
-574	Menyw yn dringo craig ar ddiwrnod heulog.
-575	Roedd yn rhaid addasu'r llongau siartredig ar gyfer eu rôl newydd.
-576	Mae'n ddolen ryfedd neu wedi'i roi fel pos.
-577	Mae'r llyfr hefyd yn cynnwys ugain gwaith arall o'r cylch hwn.
-578	Yn eu plith, roedd planhigyn.
-579	Mae'r dringwr yn hongian oddi ar glogwyn fertigol gyda gêr ond dim crys.
-580	Cafodd y llygaid eu troi arno fel chwilolau.
-581	Mae'r ymchwil yn tueddu i arwain naill ai at dystiolaeth theoretig neu gymhwysiad realistig.
-582	Derbyniodd yr urdd farchog arferol ar adeg ei ddyrchafiad.
-583	Mae incwm awdur geiriau caneuon yn deillio o freindaliadau a dderbynnir o ganeuon gwreiddiol.
-584	Mewn cyfnodau o gynnwrf yn Tsieina roedd hi’n cymryd rhan mewn diogelu buddiannau Americanaidd.
-585	Fodd bynnag, maent yn sylweddol wahanol o ran techneg, safleoedd, a ffigyrau.
-586	Cerdda cwpwl i fyny ffordd wag, o flaen hen westy.
-587	Gweler y Pab dethol Stephen am esboniad manwl.
-588	Bwriedir gosod lifftiau yn y fynedfa olaf fel ei bod yn hygyrch.
-589	Oherwydd ei bris gweddol uchel, mae eog wedi’i fygu’n cael ei ystyried yn ddanteithfwyd.
-590	Fe fu yna sawl digwyddiad nodedig o dan ei arweiniad ef.
-591	Dim newidiadau cosmetig na mecanyddol o bwys.
-592	Dioddefodd yr adeilad fân ddifrod, yn enwedig i ffenestri’r pwll nofio.
-593	Cychwynnodd y myfyrwyr gyda hyfforddiant ystafell ddosbarth ac efelychydd.
-594	Mae mwyafrif llethol myfyrwyr coleg yn mynychu rhaglenni dydd llawn amser.
-595	"Daw egni daearwresol mewn ffurfiau ""anwedd yn bennaf"" neu ""hylif yn bennaf""."
-596	Mae’n wahanol i’w osgordd o warchodwyr oherwydd ei ffigur annormal o dal.
-597	Materion gwleidyddiaeth?
-598	Roedd yn perthyn i Urdd Perfformio Catholig Prydain.
-599	Cloddiwyd am lo mewn llawer o’r cymdogaethau ar un adeg neu’i gilydd.
-600	Yn y de a’r gorllewin, nid yw’r arwyneb mor uchel.
-601	Nid yw dosbarthiad teg yr un peth â dosbarthiad cyfartal.
-602	Mae Angel a’r tîm yn ymaflyd â’r cythraul ond cânt eu trechu.
-603	"Mae'n rhan o ""Gymoedd Afan Uchaf""."
-604	Ei dad a’i dysgodd ef i ganu’r ffidl.
-605	Enillwyd rhai safleoedd, ond gyda cholledion yn cael eu hachosi gan dân magnelau Almaenaidd.
-606	Mae gan y cyntedd canolog grymdo gwydr gyda phlwm sy’n darlunio sêl Hawaii.
-607	Mae'r ffigwr hwn yn cynnwys buddsoddiad tramor a chyfanswm refeniw domestig o'r sector.
-608	Fodd bynnag, ni ystyriwyd y sŵn yn broblem anorchfygol.
-609	"Galwodd hefyd y golygfeydd cyflym yn ""realistig"" gyda therminoleg focsio gywir."
-610	Mae'r gymuned yn cynnwys pentref Dwyran.
-611	I’r diben hwn, mae hi hefyd yn ymchwilio sut i fodelu protocolau.
-612	Derbyniodd Parry radd anrhydeddus gan Brifysgol Caergrawnt yn yr un flwyddyn.
-613	Gellir codi'r fraich hefyd i godi traw'r llinynnau.
-614	Cymharwch â'r term mwy gwefredig gwleidyddol, gwrth-ddiwylliant.
-615	Dechreuodd meiri ganolbwyntio ar berthnasoedd oedd yn cynnig cymorth technegol mewn datblygu bwrdeistrefol.
-616	Mae pobl yn cwrdd i yfed gwin brwd.
-617	Roedd gofyniad mwyfwy ar werinwyr i dalu treth am eu tiroedd.
-618	Unwaith eto achubodd ei chriw eu llong, gan reoli llifogydd gyda sgil a phenderfyniad.
-619	Mae ci du a gwyn yn rhedeg mewn glaswellt gan gario ffon fawr.
-620	"Mae'r llyfrau wedi dechrau cael eu galw yn ""y Beibl gwneud telesgop""."
-621	Mae’r ffaith fod sawl llawysgrifen ar y sgôr lawn yn dangos hyn yn eglur.
-622	Mae menyw yn eistedd o flaen peiriant.
-623	Daeth yr enw o'r cynllun busnes ychwanegyn cyfrifiadurol hwn.
-624	Mae'r gweithredwr maes yn gweithredu ar gyflyrau cwantwm y theori.
-625	Cafodd ei saethu deirgwaith o agos.
-626	Mae crwbanod môr cefn gwastad a gwyrdd yn nythu ar draethau’r parc hefyd.
-627	Os ydych chi'n gofyn sut mae'n gwneud i ni deimlo?
-628	Mae mandalâu i fod i gynorthwyo unigolyn ar y llwybr i oleuedigaeth.
-629	Dychwelodd hi i'r garfan Chwith Sosialaidd yn fuan wedyn.
-630	Ehediad oedd yn lansio ac yn glanio yn y nos oedd hwn.
-631	Gall baneri pibau gael eu cyflwyno i fand pibau mewn achlysur arbennig hefyd.
-632	Mae'n un o'r tirweddau mwyaf gwyllt ac anghysbell yng Nghanada.
-633	Drwy ddadlwytho tasgau prosesydd-ddwys o'r prif brosesydd, gall cyd-brosesyddion gyflymu perfformiad system.
-634	Mae’r gofynion hyn yr un peth heddiw.
-635	Nid yw fy achau yn hysbys.
-636	Yn y pen draw, ehangodd hyn i elusennau eraill.
-637	Mae'r ddau yn helpu myfyrwyr nad oeddent yn llwyddiannus yn y system ysgolion reolaidd.
-638	Wrth i'r lafa oeri, cafwyd crebachu.
-639	Yn fab i'r Cyngreswr Compton I.
-640	Llosgodd y tân yn ddi-oed am dros bymtheg awr.
-641	Ni wnaethon nhw ennill unrhyw seddi ac fe wnaethant ymladd etholiadau dilynol ar wahân.
-642	Cafodd llawer o borfeydd gwastad eu haddasu i greu leiniau glanio.
-643	Cymdeithaseg yw'r astudiaeth systematig o gymdeithas a gweithredu cymdeithasol dynolryw.
-644	Mae “E. hywmalis” wedi’i gynefino’n eang yng ngogledd Ewrop a Gogledd America.
-645	Ymddangosodd angel gan orchymyn iddynt roi’r gorau iddi.
-646	Mae'r band yn perfformio yn y sgwâr tra bod llawer o bobl yn gwylio.
-647	Efallai fod Richard yn mynd i fod yn forwr.
-648	Mae poblogaeth sylweddol o ganeris llygaid gwyn yn bresennol.
-649	Daw fel arfer fel halen sodiwm.
-650	Mae'r Ymddiriedolaeth yn darparu gweithdai addysgol a chyflogadwyedd, yn ogystal â chynlluniau mentora.
-651	Mae caffaelgarwch yn disgrifio'r chwant i gynyddu eiddo personol, i gaffael, casglu a chadw.
-652	Mae'n beth eithaf brawychus.
-653	Caiff delwedd ei chreu trwy symud y rhan hon ar draws sampl.
-654	Mae’r dyfarnwr yn gwneud arwyddion at y chwaraewr pêl-droed.
-655	Cefnogir y lloriau gan y colofnau craidd a pherimedr.
-656	Ar y dde, dangosir y lliw rhewlas.
-657	Roedd hawliau menywod yn fater arall a ystyriwyd gan y cynadleddwyr.
-658	Roedd pob peiriant mewn rhwydwaith yn rhannu’r cyfeiriadur gwraidd hefyd.
-659	Lle mae dolffiniaid yn nofio ac yn neidio trwy gylch a chanu cloch.
-660	Mae merch yn paentio ei hewinedd yn goch wrth eistedd mewn car.
-661	Cafodd ei nodi am ei hymchwil i baralacs trigonometrig y sêr cyfagos.
-662	Nythais yn erbyn y clustogau, y talcen yn crychu rhywfaint.
+663	Does dim llawer o ynysoedd ar ei ymylon.
+664	Nid yw wedi priodi erioed a does ganddo ddim plant.
+665	Eu Grŵp Sinsir oedd eu henw ar hwn.
+666	Wrth wneud hynny, roedd e’n paratoi’r ffordd i’r Iesu.
+667	Dyma un ffordd y mae busnesau'n hyrwyddo ac yn hysbysebu eu cynhyrchion a'u gwasanaethau.
+668	Pobl yn pasio balŵns dŵr yn y stryd
+669	Maen nhw’n chwarae ym Mhrif Gynghrair Cymru.
+670	Mae ffyrdd yn yr ardal yn aml wedi'u hanwybyddu.
+671	Roeddwn i'n wir yn meddwl ei bod hi'n mynd i dagu i farwolaeth.
+672	Mantais arall i’r cytlas oedd pa mor syml yr oedd i’w ddefnyddio.
+673	Cyhoeddir enillwyr y gwobrau ym mis Hydref bob blwyddyn.
+674	I'r gwrthwyneb, anwybyddir llythrennau meddal.
+675	Chwe diwrnod yn ddiweddarach, cyhoeddwyd y dyfarniad yn swyddogol.
+676	Yn y bôn, mae priodoliadau aelodau o’r grŵp yn tueddu i ffafrio’r grŵp poblogaidd.
+677	Defnyddiwyd cynhyrchion seleniliadu hefyd.
+678	Gellir cael gwared ar rai achosion heb fod angen treial.
+679	Fe wnaeth enwau o’r fath oedd yn datgysylltu’n raddol o’r diwedd ennill safle annibynnol.
+680	Denodd y ddau gryn sylw ac roedden nhw'n cael eu hailargraffu a'u cyfieithu'n aml.
+681	Ategodd y Llys unfrydol benderfyniad y Llys Apêl.
+682	Mae pwysau’n drymach ar gyfer ymarfer ac yn ysgafnach ar gyfer perfformio.
+683	Onid yw hynny’n rhoi rhywfaint o dir cyffredin i ni?
+684	Mae’n Iddew cydwybodol.
+685	Dywed fod y bachgen ar ei draed cyn i'r gwasanaethau brys gyrraedd.
+686	Mae Air Botswana wedi bod yn gwneud colled gyson ers blynyddoedd.
+687	Byddai’r Llywydd etholedig yn wir arweinydd mewn enw i bobl Awstralia.
+688	Roeddem am fagu’n plant yno.
+689	Dechreuodd hyn gyfres o frwydrau mewnol gwleidyddol rhwng y clwb a Neuadd y Ddinas.
+690	Cymeron nhw hefyd gomisiynau ar gyfer dylunio gerddi gan berchnogion y cartrefi newydd.
+691	Mae dwy bont ac argae yn croesi ffin yr afon.
+692	Ei bwrpas oedd dysgu, cofio, diolch, anrhydeddu a dathlu.
+693	Cafodd ei hanfon adref mewn pryd i ddathlu’r Nadolig.
+694	Aeth cownter ar ei draws, gan ei rannu yn ei hanner.
+695	Roedd eisoes wedi'i dynodi'n sedd y sir erbyn hynny.
+696	Fodd bynnag, mae Jack wedi dwyn y map oddi arno.
+697	Mae’n darparu cynnwys treiddiol am fenywod a theuluoedd, ynghyd â cherddoriaeth gyfoes i oedolion.
+698	Nid oes etifedd i’r teitlau.
+699	Mae’r canlynol yn enghraifft syml o ffynhonnell ddibynnol.
+700	Cynhyrchodd y planhigyn sudd tun a jeli ffrwythau cashiw.
+701	Goroeswyd ef gan ei wraig, Helen.
+702	Pobl yn cerdded o flaen rhywfaint o graffiti.
+703	Mae gwrthrychau coch yn syrthio ar ddynion sy’n sefyll tu ôl i wal goch.
+704	Dyma ble bathodd y term cost cyfle am y tro cyntaf.
+705	Rhagflaenir enwau’r aelodau gan rifau eu hardal.
+706	"""Roeddwn yn awgrymu hynny,"" meddai."
+707	mae menyw yn agor anrheg wrth yfed cwrw
+708	Gall y gweinydd guddio’i hun rhag golygon brysiog gan ddefnyddwyr o’r system
+709	Yn ystod y cyfnod hwnnw creodd gatalog o'r casgliad cyfan.
+710	Paramedrau isod mewn model neu ddosbarth o fodelau yw paramedrau strwythurol.
+711	Fel deddfwr, canolbwyntiodd Bill ar ddiogelu'r amgylchedd a datblygu economaidd.
+712	Mae daearyddiaeth iechyd yn delio â'r cysylltiadau a'r patrymau gofodol rhwng pobl a'r amgylchedd.
+713	Roedd yn briod ddwywaith ac mae ganddo un mab.
+714	Mae ci du yn rhedeg trwy'r eira.
+715	Yn yr achosion hyn, roedd hi’n orfodol ar deithwyr i wneud dau offrwm.
+716	Wedi hynny, llofnododd gannoedd o lofnodion.
+717	Bydd nifer o dywyswyr lleol yn dal i gynnig teithiau.
+718	Dim ond rhyw ychydig gannoedd o fetrau oedd rhwng y ddwy ddinas.
+719	Aeth yn ôl i weithio fel optometrydd.
+720	Cydnabuwyd ei gymwysterau proffesiynol ym mlynyddoedd y Rhyfel gan y Cyfryngau a chyfreithwyr.
+721	Mae’r bachgen yn yr het ddu yn balansio’i gorff ar un llaw
+722	Gall hedfan am yn ôl, neu ar ongl.
+723	Mae hyn yn gadael iddyn nhw olrhain hafaliadau tonnau perthnaseddol.
+724	Wrth i'r cyfnodolyn dyfu o ran maint ac arwyddocâd, felly'r Bwrdd Golygyddol hefyd.
+725	Mae maint cenllysg fel rheol yn cyfateb i faint gwrthrych at ddibenion cymharu.
+726	Gall dysmorffedd yn y galon, yr arennau, a'r system cyhyrysgerbydol ddigwydd hefyd.
+727	Mae’r tir yn yr ardal hon yn cynnwys creigiau gwenithfaenol a folcanig.
+728	Nid oedd y naill waith na’r llall wedi’i gwblhau ar ddechrau’r Rhyfel Byd Cyntaf.
+729	Disgwylir i'r adeilad gael ei ailadeiladu a'i adnewyddu i ddarparu tai.
+730	Mae bachgen bach yn chwarae ar adeiledd tegan glas.
+731	Doedden nhw ddim wedi ei ysgrifennu i lawr ar bapur.
+732	Mae'r ynysoedd yn fynyddig ac yn cynnwys craig folcanig.
+733	Arweiniodd lapiau yn y ddwy ras ond cafodd ei dynnu allan mewn damweiniau hwyr.
+734	Felly dywedaf nad oes amser i golli.
+735	Yn sydyn, daw dyn enigmatig i’r golwg.
+736	Ffarweliodd Betty yn gyflym, gan beri i Susan deimlo’n fwy drwgdybus nag erioed.
+737	Mae strwythur isomeras ffosffad trios yn cyfrannu at ei swyddogaeth.
+738	"""Ydych chi wir wedi bod yr holl amser hwn yn paratoi?"" gofynnodd."
+739	Unigolyn yn eira-fyrddio ar ddiwrnod golau.
+740	Mae'r cynhyrchion yn cael eu gweithgynhyrchu mewn gwahanol is-gwmnïau.
+741	Mae'n ofynnol i ddefnyddwyr y wefan gael caniatâd eu rhiant neu warcheidwad.
+742	Fel myfyriwr is-raddedig, roedd ar y tîm dadlau am dair blynedd.
+743	Caffaelodd De Mol, personoliaeth adnabyddus yn yr Iseldiroedd, ei ffortiwn trwy gynhyrchu rhaglenni teledu.
+744	Ann, roedd hynna'n ddiangen!
+745	Ymddiswyddodd hi o'r swydd hon yn dilyn ei phenodiad fel arglwyddes weithredol.
+746	Grŵp o bobl hŷn yn ymgasglu o gwmpas bwrdd yn syllu i’r pellter.
+747	Gelwir y math hwn o gytundeb yn “gytundeb hyd braich”.
+748	Daethpwyd o hyd i dri sarcoffagws ar ochr ddeheuol y pentref.
+749	Roedd dibynadwyedd cynyddol yn fantais arall i wrthbwyso cost ychwanegol caledwedd.
+750	Ymddeolodd wedyn o actio.
+751	Yn y deunawfed ganrif, roedd yn gartref i Glwb Criced gwreiddiol Llundain.
+752	Gall chwaraewyr ddewis rhwng tair hil unigryw pan yn creu eu cymeriadau.
+753	Roedd Dyffryn Lliw wedi’i rannu rhwng y ddau awdurdod.
+754	Fodd bynnag, ni fydd pob mater yn cael ei drafod gan y cadlywydd.
+755	Mae brechlyn byw gwan arall yn cael ei ddatblygu yn yr Unol Daleithiau.
+756	Defnyddir briciau gwydr yn helaeth mewn gwahanol rannau.
+757	Dau ddyn mewn crysau glas yn dringo ar greigiau.
+758	Ar ochr yr adeilad mae plac yn cofnodi’r digwyddiad hwn.
+759	Erbyn Oes y Gwladwriaethau’n Rhyfela, roedd torri pen yn bennaf wedi cymryd lle chwipio.
+760	Fe wnaethom ganu’r naratif.
+761	Nid oedd y ffin newydd yn fympwyol o'r safbwynt Sofietaidd.
+762	Clywyd ffrwydradau, ond nid oedd modd canfod difrod penodol.
+763	Roedd ar gael dim ond gyda gyriant pedair olwyn i ddechrau.
+764	Mae archaeolegwyr wedi darganfod olion gŵyl Gosac yn yr eglwys hyd yn oed.
+765	Fodd bynnag, roedd angen rigio’r rhain cyn hedfan.
+766	Mae'r prognosis yn amrywio o unigolyn i unigolyn.
+767	Mae rhai trenau teithwyr di-stop yn pasio yn y ddau gyfeiriad.
+768	Roedd dau argraffiad cyfyngedig o’r albwm hwn.
+769	Mae’r lle’n boblogaidd am gerdded, loncian a gwibdeithiau penwythnos.
+770	Cyflwynir y wybodaeth yn iaith gyntaf y gwrthrych.
+771	A hithau’n gydweithfa gyfeillgar ac agored, mae’r grŵp yn adnabyddus am gefnogi gwestai lleol.
+772	Grŵp o bobl wedi ymgasglu ar gyfer cyfarfod.
+773	Mae’r gweithgareddau’n cynnwys ciniawa ffurfiol, cyngherddau, nosweithiau dawnsio ac arddangosfeydd cerddoriaeth.
+774	Mae hi’n rhugl mewn Ffrangeg, Saesneg, Sbaeneg, Almaeneg ac Eidaleg.
+775	Daeth hyn ag ef ato'i hun.
+776	Mae ei ddiddordebau ymchwil wedi bod yn amlochrog.
+777	Yn ogystal, cafodd y gân lwyddiant byd-eang.
+778	Yn y ddwy wisg, cafodd y rhesi meinion eu gostwng i’r ochrau.
+779	Ar wahân i Falaysia, dywedir hefyd fod aelodau yn Singapore a Bali.
+780	Mae'r heddlu'n dod â phutain hunanladdol iddo.
+781	"""Rwy'n credu hynny,"" meddai, gan chwerthin."
+782	Yno, mae’n esbonio’r arfer i’w hatgoffa o aberthu Isaac.
+783	Blas cyrens duon sydd ar y du fel arfer.
+784	Er gwaethaf proffesiynoldeb, mae clwb Cymry Llundain wedi ceisio cadw naws clwb amatur.
+785	Wrth i ddigwyddiadau fynd rhagddynt, nid oedd angen cod darlledu newyddion ar Japan.
+786	Mae’r patrymau ymdopi yn dod yn hysbys ac yn gwneud synnwyr.
+787	Roedd yn rhedeg yn baralel i’r adain celfyddydau diwydiannol.
+788	Mae dyn sy'n gwisgo siwt gôt ddu yn cerdded heibio.
+789	Mae ganddo un brawd hŷn, Mark, sy’n fodel.
+790	Roedd esgynnydd preifat yn gwasanaethu Ystafell yr Arlywydd yn unig.
+791	Mae rhai o’r rhain, er nid pob un, yn cynnwys ffin taleithiol triphwynt.
+792	Roedd yna gantor, trysorydd, diwinydd a deuddeg canon hefyd.
+793	Fodd bynnag, unionwyd y sefyllfa yn gyflym.
+794	Gan ei fod wedi chwarae’n dda enillodd gontract â chwb yr ail-ddinas Dinas Birmingham.
+795	Parhawyd â'r gwaith hefyd ar y Rotwnda a mannau cyhoeddus eraill.
+796	Fe wnaethant roi’r gorau i’w hachos cyfreithiol yn ddiweddarach.
+797	Aeth yr awyren ar dân, gan beri iddi gwympo.
+798	Gall arwyddion trwynol fod yn amlwg, gyda rhedlif o’r trwyn a’r anadlu’n chwyrnllyd.
+799	Mae’r bachgen bach yn y crys morleidr yn hongian addurn ar y goeden.
+800	Trinnir llosgiadau asid cromig â thoddiant thiosulffad sodiwm gwan.
+801	Mae’r colur esthetig yn tynnu llygad y gwyliwr at y canol.
+802	Roedd llawer o bobl eraill yn ariannu’r chwyldro neu gyfrannu drwy eu gwaith celf.
+803	Mae’r term “celf electronig” bron yn gyfystyr â chelf gyfrifiadurol a chelf ddigidol.
+804	Roedd yn cydlynu cyfnewidiadau, ymchwil, datblygu cynnwys, mentrau newydd a chasglu newyddion, hefyd.
+805	Mae ei fandstand yn lle adloniant.
+806	Ei ysbrydoliaeth, Karen, sydd wedi rhoi iddo’r llwyddiant sydd ganddo heddiw.
+807	Mae rhywbeth yn cael ei ddymchwel gan darw dur.
+808	Gallwch chi helpu trwy ei ehangu.
+809	Ond nid oedd ganddo unrhyw gytundeb gyda'r Prydeinwyr am gynnal y fintai.
+810	Roedd ganddo ddiddordeb mewn astudio cemeg y niwclews.
+811	Bu hefyd yn llywyddu llysoedd marsial a oedd yn erlyn y gwrthryfelwyr.
+812	Mae dyfnder y dyfrffyrdd yn ddirgelwch.
+813	Mae’r galar yn rhy ddwys i eiriau.
+814	Yn seinegol, cyfyd gwahaniaethau mewn Portiwgaleg Cyfandirol.
+815	Gellir diffinio pob cynnyrch gan ei farchnad arbenigol.
+816	Byddai hyn wedi cymryd oddeutu o flynyddoedd.
+817	Mae gweithiwr yn garddio mewn amrywiaeth o blanhigion.
+818	Roedd yn sianel ar gyfer llif syniadau a phersonoliaethau, sy'n dal i lifo heddiw.
+819	Hefyd, defnyddir animeiddio wrth ddangos y goeden ffa yn tyfu yn iard gefn Jack.
+820	Doedd hi ddim yn gallu dod o hyd i gyhoeddwr.
+821	Mae hefyd yn bosibl defnyddio proses gwasgaru anelastig i arsylwi dirgryniadau moleciwlaidd.
+822	I ddechrau, nid oedd y ffordd yn cynnwys unrhyw gyfnewidfeydd.
+823	Mae'r pentref yn cymryd ei enw o'r dref y mae wedi ei leoli ynddi.
+824	Mae dyn yn procio ffon hir i fyny tuag at y nenfwd
+825	Gellir cyfleu Trefnu Cyflym fel a ganlyn.
+826	Gall arswyd hefyd orgyffwrdd â’r genres ffantasi, ffuglen oruwchnaturiol a chyffro.
+827	Yna mae’r tresmaswr yn atal y bedwaredd neges.
+828	Mae hyn yn peri problemau o ran trethu i'r Economi Ddigidol.
+829	Mae sgîl-effeithiau cyffredin yn cynnwys syrthni, ceg sych, rhwymedd, a thrafferth gyda’r golwg.
+830	Mae tensiwn ynghylch y berthynas rhwng hawliau patent a hawliau bridwyr planhigion.
+831	Parhaodd hefyd â’i ymchwil, gan gyhoeddi dau bapur mewn geometreg wahaniaethol.
+832	Wedi’i chyfyngu felly, profodd yn her i ddylunio.
+833	Nid oedd canlyniadau’r arbrawf hwn yn bendant.
+834	Gall dŵr sy’n llifo gael yr un effaith.
+835	Wrth gwrs, rwyf wedi gwneud hynny i gyd.
+836	Mae bellach wedi dychwelyd i Lens.
+837	Mae oedolyn wedi’i wisgo mewn du yn dal ffon.
+838	Arestiwyd yr un a oroesodd.
+839	Daeth yn rhan o ymchwil sŵolegol.
+840	Yn ystod y cyfnod hwn, chafodd y sefydlwyr ddim cyflogau.
+841	Roedd ganddo ergyd nerthol hefyd.
+842	Dynes yn sefyll o flaen grŵp â ffolderi du yn eu dwylo.
+843	Mae'r platiau presennol yn defnyddio rhifolion heb sgript.
+844	Mae trenau’n aros yno ar ddyddiau Sadwrn, Sul a gwyliau yn unig.
+845	Mae cerbyd “bwriad cynhyrchu”, o’i gymharu â cherbyd cysyniadol, yn ateb y diben hwn.
+846	Credaf ei fod eisoes wedi cyrraedd y pwynt hwn o ddiogelwch.
+847	Ar hyn o bryd mae’n chwarae yn safle amddiffynnwr.
+848	Aeth y rhain ymlaen i ddylanwadu ar amrywiaeth o wladwriaethwyr a gynhyrchwyd ym Mhrydain.
+849	Mae'n gyffredin iawn o amgylch trefi a phentrefi arfordirol.
+850	Ar ôl gwylio'r prawf, ei ymateb oedd, Wel mae'n gweithio.
+851	Mae dau borthor mewn teml Asiaidd yn ysgubo blodau oddi ar risiau.
+852	Mae cyw iâr hefyd yn rhan fawr o’r economi.
+853	Mae'n parhau i brofi bod y cylchoedd hyn yn ffurfio sail.
+854	Nifer o ddynion yn chwarae cardiau o amgylch bwrdd gwyrdd.
+855	Mae’r gymdogaeth yn gymysgedd gytbwys o deuluoedd, pobl sengl, a dinasyddion hŷn.
+856	Saif yn Adran A o’r Ddinas.
+857	Mae'n canmol cadwraeth gwerinwyr o hanes trwy draddodiad llafar, a duwioldeb yr Eifftiaid.
+858	Roedd y tir glas a melyn yn gynhyrchwyr diemwntau toreithiog.
+859	Gyda’r tîm, sgoriodd pedair gôl mewn wyth gêm.
+860	Dweud fy mod i’n swyddog drwm mawr dros heddwch.
+861	Mae’r gwregysau’n rhedeg dros bwlïau cocos neu sbrocedi cyfatebol.
+862	Cadarnhaodd y cwmni’n ddiweddarach mai’r gwir reswm am y newid oedd y costau cynyddol.
+863	Treuliodd gweddill ei fywyd yn ei ymddeoliad.
+864	Roedd swyddogion Llynges yr Unol Daleithiau yn aml yn cael Croes Dewrder y Llynges.
+865	Mae'r ferch yn y ffotograff i weld yn mwynhau chwarae badminton.
+866	Ni all y brenin gwyn gymryd y frenhines, ond gall y marchog gwyn.
+867	Mae ymhellach i ffwrdd o'r ddinas ganolog.
+868	Dengys y rhain grychni afreolaidd ar y traean uchaf.
+869	Mae tri gwahanol ddull: 'arddangosfa', 'gyrfa', a 'brwydr y chwedlau'.
+870	Maen nhw’n penderfynu ei bod yn rhaid ei dienyddio hi.
+871	Fodd bynnag, mae’n ffurf hen iawn o bregethu.
+872	Yn y defodau, mae cyfranogwyr yn gwneud offrymau o'r teyrnasoedd mwynol, llysiau, ac anifeiliaid.
+873	Dyn â sbectol yn dal ei gi i fyny.
+874	Fodd bynnag, nid yw hyn yn golygu bod theori cyfredol esblygiad yn esboniad digonol.
+875	Dim ond un ysgol sydd yn y rhanbarth ysgol.
+876	Mae'n mynd tuag at y ddinas.
+877	Mae’r adran hon hefyd yn cael ei galw’n Draphont Stryd y De.
+878	Nid oedd hi'n falch nac yn ddig.
+879	Newidiodd strwythur y sefydliad yr adeg hon, gan ymrannu i golegau ar wahân.
+880	Mae bachgen sy'n pwyso ar ffon yn dal arddwrn bachgen llai.
+881	Dyma o bosibl yw'r stori enwocaf am rywun dan orthrwm.
+882	Mae dyn yn edrych mewn bag ger rhai certi siop fwyd a beic.
+883	Maen nhw’n ymddangos yn ffyddlon i’r sefydliad gwrth-Semitig.
+884	Roedd propaganda du yr Almaen fel arfer yn manteisio ar hiliaeth Ewropeaidd a gwrth-Gomiwnyddiaeth.
+885	Onid anghyfiawnder yw hyn?
+886	Mae'r geiriau yn barodi ar ganeuon tymor y gwanwyn.
+887	Roedd gogoniant helaethach ar y gorwel.
+888	Drwy gyfrwng hyfforddiant, gellir gwneud i’r llygoden fawr bwyso’r lifer yn aml.
+889	Mae'r rhywogaeth hon yn absennol o wir ranbarthau anialwch.
+890	Mae i’r brand safle blaen yn segment premiwm Bwlgaria.
+891	Mae’r chwarel yn nodwedd arwyddocaol yn y tir.
+892	Ers hynny, bu cynnydd cymedrol mewn diwydiant, preswylfeydd, a llywodraeth leol.
+893	Mae hynny'n golygu datrysiad dwy wladwriaeth: Israel a Phalestina.
+894	Dyn ar foncyff.
+895	Yn yr achos eithafol, mae pob gair yn cynnwys morffem sengl.
+896	Roedden nhw’n dadlau bod y ddeddf yn rhoi anogaeth ar gyfer blacmel.
+897	Beth Mae’n Ei Olygu?
+898	Ni chafodd y wefan ei hadnewyddu ac nid yw’n weithredol bellach.
+899	Fy Nuw, ddyn, doeddech chi erioed yn hynny.
+900	Ymunodd gweithwyr yn hyn, a dechrau hawlio cyflogau mwy.
+901	Mae presenoldeb y sither cyngerdd mewn cerddoriaeth glasurol yn dal yn brin.
+902	Yn debyg i is-rywogaethau eraill o’r arth du, mae eirth Sinamon yn hollysol.
+903	Tŷ'r Cynrychiolwyr yw'r tŷ isaf yn y Gymanfa Gyffredin.
+904	Ysgrifennydd nifer o erthyglau ar gyfer y Gwyddoniadur Mawr Sofietaidd.
+905	Mae'n mynd yn isel ei ysbryd.
+906	Mae enw'r drwydded yn gyfeiriad at y cysyniad o drwydded artistig.
+907	Tlysni at dlysni
+908	Roedd y tri aelod o'r criw yn eistedd yn y trwyn.
+909	Dychwelwyd ef i'w fynachlog, ac ni wyddys unrhyw sôn pellach amdano.
+910	Mae’ casgliad yn cynnwys llawysgrifau, testunau, lluniau, deunydd clyweledol ac arteffactau.
+911	Llawer iawn o bobl mewn gŵyl awyr agored.
+912	Pan enillodd taleithiau Canolbarth America annibyniaeth, roedd yr union ffiniau yn aneglur.
+913	Yn ystod Rhyfel y Parhad roedd yn cefnogi’r syniad o ryfel ehangol.
+914	Yn y gwanwyn, mae'n cynhyrchu dail gwyrdd llachar gyda nifer o flodau gwyn bychain.
+915	Mae'n bwnc dadleuol iawn.
+916	Roedd y pafiliynau’r un mor odidog â'r bont.
+917	Fel chwaraewr bas, mae’n adnabyddus am ei dôn a’i fynegiant hynod nodedig.
+918	Yr Isadran Rheoli Traffig Awyr sy’n gweithredu’r tŵr rheoli a systemau rheolaeth derfynol radar.
+919	Yn ystod yr amser hwn, gellir cynnal profion dro ar ôl tro.
+920	Ni chafodd yr un o’r ddau eu hailethol.
+921	Mae protestwyr yn brwydro dros hawliau’r plant.
+922	Maent wedi’u clystyru yn y canol, gyda pharciau a mannau parcio yn eu hamgylchynu.
+923	Mae hyn yn ymwneud ag ymchwil.
+924	Gwylia - dyma fi'n mynd!
+925	Roedd hefyd yn un o Ymddiriedolwyr sefydlol Canolfan Mileniwm Cymru.
+926	Gwrandewch ar yr hyn sydd gennyf i'w gynnig.
+927	Beth am fynd allan i de.
+928	Menyw yn syrthio oddi ar ei llafnau rholio.
+929	Rhoddwyd statws cyfartal i’r ieithoedd Saesneg a Ffrangeg.
+930	Mae tri phrif fath o isomorffedd sefydliadol: normadol, gorfodol a dynwaredol.
+931	Parhaodd bywyd da'r haf tan y Rhyfel Byd Cyntaf.
+932	Fel arfer, caiff dau, pedwar neu wyth o allbynnau eu darparu.
+933	Mae ganddo gysylltiad agos ag anthropoleg fiolegol a meysydd biolegol eraill.
+934	Yr un peth yw’r broses o greu llythrennau â llafariaid yn y ddau gyfri.
+935	Amddiffynnwyd y diriogaeth yn llwyddiannus nifer o weithiau gan Americanwyr Brodorol.
+936	Mae'r Cwmni hefyd yn cynnal ymchwil mewn oncoleg a chlefydau hunanimíwn.
+937	Mae’r tai ar y ochr ddwyreiniol yn dyddio o oes Victoria.
+938	Mae'r deml yn nodedig am ei phensaernïaeth.
+939	Mae'r fideo yn eiriol dros niwtraliaeth net.
+940	Mae sawl clinig meddygol yn yr ardal.
+941	Rhaid i bob defnyddiwr dderbyn copi o'r gyfrinach, a all greu cyfyngiadau amser.
+942	Cydnabyddiaeth wedi'i addasu o Allmusic.
+943	Ond pan wrthododd y Senedd ei fesur bancio, galwodd am etholiad diddymu dwbl.
+944	Mae lleithder yn aros yn uchel trwy gydol y flwyddyn.
+945	pedwar bachgen yn edrych allan o gwch
+946	Y gwasanaeth cludiant fyddai’r llwybr rhyngwladol rheolaidd cyntaf i’r maes awyr.
+947	Mewn cyferbyniad, mae nifer fawr o ddarparwyr er elw mewn addysg uwch.
+948	Gan ei fod yn annramadegol, mae ei ddefnydd yn awgrymu person gwladaidd neu annysgedig.
+949	Mae manylion y cynnig hwn hefyd ar gael o Swyddfa'r Dadansoddwr Deddfwriaethol.
+950	Yn ystod ei gyfnod yn y swydd, cyflwynwyd llawer o welliannau.
+951	Mae dynes sy'n gwisgo ffrog yn cerdded ar stryd wag.
+952	Archwilir cysylltiadau ac anghenion dynol yn eu holl gymhlethdod.
+953	Mae syrffiwr yn reidio ton sy’n torri.
+954	Mae disgyblion o drefi yn yr ardal gyfagos hefyd yn mynychu.
+955	Bu farw'r tri.
+956	Mae ar daen ond yn anghyffredin yn Ewrop.
+957	Mae'r gwarchodwyr sy'n mynd heibio yn dweud bod pawb yn edrych arno.
+958	Ci brown yn mynd i mewn i bwll corsiog.
+959	Ar gyfer yr elips, y ffactor hwn hefyd yw cymhareb agwedd yr elips.
+960	"Roedd gan tad ffrind fy mrawd ""Diwbglychau"" a stwff fel yna hefyd."
+961	Mae’r big yn binc ac yn fwy trwchus na phig yr euryn.
+962	Roedd aerdymheru ynddynt gyda rheoli lleithder awtomatig.
+963	Hefyd, banc, dau werthwr tai, cyfrifydd, siop fetio ac ymgymerwr.
+964	Roedd gwasanaeth domestig hefyd yn bwysig.
+965	Mae’r holl ffactorau amgylcheddol hyn yn arwain at ddirywiad y pridd.
+966	Roedd gan y llong hefyd alluoedd halio a thrafod angor.
+967	Cyhoeddir llawer o lyfrau ar ffurf cyfres.
+968	Ymddangosodd seren yn y de-ddwyrain, tywyllwyd yr haul.
+969	Cafodd groeso mawr gan y cyfryngau a'r cyhoedd.
+970	Efallai y bydd gofyn i'r myfyriwr fodloni gofynion ychwanegol sy'n cefnogi eu llwyddiant.
+971	Yn rhestr yr efengylau, rhoddir y drefn fel Mathew, Marc, Luc, Ioan.
+972	A chafodd hi erioed ei dal!
+973	Cysylltwyd y term cilbren ym Mhrydain Fawr gyda thri math o gwch gwaith penodol.
+974	Yng ngweddill Ynysoedd Prydain defnyddiwyd llawer mwy ar frics.
+975	Amaethyddiaeth gyda phwyslais ar gnydau bwyd yw asgwrn cefn economi'r ardal.
+976	Mae angen llawer iawn o waith i wneud cwilt clytiog.
+977	Grŵp o feicwyr modur mewn ras.
+978	Gweithiodd ef ar Ph.
+979	Ei genhadaeth gyntaf oedd ymosod ar y Dwrn Haearn, ond cafodd ei drechu.
+980	Mae wedi darlithio drwy wahoddiad ar bob un o’r saith cyfandir.
+981	Cafwyd cryn dipyn o ddryswch wrth enwi mathau o deim.
+982	Caiff ynni ei drawsnewid o ffurfiau eraill i ynni thermol.
+983	Yn y flwyddyn honno, methodd gystadlu oherwydd anaf.
+984	Darlledwyd y diweddglo ym mis Mai ac enillodd dros saith miliwn o wylwyr.
+985	Mae wedi gadael y band ar ddau wahanol achlysur.
+986	Yn y gêm hon, mae deg colofn.
+987	Cyrhaeddodd gytundeb gyda llywodraeth yr Unol Daleithiau i leihau maint y caffein.
+988	Seilir y dosbarthiadau ar alwedigaeth pennaeth yr aelwyd.
+989	Nid yw'n arferol i'r cenadaethau hyn rannu adeiladau na phersonél diplomyddol.
+990	Nawr, gymar gwych, tyrd i ni gael mynd i'r swper!
+991	Yno cymerodd reolaeth ar fyddinoedd Awstria a chodi'r milisia lleol.
+992	Mae'r gert, wedi'i hadeiladu o ddeunyddiau brodorol, yn hawdd ei hatgyweirio.
+993	Roedd fel pe bai'n addo cymaint o fywiogrwydd i fywyd.
+994	Dechreuodd drwy gadarnhau fod y Llys Rhanbarthol wedi gwrthod yr hawliad trefn briodol.
+995	Rwyf wedi bod yn meddwl am fy hen bryd a gwedd - fel yr oeddent.
+996	Mae'r rhifau hynny'n cynrychioli dosbarthiad mwy manwl o'r ensym.
+997	Felly mae cyflwr lluosogrwydd uchel yr un peth â chyflwr amlsbin.
+998	Mae pont yn cysylltu'r ddwy ynys dros afon gul.
+999	Ni chofiais ar unwaith.
+1000	Mae’n nodio ei ben, ac i weld yn awyddus iawn i dyngu llw.
+1001	Chwaraeodd ei fam y piano, a’i dad y clarinét.
+1002	Mae'r ddelwedd ar y faner hyd yn oed yn giwbiau cildroadwy.
+1003	Gyda thrwyddedau meddalwedd cyfrifiadurol, mae priodoli credyd weithiau yn amod trwyddedu.
+1004	Rhannwyd yr arolwg o orllewin Canada yn bum arolwg sylfaenol.
+1005	Y tymor nesaf aeth e ag hwy i frig Pêl droed Ewrop.
+1006	Hi oedd yn gyfrifol am Gynllun Iechyd cyntaf yr Alban.
+1007	Mae eraill, gan wybod am ei natur ddrygionus, yn ceisio ei ddifa.
+1008	Meistres Gŵydd yw'r enw a roddir ar fenyw o’r wlad glasurol.
+1009	Caiff niwtronau eu cynhyrchu’n helaeth mewn ymholltiad ac ymasiad niwclear.
+1010	Holltodd y glymblaid yn fuan wedi'r etholiad.
+1011	Er bod y gymuned a'r fferi'n llwyddiannus, nid oedd pêl-fas.
+1012	Mae’n cael ei weld amlaf mewn cynefinoedd heulog gyda phriddoedd gwlyb, asidig.
+1013	Tri dyn yn pysgota â llinyn.
+1014	Mae gan y rhanbarth hanes hir o ffermio defaid a gwartheg.
+1015	Gall fod hefyd sioc septig.
+1016	Bwytaodd y pupur-fintys ei hun a dilyn ochr arall y ffordd.
+1017	Rhyddhawyd academyddion ychwanegol yn hwyrach.
+1018	Roedd y jingl yn llwyddiannus.
+1019	Fodd bynnag, roedd ganddo broblem fawr o ran cysylltiadau cyhoeddus.
+1020	Sylwais arno unwaith o'r blaen, pan oeddwn yn y dref hon.
+1021	Nid wyf yn lofruddiwr nac yn bedoffilydd.
+1022	Bum mlynedd yn ddiweddarach sefydlwyd y Coleg Amaethyddiaeth.
+1023	Mae gridiau Norwy a Sweden wedi bod yn gysylltiedig â’i gilydd ers talwm.
+1024	Mae persbectif rhyng-ieithyddol felly'n ddefnyddiol ar gyfer terminoleg cyffuriau.
+1025	Nid oes llawer o wybodaeth ar gael ar y system sêr.
+1026	Fe wnaeth pedwarawdau radio cynnar barhau â’r traddodiad hwn.
+1027	Roedd y trigolion yn mwynhau rhyddid i ymarfer eu crefydd.
+1028	Fe'i ganed i deulu o academyddion sydd â llawer o gysylltiadau.
+1029	Rydyn ni mor agos fod pobl yn teimlo felly amdanom.
+1030	Seren y drefn yw seren ag wyth pwynt gyda phelydrau syth.
+1031	Roedd y cyhuddiadau yfed a benyweiddio yn rhannol wir.
+1032	Roedd y cynllun yn arloesol iawn yn ei amser.
+1033	Cafodd y milwr yr oedd wedi ceisio ei helpu hefyd ei saethu a'i ladd.
+1034	Honnir bod ysbrydion yn y tŷ.
+1035	Gall hefyd yn ymddangos ar gymysgeddau aur sydd â chynnwys copr uchel iawn.
+1036	Cynhyrchodd y llifogydd hyn fomentwm gan greu phroblem i'r ysgol.
+1037	Mewn rhai achosion mae twyll etholiadol amlwg yn cadw’r gwrthbleidiau allan o rym.
+1038	Dynes yn gadael priodas.
+1039	Mae'n gerddor llaw chwith ac yn chwarae ei gitâr gyda'r tannau wyneb i waered.
+1040	Gellid cartrefu awyrennau yn yr awyrendy hanner o dan y dec hedfan.
+1041	Diweddodd y pâr eu tymor drwy ennill eu pencampwriaeth Byd gyntaf.
+1042	Nid yw tuedd y boblogaeth yn hysbys.
+1043	Ar ôl cwblhau ei Wasanaeth Cenedlaethol dychwelodd i weithio ym maes Rheoli Ystadau.
+1044	Roedd y drysau cefn yn ddrysau hunanladdiad heb unrhyw ddyrnau’r tu allan.
+1045	Roedd ei gerddoriaeth yr un mor addas i wrando arni’n weithredol neu’n oddefol.
+1046	Mae'r ddau yn parhau yn ffrindiau agos.
+1047	Ac mae’r delwyr yn ei ganlyn.
+1048	Mae'r gwddf yn hir, bwaog, gyda'r pen wedi'i osod arno'n gadarn.
+1049	Yn ddiweddarach, mae hi’n datblygu personoliaeth fwy ymosodol a gwarchodol.
+1050	Dyma ran drefol fwyaf dwys ei phoblogaeth o unrhyw “gmina” trefol-gwledig Pwylaidd.
+1051	Yn anad dim, iddo ef roedd rhyfel yn hollol ddibwynt.
+1052	Serch hynny, mae gweddillion Neolithig wedi cyrraedd hyd at heddiw.
+1053	Mae golygfeydd wedi’u torri wedi’u gwasgaru i mewn i’r digwyddiadau.
+1054	Dechreuais deimlo fel rhyw greadur gwyllt wedi ei ddal mewn magl.
+1055	Mae gennym ni sefyllfa o’r math “chwyddwasgiad”.
+1056	Mae graean a tywodfaen math-A yn cael eu rhoi ar yr ysgwyddau.
+1057	Yn y ffurf hon maent i’w canfod ar y strydoedd yn bennaf.
+1058	Cynhelir teithiau’n ddyddiol yn ystod misoedd yr haf.
+1059	Bydden nhw’n cael eu hamddiffyn gan wyth o filwyr o Brest.
+1060	Mae sampl fechan o’r ysgarthion yn cael ei chasglu.
+1061	Roedd y ddau’n berffaith drwy dri batiad.
+1062	Yn brif ynadon yn wreiddiol, penodai’r “consyliaid” bob seneddwr newydd.
+1063	Person sy’n marchogaeth yn ceisio ffrwyno llo sy’n rhedeg oddi wrthyn nhw.
+1064	Gwahoddodd Cymdeithas Feddygol Tsieina ef i deithio drwy’r wlad fel eu gwestai.
+1065	Bydd cyfranogwyr sy'n twyllo yn cael eu dileu o'r her.
+1066	Mae'r dadleuon yn y Senedd yn arbennig o berthnasol o ran yn eu gosodiad.
+1067	Un ystafell oedd yr ysgol yn wreiddiol, ond cafodd ei hehangu’n ddiweddarach.
+1068	Cyflogwyd ei dad yn swyddog tollau gan adran Cyllid y Wlad.
+1069	Trafnidiaeth gyhoeddus yn unig.
+1070	Fe wnaethant stopio yn y salŵn yng Ngwesty'r Grand ar Stryd Allen.
+1071	Digwyddodd chwe marwolaeth arall yn anuniongyrchol.
+1072	Nid oedd gan y ddeiseb ddigon o lofnodion i gynnal etholiad.
+1073	Os caiff ei brofi, bydd y Siryf angen blaendal gan Bob.
+1074	Ar ôl i'r pleidleisio gael ei gwblhau, mae'r rhifwyr yn cyfrif y pleidleisiau.
+1075	Caiff ei ddefnyddio mewn twyll cardiau ac fel dull o dwyllo mewn cardiau.
+1076	Mae band tri dyn yn perfformio.
+1077	Yn y marchnadoedd ariannol, mae’r term yn gysylltiedig â’r swigen Dot-com.
+1078	Cafodd cyfrolau unigol yr ail argraffiad eu hailargraffu lawer o weithiau.
+1079	Llawer o ddynion yn siarad o gwmpas camel.
+1080	Prif bryder ei bersona llenyddol yw dianc rhag tlodi.
+1081	Roedd hi’n gyffredin gyda phaent.
+1082	Mae siâp yr het braidd yn debyg i law, fel arwydd o letygarwch.
+1083	Mae'n debyg y bydd y lloeren hon yn cael ei lansio ar roced frodorol.
+1084	Mae'n nodi'r rheolau hyn ar gyfer unigolion neu grwpiau o unigolion trwy'r cwmni.
+1085	Defnyddir rwbwyr silicon yn helaeth mewn diwydiant, ac mae sawl fformwleiddiad.
+1086	Lleolwyd ei bencadlys ym Moscow.
+1087	Mae amrywioldeb isel yn gysylltiedig â gweithredu mwy arferol.
+1088	Ci yn rhedeg ar y borfa
+1089	Mae wedi'i leoli ar Linell Calon Cymru.
+1090	Mae rhan o’r grwpiau sylffonyl wedi’i datprotoneiddio ac mae ganddi wefr negatif.
+1091	Mae gwneud record yn cynnwys sawl cam.
+1092	Yn y gorffennol, bu aflonyddwch yn ystod gorymdeithiau’r Urdd Oren yn y dref.
+1093	Bydd y prawf mathemategol yn cael ei grynhoi'n gryno rŵan.
+1094	Ci du o flaen ci gwyn yn cerdded ar lwybr mewn coedwig.
+1095	Weithiau mae amrywiaeth o arlleg clof sengl i'w gael mewn marchnadoedd yng nghanol Periw.
+1096	"Gall y dadiol yn ""-o "" fod naill ai'n Galaidd neu'n Lladin."
+1097	Dau ddyn yn paffio.
+1098	Cafodd llys y dalaith yn eu herbyn ar yr honiadau statudol a chyfansoddiadol.
+1099	Mae cerddoriaeth Orllewinol yn fwy poblogaidd yn y brifddinas, fel mewn unrhyw ddinas fyd-eang.
+1100	Gostyngwyd y rhif hwn yn ddiweddarach i un taflegryn i bob awyren.
+1101	Defnyddir y platfform i ddelweddu a dadansoddi data o’r Gronfa Wybodaeth Dwyll Genedlaethol.
+1102	Roedd yn fagwrfa boblogaidd ym mudiad Anghydffurfwyr gogledd-ddwyrain Swydd Gaer.
+1103	Pwy oedd ein gwestai?
+1104	I leihau tarfu ar signal, mae’n ddymunol fod y bonyn yn cadw rhwystriant uchel.
+1105	Nid yw pob dot hanner tôn yn dangos yr un faint o gynnydd.
+1106	Rhoddwyd enwau'r bobl ddilynol ymlaen ar gyfer enwebiad.
+1107	Bachgen yn rhedeg o amgylch y sylfeini mewn gêm bêl fas.
+1108	Ac fe drois tuag adref gyda heddwch Duw yn llenwi fy nghalon.
+1109	Doedd dim gwasanaeth ar y Sul.
+1110	Hen bentref glofaol yw Law, sydd bellach yn ardal breswyl dwysedd isel yn bennaf.
+1111	Mae menyw yn eistedd ar fainc wrth wynebu tân disglair.
+1112	Erys awdur neu awduron go iawn y testun yn anhysbys.
+1113	Mae'n wrthfiotig bacteriostatig.
+1114	Lonciwr troednoeth mewn parc.
+1115	Economegydd wrth ei alwedigaeth.
+1116	Mae dyn yn gwneud ystumiau â’i freichiau mewn ardal goediog.
+1117	Gydag atgenhedlu rhywiol, mae’r genoteipiau’n cael eu cymysgu bob cenhedlaeth.
+1118	O’i flaen, gwelodd wastadedd hardd yn llawn blodau.
+1119	Mae bellach dan reolaeth Adran y Gwasanaeth Hamdden a Diwylliannol.
+1120	Os ni caiff y rhagofal hwn ei weithredu, bydd anlwc yn siŵr o ddilyn.
+1121	Mae ar agor i’r cyhoedd gydol y flwyddyn drwy drefniant ymlaen llaw.
+1122	Mae rhaglen Sgowtiaid Awyr weithredol hefyd yn boblogaidd.
+1123	Peidiwch â meddwl na allwch gael eich dal.
+1124	Mae chwaraewyr hefyd yn gallu gwneud symudiadau ochr-gamu.
+1125	Roedd hyn yn ffurfio llwybr newydd rhwng y ddau lyn, a dyna enw'r ffordd.
+1126	Mae'n cynnwys gwarchodfa gwlypdir bron yn gyfan gwbl wedi'i hamgylchynu gan lwyni brodorol diraddiadwy.
+1127	Mae'n ffurfio crisialau isfetelaidd prismatig monoclinig brown cochlyd i ddu.
+1128	Mae concrid gwyn a gwydr wedi cael eu defnyddio.
+1129	Fel rheol, mae'n digwydd mewn creigau metamorffaidd.
+1130	Gyda seilwaith cymharol annatblygedig, mae economi'r dalaith yn dibynnu'n fawr ar yr afonydd.
+1131	Roedd yn feic modur capasiti mawr cyntaf i ddefnyddio swingar unochrog.
+1132	Wedi hynny, dilynodd ei yrfa pêl-fasged cyn gwasanaethu am ddwy flynedd yn y Fyddin.
+1133	Protestiodd y cwch a gollodd iddo gael ei dorri i ffwrdd wrth orffen.
+1134	Roedd ei gyfnod gyda West Ham yn un llawn anafiadau, yn benodol i'w belfis.
+1135	Bydd wyth tîm ym mhob adran.
+1136	Plannwyd nifer o gynulleidfaoedd yn Ynys y Gogledd dros yr un cyfnod.
+1137	Mae dyn yn llifio trwy ddarn o bren i drwsio ffens.
+1138	Chwaraeodd am dri thymor, ac ennill tri teitl cynghrair arall.
+1139	Dychwelodd ei deulu i Loegr pan oedd yn ddeuddeg oed.
+1140	Addolwr eglwysig mewn gwisg las yn paratoi i fynd i’w addolfan.
+1141	dyn yn breg-ddawnsio.
+1142	Ymladdodd yn ddewr ond fe’i cipiwyd gan rai saethwyr Saesnig.
+1143	Bu bron i Cook â cholli ambell i ddiweddglo yn y prif dwrnameintiau.
+1144	Mae’r feddyginiaeth deuffenocsylad yn gweithio drwy arafu symudiadau’r coluddion.
+1145	Yr oedd ei ymlyniad gwleidyddol gyda Phlaid y Gyngres.
+1146	Pan gaiff ei hailgychwyn, bydd y ffeil yn ailgychwyn o’r cadw diwethaf.
+1147	Mae rhai enghreifftiau cain yn yr Oriel Bortreadau Genedlaethol.
+1148	Mae'r ci brown yn neidio i mewn i'r pwll clir fel grisial.
+1149	Yn sgil-gynnyrch o'r aeddfediad hyn sydd heb swyddogaeth, byddant yn diraddio'n gyflym.
+1150	Mae merch yn dringo wal pwmpiadwy dros ddŵr.
+1151	Mae’r bom piben yn ddyfais debyg, sydd hefyd yn gyffredin yng ngogledd Iwerddon.
+1152	Roedd cost cadw cymaint o gynhyrchion terfynol bron a lladd y busnes.
+1153	Mae gweddillion yr adeiladau eraill i’w gweld hefyd.
+1154	O ganlyniad aeth y torfeydd i lawr yn gyflym yn eu niferoedd.
+1155	Ni chafodd neb ei frifo yn y ffrwydrad.
+1156	Pan ddisgrifiwyd ef, bernid mai ef oedd y fertebrat dŵr croyw lleiaf.
+1157	Yn y pen draw, fe gynyddodd trethi a gwariant.
+1158	Roedd y fargen i bara pum ras.
+1159	Mae'n ardal lle bydd gwaedu’n gyffredin mewn pobl ifanc.
+1160	Y flwyddyn honno daeth yn Swyddog Cyffredinol Byddin Bengal.
+1161	Oherwydd y perfformiadau hyn cafodd ei ddewis ar deithiau i Seland Newydd ac India.
+1162	Mae'r ddau drac yr un hyd.
+1163	Wedi hynny sefydlwyd anheddiad Rhufeinig a dyfodd drwy fasnach a chynhyrchu nwyddau lleol.
+1164	Fe’i dywedodd am ei fod ofn ein harfau.
+1165	Mae gweithiau celf eraill yn addurno’r ardal.
+1166	Mae'r ynys hefyd yn gartref i oleudy.
+1167	Rhyddhaodd y cwmni recordiau yr albwm er gwaethaf eu hamheuon am glawr yr albwm.
+1168	Mae ci brown a gwyn yn neidio’n uchel ac yn dal pêl las.
+1169	Agorodd i ddechrau gyda dau genau llew, rhywfaint o antelop, ac eliffant.
+1170	Menyw yn cerdded adref gyda’i siopa.
+1171	Mae’n fater sifil, nid mater troseddol.
+1172	Addaswyd a chopïwyd hwn yn eang ar gyfer lluoedd awyr eraill.
+1173	Maent yn hwylio yn ôl i Bortiwgal wedi hynny.
+1174	A’r gaeaf yn dynesu, aethant am y gogledd cyn gynted ag y gallent.
+1175	Gadawodd hyn oll fawr o amser i’r bechgyn ymarfer eu gêm eu hunain.
+1176	Mae gan y ganolfan siopa fwytai, campfa, salon ewinedd a golchdy.
+1177	Dim ond dau neu dri Ewropead a oroesodd.
+1178	Fodd bynnag, cafodd y tîm ei ganslo gan y ffederasiwn oherwydd trafferthion ariannol.
+1179	Gall aelodau ddechrau digwyddiadau neu ymuno â nhw.
+1180	Mae llawer o iselder ysbryd yn bodoli yn y teulu o ganlyniad.
+1181	Mae llaw rhywun yn cracio wy ac mae'r melynwy yn disgyn allan
+1182	Mab i weithiwr oeddwn i.
+1183	Aeth yn ei flaen ei ennill y bencampwriaeth rasio yno y ddwy flynedd ganlynol.
+1184	Mae e wedyn yn meddwl am y rhan o’r cynllun sy’n creu Ynys Cobra.
+1185	Mae rhannau sy’n aros o’r tiwb yn dod yn fadruddyn y cefn.
+1186	Mae priodoli priodoleddau geiriol i aroglau’n cael effeithiau tebyg.
+1187	Arwyddlun yr ysgol yw’r ci tarw.
+1188	Awdurdodwyd y bataliwn gwirfoddol hwn o'r Gwarchodlu Ymerodrol gan yr Ymerawdwr.
+1189	Dyn mewn côt wen a sbectol yn gweithio yn y labordy gan wisgo menig.
+1190	Dwi’n sicr, byddwn yn betio fy mywyd arno.
+1191	Mae'r ail rownd am ddawns gyfoes.
+1192	Ali oedd y ffefryn i ennill o ychydig, ac fe wnaeth drwy benderfyniad unfryd.
+1193	Nid yw hyn yn golygu nad yw cronfeydd llai poblogaidd yn fuddsoddiad o safon.
+1194	Pan adawodd i ymuno â Thŷ Gwyn Bush, caewyd y cylchgrawn.
+1195	Y mae’n sylwebydd mynych ar bolisi tramor ehangach, diogelwch gwladol, a thueddiadau economaidd.
+1196	Cadw purdeb yr hiraeth hwnnw oedd gwaith ei fywyd.
+1197	Mae merch fach yn chwerthin ac yn gwenu tra ar reid yn y parc.
+1198	Mae hynny’n anodd i hyfforddwr ei dderbyn.
+1199	Y prif ddiwydiant oedd bridio stoc.
+1200	Ar draws o’r farchnad mae carchar.
+1201	Dynion yn cerdded i lawr stryd mewn iwnifform werdd.
+1202	Oherwydd adolygiadau gwael a gwerthiant araf caeodd y sioe’n gynnar.
+1203	Gallant wneud hyn heb ddefnyddio bwyd.
+1204	Mae set debyg o enynnau i'w chael mewn ewcaryotau eraill fel burum.
+1205	Mae e’n gweithio fel ysgrifennwr ar ei liwt ei hun ar hyn o bryd.
+1206	Mae'n feddyg sy'n arbenigo mewn otolaryngoleg.
+1207	Bryd hynny, roedd y sioe bron â cael ei chanslo.
+1208	Mân ddifrod oedd y difrod i’r cyfleuster.
+1209	Fel rheol bydd yr ŵyl yn gorffen gyda gorymdaith, lle defnyddir tân yn aml.
+1210	Adroddwyd bod deuclorin monocsid hylifol yn sensitif i sioc.
+1211	"Yn yr achos hwn, gelwir cysylltiadau yn ""gyd-ddisgyblion""."
+1212	O’r eiliad honno ymlaen, roeddwn yn berson peryglus iawn i wyddonwyr ei adnabod.
+1213	Mae'n cael ei ystyried i fod yn un o'r damcaniaethwyr mwyaf blaenllaw ar genedlaetholdeb.
+1214	Cafodd ei enwi ar ôl Cadfridog yr Undeb John A. Logan.
+1215	Y gallu i gyflawni symudiadau medrus gwirfoddol yw arfer.
+1216	Menyw yn dringo craig ar ddiwrnod heulog.
+1217	Roedd yn rhaid addasu'r llongau siartredig ar gyfer eu rôl newydd.
+1218	Mae'n ddolen ryfedd neu wedi'i roi fel pos.
+1219	Mae'r llyfr hefyd yn cynnwys ugain gwaith arall o'r cylch hwn.
+1220	Yn eu plith, roedd planhigyn.
+1221	Mae'r dringwr yn hongian oddi ar glogwyn fertigol gyda gêr ond dim crys.
+1222	Cafodd y llygaid eu troi arno fel chwilolau.
+1223	Mae'r ymchwil yn tueddu i arwain naill ai at dystiolaeth theoretig neu gymhwysiad realistig.
+1224	Derbyniodd yr urdd farchog arferol ar adeg ei ddyrchafiad.
+1225	Mae incwm awdur geiriau caneuon yn deillio o freindaliadau a dderbynnir o ganeuon gwreiddiol.
+1226	Mewn cyfnodau o gynnwrf yn Tsieina roedd hi’n cymryd rhan mewn diogelu buddiannau Americanaidd.
+1227	Fodd bynnag, maent yn sylweddol wahanol o ran techneg, safleoedd, a ffigyrau.
+1228	Cerdda cwpwl i fyny ffordd wag, o flaen hen westy.
+1229	Gweler y Pab dethol Stephen am esboniad manwl.
+1230	Bwriedir gosod lifftiau yn y fynedfa olaf fel ei bod yn hygyrch.
+1231	Oherwydd ei bris gweddol uchel, mae eog wedi’i fygu’n cael ei ystyried yn ddanteithfwyd.
+1232	Fe fu yna sawl digwyddiad nodedig o dan ei arweiniad ef.
+1233	Dim newidiadau cosmetig na mecanyddol o bwys.
+1234	Dioddefodd yr adeilad fân ddifrod, yn enwedig i ffenestri’r pwll nofio.
+1235	Cychwynnodd y myfyrwyr gyda hyfforddiant ystafell ddosbarth ac efelychydd.
+1236	Mae mwyafrif llethol myfyrwyr coleg yn mynychu rhaglenni dydd llawn amser.
+1237	"Daw egni daearwresol mewn ffurfiau ""anwedd yn bennaf"" neu ""hylif yn bennaf""."
+1238	Mae’n wahanol i’w osgordd o warchodwyr oherwydd ei ffigur annormal o dal.
+1239	Materion gwleidyddiaeth?
+1240	Roedd yn perthyn i Urdd Perfformio Catholig Prydain.
+1241	Cloddiwyd am lo mewn llawer o’r cymdogaethau ar un adeg neu’i gilydd.
+1242	Yn y de a’r gorllewin, nid yw’r arwyneb mor uchel.
+1243	Nid yw dosbarthiad teg yr un peth â dosbarthiad cyfartal.
+1244	Mae Angel a’r tîm yn ymaflyd â’r cythraul ond cânt eu trechu.
+1245	"Mae'n rhan o ""Gymoedd Afan Uchaf""."
+1246	Ei dad a’i dysgodd ef i ganu’r ffidl.
+1247	Enillwyd rhai safleoedd, ond gyda cholledion yn cael eu hachosi gan dân magnelau Almaenaidd.
+1248	Mae gan y cyntedd canolog grymdo gwydr gyda phlwm sy’n darlunio sêl Hawaii.
+1249	Mae'r ffigwr hwn yn cynnwys buddsoddiad tramor a chyfanswm refeniw domestig o'r sector.
+1250	Fodd bynnag, ni ystyriwyd y sŵn yn broblem anorchfygol.
+1251	"Galwodd hefyd y golygfeydd cyflym yn ""realistig"" gyda therminoleg focsio gywir."
+1252	Mae'r gymuned yn cynnwys pentref Dwyran.
+1253	I’r diben hwn, mae hi hefyd yn ymchwilio sut i fodelu protocolau.
+1254	Derbyniodd Parry radd anrhydeddus gan Brifysgol Caergrawnt yn yr un flwyddyn.
+1255	Gellir codi'r fraich hefyd i godi traw'r llinynnau.
+1256	Cymharwch â'r term mwy gwefredig gwleidyddol, gwrth-ddiwylliant.
+1257	Dechreuodd meiri ganolbwyntio ar berthnasoedd oedd yn cynnig cymorth technegol mewn datblygu bwrdeistrefol.
+1258	Mae pobl yn cwrdd i yfed gwin brwd.
+1259	Roedd gofyniad mwyfwy ar werinwyr i dalu treth am eu tiroedd.
+1260	Unwaith eto achubodd ei chriw eu llong, gan reoli llifogydd gyda sgil a phenderfyniad.
+1261	Mae ci du a gwyn yn rhedeg mewn glaswellt gan gario ffon fawr.
+1262	"Mae'r llyfrau wedi dechrau cael eu galw yn ""y Beibl gwneud telesgop""."
+1263	Mae’r ffaith fod sawl llawysgrifen ar y sgôr lawn yn dangos hyn yn eglur.
+1264	Mae menyw yn eistedd o flaen peiriant.
+1265	Daeth yr enw o'r cynllun busnes ychwanegyn cyfrifiadurol hwn.
+1266	Mae'r gweithredwr maes yn gweithredu ar gyflyrau cwantwm y theori.
+1267	Cafodd ei saethu deirgwaith o agos.
+1268	Mae crwbanod môr cefn gwastad a gwyrdd yn nythu ar draethau’r parc hefyd.
+1269	Os ydych chi'n gofyn sut mae'n gwneud i ni deimlo?
+1270	Mae mandalâu i fod i gynorthwyo unigolyn ar y llwybr i oleuedigaeth.
+1271	Dychwelodd hi i'r garfan Chwith Sosialaidd yn fuan wedyn.
+1272	Ehediad oedd yn lansio ac yn glanio yn y nos oedd hwn.
+1273	Gall baneri pibau gael eu cyflwyno i fand pibau mewn achlysur arbennig hefyd.
+1274	Mae'n un o'r tirweddau mwyaf gwyllt ac anghysbell yng Nghanada.
+1275	Drwy ddadlwytho tasgau prosesydd-ddwys o'r prif brosesydd, gall cyd-brosesyddion gyflymu perfformiad system.
+1276	Mae’r gofynion hyn yr un peth heddiw.
+1277	Nid yw fy achau yn hysbys.
+1278	Yn y pen draw, ehangodd hyn i elusennau eraill.
+1279	Mae'r ddau yn helpu myfyrwyr nad oeddent yn llwyddiannus yn y system ysgolion reolaidd.
+1280	Wrth i'r lafa oeri, cafwyd crebachu.
+1281	Yn fab i'r Cyngreswr Compton I.
+1282	Llosgodd y tân yn ddi-oed am dros bymtheg awr.
+1283	Ni wnaethon nhw ennill unrhyw seddi ac fe wnaethant ymladd etholiadau dilynol ar wahân.
+1284	Cafodd llawer o borfeydd gwastad eu haddasu i greu leiniau glanio.
+1285	Cymdeithaseg yw'r astudiaeth systematig o gymdeithas a gweithredu cymdeithasol dynolryw.
+1286	Mae “E. hywmalis” wedi’i gynefino’n eang yng ngogledd Ewrop a Gogledd America.
+1287	Ymddangosodd angel gan orchymyn iddynt roi’r gorau iddi.
+1288	Mae'r band yn perfformio yn y sgwâr tra bod llawer o bobl yn gwylio.
+1289	Efallai fod Richard yn mynd i fod yn forwr.
+1290	Mae poblogaeth sylweddol o ganeris llygaid gwyn yn bresennol.
+1291	Daw fel arfer fel halen sodiwm.
+1292	Mae'r Ymddiriedolaeth yn darparu gweithdai addysgol a chyflogadwyedd, yn ogystal â chynlluniau mentora.
+1293	Mae caffaelgarwch yn disgrifio'r chwant i gynyddu eiddo personol, i gaffael, casglu a chadw.
+1294	Mae'n beth eithaf brawychus.
+1295	Caiff delwedd ei chreu trwy symud y rhan hon ar draws sampl.
+1296	Mae’r dyfarnwr yn gwneud arwyddion at y chwaraewr pêl-droed.
+1297	Cefnogir y lloriau gan y colofnau craidd a pherimedr.
+1298	Ar y dde, dangosir y lliw rhewlas.
+1299	Roedd hawliau menywod yn fater arall a ystyriwyd gan y cynadleddwyr.
+1300	Roedd pob peiriant mewn rhwydwaith yn rhannu’r cyfeiriadur gwraidd hefyd.
+1301	Lle mae dolffiniaid yn nofio ac yn neidio trwy gylch a chanu cloch.
+1302	Mae merch yn paentio ei hewinedd yn goch wrth eistedd mewn car.
+1303	Cafodd ei nodi am ei hymchwil i baralacs trigonometrig y sêr cyfagos.
+1304	Nythais yn erbyn y clustogau, y talcen yn crychu rhywfaint.
