@@ -1,0 +1,22 @@
+br-hiljade-osnovni-001	Хиљаду.
+br-hiljade-osnovni-002	Хиљада.
+br-hiljade-osnovni-003	Једна хиљада.
+br-hiljade-osnovni-004	Две хиљаде.
+br-hiljade-osnovni-005	Три хиљаде.
+br-hiljade-osnovni-006	Четири хиљаде.
+br-hiljade-osnovni-007	Пет хиљада.
+br-hiljade-osnovni-008	Шест хиљада.
+br-hiljade-osnovni-009	Седам хиљада.
+br-hiljade-osnovni-010	Осам хиљада.
+br-hiljade-osnovni-011	Девет хиљада.
+br-hiljade-osnovni-012	Десет хиљада.
+br-hiljade-osnovni-013	Сто хиљада.
+br-hiljade-osnovni-014	Двеста хиљада.
+br-hiljade-osnovni-015	Триста хиљада.
+br-hiljade-osnovni-016	Четиристо хиљада.
+br-hiljade-osnovni-017	Петсто хиљада
+br-hiljade-osnovni-018	Шесто хиљада.
+br-hiljade-osnovni-019	Седамсто хиљада.
+br-hiljade-osnovni-020	Осамсто хиљада.
+br-hiljade-osnovni-021	Деветсто хиљада.
+br-hiljade-osnovni-022	Девет стотина деведесет девет хиљада.

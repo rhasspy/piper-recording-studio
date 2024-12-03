@@ -1,0 +1,20 @@
+br-stotine-osnovni-001	Сто.
+br-stotine-osnovni-002	Стотина.
+br-stotine-osnovni-003	Стотину.
+br-stotine-osnovni-004	Стотине.
+br-stotine-osnovni-005	Двеста.
+br-stotine-osnovni-006	Две стотине.
+br-stotine-osnovni-007	Триста.
+br-stotine-osnovni-008	Три стотине.
+br-stotine-osnovni-009	Четиристо.
+br-stotine-osnovni-010	Четири стотине.
+br-stotine-osnovni-011	Петсто.
+br-stotine-osnovni-012	Пет стотина.
+br-stotine-osnovni-013	Шесто.
+br-stotine-osnovni-014	Шест стотина.
+br-stotine-osnovni-015	Седамсто.
+br-stotine-osnovni-016	Седам стотина.
+br-stotine-osnovni-017	Осамсто.
+br-stotine-osnovni-018	Осам стотина.
+br-stotine-osnovni-019	Деветсто.
+br-stotine-osnovni-020	Девет стотина.

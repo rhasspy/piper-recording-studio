@@ -1,0 +1,172 @@
+br-osn-redni-srednji-00-99-001	Нулто.
+br-osn-redni-srednji-00-99-002	Прво.
+br-osn-redni-srednji-00-99-003	Друго.
+br-osn-redni-srednji-00-99-004	Треће.
+br-osn-redni-srednji-00-99-005	Четврто.
+br-osn-redni-srednji-00-99-006	Пето.
+br-osn-redni-srednji-00-99-007	Шесто.
+br-osn-redni-srednji-00-99-008	Седмо.
+br-osn-redni-srednji-00-99-009	Осмо.
+br-osn-redni-srednji-00-99-010	Девето.
+br-osn-redni-srednji-00-99-011	Десето.
+br-osn-redni-srednji-00-99-012	Једанаесто.
+br-osn-redni-srednji-00-99-013	Дванаесто.
+br-osn-redni-srednji-00-99-014	Тринаесто.
+br-osn-redni-srednji-00-99-015	Четрнаесто.
+br-osn-redni-srednji-00-99-016	Петнаесто.
+br-osn-redni-srednji-00-99-017	Шеснаесто.
+br-osn-redni-srednji-00-99-018	Седамнаесто.
+br-osn-redni-srednji-00-99-019	Осамнаесто.
+br-osn-redni-srednji-00-99-020	Деветнаесто.
+br-osn-redni-srednji-00-99-021	Двадесето.
+br-osn-redni-srednji-00-99-022	Двадесет прво.
+br-osn-redni-srednji-00-99-023	Двадесет друго.
+br-osn-redni-srednji-00-99-024	Двадесет треће.
+br-osn-redni-srednji-00-99-025	Двадесет четврто.
+br-osn-redni-srednji-00-99-026	Двадесет пето.
+br-osn-redni-srednji-00-99-027	Двадесет шесто.
+br-osn-redni-srednji-00-99-028	Двадесет седмо.
+br-osn-redni-srednji-00-99-029	Двадесет осмо.
+br-osn-redni-srednji-00-99-030	Двадесет девето.
+br-osn-redni-srednji-00-99-031	Двадесет и прво.
+br-osn-redni-srednji-00-99-032	Двадесет и друго.
+br-osn-redni-srednji-00-99-033	Двадесет и треће.
+br-osn-redni-srednji-00-99-034	Двадесет и четврто.
+br-osn-redni-srednji-00-99-035	Двадесет и пето.
+br-osn-redni-srednji-00-99-036	Двадесет и шесто.
+br-osn-redni-srednji-00-99-037	Двадесет и седмо.
+br-osn-redni-srednji-00-99-038	Двадесет и осмо.
+br-osn-redni-srednji-00-99-039	Двадесет и девето.
+br-osn-redni-srednji-00-99-040	Тридесето.
+br-osn-redni-srednji-00-99-041	Тридесет прво.
+br-osn-redni-srednji-00-99-042	Тридесет друго.
+br-osn-redni-srednji-00-99-043	Тридесет треће.
+br-osn-redni-srednji-00-99-044	Тридесет четврто.
+br-osn-redni-srednji-00-99-045	Тридесет пето.
+br-osn-redni-srednji-00-99-046	Тридесет шесто.
+br-osn-redni-srednji-00-99-047	Тридесет седмо.
+br-osn-redni-srednji-00-99-048	Тридесет осмо.
+br-osn-redni-srednji-00-99-049	Тридесет девето.
+br-osn-redni-srednji-00-99-050	Тридесет и прво.
+br-osn-redni-srednji-00-99-051	Тридесет и друго.
+br-osn-redni-srednji-00-99-052	Тридесет и треће.
+br-osn-redni-srednji-00-99-053	Тридесет и четврто.
+br-osn-redni-srednji-00-99-054	Тридесет и пето.
+br-osn-redni-srednji-00-99-055	Тридесет и шесто.
+br-osn-redni-srednji-00-99-056	Тридесет и седмо.
+br-osn-redni-srednji-00-99-057	Тридесет и осмо.
+br-osn-redni-srednji-00-99-058	Тридесет и девето.
+br-osn-redni-srednji-00-99-059	Четрдесето.
+br-osn-redni-srednji-00-99-060	Четрдесет прво.
+br-osn-redni-srednji-00-99-061	Четрдесет друго.
+br-osn-redni-srednji-00-99-062	Четрдесет треће.
+br-osn-redni-srednji-00-99-063	Четрдесет четврто.
+br-osn-redni-srednji-00-99-064	Четрдесет пето.
+br-osn-redni-srednji-00-99-065	Четрдесет шесто.
+br-osn-redni-srednji-00-99-066	Четрдесет седмо.
+br-osn-redni-srednji-00-99-067	Четрдесет осмо.
+br-osn-redni-srednji-00-99-068	Четрдесет девето.
+br-osn-redni-srednji-00-99-069	Четрдесет и прво.
+br-osn-redni-srednji-00-99-070	Четрдесет и друго.
+br-osn-redni-srednji-00-99-071	Четрдесет и треће.
+br-osn-redni-srednji-00-99-072	Четрдесет и четврто.
+br-osn-redni-srednji-00-99-073	Четрдесет и пето.
+br-osn-redni-srednji-00-99-074	Четрдесет и шесто.
+br-osn-redni-srednji-00-99-075	Четрдесет и седмо.
+br-osn-redni-srednji-00-99-076	Четрдесет и осмо.
+br-osn-redni-srednji-00-99-077	Четрдесет и девето.
+br-osn-redni-srednji-00-99-078	Педесето.
+br-osn-redni-srednji-00-99-079	Педесет прво.
+br-osn-redni-srednji-00-99-080	Педесет друго.
+br-osn-redni-srednji-00-99-081	Педесет треће.
+br-osn-redni-srednji-00-99-082	Педесет четврто.
+br-osn-redni-srednji-00-99-083	Педесет пето.
+br-osn-redni-srednji-00-99-084	Педесет шесто.
+br-osn-redni-srednji-00-99-085	Педесет седмо.
+br-osn-redni-srednji-00-99-086	Педесет осмо.
+br-osn-redni-srednji-00-99-087	Педесет девето.
+br-osn-redni-srednji-00-99-088	Педесет и прво.
+br-osn-redni-srednji-00-99-089	Педесет и друго.
+br-osn-redni-srednji-00-99-090	Педесет и треће.
+br-osn-redni-srednji-00-99-091	Педесет и четврто.
+br-osn-redni-srednji-00-99-092	Педесет и пето.
+br-osn-redni-srednji-00-99-093	Педесет и шесто.
+br-osn-redni-srednji-00-99-094	Педесет и седмо.
+br-osn-redni-srednji-00-99-095	Педесет и осмо.
+br-osn-redni-srednji-00-99-096	Педесет и девето.
+br-osn-redni-srednji-00-99-097	Шездесето.
+br-osn-redni-srednji-00-99-098	Шездесет прво.
+br-osn-redni-srednji-00-99-099	Шездесет друго.
+br-osn-redni-srednji-00-99-100	Шездесет треће.
+br-osn-redni-srednji-00-99-101	Шездесет четврто.
+br-osn-redni-srednji-00-99-102	Шездесет пето.
+br-osn-redni-srednji-00-99-103	Шездесет шесто.
+br-osn-redni-srednji-00-99-104	Шездесет седмо.
+br-osn-redni-srednji-00-99-105	Шездесет осмо.
+br-osn-redni-srednji-00-99-106	Шездесет девето.
+br-osn-redni-srednji-00-99-107	Шездесет и прво.
+br-osn-redni-srednji-00-99-108	Шездесет и друго.
+br-osn-redni-srednji-00-99-109	Шездесет и треће.
+br-osn-redni-srednji-00-99-110	Шездесет и четврто.
+br-osn-redni-srednji-00-99-111	Шездесет и пето.
+br-osn-redni-srednji-00-99-112	Шездесет и шесто.
+br-osn-redni-srednji-00-99-113	Шездесет и седмо.
+br-osn-redni-srednji-00-99-114	Шездесет и осмо.
+br-osn-redni-srednji-00-99-115	Шездесет и девето.
+br-osn-redni-srednji-00-99-116	Седамдесето.
+br-osn-redni-srednji-00-99-117	Седамдесет прво.
+br-osn-redni-srednji-00-99-118	Седамдесет друго.
+br-osn-redni-srednji-00-99-119	Седамдесет треће.
+br-osn-redni-srednji-00-99-120	Седамдесет четврто.
+br-osn-redni-srednji-00-99-121	Седамдесет пето.
+br-osn-redni-srednji-00-99-122	Седамдесет шесто.
+br-osn-redni-srednji-00-99-123	Седамдесет седмо.
+br-osn-redni-srednji-00-99-124	Седамдесет осмо.
+br-osn-redni-srednji-00-99-125	Седамдесет девето.
+br-osn-redni-srednji-00-99-126	Седамдесет и прво.
+br-osn-redni-srednji-00-99-127	Седамдесет и друго.
+br-osn-redni-srednji-00-99-128	Седамдесет и треће.
+br-osn-redni-srednji-00-99-129	Седамдесет и четврто.
+br-osn-redni-srednji-00-99-130	Седамдесет и пето.
+br-osn-redni-srednji-00-99-131	Седамдесет и шесто.
+br-osn-redni-srednji-00-99-132	Седамдесет и седмо.
+br-osn-redni-srednji-00-99-133	Седамдесет и осмо.
+br-osn-redni-srednji-00-99-134	Седамдесет и девето.
+br-osn-redni-srednji-00-99-135	Осамдесето.
+br-osn-redni-srednji-00-99-136	Осамдесет прво.
+br-osn-redni-srednji-00-99-137	Осамдесет друго.
+br-osn-redni-srednji-00-99-138	Осамдесет треће.
+br-osn-redni-srednji-00-99-139	Осамдесет четврто.
+br-osn-redni-srednji-00-99-140	Осамдесет пето.
+br-osn-redni-srednji-00-99-141	Осамдесет шесто.
+br-osn-redni-srednji-00-99-142	Осамдесет седмо.
+br-osn-redni-srednji-00-99-143	Осамдесет осмо.
+br-osn-redni-srednji-00-99-144	Осамдесет девето.
+br-osn-redni-srednji-00-99-145	Осамдесет и прво.
+br-osn-redni-srednji-00-99-146	Осамдесет и друго.
+br-osn-redni-srednji-00-99-147	Осамдесет и треће.
+br-osn-redni-srednji-00-99-148	Осамдесет и четврто.
+br-osn-redni-srednji-00-99-149	Осамдесет и пето.
+br-osn-redni-srednji-00-99-150	Осамдесет и шесто.
+br-osn-redni-srednji-00-99-151	Осамдесет и седмо.
+br-osn-redni-srednji-00-99-152	Осамдесет и осмо.
+br-osn-redni-srednji-00-99-153	Осамдесет и девето.
+br-osn-redni-srednji-00-99-154	Деведесето.
+br-osn-redni-srednji-00-99-155	Деведесет прво.
+br-osn-redni-srednji-00-99-156	Деведесет друго.
+br-osn-redni-srednji-00-99-157	Деведесет треће.
+br-osn-redni-srednji-00-99-158	Деведесет четврто.
+br-osn-redni-srednji-00-99-159	Деведесет пето.
+br-osn-redni-srednji-00-99-160	Деведесет шесто.
+br-osn-redni-srednji-00-99-161	Деведесет седмо.
+br-osn-redni-srednji-00-99-162	Деведесет осмо.
+br-osn-redni-srednji-00-99-163	Деведесет девето.
+br-osn-redni-srednji-00-99-164	Деведесет и прво.
+br-osn-redni-srednji-00-99-165	Деведесет и друго.
+br-osn-redni-srednji-00-99-166	Деведесет и треће.
+br-osn-redni-srednji-00-99-167	Деведесет и четврто.
+br-osn-redni-srednji-00-99-168	Деведесет и пето.
+br-osn-redni-srednji-00-99-169	Деведесет и шесто.
+br-osn-redni-srednji-00-99-170	Деведесет и седмо.
+br-osn-redni-srednji-00-99-171	Деведесет и осмо.
+br-osn-redni-srednji-00-99-172	Деведесет и девето.

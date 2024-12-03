@@ -1,0 +1,156 @@
+br-00-99-brojne-imenice-001	Двојица.
+br-00-99-brojne-imenice-002	Тројица.
+br-00-99-brojne-imenice-003	Четворица.
+br-00-99-brojne-imenice-004	Петорица.
+br-00-99-brojne-imenice-005	Шесторица.
+br-00-99-brojne-imenice-006	Седморица.
+br-00-99-brojne-imenice-007	Осморица.
+br-00-99-brojne-imenice-008	Деветорица.
+br-00-99-brojne-imenice-009	Десеторица.
+br-00-99-brojne-imenice-010	Једанаесторица.
+br-00-99-brojne-imenice-011	Дванаесторица.
+br-00-99-brojne-imenice-012	Тринаесторица.
+br-00-99-brojne-imenice-013	Четрнаесторица.
+br-00-99-brojne-imenice-014	Петнаесторица.
+br-00-99-brojne-imenice-015	Шеснаесторица.
+br-00-99-brojne-imenice-016	Седамнаесторица.
+br-00-99-brojne-imenice-017	Осамнаесторица.
+br-00-99-brojne-imenice-018	Деветнаесторица.
+br-00-99-brojne-imenice-019	Двадесеторица.
+br-00-99-brojne-imenice-020	Двадесет двојица.
+br-00-99-brojne-imenice-021	Двадесет тројица.
+br-00-99-brojne-imenice-022	Двадесет четворица.
+br-00-99-brojne-imenice-023	Двадесет петорица.
+br-00-99-brojne-imenice-024	Двадесет шесторица.
+br-00-99-brojne-imenice-025	Двадесет седморица.
+br-00-99-brojne-imenice-026	Двадесет осморица.
+br-00-99-brojne-imenice-027	Двадесет деветорица.
+br-00-99-brojne-imenice-028	Двадесет и једно.
+br-00-99-brojne-imenice-029	Двадесет и двојица.
+br-00-99-brojne-imenice-030	Двадесет и тројица.
+br-00-99-brojne-imenice-031	Двадесет и четворица.
+br-00-99-brojne-imenice-032	Двадесет и петорица.
+br-00-99-brojne-imenice-033	Двадесет и шесторица.
+br-00-99-brojne-imenice-034	Двадесет и седморица.
+br-00-99-brojne-imenice-035	Двадесет и осморица.
+br-00-99-brojne-imenice-036	Двадесет и деветорица.
+br-00-99-brojne-imenice-037	Тридесеторица.
+br-00-99-brojne-imenice-038	Тридесет двојица.
+br-00-99-brojne-imenice-039	Тридесет тројица.
+br-00-99-brojne-imenice-040	Тридесет четворица.
+br-00-99-brojne-imenice-041	Тридесет петорица.
+br-00-99-brojne-imenice-042	Тридесет шесторица.
+br-00-99-brojne-imenice-043	Тридесет седморица.
+br-00-99-brojne-imenice-044	Тридесет осморица.
+br-00-99-brojne-imenice-045	Тридесет деветорица.
+br-00-99-brojne-imenice-046	Тридесет и двојица.
+br-00-99-brojne-imenice-047	Тридесет и тројица.
+br-00-99-brojne-imenice-048	Тридесет и четворица.
+br-00-99-brojne-imenice-049	Тридесет и петорица.
+br-00-99-brojne-imenice-050	Тридесет и шесторица.
+br-00-99-brojne-imenice-051	Тридесет и седморица.
+br-00-99-brojne-imenice-052	Тридесет и осморица.
+br-00-99-brojne-imenice-053	Тридесет и деветорица.
+br-00-99-brojne-imenice-054	Четрдесеторица.
+br-00-99-brojne-imenice-055	Четрдесет двојица.
+br-00-99-brojne-imenice-056	Четрдесет тројица.
+br-00-99-brojne-imenice-057	Четрдесет четворица.
+br-00-99-brojne-imenice-058	Четрдесет петорица.
+br-00-99-brojne-imenice-059	Четрдесет шесторица.
+br-00-99-brojne-imenice-060	Четрдесет седморица.
+br-00-99-brojne-imenice-061	Четрдесет осморица.
+br-00-99-brojne-imenice-062	Четрдесет деветорица.
+br-00-99-brojne-imenice-063	Четрдесет и двојица.
+br-00-99-brojne-imenice-064	Четрдесет и тројица.
+br-00-99-brojne-imenice-065	Четрдесет и четворица.
+br-00-99-brojne-imenice-066	Четрдесет и петорица.
+br-00-99-brojne-imenice-067	Четрдесет и шесторица.
+br-00-99-brojne-imenice-068	Четрдесет и седморица.
+br-00-99-brojne-imenice-069	Четрдесет и осморица.
+br-00-99-brojne-imenice-070	Четрдесет и деветорица.
+br-00-99-brojne-imenice-071	Педесеторица.
+br-00-99-brojne-imenice-072	Педесет двојица.
+br-00-99-brojne-imenice-073	Педесет тројица.
+br-00-99-brojne-imenice-074	Педесет четворица.
+br-00-99-brojne-imenice-075	Педесет петорица.
+br-00-99-brojne-imenice-076	Педесет шесторица.
+br-00-99-brojne-imenice-077	Педесет седморица.
+br-00-99-brojne-imenice-078	Педесет осморица.
+br-00-99-brojne-imenice-079	Педесет деветорица.
+br-00-99-brojne-imenice-080	Педесет и једно.
+br-00-99-brojne-imenice-081	Педесет и двојица.
+br-00-99-brojne-imenice-082	Педесет и тројица.
+br-00-99-brojne-imenice-083	Педесет и четворица.
+br-00-99-brojne-imenice-084	Педесет и петорица.
+br-00-99-brojne-imenice-085	Педесет и шесторица.
+br-00-99-brojne-imenice-086	Педесет и седморица.
+br-00-99-brojne-imenice-087	Педесет и осморица.
+br-00-99-brojne-imenice-088	Педесет и деветорица.
+br-00-99-brojne-imenice-089	Шездесеторица.
+br-00-99-brojne-imenice-090	Шездесет двојица.
+br-00-99-brojne-imenice-091	Шездесет тројица.
+br-00-99-brojne-imenice-092	Шездесет четворица.
+br-00-99-brojne-imenice-093	Шездесет петорица.
+br-00-99-brojne-imenice-094	Шездесет шесторица.
+br-00-99-brojne-imenice-095	Шездесет седморица.
+br-00-99-brojne-imenice-096	Шездесет осморица.
+br-00-99-brojne-imenice-097	Шездесет деветорица.
+br-00-99-brojne-imenice-098	Шездесет и двојица.
+br-00-99-brojne-imenice-099	Шездесет и тројица.
+br-00-99-brojne-imenice-100	Шездесет и четворица.
+br-00-99-brojne-imenice-101	Шездесет и петорица.
+br-00-99-brojne-imenice-102	Шездесет и шесторица.
+br-00-99-brojne-imenice-103	Шездесет и седморица.
+br-00-99-brojne-imenice-104	Шездесет и осморица.
+br-00-99-brojne-imenice-105	Шездесет и деветорица.
+br-00-99-brojne-imenice-106	Седамдесеторица.
+br-00-99-brojne-imenice-107	Седамдесет двојица.
+br-00-99-brojne-imenice-108	Седамдесет тројица.
+br-00-99-brojne-imenice-109	Седамдесет четворица.
+br-00-99-brojne-imenice-110	Седамдесет петорица.
+br-00-99-brojne-imenice-111	Седамдесет шесторица.
+br-00-99-brojne-imenice-112	Седамдесет седморица.
+br-00-99-brojne-imenice-113	Седамдесет осморица.
+br-00-99-brojne-imenice-114	Седамдесет деветорица.
+br-00-99-brojne-imenice-115	Седамдесет и двојица.
+br-00-99-brojne-imenice-116	Седамдесет и тројица.
+br-00-99-brojne-imenice-117	Седамдесет и четворица.
+br-00-99-brojne-imenice-118	Седамдесет и петорица.
+br-00-99-brojne-imenice-119	Седамдесет и шесторица.
+br-00-99-brojne-imenice-120	Седамдесет и седморица.
+br-00-99-brojne-imenice-121	Седамдесет и осморица.
+br-00-99-brojne-imenice-122	Седамдесет и деветорица.
+br-00-99-brojne-imenice-123	Осамдесеторица.
+br-00-99-brojne-imenice-124	Осамдесет двојица.
+br-00-99-brojne-imenice-125	Осамдесет тројица.
+br-00-99-brojne-imenice-126	Осамдесет четворица.
+br-00-99-brojne-imenice-127	Осамдесет петорица.
+br-00-99-brojne-imenice-128	Осамдесет шесторица.
+br-00-99-brojne-imenice-129	Осамдесет седморица.
+br-00-99-brojne-imenice-130	Осамдесет осморица.
+br-00-99-brojne-imenice-131	Осамдесет деветорица.
+br-00-99-brojne-imenice-132	Осамдесет и двојица.
+br-00-99-brojne-imenice-133	Осамдесет и тројица.
+br-00-99-brojne-imenice-134	Осамдесет и четворица.
+br-00-99-brojne-imenice-135	Осамдесет и петорица.
+br-00-99-brojne-imenice-136	Осамдесет и шесторица.
+br-00-99-brojne-imenice-137	Осамдесет и седморица.
+br-00-99-brojne-imenice-138	Осамдесет и осморица.
+br-00-99-brojne-imenice-139	Осамдесет и деветорица.
+br-00-99-brojne-imenice-140	Деведесеторица.
+br-00-99-brojne-imenice-141	Деведесет двојица.
+br-00-99-brojne-imenice-142	Деведесет тројица.
+br-00-99-brojne-imenice-143	Деведесет четворица.
+br-00-99-brojne-imenice-144	Деведесет петорица.
+br-00-99-brojne-imenice-145	Деведесет шесторица.
+br-00-99-brojne-imenice-146	Деведесет седморица.
+br-00-99-brojne-imenice-147	Деведесет осморица.
+br-00-99-brojne-imenice-148	Деведесет деветорица.
+br-00-99-brojne-imenice-149	Деведесет и двојица.
+br-00-99-brojne-imenice-150	Деведесет и тројица.
+br-00-99-brojne-imenice-151	Деведесет и четворица.
+br-00-99-brojne-imenice-152	Деведесет и петорица.
+br-00-99-brojne-imenice-153	Деведесет и шесторица.
+br-00-99-brojne-imenice-154	Деведесет и седморица.
+br-00-99-brojne-imenice-155	Деведесет и осморица.
+br-00-99-brojne-imenice-156	Деведесет и деветорица.

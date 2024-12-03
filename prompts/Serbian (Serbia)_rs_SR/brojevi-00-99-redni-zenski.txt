@@ -1,0 +1,172 @@
+br-redni-zenski-00-99-001	Нулта.
+br-redni-zenski-00-99-002	Прва.
+br-redni-zenski-00-99-003	Друга.
+br-redni-zenski-00-99-004	Трећа.
+br-redni-zenski-00-99-005	Четврта.
+br-redni-zenski-00-99-006	Пета.
+br-redni-zenski-00-99-007	Шеста.
+br-redni-zenski-00-99-008	Седма.
+br-redni-zenski-00-99-009	Осма.
+br-redni-zenski-00-99-010	Девета.
+br-redni-zenski-00-99-011	Десета.
+br-redni-zenski-00-99-012	Једанаеста.
+br-redni-zenski-00-99-013	Дванаеста.
+br-redni-zenski-00-99-014	Тринаеста.
+br-redni-zenski-00-99-015	Четрнаеста.
+br-redni-zenski-00-99-016	Петнаеста.
+br-redni-zenski-00-99-017	Шеснаеста.
+br-redni-zenski-00-99-018	Седамнаеста.
+br-redni-zenski-00-99-019	Осамнаеста.
+br-redni-zenski-00-99-020	Деветнаеста.
+br-redni-zenski-00-99-021	Двадесета.
+br-redni-zenski-00-99-022	Двадесет прва.
+br-redni-zenski-00-99-023	Двадесет друга.
+br-redni-zenski-00-99-024	Двадесет трећа.
+br-redni-zenski-00-99-025	Двадесет четврта.
+br-redni-zenski-00-99-026	Двадесет пета.
+br-redni-zenski-00-99-027	Двадесет шеста.
+br-redni-zenski-00-99-028	Двадесет седма.
+br-redni-zenski-00-99-029	Двадесет осма.
+br-redni-zenski-00-99-030	Двадесет девета.
+br-redni-zenski-00-99-031	Двадесет и прва.
+br-redni-zenski-00-99-032	Двадесет и друга.
+br-redni-zenski-00-99-033	Двадесет и трећа.
+br-redni-zenski-00-99-034	Двадесет и четврта.
+br-redni-zenski-00-99-035	Двадесет и пета.
+br-redni-zenski-00-99-036	Двадесет и шеста.
+br-redni-zenski-00-99-037	Двадесет и седма.
+br-redni-zenski-00-99-038	Двадесет и осма.
+br-redni-zenski-00-99-039	Двадесет и девета.
+br-redni-zenski-00-99-040	Тридесета.
+br-redni-zenski-00-99-041	Тридесет прва.
+br-redni-zenski-00-99-042	Тридесет друга.
+br-redni-zenski-00-99-043	Тридесет трећа.
+br-redni-zenski-00-99-044	Тридесет четврта.
+br-redni-zenski-00-99-045	Тридесет пета.
+br-redni-zenski-00-99-046	Тридесет шеста.
+br-redni-zenski-00-99-047	Тридесет седма.
+br-redni-zenski-00-99-048	Тридесет осма.
+br-redni-zenski-00-99-049	Тридесет девета.
+br-redni-zenski-00-99-050	Тридесет и прва.
+br-redni-zenski-00-99-051	Тридесет и друга.
+br-redni-zenski-00-99-052	Тридесет и трећа.
+br-redni-zenski-00-99-053	Тридесет и четврта.
+br-redni-zenski-00-99-054	Тридесет и пета.
+br-redni-zenski-00-99-055	Тридесет и шеста.
+br-redni-zenski-00-99-056	Тридесет и седма.
+br-redni-zenski-00-99-057	Тридесет и осма.
+br-redni-zenski-00-99-058	Тридесет и девета.
+br-redni-zenski-00-99-059	Четрдесета.
+br-redni-zenski-00-99-060	Четрдесет прва.
+br-redni-zenski-00-99-061	Четрдесет друга.
+br-redni-zenski-00-99-062	Четрдесет трећа.
+br-redni-zenski-00-99-063	Четрдесет четврта.
+br-redni-zenski-00-99-064	Четрдесет пета.
+br-redni-zenski-00-99-065	Четрдесет шеста.
+br-redni-zenski-00-99-066	Четрдесет седма.
+br-redni-zenski-00-99-067	Четрдесет осма.
+br-redni-zenski-00-99-068	Четрдесет девета.
+br-redni-zenski-00-99-069	Четрдесет и прва.
+br-redni-zenski-00-99-070	Четрдесет и друга.
+br-redni-zenski-00-99-071	Четрдесет и трећа.
+br-redni-zenski-00-99-072	Четрдесет и четврта.
+br-redni-zenski-00-99-073	Четрдесет и пета.
+br-redni-zenski-00-99-074	Четрдесет и шеста.
+br-redni-zenski-00-99-075	Четрдесет и седма.
+br-redni-zenski-00-99-076	Четрдесет и осма.
+br-redni-zenski-00-99-077	Четрдесет и девета.
+br-redni-zenski-00-99-078	Педесета.
+br-redni-zenski-00-99-079	Педесет прва.
+br-redni-zenski-00-99-080	Педесет друга.
+br-redni-zenski-00-99-081	Педесет трећа.
+br-redni-zenski-00-99-082	Педесет четврта.
+br-redni-zenski-00-99-083	Педесет пета.
+br-redni-zenski-00-99-084	Педесет шеста.
+br-redni-zenski-00-99-085	Педесет седма.
+br-redni-zenski-00-99-086	Педесет осма.
+br-redni-zenski-00-99-087	Педесет девета.
+br-redni-zenski-00-99-088	Педесет и прва.
+br-redni-zenski-00-99-089	Педесет и друга.
+br-redni-zenski-00-99-090	Педесет и трећа.
+br-redni-zenski-00-99-091	Педесет и четврта.
+br-redni-zenski-00-99-092	Педесет и пета.
+br-redni-zenski-00-99-093	Педесет и шеста.
+br-redni-zenski-00-99-094	Педесет и седма.
+br-redni-zenski-00-99-095	Педесет и осма.
+br-redni-zenski-00-99-096	Педесет и девета.
+br-redni-zenski-00-99-097	Шездесета.
+br-redni-zenski-00-99-098	Шездесет прва.
+br-redni-zenski-00-99-099	Шездесет друга.
+br-redni-zenski-00-99-100	Шездесет трећа.
+br-redni-zenski-00-99-101	Шездесет четврта.
+br-redni-zenski-00-99-102	Шездесет пета.
+br-redni-zenski-00-99-103	Шездесет шеста.
+br-redni-zenski-00-99-104	Шездесет седма.
+br-redni-zenski-00-99-105	Шездесет осма.
+br-redni-zenski-00-99-106	Шездесет девета.
+br-redni-zenski-00-99-107	Шездесет и прва.
+br-redni-zenski-00-99-108	Шездесет и друга.
+br-redni-zenski-00-99-109	Шездесет и трећа.
+br-redni-zenski-00-99-110	Шездесет и четврта.
+br-redni-zenski-00-99-111	Шездесет и пета.
+br-redni-zenski-00-99-112	Шездесет и шеста.
+br-redni-zenski-00-99-113	Шездесет и седма.
+br-redni-zenski-00-99-114	Шездесет и осма.
+br-redni-zenski-00-99-115	Шездесет и девета.
+br-redni-zenski-00-99-116	Седамдесета.
+br-redni-zenski-00-99-117	Седамдесет прва.
+br-redni-zenski-00-99-118	Седамдесет друга.
+br-redni-zenski-00-99-119	Седамдесет трећа.
+br-redni-zenski-00-99-120	Седамдесет четврта.
+br-redni-zenski-00-99-121	Седамдесет пета.
+br-redni-zenski-00-99-122	Седамдесет шеста.
+br-redni-zenski-00-99-123	Седамдесет седма.
+br-redni-zenski-00-99-124	Седамдесет осма.
+br-redni-zenski-00-99-125	Седамдесет девета.
+br-redni-zenski-00-99-126	Седамдесет и прва.
+br-redni-zenski-00-99-127	Седамдесет и друга.
+br-redni-zenski-00-99-128	Седамдесет и трећа.
+br-redni-zenski-00-99-129	Седамдесет и четврта.
+br-redni-zenski-00-99-130	Седамдесет и пета.
+br-redni-zenski-00-99-131	Седамдесет и шеста.
+br-redni-zenski-00-99-132	Седамдесет и седма.
+br-redni-zenski-00-99-133	Седамдесет и осма.
+br-redni-zenski-00-99-134	Седамдесет и девета.
+br-redni-zenski-00-99-135	Осамдесета.
+br-redni-zenski-00-99-136	Осамдесет прва.
+br-redni-zenski-00-99-137	Осамдесет друга.
+br-redni-zenski-00-99-138	Осамдесет трећа.
+br-redni-zenski-00-99-139	Осамдесет четврта.
+br-redni-zenski-00-99-140	Осамдесет пета.
+br-redni-zenski-00-99-141	Осамдесет шеста.
+br-redni-zenski-00-99-142	Осамдесет седма.
+br-redni-zenski-00-99-143	Осамдесет осма.
+br-redni-zenski-00-99-144	Осамдесет девета.
+br-redni-zenski-00-99-145	Осамдесет и прва.
+br-redni-zenski-00-99-146	Осамдесет и друга.
+br-redni-zenski-00-99-147	Осамдесет и трећа.
+br-redni-zenski-00-99-148	Осамдесет и четврта.
+br-redni-zenski-00-99-149	Осамдесет и пета.
+br-redni-zenski-00-99-150	Осамдесет и шеста.
+br-redni-zenski-00-99-151	Осамдесет и седма.
+br-redni-zenski-00-99-152	Осамдесет и осма.
+br-redni-zenski-00-99-153	Осамдесет и девета.
+br-redni-zenski-00-99-154	Деведесета.
+br-redni-zenski-00-99-155	Деведесет прва.
+br-redni-zenski-00-99-156	Деведесет друга.
+br-redni-zenski-00-99-157	Деведесет трећа.
+br-redni-zenski-00-99-158	Деведесет четврта.
+br-redni-zenski-00-99-159	Деведесет пета.
+br-redni-zenski-00-99-160	Деведесет шеста.
+br-redni-zenski-00-99-161	Деведесет седма.
+br-redni-zenski-00-99-162	Деведесет осма.
+br-redni-zenski-00-99-163	Деведесет девета.
+br-redni-zenski-00-99-164	Деведесет и прва.
+br-redni-zenski-00-99-165	Деведесет и друга.
+br-redni-zenski-00-99-166	Деведесет и трећа.
+br-redni-zenski-00-99-167	Деведесет и четврта.
+br-redni-zenski-00-99-168	Деведесет и пета.
+br-redni-zenski-00-99-169	Деведесет и шеста.
+br-redni-zenski-00-99-170	Деведесет и седма.
+br-redni-zenski-00-99-171	Деведесет и осма.
+br-redni-zenski-00-99-172	Деведесет и девета.

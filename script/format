@@ -1,23 +1,13 @@
-#!/usr/bin/env bash
-set -eo pipefail
+#!/usr/bin/env python3
+import subprocess
+import venv
+from pathlib import Path
 
-# Directory of *this* script
-this_dir="$( cd "$( dirname "$0" )" && pwd )"
+_DIR = Path(__file__).parent
+_PROGRAM_DIR = _DIR.parent
+_VENV_DIR = _PROGRAM_DIR / ".venv"
+_CODE_DIRS = [_PROGRAM_DIR / "piper_recording_studio", _PROGRAM_DIR / "export_dataset"]
 
-base_dir="$(realpath "${this_dir}/..")"
-
-# Path to virtual environment
-: "${venv:=${base_dir}/.venv}"
-
-if [ -d "${venv}" ]; then
-    # Activate virtual environment if available
-    source "${venv}/bin/activate"
-fi
-
-python_files=()
-python_files+=("${base_dir}/piper_recording_studio"/*.py)
-python_files+=("${base_dir}/export_dataset"/*.py)
-
-# Format code
-black "${python_files[@]}"
-isort "${python_files[@]}"
+context = venv.EnvBuilder().ensure_directories(_VENV_DIR)
+subprocess.check_call([context.env_exe, "-m", "black"] + [str(d) for d in _CODE_DIRS])
+subprocess.check_call([context.env_exe, "-m", "isort"] + [str(d) for d in _CODE_DIRS])

@@ -1,0 +1,62 @@
+razgovor-pozdravi-001	Добар дан.
+razgovor-pozdravi-002	Добро вече.
+razgovor-pozdravi-003	Добро јутро.
+razgovor-pozdravi-004	Здраво.
+razgovor-pozdravi-005	Поздрав.
+razgovor-pozdravi-006	Довиђења.
+razgovor-pozdravi-007	Лаку ноћ.
+razgovor-pozdravi-008	Како сте?
+razgovor-pozdravi-009	Како си?
+razgovor-pozdravi-010	Извините, знате ли колико је сати?
+razgovor-pozdravi-011	Колико је сати?
+razgovor-pozdravi-012	Који је ваш број телефона?
+razgovor-pozdravi-013	Који ти је број телефона?
+razgovor-pozdravi-014	Дај ми број.
+razgovor-pozdravi-015	Пријатно.
+razgovor-pozdravi-016	Изволи.
+razgovor-pozdravi-017	Изволите.
+razgovor-pozdravi-018	Хвала.
+razgovor-pozdravi-019	Нема на чему.
+razgovor-pozdravi-020	Ништа.
+razgovor-pozdravi-021	Ма ништа.
+razgovor-pozdravi-022	Ништа, ништа.
+razgovor-pozdravi-023	Добро дошли!
+razgovor-pozdravi-024	Добродошли!
+razgovor-pozdravi-025	Здрави били!
+razgovor-pozdravi-026	Здрав био!
+razgovor-pozdravi-027	Хеј!
+razgovor-pozdravi-028	Хеј ти!
+razgovor-pozdravi-029	Молим?
+razgovor-pozdravi-030	Молим.
+razgovor-pozdravi-031	Добро, хвала на питању.
+razgovor-pozdravi-032	Стој!
+razgovor-pozdravi-033	Стани!
+razgovor-pozdravi-034	Следећи!
+razgovor-pozdravi-035	Напред!
+razgovor-pozdravi-036	Боље вас нашао!
+razgovor-pozdravi-037	Хоћете ли кафу?
+razgovor-pozdravi-038	Хоћеш ли кафу?
+razgovor-pozdravi-039	Јесте ли за кафу?
+razgovor-pozdravi-040	Јеси ли за кафу?
+razgovor-pozdravi-041	Хајде са мном.
+razgovor-pozdravi-042	Волим те.
+razgovor-pozdravi-043	И ја тебе.
+razgovor-pozdravi-044	И ја тебе волим.
+razgovor-pozdravi-045	Волим те највише на свету.
+razgovor-pozdravi-046	Зовни ме.
+razgovor-pozdravi-047	Позови ме.
+razgovor-pozdravi-048	Хвала што сте дошли.
+razgovor-pozdravi-049	Даме и господо!
+razgovor-pozdravi-050	Другови и другарице!
+razgovor-pozdravi-051	Драги моји.
+razgovor-pozdravi-052	Жао ми је.
+razgovor-pozdravi-053	Нажалост.
+razgovor-pozdravi-054	Извините.
+razgovor-pozdravi-055	Извините, молим вас.
+razgovor-pozdravi-056	Извините што касним.
+razgovor-pozdravi-057	Касниш!
+razgovor-pozdravi-058	Долазим.
+razgovor-pozdravi-059	Долази!
+razgovor-pozdravi-060	Полазим.
+razgovor-pozdravi-061	Полази!
+razgovor-pozdravi-062	Ћао!

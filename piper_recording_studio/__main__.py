@@ -54,6 +54,7 @@ def main() -> None:
         action="store_true",
         help="Require login code and user output directory to exist",
     )
+    parser.add_argument("--cc0", action="store_true", help="Show public domain notice")
     #
     parser.add_argument(
         "--debug", action="store_true", help="Print DEBUG messages to console"
@@ -84,6 +85,7 @@ def main() -> None:
             "index.html",
             languages=sorted(languages.items()),
             multi_user=args.multi_user,
+            cc0=args.cc0,
         )
 
     @app.route("/done.html")

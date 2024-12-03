@@ -1,0 +1,21 @@
+br-razlomci-001	Цело.
+br-razlomci-002	Пола.
+br-razlomci-003	Половина.
+br-razlomci-004	Трећина.
+br-razlomci-005	Четвртина.
+br-razlomci-006	Петина.
+br-razlomci-007	Шестина.
+br-razlomci-008	Седмина.
+br-razlomci-009	Осмина.
+br-razlomci-010	Деветина.
+br-razlomci-011	Десетина.
+br-razlomci-012	Стотина.
+br-razlomci-013	Једна половина.
+br-razlomci-014	Две половине.
+br-razlomci-015	Једна трећина.
+br-razlomci-016	Две трећине.
+br-razlomci-017	Три трећине.
+br-razlomci-018	Једна четвртина.
+br-razlomci-019	Две четвртине.
+br-razlomci-020	Три четвртине.
+br-razlomci-021	Четири четвртине.

@@ -1,0 +1,156 @@
+br-00-99-brojni-pridevi-001	Двоја.
+br-00-99-brojni-pridevi-002	Троја.
+br-00-99-brojni-pridevi-003	Четвора.
+br-00-99-brojni-pridevi-004	Петора.
+br-00-99-brojni-pridevi-005	Шестора.
+br-00-99-brojni-pridevi-006	Седмора.
+br-00-99-brojni-pridevi-007	Осмора.
+br-00-99-brojni-pridevi-008	Деветора.
+br-00-99-brojni-pridevi-009	Десетора.
+br-00-99-brojni-pridevi-010	Једанаестора.
+br-00-99-brojni-pridevi-011	Дванаестора.
+br-00-99-brojni-pridevi-012	Тринаестора.
+br-00-99-brojni-pridevi-013	Четрнаестора.
+br-00-99-brojni-pridevi-014	Петнаестора.
+br-00-99-brojni-pridevi-015	Шеснаестора.
+br-00-99-brojni-pridevi-016	Седамнаестора.
+br-00-99-brojni-pridevi-017	Осамнаестора.
+br-00-99-brojni-pridevi-018	Деветнаестора.
+br-00-99-brojni-pridevi-019	Двадесетора.
+br-00-99-brojni-pridevi-020	Двадесет двоја.
+br-00-99-brojni-pridevi-021	Двадесет троја.
+br-00-99-brojni-pridevi-022	Двадесет четвора.
+br-00-99-brojni-pridevi-023	Двадесет петора.
+br-00-99-brojni-pridevi-024	Двадесет шестора.
+br-00-99-brojni-pridevi-025	Двадесет седмора.
+br-00-99-brojni-pridevi-026	Двадесет осмора.
+br-00-99-brojni-pridevi-027	Двадесет деветора.
+br-00-99-brojni-pridevi-028	Двадесет и једно.
+br-00-99-brojni-pridevi-029	Двадесет и двоја.
+br-00-99-brojni-pridevi-030	Двадесет и троја.
+br-00-99-brojni-pridevi-031	Двадесет и четвора.
+br-00-99-brojni-pridevi-032	Двадесет и петора.
+br-00-99-brojni-pridevi-033	Двадесет и шестора.
+br-00-99-brojni-pridevi-034	Двадесет и седмора.
+br-00-99-brojni-pridevi-035	Двадесет и осмора.
+br-00-99-brojni-pridevi-036	Двадесет и деветора.
+br-00-99-brojni-pridevi-037	Тридесетора.
+br-00-99-brojni-pridevi-038	Тридесет двоја.
+br-00-99-brojni-pridevi-039	Тридесет троја.
+br-00-99-brojni-pridevi-040	Тридесет четвора.
+br-00-99-brojni-pridevi-041	Тридесет петора.
+br-00-99-brojni-pridevi-042	Тридесет шестора.
+br-00-99-brojni-pridevi-043	Тридесет седмора.
+br-00-99-brojni-pridevi-044	Тридесет осмора.
+br-00-99-brojni-pridevi-045	Тридесет деветора.
+br-00-99-brojni-pridevi-046	Тридесет и двоја.
+br-00-99-brojni-pridevi-047	Тридесет и троја.
+br-00-99-brojni-pridevi-048	Тридесет и четвора.
+br-00-99-brojni-pridevi-049	Тридесет и петора.
+br-00-99-brojni-pridevi-050	Тридесет и шестора.
+br-00-99-brojni-pridevi-051	Тридесет и седмора.
+br-00-99-brojni-pridevi-052	Тридесет и осмора.
+br-00-99-brojni-pridevi-053	Тридесет и деветора.
+br-00-99-brojni-pridevi-054	Четрдесетора.
+br-00-99-brojni-pridevi-055	Четрдесет двоја.
+br-00-99-brojni-pridevi-056	Четрдесет троја.
+br-00-99-brojni-pridevi-057	Четрдесет четвора.
+br-00-99-brojni-pridevi-058	Четрдесет петора.
+br-00-99-brojni-pridevi-059	Четрдесет шестора.
+br-00-99-brojni-pridevi-060	Четрдесет седмора.
+br-00-99-brojni-pridevi-061	Четрдесет осмора.
+br-00-99-brojni-pridevi-062	Четрдесет деветора.
+br-00-99-brojni-pridevi-063	Четрдесет и двоја.
+br-00-99-brojni-pridevi-064	Четрдесет и троја.
+br-00-99-brojni-pridevi-065	Четрдесет и четвора.
+br-00-99-brojni-pridevi-066	Четрдесет и петора.
+br-00-99-brojni-pridevi-067	Четрдесет и шестора.
+br-00-99-brojni-pridevi-068	Четрдесет и седмора.
+br-00-99-brojni-pridevi-069	Четрдесет и осмора.
+br-00-99-brojni-pridevi-070	Четрдесет и деветора.
+br-00-99-brojni-pridevi-071	Педесетора.
+br-00-99-brojni-pridevi-072	Педесет двоја.
+br-00-99-brojni-pridevi-073	Педесет троја.
+br-00-99-brojni-pridevi-074	Педесет четвора.
+br-00-99-brojni-pridevi-075	Педесет петора.
+br-00-99-brojni-pridevi-076	Педесет шестора.
+br-00-99-brojni-pridevi-077	Педесет седмора.
+br-00-99-brojni-pridevi-078	Педесет осмора.
+br-00-99-brojni-pridevi-079	Педесет деветора.
+br-00-99-brojni-pridevi-080	Педесет и једно.
+br-00-99-brojni-pridevi-081	Педесет и двоја.
+br-00-99-brojni-pridevi-082	Педесет и троја.
+br-00-99-brojni-pridevi-083	Педесет и четвора.
+br-00-99-brojni-pridevi-084	Педесет и петора.
+br-00-99-brojni-pridevi-085	Педесет и шестора.
+br-00-99-brojni-pridevi-086	Педесет и седмора.
+br-00-99-brojni-pridevi-087	Педесет и осмора.
+br-00-99-brojni-pridevi-088	Педесет и деветора.
+br-00-99-brojni-pridevi-089	Шездесетора.
+br-00-99-brojni-pridevi-090	Шездесет двоја.
+br-00-99-brojni-pridevi-091	Шездесет троја.
+br-00-99-brojni-pridevi-092	Шездесет четвора.
+br-00-99-brojni-pridevi-093	Шездесет петора.
+br-00-99-brojni-pridevi-094	Шездесет шестора.
+br-00-99-brojni-pridevi-095	Шездесет седмора.
+br-00-99-brojni-pridevi-096	Шездесет осмора.
+br-00-99-brojni-pridevi-097	Шездесет деветора.
+br-00-99-brojni-pridevi-098	Шездесет и двоја.
+br-00-99-brojni-pridevi-099	Шездесет и троја.
+br-00-99-brojni-pridevi-100	Шездесет и четвора.
+br-00-99-brojni-pridevi-101	Шездесет и петора.
+br-00-99-brojni-pridevi-102	Шездесет и шестора.
+br-00-99-brojni-pridevi-103	Шездесет и седмора.
+br-00-99-brojni-pridevi-104	Шездесет и осмора.
+br-00-99-brojni-pridevi-105	Шездесет и деветора.
+br-00-99-brojni-pridevi-106	Седамдесетора.
+br-00-99-brojni-pridevi-107	Седамдесет двоја.
+br-00-99-brojni-pridevi-108	Седамдесет троја.
+br-00-99-brojni-pridevi-109	Седамдесет четвора.
+br-00-99-brojni-pridevi-110	Седамдесет петора.
+br-00-99-brojni-pridevi-111	Седамдесет шестора.
+br-00-99-brojni-pridevi-112	Седамдесет седмора.
+br-00-99-brojni-pridevi-113	Седамдесет осмора.
+br-00-99-brojni-pridevi-114	Седамдесет деветора.
+br-00-99-brojni-pridevi-115	Седамдесет и двоја.
+br-00-99-brojni-pridevi-116	Седамдесет и троја.
+br-00-99-brojni-pridevi-117	Седамдесет и четвора.
+br-00-99-brojni-pridevi-118	Седамдесет и петора.
+br-00-99-brojni-pridevi-119	Седамдесет и шестора.
+br-00-99-brojni-pridevi-120	Седамдесет и седмора.
+br-00-99-brojni-pridevi-121	Седамдесет и осмора.
+br-00-99-brojni-pridevi-122	Седамдесет и деветора.
+br-00-99-brojni-pridevi-123	Осамдесетора.
+br-00-99-brojni-pridevi-124	Осамдесет двоја.
+br-00-99-brojni-pridevi-125	Осамдесет троја.
+br-00-99-brojni-pridevi-126	Осамдесет четвора.
+br-00-99-brojni-pridevi-127	Осамдесет петора.
+br-00-99-brojni-pridevi-128	Осамдесет шестора.
+br-00-99-brojni-pridevi-129	Осамдесет седмора.
+br-00-99-brojni-pridevi-130	Осамдесет осмора.
+br-00-99-brojni-pridevi-131	Осамдесет деветора.
+br-00-99-brojni-pridevi-132	Осамдесет и двоја.
+br-00-99-brojni-pridevi-133	Осамдесет и троја.
+br-00-99-brojni-pridevi-134	Осамдесет и четвора.
+br-00-99-brojni-pridevi-135	Осамдесет и петора.
+br-00-99-brojni-pridevi-136	Осамдесет и шестора.
+br-00-99-brojni-pridevi-137	Осамдесет и седмора.
+br-00-99-brojni-pridevi-138	Осамдесет и осмора.
+br-00-99-brojni-pridevi-139	Осамдесет и деветора.
+br-00-99-brojni-pridevi-140	Деведесетора.
+br-00-99-brojni-pridevi-141	Деведесет двоја.
+br-00-99-brojni-pridevi-142	Деведесет троја.
+br-00-99-brojni-pridevi-143	Деведесет четвора.
+br-00-99-brojni-pridevi-144	Деведесет петора.
+br-00-99-brojni-pridevi-145	Деведесет шестора.
+br-00-99-brojni-pridevi-146	Деведесет седмора.
+br-00-99-brojni-pridevi-147	Деведесет осмора.
+br-00-99-brojni-pridevi-148	Деведесет деветора.
+br-00-99-brojni-pridevi-149	Деведесет и двоја.
+br-00-99-brojni-pridevi-150	Деведесет и троја.
+br-00-99-brojni-pridevi-151	Деведесет и четвора.
+br-00-99-brojni-pridevi-152	Деведесет и петора.
+br-00-99-brojni-pridevi-153	Деведесет и шестора.
+br-00-99-brojni-pridevi-154	Деведесет и седмора.
+br-00-99-brojni-pridevi-155	Деведесет и осмора.
+br-00-99-brojni-pridevi-156	Деведесет и деветора.
