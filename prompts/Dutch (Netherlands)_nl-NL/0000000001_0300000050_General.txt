@@ -101,7 +101,7 @@
 0000000101	Uiteraard horen bij feestdagen cadeaus, maar cadeaus in materialistische vorm passen niet echt in het straatje van minder consumeren.
 0000000102	Het beste is om je auto helemaal weg te doen, maar begrijpelijk is dat veel mensen niet zonder kunnen.
 0000000103	Het klinkt streng, maar als je er bij stilstaat doe je het voor een goede reden, wat veel voldoening geeft.
-0000000104	Je kunt bij een buurtgenoot of vriendin aankloppen of die zien zitten om een auto te delen.
+0000000104	Je kunt bij een buurtgenoot of vriendin aankloppen of die het zien zitten om een auto te delen.
 0000000105	Maak plaats voor een fotolijstje of zet het gekregen beeldje van je oma weer eens pontificaal in het zicht.
 0000000106	Maar vrijwel ieder huishouden heeft onnodige spullen die in de uitverkoop of op een goedkope webshop gekocht zijn.
 0000000107	Als je in het wilde weg begint is het lastiger vol te houden dan wanneer je een inspirerende reden hebt.
