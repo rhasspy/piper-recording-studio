@@ -1,10 +1,10 @@
 4000000001	Wij verzamelen gegevens binnen uw organisatie om uw bedrijfsprocessen beter aan te sturen.
 4000000002	Bent u er geïnteresseerd in?
 4000000003	De markt groeit jaarlijks met tientallen procenten en daar kunt u met onze hulp aan meedoen.
-4000000004	Laten we een passende omschrijvingen van de missie, visie en strategie voor u opstellen.
-4000000005	Wij kijken op systematische methode naar uw processen waarbij wij uw werknemers zien als kapitaal.
+4000000004	Laten we een passende omschrijving van de missie, visie en strategie voor u opstellen.
+4000000005	Wij kijken op systematische wijze naar uw processen, waarbij wij uw werknemers zien als kapitaal.
 4000000006	Als u de updates heeft uitgevoerd, zou het systeem nu sneller moeten opstarten.
-4000000007	U kunt proberen om onnodige opstart items te verwijderen.
+4000000007	U kunt proberen om onnodige opstart-items te verwijderen.
 4000000008	Gebruik voor de beste beveiliging, een antivirusprogramma.
 4000000009	Het is vandaag regenachtig en bewolkt.
 4000000010	Er zijn niet veel nieuwigheden voor netwerkkaarten.
@@ -33,13 +33,13 @@
 4000000033	Dit unieke hotel is gebouwd in authentieke Saksische stijl.
 4000000034	Indien er een code beschikbaar is krijgt u deze per mail toegestuurd.
 4000000035	Bewonder het Twentse schoon en steek makkelijk de Duitse grens over voor een buitenlands avontuurtje.
-4000000036	Indien u op werkdagen voor 23:59 uur bestelt zal uw order nog op dezelfde dag worden verzonden.
+4000000036	Indien u op werkdagen voor 23:59 uur bestelt, zal uw order nog op dezelfde dag worden verzonden.
 4000000037	U kunt uw bestelling laten afleveren in één van onze winkels.
 4000000038	Op zondag zijn wij open van 9.00 uur tot 18.00 uur.
 4000000039	Alle kleding met een gele actiesticker is 2 halen 1 betalen.
-4000000040	Wij hebben broeken week met 10 euro korting op een broek of jeans va 69,95!
+4000000040	Wij hebben broekenweek met 10 euro korting op een broek of jeans vanaf 69,95!
 4000000041	Gebruik kortingscode lentekriebels in uw winkelwagen.
-4000000042	Dit zijn kleren van het vorig seizoen.
+4000000042	Dit zijn kleren van het vorige seizoen.
 4000000043	Volgende week hebben wij een grote uitverkoop.
 4000000044	De prijzen die zijn vermeld op onze website zijn inclusief de wettelijke BTW maar exclusief de verzendkosten.
 4000000045	U kunt bestellen via onze website of de telefoon.
@@ -69,16 +69,16 @@
 4000000069	Wilt u afrekenen of verder winkelen?
 4000000070	Wij hebben precies de juiste maat voor u!
 4000000071	Deze schoenen zijn momenteel erg populair.
-4000000072	De paskamers bevinden zich achter in de winkel.
+4000000072	De paskamers bevinden zich achterin de winkel.
 4000000073	Helaas zijn we tijdelijk gesloten in verband met verbouwing.
 4000000074	Wij hebben ook een filiaal in Rotterdam.
 4000000075	Wilt u daar een tasje bij?
-4000000076	Als u met een account heeft besteld dan kunt u de order zelf via uw account annuleren.
+4000000076	Als u met een account heeft besteld, dan kunt u de order zelf via uw account annuleren.
 4000000077	Via internet bestelde artikelen mogen binnen 14 dagen na ontvangst geruild worden.
 4000000078	Het retourneren van een pakket is voor eigen rekening.
 4000000079	Bij vragen kunt u altijd contact opnemen met onze klantenservice.
 4000000080	Kunt u mij het bestelnummer doorgeven?
-4000000081	Helaas kunnen wij u geen nieuwe product meer sturen.
+4000000081	Helaas kunnen wij u geen nieuw product meer sturen.
 4000000082	Juwelen en mondmaskers worden niet geruild of geretourneerd.
 4000000083	We storten het bedrag terug op de rekening waarmee u heeft betaald.
 4000000084	Zwemkledij, ondergoed, kousen, panty’s, cosmetica en accessoires kunnen enkel in hun originele verpakking geruild of geretourneerd worden.
@@ -96,7 +96,7 @@
 4000000096	U kunt uw retourzending kosteloos afgeven.
 4000000097	Het zal je aan niks ontbreken in dit fijne hotel.
 4000000098	Indien een artikel defect is, kunt u een formulier invullen om uw klacht te verwerken.
-4000000099	De verwerking van uw retourzending kan tot aan 10 dagen duren.
+4000000099	De verwerking van uw retourzending kan tot 10 dagen duren.
 4000000100	Heeft u uw bestelling betaald met tegoed van een cadeaukaart?
 4000000101	Neem een duik in het binnenzwembad, zweet wat stress weg in de sauna of scoor nieuwe kleding in het nabijgelegen winkelcentrum.
 4000000102	Terugbetalingen van partnerartikelen kunnen soms iets langer duren dan 14 dagen.
@@ -114,7 +114,7 @@
 4000000114	Zorg ervoor dat je de kassabon bij je hebt, als je het artikel in de winkel zelf komt terugbrengen.
 4000000115	Artikelen die voor jou op maat gemaakt of aangepast zijn, kun je niet retourneren.
 4000000116	Als je een product koopt, krijg je 100 dagen bedenktijd.
-4000000117	Zodra het pakket opgehaald moet worden zijn de retourkosten voor eigen rekening.
+4000000117	Zodra het pakket opgehaald moet worden, zijn de retourkosten voor eigen rekening.
 4000000118	De garantietermijn van uw bestelling is helaas verstreken.
 4000000119	Helaas voldoet u niet aan de retoureisen.
 4000000120	Het hotel is gevestigd in het groenste dorp van Nederland en daarom de ideale uitvalsbasis voor leuke uitstapjes.
@@ -139,7 +139,7 @@
 4000000139	Bij ons komen alleen bekwame en vriendelijke docenten in aanmerking.
 4000000140	Wij vinden het erg belangrijk dat onze docenten volledig bevoegd zijn en een jarenlange praktijkervaring hebben.
 4000000141	Je kunt rekenen op uitstekende onderwijsondersteuning.
-4000000142	Heb je een vraag over een cursus, of wil graag advies over je studiekeuze?
+4000000142	Heb je een vraag over een cursus, of wil je graag advies over je studiekeuze?
 4000000143	Jaarlijks kiezen tienduizenden mensen voor onze cursussen en opleidingen.
 4000000144	Onze slagingspercentages behoren tot de hoogste in Nederland.
 4000000145	Je kunt opnieuw het huiswerk insturen en rekenen op de hulp van je leraar bij het beantwoorden van je vragen.
@@ -198,10 +198,10 @@
 4000000198	Wij zijn gespecialiseerd in beide beroepen.
 4000000199	Wij zijn actief bij meerdere en diverse opdrachtgevers en op verschillende projecten.
 4000000200	Bent u op zoek naar een partij die uw personeel verder laat ontwikkelen?
-4000000201	De strategie bepaalt de lange termijnkoers van de organisatie, voor doorgaans 5 jaar of meer.
+4000000201	De strategie bepaalt de langetermijnkoers van de organisatie, voor doorgaans 5 jaar of meer.
 4000000202	Tegenwoordig gebruiken steeds meer bedrijven dit soort programma's om de waarde van het menselijk kapitaal te beheren.
 4000000203	Wij zijn uw partner voor bedrijfsadvies en procesmanagement.
-4000000204	Mocht u de missie, visie en strategie willen herzien dan staan onze edewerkers graag tot uw beschikking.
+4000000204	Mocht u de missie, visie en strategie willen herzien dan staan onze medewerkers graag tot uw beschikking.
 4000000205	Onze adviseurs verdiepen zich in de medewerkers en de werkomgeving en formuleren een passend advies.
 4000000206	Wij hebben specialisten op het gebied van netwerkbeheer.
 4000000207	We bieden globale oplossingen aan onze klanten.
@@ -226,14 +226,14 @@
 4000000226	Hoe kan je het kaartje verzilveren?
 4000000227	Welk programma gebruik je precies?
 4000000228	Wanneer u uw gegevens zo goed mogelijk wilt beschermen, is het verstandig om betrouwbare programma's te installeren én te gebruiken.
-4000000229	Gebruik je programma's voor beveliging?
+4000000229	Gebruik je programma's voor beveiliging?
 4000000230	Je krijgt bij ons ondersteuning bij computerproblemen.
-4000000231	Vaak verhelp je problemen door je computer terug te zetten naar een recente opgeslagen versie.
+4000000231	Vaak verhelp je problemen door je computer terug te zetten naar een recent opgeslagen versie.
 4000000232	Klik vóór 31 maart 2023 hier om te verzilveren.
-4000000233	Kun je het op een andere apparaat gebruiken, of heb je dan hetzelfde probleem?
-4000000234	Op welke pagina en in welke sectie van de pagina bevond je je toen het gebeurde?
+4000000233	Kun je het op een ander apparaat gebruiken, of heb je dan hetzelfde probleem?
+4000000234	Op welke pagina en in welke sectie van de pagina bevind je je toen het gebeurde?
 4000000235	Het oplossen van een technisch probleem kan langer duren afhankelijk van hoe ingewikkeld het is.
-4000000236	Werkt het ook niet op een andere apparaat?
+4000000236	Werkt het ook niet op een ander apparaat?
 4000000237	Kun je een schermafbeelding voor ons maken?
 4000000238	Op maandagen geopend tijdens officiële schoolvakanties.
 4000000239	Als je harde schijf vol is, verminderen de prestaties.
@@ -245,7 +245,7 @@
 4000000245	Als je problemen met een randapparaat hebt, zet het apparaat dan aan en uit.
 4000000246	Kijk of je genoeg ruimte vrij hebt op de harde schijf waarop je besturingssysteem staat.
 4000000247	Als je nog steeds nergens geluid hoort, dan moet je het mogelijk opnieuw installeren.
-4000000248	Voordat je iets gaat doen, zorg je dat je een reservekopie hebt van al je gegevens.
+4000000248	Voordat je iets gaat doen, zorg je dat je een reservekopie van al je gegevens hebt.
 4000000249	Dat komt daar waarschijnlijk door, maar er zijn andere oplossingen.
 4000000250	Het verwaarlozen van apparaten kan betekenen dat je problemen krijgt.
 4000000251	Bij aankomst in het hotel overhandig je deze samen met jouw unieke reserveringscode.
@@ -261,7 +261,7 @@
 4000000261	Bedankt voor uw e-mail, wij zullen u zo snel mogelijk antwoorden.
 4000000262	Wij hebben uw bestelling verzonden.
 4000000263	U heeft een betaling ontvangen.
-4000000264	Er is iets mis gegaan, probeer het later opnieuw.
+4000000264	Er is iets misgegaan, probeer het later opnieuw.
 4000000265	U heeft een e-mail ontvangen.
 4000000266	Er is niet alleen veel te zien, maar voor kinderen valt er ook van alles te doen.
 4000000267	Wij hebben u een orderbevestiging gestuurd.
@@ -287,7 +287,7 @@
 4000000287	Wij hebben nog maar 2 artikelen op voorraad.
 4000000288	Het museum beschikt ook over een eigen parkeerplaats.
 4000000289	U heeft een niet voltooide bestelling.
-4000000290	Onvang gratis standaard verzending op je volgende aankoop.
+4000000290	Ontvang gratis standaard verzending op je volgende aankoop.
 4000000291	Er zijn nog 10 wachtenden voor u.
 4000000292	Dit gesprek kan worden opgenomen voor kwaliteitsdoeleinden.
 4000000293	Laat een bericht achter na de pieptoon.
