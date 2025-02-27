@@ -1,5 +1,9 @@
 # Changelog
 
+## 2024.2.27
+
+- Use `.value` for `textarea` instead of `textContent`
+
 ## 2024.12.3
 
 - Add Welsh (`cy_GB`) prompts
