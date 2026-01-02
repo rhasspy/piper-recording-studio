@@ -82,7 +82,7 @@
                             <span>(press "p" to play)</span>
                           </div>
                         </div>
-                        <div class="col-auto pull-right" hidden>
+                        <div class="col-auto pull-right">
                             <button id="skip" type="submit" class="btn btn-lg btn-warning" data-action="skip">
                                 <i class="fas fa-arrow-right mr-1"></i>
                                 Skip [k]
@@ -234,16 +234,16 @@
                   if (!recording) {
                       q("#clip").play();
                   }
-              } else if(e.which == 75) {
-                  // "k"
-                  // q("#skip").click();
+             } else if(e.which == 75) {
+                 // "k"
+                  q("#skip").click();
               }
           });
 
           document.addEventListener('DOMContentLoaded', function() {
               q('#record').disabled = true;
               q('#submit').disabled = true;
-              q('#skip').disabled = true;
+              q('#skip').disabled = false;
 
               const preferredFormat = 'audio/ogg; codecs=opus';
               const audio = document.createElement('audio');
@@ -269,7 +269,6 @@
                   }
 
                   q('#record').disabled = false;
-                  q('#skip').disabled = false;
                   setAlert('Microphone ready!', 'alert-success');
               });
 

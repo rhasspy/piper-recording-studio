@@ -80,6 +80,12 @@ class ExportAudio:
         args: argparse.Namespace,
     ):
         try:
+            # Skip prompts explicitly marked as skipped in the recording UI
+            skip_path = audio_path.with_suffix(".skip")
+            if skip_path.exists():
+                _LOGGER.debug("Skipping prompt marked as skipped: %s", skip_path)
+                return
+
             text_path = audio_path.with_suffix(".txt")
             if not text_path.exists():
                 _LOGGER.warning("Missing text file: %s", text_path)

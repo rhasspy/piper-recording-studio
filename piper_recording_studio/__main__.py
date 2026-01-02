@@ -190,6 +190,52 @@ def main() -> None:
             }
         )
 
+    @app.route("/skip", methods=["POST"])
+    async def api_skip() -> Response:
+        """Skip a text prompt without recording audio."""
+        form = await request.form
+        language = form["language"]
+        prompt_group = form["promptGroup"]
+        prompt_id = form["promptId"]
+        prompt_text = form["text"]
+
+        if args.multi_user:
+            user_id = form["userId"]
+            user_dir = output_dir / f"user_{user_id}"
+            if not user_dir.is_dir():
+                _LOGGER.warning("No user/language directory: %s", user_dir)
+                raise ValueError("Invalid login code")
+
+            audio_dir = user_dir
+        else:
+            audio_dir = output_dir
+
+        skip_path = audio_dir / language / prompt_group / f"{prompt_id}.skip"
+        _LOGGER.debug("Marking prompt skipped: %s", skip_path)
+        skip_path.parent.mkdir(parents=True, exist_ok=True)
+        skip_path.write_text(prompt_text, encoding="utf-8")
+
+        next_prompt, num_complete, num_items = get_next_prompt(
+            prompts,
+            audio_dir,
+            language,
+        )
+        if next_prompt is None:
+            return jsonify({"done": True})
+
+        complete_percent = 100 * (num_complete / num_items if num_items > 0 else 1)
+        return jsonify(
+            {
+                "done": False,
+                "promptGroup": next_prompt.group,
+                "promptId": next_prompt.id,
+                "promptText": next_prompt.text,
+                "numComplete": num_complete,
+                "numItems": num_items,
+                "completePercent": complete_percent,
+            }
+        )
+
     @app.route("/upload")
     async def api_upload() -> str:
         """Upload an existing dataset"""
@@ -316,7 +362,8 @@ def get_next_prompt(
     incomplete_prompts = []
     for prompt in language_prompts:
         text_path = language_dir / prompt.group / f"{prompt.id}.txt"
-        if not text_path.exists():
+        skip_path = language_dir / prompt.group / f"{prompt.id}.skip"
+        if not (text_path.exists() or skip_path.exists()):
             incomplete_prompts.append(prompt)
 
     num_items = len(language_prompts)
