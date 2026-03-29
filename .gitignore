@@ -13,3 +13,4 @@ htmlcov
 __pycache__/
 
 /output/
+nohup.out
