@@ -122,10 +122,17 @@
         <script>
          var wavesurfer = {};
          var recording = false;
+         var starting = false;
          var recorder = null;
          var chunks = [];
          var blob = null;
          var audioFormat = null;
+
+         var audioContext = null;
+         var analyser = null;
+         var silenceTimer = null;
+         var autoStopped = false;
+         var hasSpoken = false;
 
          function q(id) {
              return document.querySelector(id);
@@ -178,6 +185,9 @@
                  formData.set('audio', blob, 'audio');
                  formData.set('duration', q('#clip').duration);
                  formData.set('format', audioFormat);
+                 if (autoStopped) {
+                     formData.set('trimEnd', '1.8');
+                 }
              }
 
              let response = await fetch(formPage, {
@@ -261,12 +271,51 @@
                   ]
               });
 
+              function checkSilence() {
+                  if (!recording) return;
+
+                  const bufferLength = analyser.frequencyBinCount;
+                  const dataArray = new Uint8Array(bufferLength);
+                  analyser.getByteTimeDomainData(dataArray);
+
+                  let maxVal = 0;
+                  for (let i = 0; i < bufferLength; i++) {
+                      let v = Math.abs(dataArray[i] - 128);
+                      if (v > maxVal) maxVal = v;
+                  }
+
+                  if (maxVal > 10) { // Spoken!
+                      hasSpoken = true;
+                      if (silenceTimer) {
+                          clearTimeout(silenceTimer);
+                          silenceTimer = null;
+                      }
+                  } else if (hasSpoken) {
+                      if (!silenceTimer) {
+                          silenceTimer = setTimeout(() => {
+                              if (recording) {
+                                  autoStopped = true;
+                                  q("#record").click();
+                              }
+                          }, 2000);
+                      }
+                  }
+
+                  requestAnimationFrame(checkSilence);
+              }
+
               wavesurfer.microphone.on('deviceReady', function(stream) {
                   if (MediaRecorder === undefined) {
                       recorder = new window.MediaRecorder(stream);
                   } else {
                       recorder = new MediaRecorder(stream);
                   }
+
+                  audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                  analyser = audioContext.createAnalyser();
+                  analyser.fftSize = 256;
+                  let source = audioContext.createMediaStreamSource(stream);
+                  source.connect(analyser);
 
                   q('#record').disabled = false;
                   q('#skip').disabled = false;
@@ -281,32 +330,57 @@
 
               q('[data-action="record"]')
                   .addEventListener('click', function() {
+                      if (starting) return;
                       if (recording) {
                           q('#record').disabled = true;
                           setAlert('Finishing recording...', 'alert-info');
                           setTimeout(stopRecording, 1000);
                       }
                       else {
-                          recording = true;
-                          chunks = [];
+                          starting = true;
+                          q('#record').disabled = true;
+                          let delay = 2;
+                          setAlert('Starting in ' + delay + '...', 'alert-warning');
+                          let delayInterval = setInterval(() => {
+                              delay--;
+                              if (delay > 0) {
+                                  setAlert('Starting in ' + delay + '...', 'alert-warning');
+                              } else {
+                                  clearInterval(delayInterval);
+                                  starting = false;
+                                  
+                                  recording = true;
+                                  chunks = [];
+                                  
+                                  autoStopped = false;
+                                  hasSpoken = false;
+                                  if (silenceTimer) {
+                                      clearTimeout(silenceTimer);
+                                      silenceTimer = null;
+                                  }
+                                  
+                                  recorder.start(500);
+                                  recorder.ondataavailable = function(e) {
+                                      chunks.push(e.data);
+                                  };
 
-                          recorder.start(500);
-                          recorder.ondataavailable = function(e) {
-                              chunks.push(e.data);
-                          };
+                                  checkSilence();
 
-                          q('#recordIcon').classList.remove('fa-microphone');
-                          q('#recordIcon').classList.add('fa-stop');
-                          q('#recordText').textContent = 'Finish [f]';
-                          q('#record').classList.remove('btn-warning');
-                          q('#record').classList.add('btn-danger');
+                                  q('#recordIcon').classList.remove('fa-microphone');
+                                  q('#recordIcon').classList.add('fa-stop');
+                                  q('#recordText').textContent = 'Finish [f]';
+                                  q('#record').classList.remove('btn-warning');
+                                  q('#record').classList.add('btn-danger');
 
-                          q('#submit').disabled = true;
-                          q('#skip').disabled = true;
-                          q('#clipDiv').hidden = true;
-                          q('#submittedIcon').hidden = true;
+                                  q('#record').disabled = false;
+                                  q('#submit').disabled = true;
+                                  q('#skip').disabled = true;
+                                  q('#clipDiv').hidden = true;
+                                  q('#submittedIcon').hidden = true;
 
-                          setAlert('Recording...', 'alert-warning');
+                                  setAlert('Recording...', 'alert-warning');
+                              }
+                          }, 1000);
                       }
                   });
 

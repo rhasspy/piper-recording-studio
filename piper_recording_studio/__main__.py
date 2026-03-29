@@ -164,6 +164,29 @@ def main() -> None:
 
         audio_path.parent.mkdir(parents=True, exist_ok=True)
         await files["audio"].save(audio_path)
+        
+        trim_end = form.get("trimEnd")
+        if trim_end:
+            try:
+                trim_sec = float(trim_end)
+                import subprocess
+                # Get exact duration of the saved file
+                result = subprocess.run(
+                    ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", str(audio_path)],
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, check=True
+                )
+                duration = float(result.stdout.strip())
+                if duration > trim_sec:
+                    trimmed_path = audio_path.with_name(f"trimmed_{audio_path.name}")
+                    subprocess.run([
+                        "ffmpeg", "-y", "-i", str(audio_path),
+                        "-t", str(duration - trim_sec),
+                        "-c", "copy", str(trimmed_path)
+                    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                    trimmed_path.replace(audio_path)
+                    _LOGGER.debug("Trimmed %s seconds from end", trim_sec)
+            except Exception as e:
+                _LOGGER.error("Failed to trim audio: %s", e)
 
         text_path = audio_path.parent / f"{prompt_id}.txt"
         text_path.write_text(prompt_text, encoding="utf-8")
