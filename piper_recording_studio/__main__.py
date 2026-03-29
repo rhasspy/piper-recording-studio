@@ -282,27 +282,45 @@ def load_prompts(
     languages = {}
 
     for prompts_dir in prompts_dirs:
-        for language_dir in prompts_dir.iterdir():
-            if not language_dir.is_dir():
+        for project_dir in prompts_dir.iterdir():
+            if not project_dir.is_dir():
                 continue
+                
+            for language_dir in project_dir.iterdir():
+                if not language_dir.is_dir():
+                    continue
 
-            name, code = language_dir.name.rsplit("_", maxsplit=1)
-            languages[name] = code
-            for prompt_path in language_dir.glob("*.txt"):
-                _LOGGER.debug("Loading prompts from %s", prompt_path)
-                prompt_group = prompt_path.stem
-                with open(prompt_path, "r", encoding="utf-8") as prompt_file:
-                    reader = csv.reader(prompt_file, delimiter="\t")
-                    for i, row in enumerate(reader):
-                        if len(row) == 1:
-                            prompt_id = str(i)
-                        else:
-                            prompt_id = row[0]
+                try:
+                    name, code = language_dir.name.rsplit("_", maxsplit=1)
+                except ValueError:
+                    name, code = language_dir.name, language_dir.name
+                
+                project_name = project_dir.name
+                
+                # Combine project and language for uniqueness
+                display_name = f"{project_name} - {name}"
+                unique_code = f"{project_name}/{code}"
+                
+                languages[display_name] = unique_code
+                
+                for prompt_path in language_dir.glob("*.txt"):
+                    _LOGGER.debug("Loading prompts from %s", prompt_path)
+                    prompt_group = prompt_path.stem
+                    with open(prompt_path, "r", encoding="utf-8") as prompt_file:
+                        reader = csv.reader(prompt_file, delimiter="\t")
+                        for i, row in enumerate(reader):
+                            if not row: continue
+                            if len(row) == 1:
+                                prompt_id = str(i)
+                            else:
+                                prompt_id = row[0]
 
-                        prompts[code].append(
-                            Prompt(group=prompt_group, id=prompt_id, text=row[-1])
-                        )
+                            prompts[unique_code].append(
+                                Prompt(group=prompt_group, id=prompt_id, text=row[-1])
+                            )
 
+    # Sort languages alphabetically for the UI
+    languages = dict(sorted(languages.items()))
     return prompts, languages
 
 

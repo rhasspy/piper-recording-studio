@@ -1,0 +1,6 @@
+0	Today we are going to learn how to solve a simple quadratic equation.
+1	First, we need to find two numbers that multiply to positive six and add to negative five.
+2	Those numbers are negative two and negative three.
+3	So we can rewrite the equation in its factored form.
+4	This means that x minus two is zero, or x minus three is zero.
+5	Therefore, our solutions are x equals two, and x equals three. And that's it!
