@@ -120,8 +120,8 @@
         </footer>
 
         <script>
-         const AUTO_TRIM_SECONDS = 1.8;
          const SPEECH_THRESHOLD = 10;
+         const SILENCE_THRESHOLD = 0.01;
          const SILENCE_TIMEOUT_MS = 2000;
          const RECORD_START_DELAY_S = 2;
 
@@ -162,24 +162,6 @@
          function stopRecording() {
              recording = false;
              recorder.stop();
-
-             blob = new Blob(chunks, { 'type' : 'audio/webm' });
-
-             // Audio preview
-             q('#clip').src = window.URL.createObjectURL(blob);
-             q('#clipDiv').hidden = false;
-
-             q('#recordIcon').classList.remove('fa-stop');
-             q('#recordIcon').classList.add('fa-microphone');
-             q('#recordText').textContent = 'Record [r]';
-             q('#record').classList.remove('btn-danger');
-             q('#record').classList.add('btn-warning');
-
-             q('#record').disabled = false;
-             q('#skip').disabled = false;
-             q('#submit').disabled = false;
-
-             setAlert('Done recording', 'alert-success');
          }
 
          async function submitAudio() {
@@ -196,9 +178,6 @@
                  formData.set('audio', blob, 'audio');
                  formData.set('duration', q('#clip').duration);
                  formData.set('format', audioFormat);
-                 if (autoStopped) {
-                     formData.set('trimEnd', AUTO_TRIM_SECONDS);
-                 }
              }
 
              let response = await fetch(formPage, {
@@ -322,6 +301,36 @@
                       recorder = new MediaRecorder(stream);
                   }
 
+                  recorder.onstop = function() {
+                      var rawBlob = new Blob(chunks, { 'type': 'audio/webm' });
+                      var fileReader = new FileReader();
+                      fileReader.onload = function() {
+                          audioContext.decodeAudioData(this.result, function(buffer) {
+                              var trimmed = trimSilence(buffer);
+                              blob = audioBufferToWav(trimmed);
+                              audioFormat = 'audio/wav';
+
+                              q('#clip').src = window.URL.createObjectURL(blob);
+                              q('#clipDiv').hidden = false;
+
+                              q('#recordIcon').classList.remove('fa-stop');
+                              q('#recordIcon').classList.add('fa-microphone');
+                              q('#recordText').textContent = 'Record [r]';
+                              q('#record').classList.remove('btn-danger');
+                              q('#record').classList.add('btn-warning');
+
+                              q('#record').disabled = false;
+                              q('#skip').disabled = false;
+                              q('#submit').disabled = false;
+
+                              setAlert('Done recording', 'alert-success');
+                          }, function(e) {
+                              setAlert('Error decoding audio: ' + e.err, 'alert-danger');
+                          });
+                      };
+                      fileReader.readAsArrayBuffer(rawBlob);
+                  };
+
                   audioContext = new (window.AudioContext || window.webkitAudioContext)();
                   analyser = audioContext.createAnalyser();
                   analyser.fftSize = 256;
@@ -348,12 +357,12 @@
                       else {
                           starting = true;
                           q('#record').disabled = true;
-                          let delay = RECORD_START_DELAY_S;
-                          setAlert(`Starting in ${delay}...`, 'alert-warning');
-                          let delayInterval = setInterval(() => {
-                              delay--;
-                              if (delay > 0) {
-                                  setAlert(`Starting in ${delay}...`, 'alert-warning');
+                          var countdown = RECORD_START_DELAY_S;
+                          setAlert('Starting in ' + countdown.toFixed(2) + '...', 'alert-warning');
+                          var delayInterval = setInterval(() => {
+                              countdown -= 0.01;
+                              if (countdown > 0) {
+                                  setAlert('Starting in ' + countdown.toFixed(2) + '...', 'alert-warning');
                               } else {
                                   clearInterval(delayInterval);
                                   starting = false;
@@ -389,7 +398,7 @@
 
                                   setAlert('Recording...', 'alert-warning');
                               }
-                          }, 1000);
+                          }, 10);
                       }
                   });
 
@@ -400,6 +409,106 @@
                       q('#enable').hidden = true;
                   });
           });
+          function trimSilence(audioBuffer) {
+              var data = audioBuffer.getChannelData(0);
+              var lastIndex = data.length - 1;
+
+              while (lastIndex >= 0 && Math.abs(data[lastIndex]) < SILENCE_THRESHOLD) {
+                  lastIndex--;
+              }
+
+              // Add 0.2s padding after last sound
+              lastIndex = Math.min(lastIndex + Math.floor(0.2 * audioBuffer.sampleRate), data.length - 1);
+
+              if (lastIndex < 0) return audioBuffer;
+
+              var newLength = lastIndex + 1;
+              var newBuffer = audioContext.createBuffer(
+                  audioBuffer.numberOfChannels,
+                  newLength,
+                  audioBuffer.sampleRate
+              );
+
+              for (var channel = 0; channel < audioBuffer.numberOfChannels; channel++) {
+                  var oldData = audioBuffer.getChannelData(channel);
+                  var newData = newBuffer.getChannelData(channel);
+                  newData.set(oldData.subarray(0, newLength));
+              }
+
+              return newBuffer;
+          }
+
+          function audioBufferToWav(buffer, opt) {
+              opt = opt || {};
+              var numChannels = buffer.numberOfChannels;
+              var sampleRate = buffer.sampleRate;
+              var format = opt.float32 ? 3 : 1;
+              var bitDepth = format === 3 ? 32 : 16;
+              var result;
+              if (numChannels === 2) {
+                  result = interleave(buffer.getChannelData(0), buffer.getChannelData(1));
+              } else {
+                  result = buffer.getChannelData(0);
+              }
+              return encodeWAV(result, format, sampleRate, numChannels, bitDepth);
+          }
+
+          function encodeWAV(samples, format, sampleRate, numChannels, bitDepth) {
+              var bytesPerSample = bitDepth / 8;
+              var blockAlign = numChannels * bytesPerSample;
+              var buffer = new ArrayBuffer(44 + samples.length * bytesPerSample);
+              var view = new DataView(buffer);
+              writeString(view, 0, 'RIFF');
+              view.setUint32(4, 36 + samples.length * bytesPerSample, true);
+              writeString(view, 8, 'WAVE');
+              writeString(view, 12, 'fmt ');
+              view.setUint32(16, 16, true);
+              view.setUint16(20, format, true);
+              view.setUint16(22, numChannels, true);
+              view.setUint32(24, sampleRate, true);
+              view.setUint32(28, sampleRate * blockAlign, true);
+              view.setUint16(32, blockAlign, true);
+              view.setUint16(34, bitDepth, true);
+              writeString(view, 36, 'data');
+              view.setUint32(40, samples.length * bytesPerSample, true);
+              if (format === 1) {
+                  floatTo16BitPCM(view, 44, samples);
+              } else {
+                  writeFloat32(view, 44, samples);
+              }
+              return new Blob([view], { type: 'audio/wav' });
+          }
+
+          function interleave(inputL, inputR) {
+              var length = inputL.length + inputR.length;
+              var result = new Float32Array(length);
+              var index = 0, inputIndex = 0;
+              while (index < length) {
+                  result[index++] = inputL[inputIndex];
+                  result[index++] = inputR[inputIndex];
+                  inputIndex++;
+              }
+              return result;
+          }
+
+          function writeString(view, offset, string) {
+              for (var i = 0; i < string.length; i++) {
+                  view.setUint8(offset + i, string.charCodeAt(i));
+              }
+          }
+
+          function floatTo16BitPCM(output, offset, input) {
+              for (var i = 0; i < input.length; i++, offset += 2) {
+                  var s = Math.max(-1, Math.min(1, input[i]));
+                  output.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7FFF, true);
+              }
+          }
+
+          function writeFloat32(output, offset, input) {
+              for (var i = 0; i < input.length; i++, offset += 4) {
+                  output.setFloat32(offset, input[i], true);
+              }
+          }
         </script>
         {% endif %}
     </body>
