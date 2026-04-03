@@ -2,6 +2,7 @@ import argparse
 import asyncio
 import csv
 import logging
+import subprocess
 from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
@@ -169,23 +170,8 @@ def main() -> None:
         if trim_end:
             try:
                 trim_sec = float(trim_end)
-                import subprocess
-                # Get exact duration of the saved file
-                result = subprocess.run(
-                    ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", str(audio_path)],
-                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, check=True
-                )
-                duration = float(result.stdout.strip())
-                if duration > trim_sec:
-                    trimmed_path = audio_path.with_name(f"trimmed_{audio_path.name}")
-                    subprocess.run([
-                        "ffmpeg", "-y", "-i", str(audio_path),
-                        "-t", str(duration - trim_sec),
-                        "-c", "copy", str(trimmed_path)
-                    ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-                    trimmed_path.replace(audio_path)
-                    _LOGGER.debug("Trimmed %s seconds from end", trim_sec)
-            except Exception as e:
+                await asyncio.to_thread(_trim_audio, audio_path, trim_sec)
+            except (ValueError, subprocess.CalledProcessError, FileNotFoundError) as e:
                 _LOGGER.error("Failed to trim audio: %s", e)
 
         text_path = audio_path.parent / f"{prompt_id}.txt"
@@ -296,6 +282,32 @@ def main() -> None:
 
 
 # -----------------------------------------------------------------------------
+
+
+def _trim_audio(audio_path: Path, trim_sec: float) -> None:
+    """Trim trim_sec seconds from the end of audio_path (runs in a thread)."""
+    result = subprocess.run(
+        [
+            "ffprobe", "-v", "error",
+            "-show_entries", "format=duration",
+            "-of", "default=noprint_wrappers=1:nokey=1",
+            str(audio_path),
+        ],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, check=True,
+    )
+    duration = float(result.stdout.strip())
+    if duration > trim_sec:
+        trimmed_path = audio_path.with_name(f"trimmed_{audio_path.name}")
+        subprocess.run(
+            [
+                "ffmpeg", "-y", "-i", str(audio_path),
+                "-t", str(duration - trim_sec),
+                "-c", "copy", str(trimmed_path),
+            ],
+            check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        )
+        trimmed_path.replace(audio_path)
+        _LOGGER.debug("Trimmed %s seconds from end", trim_sec)
 
 
 def load_prompts(

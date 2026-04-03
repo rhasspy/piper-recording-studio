@@ -120,6 +120,11 @@
         </footer>
 
         <script>
+         const AUTO_TRIM_SECONDS = 1.8;
+         const SPEECH_THRESHOLD = 10;
+         const SILENCE_TIMEOUT_MS = 2000;
+         const RECORD_START_DELAY_S = 2;
+
          var wavesurfer = {};
          var recording = false;
          var starting = false;
@@ -146,6 +151,12 @@
 
              q('#alert').classList.add(className);
              q('#alert').textContent = text;
+         }
+
+         function initiateStopRecording() {
+             q('#record').disabled = true;
+             setAlert('Finishing recording...', 'alert-info');
+             setTimeout(stopRecording, 1000);
          }
 
          function stopRecording() {
@@ -186,7 +197,7 @@
                  formData.set('duration', q('#clip').duration);
                  formData.set('format', audioFormat);
                  if (autoStopped) {
-                     formData.set('trimEnd', '1.8');
+                     formData.set('trimEnd', AUTO_TRIM_SECONDS);
                  }
              }
 
@@ -284,7 +295,7 @@
                       if (v > maxVal) maxVal = v;
                   }
 
-                  if (maxVal > 10) { // Spoken!
+                  if (maxVal > SPEECH_THRESHOLD) { // Spoken!
                       hasSpoken = true;
                       if (silenceTimer) {
                           clearTimeout(silenceTimer);
@@ -295,9 +306,9 @@
                           silenceTimer = setTimeout(() => {
                               if (recording) {
                                   autoStopped = true;
-                                  q("#record").click();
+                                  initiateStopRecording();
                               }
-                          }, 2000);
+                          }, SILENCE_TIMEOUT_MS);
                       }
                   }
 
@@ -332,19 +343,17 @@
                   .addEventListener('click', function() {
                       if (starting) return;
                       if (recording) {
-                          q('#record').disabled = true;
-                          setAlert('Finishing recording...', 'alert-info');
-                          setTimeout(stopRecording, 1000);
+                          initiateStopRecording();
                       }
                       else {
                           starting = true;
                           q('#record').disabled = true;
-                          let delay = 2;
-                          setAlert('Starting in ' + delay + '...', 'alert-warning');
+                          let delay = RECORD_START_DELAY_S;
+                          setAlert(`Starting in ${delay}...`, 'alert-warning');
                           let delayInterval = setInterval(() => {
                               delay--;
                               if (delay > 0) {
-                                  setAlert('Starting in ' + delay + '...', 'alert-warning');
+                                  setAlert(`Starting in ${delay}...`, 'alert-warning');
                               } else {
                                   clearInterval(delayInterval);
                                   starting = false;
